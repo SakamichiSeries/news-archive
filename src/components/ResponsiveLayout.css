@@ -4,23 +4,30 @@
 }
 
 .sidebar {
-  width: 30%;  /* 将左侧宽度设置为 30% */
+  width: 30%;  /* Left sidebar width */
   padding: 16px;
   background-color: #f4f4f4;
   overflow-y: auto;
+  position: relative; /* Ensure the sidebar context is relative for sticky positioning */
 }
 
 .detail {
-  width: 70%;  /* 右侧宽度为 70% */
+  width: 70%;  /* Right side width */
   padding: 16px;
   background-color: #ffffff;
   overflow-y: auto;
+  max-width: 100%;  /* Ensure content does not overflow */
 }
 
 .group-selector {
   display: flex;
   justify-content: space-evenly;
   margin-bottom: 16px;
+  position: sticky; /* Make the group selector sticky */
+  top: 16px; /* Distance from the top of the container */
+  z-index: 10; /* Ensure the selector stays above other elements */
+  background-color: #f4f4f4; /* Match the sidebar background */
+  padding: 8px 0; /* Add some padding */
 }
 
 .group-button {
@@ -55,4 +62,52 @@ select {
   margin: 0 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
+}
+
+.news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.news-item {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.news-item:hover {
+  background-color: #f0f0f0;
+}
+
+.news-title {
+  font-size: 16px;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.news-date {
+  font-size: 14px;
+  color: #777;
+  margin-top: 4px;
+}
+
+.news-item:nth-child(odd) {
+  background-color: #f9f9f9;
+}
+
+.news-item:nth-child(even) {
+  background-color: #f1f1f1;
+}
+
+/* Prevent content from overflowing */
+.detail iframe, .detail img {
+  max-width: 100%;
+  height: auto;
 }

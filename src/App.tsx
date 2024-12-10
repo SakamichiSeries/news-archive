@@ -19,13 +19,13 @@ const App: React.FC = () => {
   const [newsList, setNewsList] = useState<NewsItem[]>([]);
   const [selectedNews, setSelectedNews] = useState<NewsItem | null>(null);
 
-  // 映射字母到对应组名
   const groupMap: { [key: string]: string } = {
     N: "nogizaka46",
     K: "keyakizaka46",
     S: "sakurazaka46",
     H: "hinatazaka46",
   };
+
   const [group, setGroup] = useState<string>("nogizaka46");
   const [year, setYear] = useState<number>(new Date().getFullYear());
   const [month, setMonth] = useState<number>(new Date().getMonth() + 1);
@@ -42,6 +42,12 @@ const App: React.FC = () => {
       .catch((error) => console.error("Error fetching JSON:", error));
   }, [group, year, month]);
 
+  // 处理点击新闻
+  const handleSelectNews = (news: NewsItem) => {
+    setSelectedNews(news);
+    window.location.hash = news.code; // 使用新闻的code更新URL中的hash
+  };
+
   return (
     <div className="responsive-layout">
       <div className="sidebar">
@@ -57,23 +63,15 @@ const App: React.FC = () => {
           ))}
         </div>
         <div className="filters">
-          <select
-            value={year}
-            onChange={(e) => setYear(parseInt(e.target.value))}
-          >
-            {Array.from(
-              { length: new Date().getFullYear() - 2010 + 1 },
-              (_, i) => 2010 + i
-            ).map((yr) => (
-              <option key={yr} value={yr}>
-                {yr}
-              </option>
-            ))}
+          <select value={year} onChange={(e) => setYear(parseInt(e.target.value))}>
+            {Array.from({ length: new Date().getFullYear() - 2010 + 1 }, (_, i) => 2010 + i)
+              .map((yr) => (
+                <option key={yr} value={yr}>
+                  {yr}
+                </option>
+              ))}
           </select>
-          <select
-            value={month}
-            onChange={(e) => setMonth(parseInt(e.target.value))}
-          >
+          <select value={month} onChange={(e) => setMonth(parseInt(e.target.value))}>
             {Array.from({ length: 12 }, (_, i) => i + 1).map((m) => (
               <option key={m} value={m}>
                 {m}月
@@ -81,7 +79,7 @@ const App: React.FC = () => {
             ))}
           </select>
         </div>
-        <NewsList newsList={newsList} onSelect={setSelectedNews} />
+        <NewsList newsList={newsList} onSelect={handleSelectNews} />
       </div>
       <div className="detail">
         <NewsDetail news={selectedNews} />
