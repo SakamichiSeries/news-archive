@@ -1,4 +1,619 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "media",
+      "code": "M01539",
+      "title": "1月1日（水）発行のフリーペーパー「ステージぴあ」に菅井友香が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01539?ima=0000",
+      "pubdate": "2019/12/31 08:00:00",
+      "tags": [
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "1月1日（水）発行のフリーペーパー「ステージぴあ」に菅井友香がインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://t.pia.jp/pia/events/stagepia\">「ステージぴあ」の詳細はこちら</a><br /><br /><br />"
+    },
+    {
+      "category": "other",
+      "code": "O00184",
+      "title": "12月31日（火）紅白歌合戦出場をお祝いしてイオンカード×読売新聞の特別折り込み実施！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/O00184?ima=0000",
+      "pubdate": "2019/12/31 00:00:00",
+      "thumbnail": null,
+      "content": "12月31日（火）に紅白歌合戦出場をお祝いしてイオンカードと読売新聞の特別折り込みが実施！<br /><br />配布場所：「読売新聞」購読者様配布<br />内容：縦379mm・横1,597mm<br /><br /><a href=\"https://www.yomiuri.co.jp/\">「読売新聞」公式ホームページはコチラ</a><br /><br />また、読売新聞のご購読をしていない方でも特別折り込みをゲットするチャンスがございます。<br />詳しくは、下記URLをご参照ください。<br /><br /><a href=\"https://www.aeon.co.jp/campaign/201912-20/index.html\">https://www.aeon.co.jp/campaign/201912-20/index.html</a><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01538",
+      "title": "1月2日（木）23:40～「KHB東日本放送新春特番　仮想ライブ空間で宮城の名産を売ってみた。」に石森虹花が出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01538?ima=0000",
+      "pubdate": "2019/12/29 12:00:00",
+      "thumbnail": null,
+      "content": "1月2日（木）23:40～「KHB東日本放送新春特番　仮想ライブ空間で宮城の名産を売ってみた。」に石森虹花が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://202.32.9.76/index.html\">KHB東日本放送　公式ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01537",
+      "title": "12月28日（土）付のサンケイスポーツに菅井友香が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01537?ima=0000",
+      "pubdate": "2019/12/28 08:00:00",
+      "tags": [
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "12月28日（土）付のサンケイスポーツに、菅井友香の撮り下ろし写真とインタビューが掲載されます。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.sanspo.com/\">「サンケイスポーツ」WEBサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01536",
+      "title": "「りぼん」2月特大号(12月28日(土)発売)に長沢菜々香が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01536?ima=0000",
+      "pubdate": "2019/12/28 08:00:00",
+      "thumbnail": null,
+      "content": "発売中の「りぼん」に長沢菜々香の撮り下ろし写真とインタビューが掲載されております。<br /><br /><a href=\"http://ribon.shueisha.co.jp/index.html\">「りぼん」の公式ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01535",
+      "title": "「BUBKA」2月号(12月28日(土)発売)に藤吉夏鈴、山﨑天が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01535?ima=0000",
+      "pubdate": "2019/12/28 08:00:00",
+      "tags": [
+        "47",
+        "51"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「BUBKA」2月号に藤吉夏鈴と山﨑天の撮り下ろし写真とインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.bubkaweb.com/\">「BUBKA」２月号の詳細はこちら</a><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01534",
+      "title": "「BIG ONE GIRLS U-16 SELECTION」(12月27日(金)発売)の表紙・巻頭に山﨑天が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01534?ima=0000",
+      "pubdate": "2019/12/27 15:00:00",
+      "tags": [
+        "51"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「BIG ONE GIRLS U-16 SELECTION」の表紙・巻頭に山﨑天の撮り下ろし写真とインタビューが掲載されます。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://www.kindaieigasha.co.jp/bog/bog_u-16.html\">「BIG ONE GIRLS U-16 SELECTION」の詳細はこちら</a><br /><br /><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01533",
+      "title": "12月31日(火)23:55～TBS「CDTVスペシャル！年越しプレミアライブ」へ欅坂46の出演が決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01533?ima=0000",
+      "pubdate": "2019/12/27 15:00:00",
+      "thumbnail": null,
+      "content": "12月31日(火)23:55～TBS「CDTVスペシャル！年越しプレミアライブ」へ欅坂46の出演が決定致しました。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://www.tbs.co.jp/cdtv/splive2019/\">TBS「CDTVスペシャル！年越しプレミアライブ」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01531",
+      "title": "「20±SWEET」2020JANUARY(12月26日(木)発売)の表紙に小林由依、中面に松田里奈が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01531?ima=0000",
+      "pubdate": "2019/12/26 08:00:00",
+      "tags": [
+        "07",
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「20&plusmn;SWEET」の表紙に小林由依、中面に松田里奈の撮り下ろし写真とインタビューが掲載されます。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://zasshi.tv/products/detail/HBBLT190110_008-00-00-00-00-00\">「20&plusmn;SWEET」の詳細はこちら</a><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01529",
+      "title": "「with」2月号(12月26日(木)発売)に小林由依が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01529?ima=0000",
+      "pubdate": "2019/12/26 08:00:00",
+      "tags": [
+        "07"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「With」に専属モデルとして小林由依の撮り下ろし写真が掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://withonline.jp/\">「with」2月号の詳細はコチラ</a><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01532",
+      "title": "12月25日（水）公開の「INTERNET TVガイド」に尾関梨香が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01532?ima=0000",
+      "pubdate": "2019/12/25 12:53:41",
+      "tags": [
+        "04"
+      ],
+      "thumbnail": null,
+      "content": "尾関梨香の撮り下ろし写真と、平成ノブシコブシ・吉村崇さんとの対談インタビューが掲載されます。<br /><br /><a href=\"https://www.tvguide.or.jp/feature/specialinterview/20191225/02.html\">「INTERNET TVガイド」尾関梨香のインタビューページはコチラ</a><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01530",
+      "title": "「OVERTURE」No.21(12月24日(火)発売)に尾関梨香、小池美波、菅井友香、土生瑞穂、井上梨名、武元唯衣が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01530?ima=0000",
+      "pubdate": "2019/12/24 08:00:00",
+      "tags": [
+        "04",
+        "06",
+        "11",
+        "14",
+        "43",
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「<span>OVERTURE」のグラビアに土生瑞穂の撮り下ろし写真、尾関梨香</span>&times;菅井友香、小池美波&times;土生瑞穂、井上梨名&times;武元唯衣のインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://overture-mag.com/\">「OVERTURE」No.21 の詳細はこちら</a><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01528",
+      "title": "「Ray」2月号(12月23日(月)発売)の表紙に渡辺梨加が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01528?ima=0000",
+      "pubdate": "2019/12/23 08:00:00",
+      "tags": [
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「Ray」2月号にRayモデルとして渡辺梨加の撮り下ろし写真が掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://ray-web.jp/\">「Ray」2月号の詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01527",
+      "title": "「JJ」２月号（12月23日(月)発売)に土生瑞穂が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01527?ima=0000",
+      "pubdate": "2019/12/23 08:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「JJ」２月号にJJモデルとして、土生瑞穂の撮り下ろし2真が掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://jj-jj.net/\">「JJ」２月号の詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01523",
+      "title": "「BRODY」2月号(12月23日(月)発売)に小林由依、菅井友香、田村保乃が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01523?ima=0000",
+      "pubdate": "2019/12/23 08:00:00",
+      "tags": [
+        "07",
+        "11",
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「BRODY」に小林由依、菅井友香のインタビュー、田村保乃の撮り下ろし写真が掲載されます。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.brodymag.com/\">「BRODY」2月号の詳細はコチラ</a><br /><br /><br />"
+    },
+    {
+      "category": "release",
+      "code": "R00113",
+      "title": "2020年1月29日(水)発売　欅坂46 映像商品『欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～』 CDショップチェーン別先着特典決定!!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/R00113?ima=0000",
+      "pubdate": "2019/12/21 00:00:01",
+      "thumbnail": null,
+      "content": "1月29日(水)発売となる欅坂46のDVD&Blu-ray『欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～』 [初回生産限定盤DVD(SRBL-1896～1897)、初回生産限定盤Blu-ray(SRXL-238～239)] を下記CDショップチェーンにてご購入いただいた方に、1枚お買い上げにつき1枚、先着で下記オリジナル特典を差し上げます。<br /><br />★予約者優先　先着オリジナル特典★<br />■Amazon.co.jp(ECサイト)-ミニクリアファイル(Amazon.co.jp絵柄)<br />■HMV全店(HMV&BOOKS online含む)・Loppi(ローソン・ミニストップ店頭端末)-ミニクリアファイル(HMV絵柄)<br />■玉光堂/バンダレコード/ライオン堂(ECサイト含む)-ミニクリアファイル(玉光堂/バンダレコード/ライオン堂絵柄)<br />■コーチャンフォー グループ全店(エムズエクスポ盛岡店　含む)-ミニクリアファイル(コーチャンフォー絵柄)<br />■上新電機ディスクピア(Joshin web含む)-ミニクリアファイル(上新電機ディスクピア絵柄)<br />■WonderGOO/新星堂全店(一部店舖除く) および新星堂WonderGOOオンライン-ミニクリアファイル(WonderGOO/新星堂絵柄)<br />■セブンネット-ミニクリアファイル(セブンネット絵柄)<br />■ソフマップCDソフト取扱い店(ドットコム含む)※一部店舗除く-ミニクリアファイル(ソフマップ絵柄)<br />■Sony Music Shop-ミニクリアファイル(Sony Music Shop絵柄)<br />■タワーレコード全店(オンライン含む/一部店舗除く)-ミニクリアファイル(タワーレコード絵柄)<br />■TSUTAYA　RECORDS (オンライン含む/一部店舗除く)-ミニクリアファイル(TSUTAYA RECORDS絵柄)<br />■フタバ図書全店(一部店舗除く)-ミニクリアファイル(フタバ図書絵柄)<br />■山野楽器CD/DVD取扱店(一部店舗除く)-ミニクリアファイル(山野楽器絵柄)<br />■楽天ブックス(ECサイト)-ミニクリアファイル(楽天ブックス絵柄)<br />■ラムタラ各店(ラムタラ、アリババ、ムーラン)-ミニクリアファイル(ラムタラ絵柄)<br />■ヨドバシカメラ　ヨドバシ.com(一部店舗を除く) -ミニクリアファイル(ヨドバシカメラ絵柄)<br />■欅坂46応援店-ミニクリアファイル(欅坂46応援店絵柄)<br /><br />※欅坂46応援店リストは追って発表します<br />※上記は全て予定事項につき、予告なく変更になる可能性がございます。あらかじめご了承ください。<br />※特典は店舗毎に無くなり次第終了となります。"
+    },
+    {
+      "category": "release",
+      "code": "R00112",
+      "title": "2020年1月29日(水)「欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」DVD/Blu-ray　発売決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/R00112?ima=0000",
+      "pubdate": "2019/12/21 00:00:00",
+      "thumbnail": null,
+      "content": "「欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」DVD/Blu-rayの発売が決定致しました。<br />発売日、商品詳細は以下となります。<br /><br /><strong>■発売日</strong><br />2020年1月29日（水）<br /><br /><strong>■商品概要</strong><br />・DVD初回生産限定盤（SRBL-1896～1897） 8,000円（税込）<br />　2枚組<br />　三方背仕様<br />　<span style=\"background-color: #ffffff;\">ポストカードセット封入（6枚組　※全46種のうち6枚1セット封入）</span><br /><br />・DVD通常盤（SRBL-1898）　5,200円（税込）<br /><br />・Blu-ray初回生産限定盤（SRXL-238～239）　10,000円（税込）<br />　2枚組<br />　三方背仕様<br /><span style=\"background-color: #ffffff;\">　ポストカードセット封入（6枚組　※全46種のうち6枚1セット封入）</span><br /><br />・Blu-ray通常盤（SRXL-240）　7,200円（税込）<br /><br />※初回生産限定盤に封入されるポストカードのサイズ・絵柄は共通です。<br /><br /><br /><strong>■収録内容　※DVD/Blu-ray共通</strong><br />【DISC1】<br /><p>・オープニング<br />・Overture<br />・ガラスを割れ！<br />・Dance Track<br />・語るなら未来を&hellip;<br />・Dance Track<br />・Student Dance<br />・Dance Track<br />・エキセントリック<br />・世界には愛しかない<br />・⻘空が違う<br />・バレエと少年<br />・制服と太陽<br />・⼆⼈セゾン<br />・キミガイナイ<br />・もう森へ帰ろうか？<br />・僕たちの戦争<br />・結局、じゃあねしか⾔えない<br />・サイレントマジョリティー<br />・避雷針<br />・アンビバレント<br />・⾵に吹かれても<br />・危なっかしい計画<br />・太陽は⾒上げる⼈を選ばない<br />・不協和⾳<br />・⾓を曲がる&nbsp;<br /><br /></p><p>【DISC2】　※初回生産限定盤のみ<br /><span>・Making of LIVE at 東京ドーム<br />・プレイバックトーク　<br />（<span>尾関梨香・小池美波・菅井友香・土生瑞穂、</span><span>武元唯衣・田村保乃・松田里奈・森田ひかる）</span></span></p><br /><br /><strong>☆Loppi(ローソン・ミニストップ)・HMV限定セットの発売が決定!!!☆</strong><br />Loppi・HMV限定セットアイテムは、【B2クリアポスター2枚セット】!!<br /><br />【商品内容】 <br />　《Loppi・HMV限定クリアポスター2枚付きBlu-ray初回》10,600円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きBlu-ray通常》7,800円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きDVD初回》8,600円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きDVD通常》5,800円(税込)<br />※クリアポスター2枚付きのBlu-ray・DVD初回生産限定盤は、Loppi・HMV限定特典も対象となります。<br />※通常盤にはLoppi・HMV限定特典は付きません。ご注意ください。<br /><br />★全国のローソン・ミニストップ店頭Loppi端末でのお申し込みはコチラ<br /><a href=\"http://www.lawson.co.jp/campaign/lop_keyakidome19/\">http://www.lawson.co.jp/campaign/lop_keyakidome19/</a><br /><br />★HMV（店舗・オンライン）でのお申し込みはコチラ<br /><a href=\"https://www.hmv.co.jp/news/article/1912061027/\">https://www.hmv.co.jp/news/article/1912061027/</a><br /><br />※期間中でも完売になる可能性がございます。予めご了承ください。<br /><br /><p></p>"
+    },
+    {
+      "category": "media",
+      "code": "M01525",
+      "title": "2020年1月8日(水）22:00~MBSラジオ「アッパレやってまーす！水曜日」で、11月9日に小池美波、土生瑞穂、井上梨名、武元唯衣、田村保乃が出演したナガシマスパーランドでの MBSラジオ公開録音の放送が決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01525?ima=0000",
+      "pubdate": "2019/12/20 14:00:00",
+      "tags": [
+        "06",
+        "14",
+        "43",
+        "45",
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "11月9日にナガシマスパーランドで開催されたMBSラジオ公開録音『アッパレ オレたち ゴチャ祭～ナガシマスパーランドからやってまーす～』の模様が、2020年1月8日（水）22:00～放送される事が決定致しました。<br /><br />番組名：MBSラジオ「アッパレやってまーす！水曜日」<br />放送日時：2020年1月8日（水）22時～23時30分<br />＜出演者＞<br />よゐこ、ドランクドラゴン鈴木拓、アンガールズ、筧美和子、小倉優香、M!LK、<br />欅坂４６ナガシマ選抜メンバー（小池美波、土生瑞穂、井上梨名、武元唯衣、田村保乃）<br /><br />是非お聴きください。<br /><br /><a href=\"https://www.mbs1179.com/yaru/\">MBSラジオ「アッパレやってまーす」番組ホームページはこちら</a><br /><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01521",
+      "title": "「ヤングガンガン」2020 No.1(12月20日(金)発売)表紙・巻頭に田村保乃、松田里奈、森田ひかる、巻末に尾関梨香、小池美波、関有美子が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01521?ima=0000",
+      "pubdate": "2019/12/20 08:00:00",
+      "tags": [
+        "04",
+        "06",
+        "44",
+        "46",
+        "48",
+        "50"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「ヤングガンガン」2020 No.1の表紙・巻頭に田村保乃、松田里奈、森田ひかる、巻末に尾関梨香、小池美波、関有美子の撮り下ろし写真とインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://www.square-enix.co.jp/magazine/yg/\">「ヤングガンガン」の公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01520",
+      "title": "「B.L.T.」2月号（12月20日（金）発売）に菅井友香、土生瑞穂、守屋茜が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01520?ima=0000",
+      "pubdate": "2019/12/20 08:00:00",
+      "tags": [
+        "11",
+        "14",
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「B.L.T.」2月号に菅井友香、土生瑞穂、守屋茜の撮り下ろし写真とインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://zasshi.tv/category/BLT\">「B.L.T」2月号の詳細はこちら</a>"
+    },
+    {
+      "category": "other",
+      "code": "O00183",
+      "title": "2020年1月17日（金）～欅坂46カフェ追加開催決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/O00183?ima=0000",
+      "pubdate": "2019/12/20 00:00:00",
+      "thumbnail": null,
+      "content": "ご好評につき、現在開催中の欅坂46カフェの追加会場の開催が決定いたしました。<br />皆様のご来店をお待ちしております。<br /><br />・開催会場：SHIBUYA BOX CAFE&SPACE SHIBUYA 109店<br />・開催期間：2020年1月17日(金)～2020年3月15日(日)<br />・事前予約受付開始日時：2019年12月20日（金）14:00～<br /><br />本会場限定のオリジナルグッズや、カフェメニューもご用意しております！<br /><br />開催概要は、下記「INFORMATION」ページをご参照ください。<br /><a href=\"https://keyakizaka46-cafe.jp/shibuya_information/\">https://keyakizaka46-cafe.jp/shibuya_information/<br /></a>"
+    },
+    {
+      "category": "media",
+      "code": "M01526",
+      "title": " 「non-no」2月号(12月20日(金)発売)に渡邉理佐が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01526?ima=0000",
+      "pubdate": "2019/12/20 00:00:00",
+      "tags": [
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「non-no」2月号にnon-noモデルとして渡邉理佐の撮り下ろし写真が掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://nonno.hpplus.jp/\">「non-no」2月号詳細はこちら</a>"
+    },
+    {
+      "category": "goods",
+      "code": "G00104",
+      "title": "2020年度公式カレンダー、ローソン・ミニストップ店頭端末Loppiでのご予約受付決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/G00104?ima=0000",
+      "pubdate": "2019/12/19 10:00:00",
+      "thumbnail": null,
+      "content": "12月19日(木)10:00より、全国のコンビニエンスストア「ローソン・ミニストップ」店内のLoppi(ロッピー)にて、欅坂46 ファンクラブ会員限定2020年度公式カレンダーの予約受付を開始しております。<br /><br />■購入対象会員：2019年12月9日（月）23：59 までにご入会・ご継続いただいた方<br />■商品予約期間：2019年12月19日（木）10:00 ～2019年 12月25日（水）23:30<br />■商品お渡し日：2020年1月14日（火）<br /><br />【お申込み方法】<br />①ローソン・ミニストップ店内のLoppi トップのメニュー画面から「各種サービス」を選択<br />②「ショッピング（Loppiグッズ/ギフト/HMV@Loppi）」をタッチ<br />③「各種会員限定商品」をタッチ<br />④「ＦＣ会員限定欅坂４６カレンダー ２０２０」をタッチ<br />⑤生年月日８桁＋会員情報に登録している電話番号下４桁の計１２桁を入力<br />（入力例）生年月日２０００／１１／１電話番号下４桁１１１１の方&rarr;２０００１１０１１１１１<br />⑥商品を選択し、画面の指示に従いLoppiから出てくるお申込み券を持って、30分以内にレジで代金をお支払い<br />⑦2020/1/14（火）以降に、ご予約したお店でお渡し引換券を提示して、ご予約した商品をお受け取りください<br /><br />▼注意事項<br />※ご予約されたお店以外でお受取りはできませんので、あらかじめご了承下さい。<br />※ご予約・お支払・商品のお引き取りは、全国のローソン・ミニストップにて行っていただきます。<br />※ローソン・ミニストップ店内Loppi受付では、ご自宅等への配送は行いません。ご予約の店舗でのお引き取りになります。<br />※インターネット・携帯サイトからのご予約はできません。直接ローソン・ミニストップ店舗設置の Loppi（ロッピー）にてご予約下さい。<br />※受付期間中であっても完売する可能性がございます。"
+    },
+    {
+      "category": "media",
+      "code": "M01524",
+      "title": "12月30日(月)22:30～NHK総合「坂道テレビ〜乃木と欅と日向」第2弾の放送が決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01524?ima=0000",
+      "pubdate": "2019/12/19 00:00:00",
+      "thumbnail": null,
+      "content": "12月30日(月)22:30～NHK総合「坂道テレビ〜乃木と欅と日向」第2弾の放送が決定致しました。<br />乃木坂46・欅坂46・日向坂46が一挙出演する音楽バラエティーとなります。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www4.nhk.or.jp/P5659/\">NHK総合「坂道テレビ〜乃木と欅と日向」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01522",
+      "title": "12月25日（水）20:00～　テレビ朝日「くりぃむクイズミラクル９」に尾関梨香が出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01522?ima=0000",
+      "pubdate": "2019/12/18 21:00:00",
+      "tags": [
+        "04"
+      ],
+      "thumbnail": null,
+      "content": "12月25日（水）20:00～　テレビ朝日「くりぃむクイズミラクル９」に尾関梨香が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/miracle9/\">テレビ朝日「くりぃむクイズミラクル９」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01510",
+      "title": "12月17日（火）26:05～テレビ東京「吉本坂46が売れるまでの全記録」に松田里奈が出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01510?ima=0000",
+      "pubdate": "2019/12/16 18:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "12月17日（火）26:05～テレビ東京「吉本坂46が売れるまでの全記録」に松田里奈が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/yoshimotozaka/\">テレビ東京「吉本坂46が売れるまでの全記録」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01519",
+      "title": "「MARQUEE」Vol.136（12月16日(月)発売)の表紙に上村莉菜、中面に松平璃子が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01519?ima=0000",
+      "pubdate": "2019/12/16 08:00:00",
+      "tags": [
+        "03",
+        "49"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「MARQUEE」Vol.136の表紙に上村莉菜、中面に松平璃子の撮り下ろし写真とインタビューが掲載されております。。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://www.marquee-mag.com/\">「MARQUEE」Vol.136の詳細はコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01516",
+      "title": "12月16日（月）～19日（木）24:45～テレビ朝日「即席カルテット」に土生瑞穂が出演！！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01516?ima=0000",
+      "pubdate": "2019/12/15 18:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "12月16日（月）～19日（木）24:45～テレビ朝日「即席カルテット」に土生瑞穂が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/quartet/\">テレビ朝日「即席カルテット」公式番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01518",
+      "title": "12月14日(土)24:05～NHK「シブヤノオト」に小池美波、小林由依、渡辺梨加、田村保乃、松田里奈が出演!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01518?ima=0000",
+      "pubdate": "2019/12/14 13:00:00",
+      "tags": [
+        "06",
+        "07",
+        "20",
+        "46",
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "本日12月14日(土)24:05～NHK「シブヤノオト」に小池美波、小林由依、渡辺梨加、田村保乃、松田里奈が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://www.nhk.or.jp/s-oto/shibuya/\">NHK「シブヤノオト」番組ホームページはコチラ</a><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01517",
+      "title": "12月23日（月）19:00～TBS「CDTVスペシャル！クリスマス音楽祭2019」に欅坂46の出演が決定!!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01517?ima=0000",
+      "pubdate": "2019/12/14 12:00:00",
+      "thumbnail": null,
+      "content": "12月23日（月）19:00～TBS「CDTVスペシャル！クリスマス音楽祭2019」に欅坂46の出演が決定致しました。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://www.tbs.co.jp/cdtv/sp_christmas2019/\">「CDTVスペシャル！クリスマス音楽祭2019」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01514",
+      "title": "「読売中高生新聞」(12月13日(金)発売)に尾関梨香が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01514?ima=0000",
+      "pubdate": "2019/12/13 08:00:00",
+      "tags": [
+        "05",
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「読売中高生新聞」に尾関梨香のインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://www.434381.jp/teen/\">「読売中高生新聞」の公式サイトはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01513",
+      "title": "「EX大衆」1月号（12月13日(金)発売)に佐藤詩織、インタビューで土生瑞穂×松田里奈、山﨑天が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01513?ima=0000",
+      "pubdate": "2019/12/13 08:00:00",
+      "tags": [
+        "14",
+        "48",
+        "51"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「EX大衆」1月号に佐藤詩織、土生瑞穂&times;松田里奈、山﨑天の撮り下ろし写真とインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.futabasha.co.jp/magazine/ex_taishu.html\">「EX大衆」1月号の詳細はコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01512",
+      "title": "「UTB+」vol.49（12月11日(水)発売)の表紙に森田ひかる、中面に尾関梨香、土生瑞穂が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01512?ima=0000",
+      "pubdate": "2019/12/11 08:00:00",
+      "tags": [
+        "04",
+        "14",
+        "50"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「UTB+」vol.49の表紙に森田ひかる、中面に尾関梨香、土生瑞穂の撮り下ろし写真とインタビューが掲載されます。<br /><br /><a href=\"https://www.wani.co.jp/event.php?id=6495\">「UTB+」vol.49の詳細はコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01511",
+      "title": "「blt graph.」vol.50(12月11日(水)発売)の表紙に渡邉理佐、中面に小林由依、田村保乃、松田里奈が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01511?ima=0000",
+      "pubdate": "2019/12/11 08:00:00",
+      "tags": [
+        "07",
+        "21",
+        "46",
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「blt graph.」Vol.50の表紙に渡邉理佐、中面に小林由依、田村保乃、松田里奈の撮り下ろし写真とインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://zasshi.tv/category/bltgraph\">「blt graph.」vol.50の詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01515",
+      "title": "12月28日（土）23:25～テレビ東京「Melodix! Plemium 年末スペシャル」に欅坂46の出演が決定!!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01515?ima=0000",
+      "pubdate": "2019/12/09 23:00:00",
+      "thumbnail": null,
+      "content": "12月28日（土）23:25～テレビ東京「Melodix! Plemium 年末スペシャル」に欅坂46の出演が決定致しました。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://www.tv-tokyo.co.jp/melodix_premium/\">「Melodix! Plemium 年末スペシャル」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01509",
+      "title": "12月10日（火）26:05～テレビ東京「吉本坂46が売れるまでの全記録」に松田里奈が出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01509?ima=0000",
+      "pubdate": "2019/12/09 18:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "12月10日（火）26:05～テレビ東京「吉本坂46が売れるまでの全記録」に松田里奈が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/yoshimotozaka/\">テレビ東京「吉本坂46が売れるまでの全記録」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01508",
+      "title": "「BOMB」1月号（12月9日(月)発売)に井上梨名、藤吉夏鈴が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01508?ima=0000",
+      "pubdate": "2019/12/09 08:00:00",
+      "tags": [
+        "43",
+        "47"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「BOMB」の中面に井上梨名、藤吉夏鈴の撮り下ろし写真とインタビューが掲載されます。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://gakken.jp/bomb/\">「BOMB」1月号の詳細はコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01507",
+      "title": "12月9日（月）21:54～　日本テレビ「The GIFT」に渡邉理佐が出演!!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01507?ima=0000",
+      "pubdate": "2019/12/08 18:00:00",
+      "tags": [
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "12月9日（月）21:54～　日本テレビ「The GIFT」に渡邉理佐が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://www.ntv.co.jp/thegift/\">日本テレビ「The Gift」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01506",
+      "title": "12月9日（月）～12日（木）24:45～テレビ朝日「即席カルテット」に土生瑞穂が出演！！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01506?ima=0000",
+      "pubdate": "2019/12/08 18:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "12月9日（月）～12日（木）24:45～テレビ朝日「即席カルテット」に土生瑞穂が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/quartet/\">テレビ朝日「即席カルテット」公式番組ホームページはこちら</a>"
+    },
+    {
+      "category": "release",
+      "code": "R00111",
+      "title": "9thシングル発売に関しまして",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/R00111?ima=0000",
+      "pubdate": "2019/12/08 12:00:00",
+      "thumbnail": null,
+      "content": "いつも欅坂46を応援頂き、ありがとうございます。<br />ご案内しておりました9thシングルに関しまして、当初この冬年内のリリースを予定しておりましたが、制作を進める上でより良い作品を追求して行きたいという考えに至り、発売日を見直す事になりました。楽しみにお待ち頂いている皆様には大変申し訳ありませんが、何卒ご理解を賜りますようお願い申し上げます。発売日につきましては、また改めてご案内させて頂く予定です。<br />今後とも、欅坂46の応援を宜しくお願い致します。<br /><br />Seed & Flower合同会社"
+    },
+    {
+      "category": "ticket",
+      "code": "E00457",
+      "title": "菅井友香主演・舞台「飛龍伝 2020」のファンクラブ先行受付が12月5日(木)18:00～スタート!!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/E00457?ima=0000",
+      "pubdate": "2019/12/05 18:00:00",
+      "thumbnail": null,
+      "content": "菅井友香が主演を務める、<span>ニッポン放送開局65周年 つかこうへい演劇祭 -没後10年に祈る- 舞台「飛龍伝 2020」</span>。 <br /><br />こちらの舞台の欅坂46ファンクラブ先行受付が12月5日(木)18:00～スタートいたします!!皆様のご来場をお待ちしております。 <br /><br /><p><span>※1</span>月<span>29</span>日<span>(</span>水<span>)</span>のプレビュー公演ならびに、<span>2</span>月<span>6</span>日<span>(</span>木<span>)</span>開催の「飛龍伝イベント」に関しましても本チケット先行受付の対象となります。</p><br />【公演概要】 <br />公演日程：<br />東京 2020年1月30日(木)～2月12日(水) <br />大阪 2020年2月22日(土)～2月24日(月・祝)<br />※1月29日(水) プレビュー公演<br />※2月6日(木)「飛龍伝イベント」<br /><p><br /><br /></p>会場：<br />東京&nbsp;新・国立劇場中劇場<br />大阪 COOL JAPAN PARK OSAKA TTホール<br /><br />【チケット】<br /> 東京公演：S席9,500円、A席7,500円（全席指定・税込み）&nbsp;<br />大阪公演：<span>全席指定&nbsp;<span lang=\"EN-US\">9,500</span>円</span>（税込み）<br />飛龍伝イベント(東京・2月6日)：全席指定<span>&nbsp;7,500 </span>円（税込み）<br /><br /><br /><strong>★お申込みはこちら</strong><br /><strong><a href=\"http://keyakizaka46.com/s/k46o/ticket/detail/T00037\">http://keyakizaka46.com/s/k46o/ticket/detail/T00037</a></strong><br /><strong>※スマートフォンからアクセスしてください </strong><br /><br />【受付期間】<br /><span>2019年12月5日(木)18:00～2019年12月11日(水)23:59<br /></span><br /><br />※全てのお客様の手荷物検査・金属探知による検査を行う場合がございます。<br />※入場時にご来場者の身分証確認を実施させていただく場合がございます。<br />本人確認ができない場合には、理由の如何を問わず入場をお断りさせていただきます。<br />顔写真付き電子チケットでご入場の場合は、電子チケットの提示で本人確認をさせていただきますが、<br />身分証の提示をお願いする場合もございます。<br />また、電子チケットに顔写真の登録が無い場合には、入場をお断りさせていただきます。予めご了承ください。<br />※未就学児童入場不可。<br />※客席を含む会場内の映像・写真が公開されることがあります。<br />※出演者は予告なく変更になる場合がございますので、予めご了承ください。&nbsp;<br /><br /><br /><strong>&lt;欅坂46ファンクラブ会員先行申込受付&gt;</strong> <br /><br />ファンクラブ会員を対象とした先行申込受付になります。お申込みは、ファンクラブ会員ご本人に限らせていただきます。<br /><br />※ファンクラブ会員先行のお申込みには、ファンクラブご入会の上、「MY PAGE」のプロフィール登録が全て完了している必要がございます。<br />※チケットは、すべてスマートフォン電子チケットでの受取になります。<br />受取にはEMTG電子チケットアプリへの登録（無料）が必要となり、チケットお申込み時にご登録いただきます。<br />※お申込み時、お申込み者のお名前・メールアドレス・携帯電話番号・EMTG IDと、同行者様のお名前・携帯電話番号・EMTG IDもご登録いただきます。複数枚申し込まれる場合には、予め同行者様のお名前と携帯電話番号、EMTG IDを必ずご準備ください。（同行者様がファンクラブ会員である必要はありません）。<br />※チケット当選後には、同行者様を含め、発券（ダウンロード）期日までにEMTGへの顔写真の登録が必要となります。顔写真の登録が無い場合には、入場をお断りさせていただきます。予めご了承ください。&nbsp;<br /><br /><br /><span style=\"background-color: #ffff00;\"><strong>先行受付に関する注意事項　※必ずお読みください</strong></span> <br /><br /><span style=\"color: #0000ff;\">＊チケットには、お申込み者、同行者のお名前が印字されます。</span><br /><span style=\"color: #0000ff;\">お申込みの際は、来場者のお名前にて必ずお申込みください。お申込み後の氏名変更はお受けいたしません。</span><br /><span style=\"color: #0000ff;\">チケットに印字される氏名は、お申込み時にご入力いただいた登録情報です。</span><br /><span style=\"color: #0000ff;\">ご家族間、ご友人間であっても譲渡は固くお断りいたします。</span><br /><span style=\"color: #0000ff;\">いかなる理由があろうとも、ご変更は受付いたしませんので、お申込みの際はお間違い・ご入力漏れの無いようご注意ください。お申込み者ご本人様以外のご入場は、理由の如何を問わず入場をお断りさせていただきます。</span><br /><br /><span style=\"color: #0000ff;\">＊先行予約は一般発売より事前に、チケット購入の機会を提供している受付方法です。<br />座席は全て抽選で決めていますので、必ずしも前方の座席がご用意できるとは限りません。&nbsp;</span><br /><br /><span style=\"color: #0000ff;\">＊オークションサイト・金券ショップ・個人間での売買で購入されたチケットは、その有効性を一切保障いたしません。</span><br /><span style=\"color: #0000ff;\">チケットの譲渡・転売は固くお断りします。</span><br /><br />■今回の受付は「楽天チケット」のシステムを利用します。<br />■チケットのお申込みの際は、欅坂46ファンクラブでご登録のお名前・メールアドレス・携帯電話番号にて必ずお申込みください。<br />■先着順ではございません。抽選制となりますので、受付期間内のご都合の良い時間にお申込みください。<br />■抽選結果の発表は、<strong>12月14日(土)</strong>頃を予定しております。<br />■抽選の結果は、ご登録メールアドレス宛てに送信されます。あらかじめ「@ticket.rakuten.co.jp」からのメールが受信できるよう設定をしてください。 お申込みの確認、メールの未着、遅延の場合は「楽天チケット」のお申込みページ内にある、「抽選お申込み内容・結果の確認」ボタンか<a href=\"http://r-t.jp/l-review/\">http://r-t.jp/l-review/</a>より、ご確認ください。メール受信不備等による責は負いかねます。 <br />■チケットのお申込みに関する内容は以下にお問合せください。 　<br />　問い合わせ先:楽天チケット <br />　<a href=\"https://ticket.rakuten.co.jp/inquiry\">https://ticket.rakuten.co.jp/inquiry</a> 　<br />　電話　<span>050-5893-9366</span>（受付時間：平日<span>10</span>時～<span>17</span>時）<br />■お1人様1公演につき4枚までお申込みいただけます。 <br />■お申込みは、お1人様1公演につき1回のみとなります。 <br />■複数公演のお申込みも可能です。 <br />■チケットは、すべてスマートフォン電子チケットでの受取になります。 <br />■今回の電子チケットは「EMTG」のシステムを利用します。 <br />■電子チケットお申込みに際して 電子チケットの利用に際し、申込者・同行者ともに、EMTGの無料会員登録が必要です。 <br />無料登録はコチラ( <a href=\"https://register.emtg.jp/regist/mailset.php?type=0\">https://register.emtg.jp/regist/mailset.php?type=0</a>&nbsp;）<br />お申込み時には、お申込み者のお名前・メールアドレス・携帯電話番号・EMTG IDと、同行者様のお名前・携帯電話番号・EMTG IDもご登録いただきます。複数枚申し込まれる場合には、予め同行者様のお名前と携帯電話番号、EMTG IDを必ずご準備ください。 <br />■電話番号が誤って登録されている場合はチケットが表示出来ませんので入力間違いがないようご注意ください。 <br />お申込み後の電話番号変更はお受けいたしません。 <br />■電子チケットでは以下の利用制限があります。 <br />利用制限に該当する場合には当選されても電子チケットをご利用いただけないか、または、電子チケットのご利用を保証できないためご入場ができない場合がございます。 <br /><br />【利用制限】 <br />・ 電子チケットアプリは、インターネット接続が可能な、090/080/070で始まる電話番号を持ったスマホで利用できます。※iPhoneは、SMS契約が必須 <br />・「ガラケー」「らくらくスマートフォン」「ガラホ」「iPadなどのタブレット端末」「iPod touch」は電子チケット非対応となります。また一部のスマホは対応しておりません。必ず非対応機種をご確認ください。 <br /><br />※対応端末確認はこちら <br /><a href=\"http://faq.emtg.jp/emtg/?p=7604\">http://faq.emtg.jp/emtg/?p=7604<br /></a><a href=\"http://faq.emtg.jp/emtg/?p=7604\"></a>■お申し込み前に電子チケットについては、下記のページをお読みください。<br /> <a href=\"http://register.emtg.jp/feature/keyakizaka46_dticket/\">http://register.emtg.jp/feature/keyakizaka46_dticket/<br /></a><a href=\"http://register.emtg.jp/feature/keyakizaka46_dticket/\"></a>■チケット当選後、電子チケットの発券期限までに顔写真を登録していただきます。 <br />公演入場時に本人確認を取らせていただきますので、顔写真は、本人と確認しやすいものをご登録していただくようお願いいたします。本人確認が取りづらい場合には、別途、入場時に身分証の提示をお願いする場合があります。 <br />■電子チケットは、お申込み時の携帯電話番号(携帯電話)で受け取りとなります。 <br />※同行者がいる場合は、同行者分はお申込みの際にご登録頂きました同行者の携帯電話でのチケット受け取りとなります。 <br />■当日、車イスでのご来場はスペースを準備するため、お手数ですがチケットを購入された後、公演日5日前までに必ずお電話にてご連絡ください。お電話では、名前・座席番号を確認させていただいた上、当日の入場方法をご案内します。介助が必要な方のみお連れ様は1名様まで一緒にご覧いただけますが、必ずチケットが必要となります。また状況によってお連れ様はご自身のお席でご観覧をお願いする場合がございます<br />確認のため、障害者手帳等の証明書を拝見させていただく場合がございます。予めご了承ください。<br />■転売の為のご購入は固くお断り致します。<br />■ご購入されたチケットは、理由の如何を問わず、取替・変更・キャンセルはお受けできません。 <br />■購入時、チケット代の他に送料・システム利用料等、各種手数料が必要となります。 <br />■中止等の場合、送料・各手数料は返金いたしませんので、予めご了承ください。 <br />■お支払い方法<br />クレジット <br />コンビニ（ファミリーマート）<br /><br /><br /><span style=\"background-color: #ffff00;\"><strong>本人確認書類について</strong> </span><br /><br />◎顔写真付きのものであれば、1点をご持参ください。以下がその対象となります。 　<br />※全てについてコピーは不可です。現物をご持参ください。 <br />（1）パスポート <br />（2）運転免許証（公安委員会・警察庁発行の物に限ります。） <br />（3）写真付き学生証（名前が手書きでも可） <br />（4）住民基本台帳カード <br />（5）身体障害者手帳、療育手帳、精神障害者保健福祉手帳 <br />（6）在留カードまたは特別永住者証明書 <br />（7）顔写真付きクレジットカード <br />（8）個人番号カード（マイナンバーカード） <br />※個人番号カード（マイナンバーカード）を身分証明書として利用される際は、表面(写真のある方)のみをご提示ください。裏面(個人番号が印字された面)を提示されないようご注意ください。 <br />なお、本人確認の際に、個人番号カード（マイナンバーカード）の裏面を見ることはありません。 <br />※個人番号（マイナンバー）の通知カード(個人番号が印字された写真のない紙のカード)は身分証明書として使用できません。 <br /><br />◎上記(1)～(8)をお持ちでない場合は、下記(a)～(f)の2点,もしくは(a)～(f)の1点と名前が印字されているもの1点以上で確認をとらせて頂きます。（名前の手書き不可。） <br />（a）保険証 <br />（b）住民票 <br />（c）戸籍謄本 <br />（d）戸籍抄本 <br />（e）印鑑登録証明書 <br />（f）年金手帳 <br /><br />＜名前が印字されているものの例＞ <br />社員証・顔写真の無い学生証・クレジットカード・キャッシュカード・診察券 <br />※全てについてコピー・名前の手書き・期限切れは完全に不可です。 公共料金(電気、水道など)請求書や各種郵便物の類は、名前が印字されたものであっても不可です。 <br /><br />◎保険証の貸し借りは法律で禁止されております。 <br />また、本人確認書類の細工・偽造、偽造した本人確認書類の使用は全て犯罪行為です <br /><br />●本人確認ができなかった場合には、入場をお断りさせていただきます。 <br />また、オークションでのチケット売買を想定してのチケット抽選申込みは絶対におやめください。 <br />当選された場合に来場が可能な公演のみをお申込みいただくよう、お願い致します。 <br /><br /><br />【お問い合わせ】 <br />Mitt：03-6265-3201　（平日12：00～17：00） <br /><br />【ファンクラブに関するお問合せ先】 <br /><a href=\"mailto:support@keyakizaka46.com\">support@keyakizaka46.com<br /></a>"
+    },
+    {
+      "category": "media",
+      "code": "M01503",
+      "title": "「anan」No.2179　(12月4日(水)発売)に欅坂46メンバーが登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01503?ima=0000",
+      "pubdate": "2019/12/04 08:00:00",
+      "tags": [
+        "07",
+        "11",
+        "18",
+        "21",
+        "46",
+        "48",
+        "50"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「anan」の表紙に小林由依、菅井友香、守屋茜、渡邉理佐、田村保乃、松田里奈、森田ひかるが、中面に石森虹花、上村莉菜、尾関梨香、小池美波、齋藤冬優花、佐藤詩織、長沢菜々香、土生瑞穂、原田葵、渡辺梨加、井上梨名、関有美子、武元唯衣、藤吉夏鈴、松平璃子、山﨑天の撮り下ろし写真とインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://magazineworld.jp/anan/\">「anan」No.2179の詳細はこちら</a><br /><br /><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01502",
+      "title": "「日刊スポーツ」新連載「坂道の火曜日」（12月3日(火)発売）に田村保乃、松田里奈が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01502?ima=0000",
+      "pubdate": "2019/12/03 08:00:00",
+      "tags": [
+        "46",
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "田村保乃と松田里奈の撮り下ろし写真とインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br />「坂道の火曜日」連載公式Twitter<br /><a class=\"ProfileHeaderCard-screennameLink u-linkComplex js-nav\" href=\"https://twitter.com/sakamichinikkan\"><span class=\"username u-dir\" dir=\"ltr\">@<span class=\"u-linkComplex-target\">sakamichinikkan</span></span></a>"
+    },
+    {
+      "category": "media",
+      "code": "M01501",
+      "title": "「週刊ヤングマガジン」53号(12月2日(月)発売)の表紙・巻頭に小林由依、菅井友香、渡邉理佐が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01501?ima=0000",
+      "pubdate": "2019/12/02 08:00:00",
+      "tags": [
+        "07",
+        "11",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「週刊ヤングマガジン」53号の表紙・巻頭に小林由依、菅井友香、渡邉理佐の撮り下ろし写真が掲載されます。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://yanmaga.jp/ym/\">「週刊ヤングマガジン」53号の詳細はコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01505",
+      "title": "12月3日（火）19:00～　SHWOROOM「KHB東日本放送新春特番公開配信」に石森虹花が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01505?ima=0000",
+      "pubdate": "2019/12/02 00:00:00",
+      "thumbnail": null,
+      "content": "12月3日（火）19:00～SHWOROOM「KHB東日本放送新春特番公開配信」に石森虹花が登場致します。<br /><br /><a href=\"https://www.showroom-live.com/khb\">「KHB東日本放送新春特番公開配信」SHOWROOMはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01500",
+      "title": "12月2日（月）～5日（木）24:45～テレビ朝日「即席カルテット」に土生瑞穂が出演！！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01500?ima=0000",
+      "pubdate": "2019/12/01 18:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "12月2日（月）～5日（木）24:45～テレビ朝日「即席カルテット」に土生瑞穂が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/quartet/\">テレビ朝日「即席カルテット」公式番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01504",
+      "title": "「bis」1月号(11月30日(土)発売)に上村莉菜、井上梨名、関有美子が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01504?ima=0000",
+      "pubdate": "2019/12/01 05:00:00",
+      "tags": [
+        "03",
+        "43",
+        "44"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「bis」1月号に上村莉菜、井上梨名、関有美子の撮り下ろし写真が掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://bisweb.jp/\">「bis」公式ホームページはこちら</a>"
+    }
+  ],
+  "count": "47"
 }

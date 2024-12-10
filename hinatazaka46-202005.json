@@ -1,4 +1,205 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "media",
+      "code": "M00425",
+      "title": "5月31日(日)テレビ東京「日向坂で会いましょう」放送時間変更のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00425?ima=0000",
+      "pubdate": "2020/05/31 21:06:00",
+      "thumbnail": null,
+      "content": "本日のテレビ東京「日向坂で会いましょう」の放送時間は、25:29〜となります。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/hinatazaka/\">テレビ東京「日向坂で会いましょう」詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00424",
+      "title": "WEBサイト「billboard JAPAN」の「#stayhome プレイリスト企画」に佐々木美玲、小坂菜緒、渡邉美穂のプレイリストが公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00424?ima=0000",
+      "pubdate": "2020/05/28 18:10:00",
+      "thumbnail": null,
+      "content": "WEBサイト「billboard JAPAN」の「#stayhome プレイリスト企画」に佐々木美玲、小坂菜緒、渡邉美穂が、「自分が家で聴いている/聴きたい音楽」「家で聴くのにオススメの音楽」をテーマにプレイリストを紹介しております。<br /><br />是非ご覧ください。<br /><br /><p><span><a href=\"http://www.billboard-japan.com/d_news/detail/88466\">佐々木美玲、小坂菜緒、渡邉美穂のプレイリストはこちらから</a></span></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00423",
+      "title": "6月21日(日)21:54～テレビ東京｢有吉ぃぃeeeee！～そうだ！今からお前んチでゲームしない？｣に丹生明里がリモート出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00423?ima=0000",
+      "pubdate": "2020/05/27 18:10:00",
+      "tags": [
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "<p>6月21日(日)21:54～テレビ東京｢有吉ぃぃeeeee！～そうだ！今からお前んチでゲームしない？｣に丹生明里がリモート出演致します。</p><p>ぜひご覧ください。<span lang=\"EN-US\"><o:p></o:p></span></p><p></p><p><a href=\"https://www.youtube.com/watch?v=sudBE5f1J8U\"><span></span></a><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/smp/\">｢有吉ぃぃeeeee！～そうだ！今からお前んチでゲームしない？｣オフィシャルサイトはこちら</a></p>"
+    },
+    {
+      "category": "other",
+      "code": "O00062",
+      "title": "影山優佳 活動再開のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O00062?ima=0000",
+      "pubdate": "2020/05/26 17:00:00",
+      "tags": [
+        "4"
+      ],
+      "thumbnail": null,
+      "content": "2018年8月より活動を休止しておりました影山優佳ですが、本日よりリモートとはなりますが、活動を再開致します。<br />皆様引き続き応援のほどよろしくお願い申し上げます。<br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M00422",
+      "title": "「B.L.T. 7月号」に加藤史帆、佐々木久美、金村美玖、丹生明里が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00422?ima=0000",
+      "pubdate": "2020/05/23 19:15:00",
+      "tags": [
+        "5",
+        "7",
+        "12",
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "<span>発売中の「B.L.T. 7月号」に加藤史帆、佐々木久美、金村美玖、丹生明里の自撮り写真とインタビューが掲載されています。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://bltweb.jp/\">「B.L.T.」オフィシャルサイトはこちら</a><br /></span>"
+    },
+    {
+      "category": "media",
+      "code": "M00421",
+      "title": "MTVオフィシャルサイトで富田鈴花、松田好花のインタビューが掲載！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00421?ima=0000",
+      "pubdate": "2020/05/22 18:02:00",
+      "tags": [
+        "15",
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "MTVオフィシャルサイトで富田鈴花、松田好花のインタビューが掲載されています。<br />メッセージアプリで公開した「Bell & Like Acoustic guitar session」の模様も期間限定で一部公開されていますので、是非チェックしてください。<br /><br /><a href=\"http://www.mtvjapan.com/news/69tra2/bell-and-like-interview\">http://www.mtvjapan.com/news/69tra2/bell-and-like-interview</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00420",
+      "title": "5月22日(金)発売の「読売中高生新聞」に佐々木久美のインタビューが掲載！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00420?ima=0000",
+      "pubdate": "2020/05/22 10:00:00",
+      "tags": [
+        "7"
+      ],
+      "thumbnail": null,
+      "content": "5月22日(金)発売の「読売中高生新聞」に佐々木久美のインタビューが掲載されています。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.yomiuri.co.jp/teen\">「読売中高生新聞」詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00419",
+      "title": "「週刊ヤングジャンプ」No.25の裏表紙に小坂菜緒、上村ひなのイラストが登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00419?ima=0000",
+      "pubdate": "2020/05/22 08:00:00",
+      "tags": [
+        "14",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "<span>発売中の「週刊ヤングジャンプ」No.25の裏表紙に、赤坂アカ先生による小坂菜緒、上村ひなののイラストが掲載されています。</span><br /><span>ぜひチェックしてみてください。</span><br /><br /><a href=\"https://youngjump.jp/\">「週刊ヤングジャンプ」詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00417",
+      "title": "「週刊少年チャンピオン」No.25表紙・巻頭に齊藤京子が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00417?ima=0000",
+      "pubdate": "2020/05/21 08:00:00",
+      "tags": [
+        "6"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「週刊少年チャンピオン」No.25に齊藤京子の撮り下ろし写真が掲載されています。<br /><br />是非チェックしてみてください。<br /><br /><a href=\"https://www.akitashoten.co.jp/w-champion\">「週刊少年チャンピオン」詳細はこちら</a>"
+    },
+    {
+      "category": "shakehands",
+      "code": "S00164",
+      "title": "6月14日(日)開催4thシングル「ソンナコトナイヨ」発売記念 全国握手会に関して",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/S00164?ima=0000",
+      "pubdate": "2020/05/20 18:00:00",
+      "thumbnail": null,
+      "content": "平素より、日向坂46に多大なるご支援をいただきまして誠に有難うございます。<br /> <br />下記日程で開催予定でございました4thシングル「ソンナコトナイヨ」発売記念 全国握手会につきまして、<span>新型コロナウイルス感染の情勢を鑑み</span>、当握手会を延期とさせていただきます。<br /><br />6月14日(日)4thシングル『ソンナコトナイヨ』発売記念 全国握手会 京都パルスプラザ(京都)<br /><br />楽しみに待っていてくださるファンの皆様の為にも、再開に向けて準備して参りますのでご理解いただけます様、よろしくお願い申し上げます。<br /><br />Seed & Flower合同会社"
+    },
+    {
+      "category": "media",
+      "code": "M00416",
+      "title": "5月14日(木)19:00〜日本テレビ「THE突破ファイル」に齊藤京子と松田好花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00416?ima=0000",
+      "pubdate": "2020/05/14 14:00:00",
+      "tags": [
+        "6",
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "5月14日(木)19:00〜日本テレビ「THE突破ファイル」に齊藤京子と松田好花が出演致します。<br />是非ご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/toppa/\">「THE突破ファイル」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00415",
+      "title": "「週刊少年サンデー」24号の表紙＆巻頭に河田陽菜が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00415?ima=0000",
+      "pubdate": "2020/05/13 12:30:00",
+      "tags": [
+        "13"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「週刊少年サンデー」24号の表紙＆巻頭に河田陽菜が登場しています。<br />ぜひチェックしてみてください。<br /><br /><a href=\"http://websunday.net/\">「週刊少年サンデー」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "event",
+      "code": "E00109",
+      "title": "日向坂46「春の全国アリーナツアー2020～18人の音楽隊と風変わりな仲間たち～」 福岡・大阪・群馬・神奈川公演、払い戻しのお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00109?ima=0000",
+      "pubdate": "2020/05/11 18:00:00",
+      "thumbnail": null,
+      "content": "<p><span>日向坂<span>46</span>の春の全国アリーナツアーに関しまして、下記に記載しました公演のチケットの払い戻しをさせていただきます。</span></p><p><span>現在、振替公演の日程を調整中ですが、振替公演へご来場をご希望のお客様は、発券されましたチケットがそのまま有効となります。紛失されないよう大切に保管していただき、振替公演当日必ずチケットをご持参ください。</span></p><p><span>（振替日程が決定し、決定した日程にご参加いただけない場合も、あらためてチケットの払い戻しはさせていただきます）</span></p><p><span>&nbsp;</span></p><p><span>各プレイガイドにより払い戻し方法が異なります。</span></p><p><span>必ずご確認の上、お手続きいただきますようお願いいたします。</span></p><p><span>払い戻し期間終了後の払い戻しは受付できませんので、十分ご注意ください。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span>&mdash;払い戻し対象公演―</span></p><p><span>&lt;</span><span>福岡<span>&gt;</span>マリンメッセ福岡</span></p><p><span>2020</span><span>年<span>3</span>月<span>31</span>日<span>(</span>火<span>)</span></span></p><p><span>2020</span><span>年<span>4</span>月<span>1</span>日<span>(</span>水<span>)</span></span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>大阪<span>&gt;</span>丸善インテックアリーナ大阪</span></p><p><span>2020</span><span>年<span>4</span>月<span>10</span>日<span>(</span>金<span>)</span></span></p><p><span>2020</span><span>年<span>4</span>月<span>11</span>日<span>(</span>土<span>)</span></span></p><p><span>2020</span><span>年<span>4</span>月<span>12</span>日<span>(</span>日<span>)</span></span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>群馬<span>&gt;G</span>メッセ群馬</span></p><p><span>2020</span><span>年<span>5</span>月<span>8</span>日<span>(</span>金<span>)</span></span></p><p><span>2020</span><span>年<span>5</span>月<span>9</span>日<span>(</span>土<span>)</span></span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>神奈川<span>&gt;</span>ぴあアリーナ<span>MM</span></span></p><p><span>2020</span><span>年<span>5</span>月<span>12</span>日<span>(</span>火<span>)</span></span></p><p><span>2020</span><span>年<span>5</span>月<span>13</span>日<span>(</span>水<span>)</span></span></p><p><span>2020</span><span>年<span>5</span>月<span>14</span>日<span>(</span>木<span>)</span></span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span style=\"color: #ff0000;\"><strong>【払い戻し期間】</strong></span></p><p><span style=\"color: #ff0000;\"><strong>5</strong><strong>月12日(火)12:00〜5月31日(日)23:59</strong></span></p><p><span style=\"color: #ff0000;\">※プレイガイドによっては払い戻し時間が異なりますのでご注意ください。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span style=\"background-color: #00ff00;\">■ファンクラブ・オフィシャル・楽天チケット先行(電子チケット)にてご購入のお客様</span></p><p><span>以下<span>URL</span>の登録フォームにしたがって、お客様情報、返金先情報の登録をお願いいたします。</span></p><p><span><a href=\"http://r-t.jp/hinatazaka46-refund\"><span>http://r-t.jp/hinatazaka46-refund</span></a></span></p><p><span>※同行者様分の払い戻し申請であっても、必ず応募者様が申請手続きをお願いいたします。</span></p><p><span>※購入枚数と払い戻し希望枚数が異なる場合、応募者分・同行者分どちらのチケットを払い戻しにするかご選択ください。</span></p><p><span>※親子席をご購入の方で払い戻しをご希望される方は購入した枚数全てとなりますのでご了承ください。</span></p><p><span>◎申請期限締切後、楽天チケットにて情報を精査し、確認後に登録口座へ返金をいたします。 ご返金完了までは、払い戻し受付期間終了後から<span>2-3</span>ヶ月ほどお時間を頂戴する可能性もございます。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span style=\"background-color: #00ff00;\">■ファンクラブ・オフィシャル・楽天チケット先行(紙チケット)にてご購入のお客様</span><span>　</span></p><p><span>払い戻し受付期間内にチケットを発券していただき、</span></p><p><span>楽天チケットまで「簡易書留」「宅配便」「特定記録郵便」にてチケットをご送付お願いいたします。</span></p><p><span>該当公演のチケットを期限内にご返送いただければ、ご返金希望の銀行口座にお振込みにてご返金いたします。</span></p><p><span>※返送代として<span>300</span>円を上限としてお返しいたします。</span></p><p><span>ただし、着払いにて返送された場合は、差し引き金額になります。予めご了承ください。</span></p><p><span>※払い戻受付期間最終日までに必着</span></p><p><span>・楽天チケットへのチケット返送をもって払い戻しとなります。</span></p><p><span>※楽天スーパーポイントを決済にご利用のお客様に対しては、ご利用いただいたポイント分も含めて全額口座振込にて返金いたします。</span></p><p><span>※半券がないチケット（入場済み）チケットに関しては対応不可となります。</span></p><p><span>※払い戻し受付期間を過ぎますと、ご返金は一切できかねますのでご注意ください。</span></p><p><span>チケット送付の際に下記ご購入者情報、ご返金先口座の情報を記入したメモ等を同封いただき、送付いただきますようお願いいたします。</span></p><p><span>※群馬・神奈川公演の紙チケットにてご購入のお客様は個別対応となりますので、別途ご案内差し上げます。</span></p><p><span>&nbsp;</span></p><p><span>-------------</span></p><p><span>&nbsp;</span></p><p><span>・お名前：</span></p><p><span>・お電話番号：</span></p><p><span>・銀行名：</span></p><p><span>・銀行コード：</span></p><p><span>・支店名：</span></p><p><span>・支店コード：</span></p><p><span>・口座番号：</span></p><p><span>・口座種類（当座口座か普通口座）：</span></p><p><span>・名義人名<span>(</span>カナ<span>)</span>：</span></p><p><span>&nbsp;</span></p><p><span>-------------</span></p><p><span>&nbsp;</span></p><p><span>（メモの内容と同封内容に相違がある場合、お電話にてご確認させていただくことがあります）</span></p><p><span>払い戻し受付期間内のチケットの到着確認後、順次ご返金の対応をいたします。</span></p><p><span>ご返金完了までは、払い戻し受付期間終了後から<span>2-3</span>ヶ月ほどお時間を頂戴する可能性もございます。</span></p><p><span>予めご理解ご了承の程お願い申し上げます。</span></p><p><span>&nbsp;</span></p><p><span>※以下の場合、返金ができかねますのでご注意ください。</span></p><p><span>・払い戻し受付指定期間を過ぎて到着した場合。</span></p><p><span>・お客様情報の記載が無く、確認が取れない場合。</span></p><p><span>・破損したり、汚れ等で券面内容の確認ができないもの。</span></p><p><span>・半券のないチケット（入場済み）の場合</span></p><p><span>・普通郵便等でお送りされ、破損・紛失等があった場合。</span></p><p><span>&nbsp;</span></p><p><span>----------</span></p><p><span>【チケット返送先】</span></p><p><span>〒<span>158-0094</span></span></p><p><span>東京都世田谷区玉川<span>2-21-1</span>（二子玉川ライズオフィス内）</span></p><p><span>株式会社　チケットスター<span>(</span>楽天チケット<span>)</span>「日向坂<span>46</span>」払戻し係</span></p><p><span>----------</span></p><p><span>・お問合せ：</span></p><p><span><a href=\"https://ticket.faq.rakuten.ne.jp/\"><span>https://ticket.faq.rakuten.ne.jp/</span></a></span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span style=\"background-color: #00ff00;\">■ローソンチケット先行(電子チケット)・チケプラトレード(EMTGチケットトレード)にてご購入のお客様</span><span>　</span></p><p><span>下記<span>URL</span>よりご申請ください。</span></p><p><span>※同行者様分の払い戻し申請であっても、必ず応募者様が申請手続きをお願いいたします。</span></p><p><span><a href=\"https://tixplus.jp/feature/hinatazaka46_tour2020/\"><span>https://tixplus.jp/feature/hinatazaka46_tour2020/</span></a></span></p><p><span>&nbsp;</span></p><p><span>[</span><span>注意事項<span>]</span></span></p><p><span>※チケットをご購入した際に入力した<span>Plus member ID(</span>旧<span>:EMTG ID)</span>にてログインください</span></p><p><span>※チケプラ<span>(</span>旧<span>:EMTG)</span>へご登録の電話番号、メールアドレスを元にご返金の登録をさせていただきますので、あらかじめマイページよりご確認をお願いいたします</span></p><p><span>※購入枚数と払い戻し希望枚数が異なる場合、応募者分・同行者分どちらのチケットを払い戻しにするかアンケートにて選択ください</span></p><p><span>※親子席をご購入の方で払い戻しをご希望される方は購入した枚数全てとなりますのでご了承ください</span></p><p><span>&nbsp;</span></p><p><span>◎申請期限締切後、『<span>CASH POST</span>』の返金管理システムを利用して、お客様が指定した口座へ返金を行わせていただきます。</span></p><p><span>チケプラへご登録のメールアドレス宛てに払い戻しのご案内メールを後日お送りさせていただきますので、</span></p><p><span>※迷惑メール対策（ドメイン指定受信など）を設定されている方は、「<span>plusmember.jp</span>」からのメールが受信できるように設定をお願いいたします。</span></p><p><span>&nbsp;</span></p><p><span>・お問合せ： </span></p><p><span>カスタマーサポート（平日<span>11:00</span>～<span>12:00 / 13:30</span>～<span>18:00</span>）</span></p><p><span><a href=\"https://tixplus.jp/support/tixplus/\"><span>https://tixplus.jp/support/tixplus/</span></a></span></p><p><span>※お問い合わせの際は、『日向坂<span>46 </span>払戻しの件』とご明記の上、</span></p><p><span>電話番号・氏名・<span>ID(</span>メールアドレス<span>)</span>を必ずお書き添えください</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span style=\"background-color: #00ff00;\">■ローソンチケット先行(紙チケット)にてご購入のお客様</span><span>　</span></p><p><span>お手元のチケットと各種手数料券をお持ちの上、お近くのローソン、ミニストップ店舗で払い戻しをいたします。</span></p><p><span>上記払戻し期間内にローソン、ミニストップ店舗にチケットをご持参の上、店内設置<span>Loppi</span>で払い戻しのお手続きをお願いいたします。</span></p><p><span>チケットをお引取りいただいたコンビニであれば、どの店舗でも払い戻し可能です。</span></p><p><span>まだチケットを発券されていない方は、お手数ですが、ローソン・ミニストップにて一度チケットを発券の上、</span></p><p><span>再度<span>Loppi</span>にて払い戻しお手続きください。</span></p><p><span>※配送引取されたお客様は最寄りのローソン店舗で払い戻しをさせていただきます。</span></p><p><span><span>&nbsp;</span></span></p><p><span>ローソンチケットでの払い戻し方法に関してはこちら</span></p><p><span><a href=\"http://l-tike.com/oc/lt/haraimodoshi/\"><span>http://l-tike.com/oc/lt/haraimodoshi/</span></a></span><span>　</span></p><p><span>&nbsp;</span></p><p><span>ローソン・ミニストップにて、「払い戻し」手続きを行うお客様へのお知らせ</span></p><p><span>夜間・早朝（<span>21</span>時～<span>6</span>時頃）のチケット払い戻しに関しまして、</span></p><p><span>防犯対策として警察からの協力要請・指導を受け、夜間・早朝時間帯はレジ内の</span></p><p><span>現金を制限されております。</span></p><p><span>その為、夜間・早朝とその直前・直後の時間帯はつり銭が不足する場合がございますので、</span></p><p><span>払い戻しは夜間・早朝を避けてお手続きいただきますようお願い申し上げます。</span></p><p><span>&nbsp;</span></p><p><span>お問い合わせ：ローソンチケット　</span><span><a href=\"https://l-tike.com/contact/\"><span>https://l-tike.com/contact/</span></a></span></p><p><span style=\"color: #ff0000;\">※カスタマーセンターでの電話によるお問い合わせの受付を休止している場合がございます。<br /> お問い合わせにつきましては、メールにてお受けしておりますが、<strong>お問い合わせが殺到し、大変混み合っておりまして、返信には数日～２週間程度かかる場合もあります。</strong>何卒ご理解賜りますようお願い申し上げます。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span style=\"background-color: #00ff00;\">■【e＋（イープラス）】にてご購入のお客様</span></p><p><span>払い戻し方法は、チケットの受取方法や支払方法により異なります。</span></p><p><span>払い戻し方法詳細については下記の払い戻し方法チャートを確認してください。</span></p><p><span>&nbsp;</span></p><p><span>＜公演中止　払い戻し方法確認チャート＞</span></p><p><span><a href=\"http://eplus.jp/refund2/\"><span>http://eplus.jp/refund2/</span></a></span></p><p><span>質問に答えながらご自身の状況を確認してください。　適切な払い戻し方法をご覧になれます。</span></p><p><span>&nbsp;</span></p><p><span>お問合せ：イープラス 　</span><span><a href=\"http://eplus.jp/refund-toiawase/\"><span>http://eplus.jp/refund-toiawase/</span></a></span></p><p><span><span><span>&nbsp;</span></span></span></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00414",
+      "title": "5月9日(土)21:00〜ニコニコ生放送にて、初めての舞台公演「あゆみ」のチームカスタネット公演が放送！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00414?ima=0000",
+      "pubdate": "2020/05/09 20:20:00",
+      "thumbnail": null,
+      "content": "5月9日(土)21:00〜ニコニコ生放送にて、初めての舞台公演「あゆみ」のチームカスタネット公演が放送となります。<br />是非ご覧ください。<br /><br /><a href=\"https://live.nicovideo.jp/watch/lv325121858\">舞台公演「あゆみ」視聴はこちらから</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00413",
+      "title": "WEBサイト「ランキングBOX」にて、佐々木久美、金村美玖が「元気になれる楽曲BEST3」を選出！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00413?ima=0000",
+      "pubdate": "2020/05/05 11:30:00",
+      "tags": [
+        "7",
+        "12"
+      ],
+      "thumbnail": null,
+      "content": "<p><span lang=\"EN-US\">WEB</span><span>サイト「ランキング<span lang=\"EN-US\">BOX</span>」にて、佐々木久美、金村美玖が自身の楽曲から「元気になれる楽曲<span lang=\"EN-US\">BEST3</span>」を選出</span>しております。<span lang=\"EN-US\"><o:p></o:p></span></p><p><span>ぜひご覧ください。</span></p><p><span><br />※<span lang=\"EN-US\">URL</span>は公開後有効となります。<span lang=\"EN-US\"><o:p></o:p></span></span></p><p><span lang=\"EN-US\">&nbsp;<br /></span><span>佐々木久美（<span lang=\"EN-US\">5</span>月<span lang=\"EN-US\">5</span>日<span lang=\"EN-US\">(</span>火<span lang=\"EN-US\">)12:00</span>公開）<span lang=\"EN-US\"><o:p></o:p></span></span></p><p><span lang=\"EN-US\"><a href=\"https://rankingbox.jp/article/79902\">https://rankingbox.jp/article/79902</a><o:p></o:p></span></p><p><span lang=\"EN-US\"><o:p>&nbsp;</o:p></span></p><p><span>金村美玖（<span lang=\"EN-US\">5</span>月<span lang=\"EN-US\">6</span>日<span lang=\"EN-US\">(</span>水<span lang=\"EN-US\">)12:00</span>公開）<span lang=\"EN-US\"><o:p></o:p></span></span></p><p><span lang=\"EN-US\"><a href=\"https://rankingbox.jp/article/79904\">https://rankingbox.jp/article/79904</a><o:p></o:p></span></p>"
+    },
+    {
+      "category": "release",
+      "code": "R00045",
+      "title": "小坂菜緒 主演映画「恐怖人形」DVDの発売が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00045?ima=0000",
+      "pubdate": "2020/05/01 12:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "小坂菜緒主演映画「恐怖人形」DVDの発売が決定致しました。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/images/SRBW45.jpg\" alt=\"\" width=\"282\" height=\"400\" /><br /><br />【商品概要】<br />タイトル：「恐怖人形」<br />発売日：2020年5月27日（水）<br />品番：SRBW-45<br />価格：4,800円（税込）<br />内容：本編約86分＋特典映像（予告編&メイキング）+ブックレット封入（16P）<br /><br />【作品概要】<br />■あらすじ<br />巨大化した人形が殺人鬼となる&ndash;&ndash;<br />主人公の女子大生・平井由梨（小坂菜緒）は趣味のカメラで幼馴染の真人（萩原利久）<br />と日常の風景を撮影する楽しい日々を送っていた。<br /><br />ある日、由梨のもとに差出人不明のパーティー案内が届いた。<br />怪しい案内状は同じく真人にも届いており、<br />案内状に記された集合場所に到着するとそこには同世代の男女５人と中年の男性（萩原聖人）がいた。<br /><br />パーティーの参加者には１０万円の贈呈。<br />この謎のパーティー会場となるキャンプ場へと向かった８人を不気味な日本人形が付き纏う。<br />その人形の体が大きくなった時、決して引き返す事の出来ないパーティーが始まる。<br /><br />■出演<br />小坂菜緒・萩原利久・黒羽麻璃央・水上京香・石川瑠華・福島雪菜・近藤雄介・黒沢あすか・粟根まこと・萩原聖人<br /><br /><a href=\"https://the-japanesedoll.com/\">「恐怖人形」公式ホームページはコチラ</a>"
+    }
+  ],
+  "count": "16"
 }

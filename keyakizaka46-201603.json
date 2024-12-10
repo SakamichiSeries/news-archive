@@ -1,4 +1,850 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "media",
+      "code": "M00048",
+      "title": "3月31日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」-番外編-に織田奈那が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00048?ima=0000",
+      "pubdate": "2016/03/31 00:00:00",
+      "tags": [
+        "05"
+      ],
+      "thumbnail": null,
+      "content": "織田奈那の撮り下ろし写真と自分以外のメンバーの呼び方&印象ひとことアンケートが掲載されます。<br /><br /><a href=\"http://hustlepress.co.jp/keyakizaka46_25/\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」サイトはコチラ</a>"
+    },
+    {
+      "category": "release",
+      "code": "M00047",
+      "title": "デビューシングルType-Aに収録の石森虹花・小池美波・菅井友香・長沢菜々香・平手友梨奈・米谷奈々未・渡辺梨加の個人PV予告編を公開!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00047?ima=0000",
+      "pubdate": "2016/03/31 00:00:00",
+      "tags": [
+        "06",
+        "11",
+        "17",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "4月6日(水)リリースのデビューシングル「サイレントマジョリティー」Type-Aに収録されている石森虹花・小池美波・菅井友香・長沢菜々香・平手友梨奈・米谷奈々未・渡辺梨加の個人PV予告編を致しました!<br />是非みなさまチェックしてみて下さい!<br /><br /><a href=\"https://www.youtube.com/channel/UCmr9bYmymcBmQ1p2tLBRvwg\">欅坂46 OFFICIAL YouTube CHANNELはコチラ</a>"
+    },
+    {
+      "category": "shakehands",
+      "code": "S00005",
+      "title": "『サイレントマジョリティー』発売記念個別握手会 京都会場一部メンバーの追加枠決定のお知らせ",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/S00005?ima=0000",
+      "pubdate": "2016/03/30 00:00:00",
+      "tags": [
+        "11",
+        "17",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "<p>forTUNE musicにて取り扱っております『サイレントマジョリティー』発売記念個別握手会に関して、下記会場、メンバーにおいて、個別握手会の枠を追加致します。</p><p>ご応募は第8次受付から可能となります。売り切れ次第終了となりますので予めご了承ください。</p><p>※第8次応募受付:2016年3月31日(木)15:00 ～ 4月1日(金)14:00 まで</p><p>&nbsp;</p><p>下記詳細をご確認いただき、ご応募ください。</p><p><strong>【追加枠対象会場】</strong></p><p>2016年5月1日(日)京都・京都パルスプラザ<br /><br /></p><p><strong>【追加枠対象メンバー】</strong></p><p><strong>2016</strong><strong>年5月1日（日）京都・京都パルスプラザ</strong></p><p>今泉　佑唯-第5部</p><p>菅井　友香-第4部</p><p>平手　友梨奈-第3部</p><p>渡辺　梨加-第5部</p><p>渡邉　理佐-第4部</p><p>&nbsp;</p><p><span style=\"color: #ff0000;\"><strong>【注意事項】</strong></span></p><p><span style=\"text-decoration: underline;\"><span style=\"color: #ff0000; text-decoration: underline;\">上記追加枠に関しては、1種あたり、一度の応募上限枚数は3枚となります。</span></span><br /><br /> <a href=\"https://fortunemusic.jp/keyakizaka46_201604/\">forTUNE music『サイレントマジョリティー』発売記念 個別握手会の詳細はコチラ</a><br /> </p>"
+    },
+    {
+      "category": "media",
+      "code": "M00046",
+      "title": "「UPDATE Girls」(3月31日(木)発売)に鈴本美愉、平手友梨奈が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00046?ima=0000",
+      "pubdate": "2016/03/30 00:00:00",
+      "tags": [
+        "12",
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "鈴本美愉、平手友梨奈の撮り下ろし写真とインタビューが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00045",
+      "title": "「月刊エンタメ」(3月30日(水)発売)に平手友梨奈が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00045?ima=0000",
+      "pubdate": "2016/03/30 00:00:00",
+      "tags": [
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "平手友梨奈の撮り下ろし写真とインタビューが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00044",
+      "title": "デビューシングル収録曲「渋谷川」のMusic Videoフルサイズを期間限定で公開!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00044?ima=0000",
+      "pubdate": "2016/03/30 00:00:00",
+      "tags": [
+        "07"
+      ],
+      "thumbnail": null,
+      "content": "4月6日(水)リリースのデビューシングル「サイレントマジョリティー」に収録されている「渋谷川」のMusic Videoフルサイズを期間限定で公開致しました!<br />是非みなさまチェックしてみて下さい!<br /><br /><a href=\"https://www.youtube.com/watch?v=4ysJPiXvlxg\">「渋谷川」Music Videoはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00043",
+      "title": "欅坂46のコメントと「サイレントマジョリティー」のMusic Videoが、 テレ玉他で放送中の音楽番組「HOT WAVE」でオンエア！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00043?ima=0000",
+      "pubdate": "2016/03/30 00:00:00",
+      "thumbnail": null,
+      "content": "<p>欅坂46のコメントと「サイレントマジョリティー」のMusic Videoが、テレ玉他でオンエアする音楽番組「HOT WAVE」でオンエア決定！</p><p>テレ玉4月3日（日）23時30分～</p><p>チバテレ4月11日（月）25時00分～</p><p>三重テレビ4月16日（土）14時00分～</p><p>※放送内容が変更になる場合もございます。ご了承ください。</p>"
+    },
+    {
+      "category": "media",
+      "code": "M00049",
+      "title": "「Mac Fan」5月号(3月29日(火)発売)表紙に平手友梨奈が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00049?ima=0000",
+      "pubdate": "2016/03/29 22:00:00",
+      "tags": [
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "平手友梨奈の撮り下ろし写真とインタビューが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00042",
+      "title": "3月29日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」には織田奈那が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00042?ima=0000",
+      "pubdate": "2016/03/29 00:00:00",
+      "tags": [
+        "05"
+      ],
+      "thumbnail": null,
+      "content": "織田奈那の撮り下ろし写真とインタビューが掲載されます。<br /><br /><a href=\"http://hustlepress.co.jp/keyakizaka46_24/\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」サイトはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00041",
+      "title": "デビューシングル収録曲「山手線」のMusic Video Short Ver.公開!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00041?ima=0000",
+      "pubdate": "2016/03/29 00:00:00",
+      "tags": [
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "4月6日(水)リリースのデビューシングル「サイレントマジョリティー」に収録されている「山手線」のMusic Video Short Ver.を公開致しました!<br />是非みなさまチェックしてみて下さい!<br /><br /><a href=\"https://www.youtube.com/watch?v=WqAGACYJiNM\">「山手線」Music Video Short Ver.はコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00040",
+      "title": "3月26日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」-番外編-に志田愛佳が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00040?ima=0000",
+      "pubdate": "2016/03/26 00:00:00",
+      "thumbnail": null,
+      "content": "志田愛佳の撮り下ろし写真と自分以外のメンバーの呼び方&印象ひとことアンケートが掲載されます。<br /><br /><a href=\"http://hustlepress.co.jp/keyakizaka46_23/\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」サイトはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00039",
+      "title": "3月26日（土）25:53～TBS「CDTVスペシャルフェス」にてパフォーマンスの模様がオンエアされます！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00039?ima=0000",
+      "pubdate": "2016/03/26 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "3月26日（土）25:53～TBS「CDTVスペシャルフェス」にてパフォーマンスの模様がオンエアされます。<br /><br /><a href=\"http://www.tbs.co.jp/cdtv_fes2016/\">「CDTVスペシャルフェス」オフィシャルサイトはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00038",
+      "title": "「月刊バスケットボール」5月号(3月25日(金)発売)に平手友梨奈が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00038?ima=0000",
+      "pubdate": "2016/03/25 00:00:00",
+      "tags": [
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "平手友梨奈の撮り下ろし写真とインタビューが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00037",
+      "title": "デビューシングル収録曲「手を繋いで帰ろうか」のMusic Video Short Ver.公開!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00037?ima=0000",
+      "pubdate": "2016/03/25 00:00:00",
+      "thumbnail": null,
+      "content": "4月6日(水)リリースのデビューシングル「サイレントマジョリティー」に収録されている「手を繋いで帰ろうか」のMusic Video Short Ver.を公開致しました!<br />是非みなさまチェックしてみて下さい!<br /><br /><a href=\"https://www.youtube.com/watch?v=H427UP6e1Kw\">「手を繋いで帰ろうか」Music Video Short Ver.はコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00036",
+      "title": "「TVfan」5月号(3月24日(木)発売)に石森虹花、上村莉菜、尾関梨香、小池美波が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00036?ima=0000",
+      "pubdate": "2016/03/24 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "06"
+      ],
+      "thumbnail": null,
+      "content": "石森虹花、上村莉菜、尾関梨香、小池美波の撮り下ろし写真とインタビューが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00035",
+      "title": "「smart」5月号(3月24日(木)発売)に石森虹花、菅井友香、鈴本美愉、土生瑞穂、渡邉理佐が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00035?ima=0000",
+      "pubdate": "2016/03/24 00:00:00",
+      "tags": [
+        "11",
+        "12",
+        "14",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "菅井友香、土生瑞穂、渡邉理佐の撮り下ろし写真と石森虹花、菅井友香、鈴本美愉、土生瑞穂、渡邉理佐の早見表アンケートが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00034",
+      "title": "「SamuraiELO」5月号(3月24日(木)発売)に渡邉理佐が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00034?ima=0000",
+      "pubdate": "2016/03/24 00:00:00",
+      "tags": [
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "渡邉理佐の撮り下ろし写真が掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00033",
+      "title": "「BLT」5月号増刊(3月24日(木)発売)に欅坂46全メンバーが登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00033?ima=0000",
+      "pubdate": "2016/03/24 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "全メンバーの撮り下ろし写真とデビューシングル選抜発表リポートが掲載されます。<br />さらに、両面特大ポスター付録つき！"
+    },
+    {
+      "category": "media",
+      "code": "M00032",
+      "title": "4月1日（金）からニッポン放送にて初のラジオレギュラー番組「欅坂46 こちら有楽町星空放送局」がスタート！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00032?ima=0000",
+      "pubdate": "2016/03/23 15:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "4月1日（金）からニッポン放送にて初のラジオレギュラー番組「欅坂46 こちら有楽町星空放送局」がスタート致します！お楽しみに！<br /><br />＜番組概要＞<br />■番組タイトル<br />　欅坂46 こちら有楽町星空放送局<br /><br />■放送日時<br />　4月1日（金）からスタート<br />　毎週金曜24時20分～24時40分　<br /><br />■番組用メールアドレス<br />　<a href=\"mailto:keyaki@allnightnippon.com\">keyaki@allnightnippon.com</a><br /><br /><a href=\"http://www.1242.com/radio/keyaki/\">欅坂46 こちら有楽町星空放送局のオフィシャルページはコチラ</a><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M00031",
+      "title": "「UTB」5月号(3月23日(水)発売)に欅坂46全メンバーが登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00031?ima=0000",
+      "pubdate": "2016/03/23 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "今泉佑唯、小林由依、平手友梨奈が表紙・巻頭に登場！鈴本美愉、渡辺梨加、長濱ねるの撮り下ろし写真とインタビューも掲載されます。<br />更に、欅坂46&けやき坂46公式ガイドブックとポスター付録も付いております。"
+    },
+    {
+      "category": "media",
+      "code": "M00030",
+      "title": "「BIG ONE GIRLS」NO.32(3月23日(水)発売)に菅井友香、土生瑞穂、渡邉理佐が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00030?ima=0000",
+      "pubdate": "2016/03/23 00:00:00",
+      "tags": [
+        "11",
+        "14",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "菅井友香、土生瑞穂、渡邉理佐の撮り下ろし写真とインタビューが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00029",
+      "title": "3月22日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」には志田愛佳が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00029?ima=0000",
+      "pubdate": "2016/03/22 00:00:00",
+      "thumbnail": null,
+      "content": "志田愛佳の撮り下ろし写真とインタビューが掲載されます。<br /><br /><a href=\"http://hustlepress.co.jp/keyakizaka46_22/\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」サイトはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00028",
+      "title": "「OVERTURE」(3月19日(土)発売)に平手友梨奈が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00028?ima=0000",
+      "pubdate": "2016/03/19 00:00:00",
+      "tags": [
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "平手友梨奈のソロ曲「山手線」のMusic Video撮影レポートが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00027",
+      "title": "3月17日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」-番外編-に守屋茜が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00027?ima=0000",
+      "pubdate": "2016/03/17 20:00:00",
+      "tags": [
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "守屋茜の撮り下ろし写真と自分以外のメンバーの呼び方&印象ひとことアンケートが掲載されます。<br /><br /><a href=\"http://hustlepress.co.jp/keyakizaka46_21/\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」サイトはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00026",
+      "title": "4月16日（土）放送決定！『欅坂46 デビューカウントダウンライブ 1stシングルリリース記念！ 拡大スペシャル』",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00026?ima=0000",
+      "pubdate": "2016/03/17 00:00:00",
+      "thumbnail": null,
+      "content": "<p>TBSチャンネル1では、3月17日（木）開催の欅坂46デビューカウントダウンライブのバックステージ映像をたっぷり含んだ拡大版を4月に放送します！どうぞお楽しみに！！</p><p><br />■CS放送TBSチャンネル1&nbsp;<br />『欅坂46 デビューカウントダウンライブ 1stシングルリリース記念！拡大スペシャル』<br />4月16日（土）午後7時30分放送！<br /><br /></p><p><a href=\"http://www.tbs.co.jp/tbs-ch/item/o1799/\">『欅坂46 デビューカウントダウンライブ 1stシングルリリース記念！拡大スペシャ ル』の詳細はコチラ！</a></p>"
+    },
+    {
+      "category": "event",
+      "code": "E00005",
+      "title": "3月17日(木)「欅坂46 生中継! デビューカウントダウンライブ!!」当日券 整理券配布終了のお知らせ",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/E00005?ima=0000",
+      "pubdate": "2016/03/17 00:00:00",
+      "thumbnail": null,
+      "content": "本日、3月17日（木）開催の「欅坂46生中継!デビューカウントダウンライブ!!」の当日券ですが、たくさんのお客様にお並びいただきましたので、当日券の確定枚数分の整理券を配布させて頂きました。ありがとうございました。"
+    },
+    {
+      "category": "media",
+      "code": "M00025",
+      "title": "「The New Era Book / Spring & Summer 2016」(3月16日(木)発売)に平手友梨奈、渡辺梨加、渡邉理佐が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00025?ima=0000",
+      "pubdate": "2016/03/16 21:00:00",
+      "tags": [
+        "17",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "平手友梨奈、渡辺梨加、渡邉理佐の撮り下ろし写真が掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00024",
+      "title": "「KERA」(3月16日(木)発売)に志田愛佳が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00024?ima=0000",
+      "pubdate": "2016/03/16 20:00:00",
+      "thumbnail": null,
+      "content": "志田愛佳の自撮り写真とアンケートが掲載されます。"
+    },
+    {
+      "category": "shakehands",
+      "code": "S00004",
+      "title": "『サイレントマジョリティー』発売記念個別握手会 関東3会場一部メンバーの追加枠決定のお知らせ",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/S00004?ima=0000",
+      "pubdate": "2016/03/16 00:00:00",
+      "thumbnail": null,
+      "content": "<p>forTUNE musicにて取り扱っております『サイレントマジョリティー』発売記念個別握手会に関して、下記会場、メンバーにおいて、個別握手会の枠を追加致します。</p><p>ご応募は第6次受付から可能となります。売り切れ次第終了となりますので予めご了承ください。</p><p>※第6次応募受付：2016年3月17日(木)15:00 ～ 3月18日(金)14:00 まで</p><p>&nbsp;</p><p>下記詳細をご確認いただき、ご応募ください。</p><p><strong>【追加枠対象会場】</strong></p><p>2016年5月28日(土)千葉・幕張メッセ<br /> 2016年6月4日(土)神奈川・パシフィコ横浜<br /> 2016年6月26日(日)神奈川・パシフィコ横浜</p><p>&nbsp;</p><p><strong>【追加枠対象メンバー】</strong></p><p><strong>2016</strong><strong>年5月28日(土)千葉・幕張メッセ</strong></p><p>今泉　佑唯-第5部</p><p>菅井　友香-第4部</p><p>平手　友梨奈-第3部</p><p>渡辺　梨加-第5部</p><p>長濱　ねる-第4部</p><p>&nbsp;</p><p><strong>2016</strong><strong>年6月4日(土)神奈川・パシフィコ横浜</strong><br /> 小林　由依-第4部</p><p>志田　愛佳-第5部</p><p>菅井　友香-第3部</p><p>渡辺　梨加-第4部</p><p>渡邉　理佐-第5部</p><p>&nbsp;</p><p><strong>2016</strong><strong>年6月26日(日)神奈川・パシフィコ横浜</strong></p><p>今泉　佑唯-第4部</p><p>上村　莉菜-第5部</p><p>志田　愛佳-第3部</p><p>平手　友梨奈-第4部</p><p>守屋　茜-第2部</p><p>渡邉　理佐-第5部<br /><br /></p><p><strong><span style=\"color: #ff0000;\">【注意事項】</span></strong></p><p><span style=\"text-decoration: underline;\"><span style=\"color: #ff0000; text-decoration: underline;\">上記追加枠に関しては、1種あたり、一度の応募上限枚数は3枚となります。<br /><br /><br /></span><span style=\"color: #000000;\"><a href=\"https://fortunemusic.jp/keyakizaka46_201604/\">forTUNE music『サイレントマジョリティー』発売記念 個別握手会の詳細はコチラ</a></span></span></p>"
+    },
+    {
+      "category": "event",
+      "code": "E00004",
+      "title": "3月17日（木）「欅坂46 生中継! デビューカウントダウンライブ!!」に関する注意事項",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/E00004?ima=0000",
+      "pubdate": "2016/03/16 00:00:00",
+      "thumbnail": null,
+      "content": "<p>3月17日(木)に開催となる、「欅坂46 生中継! デビューカウントダウンライブ!!」にお越しのお客さまは、以下の注意事項を必ずご確認のうえ、会場にお越しください。</p><p>&nbsp;</p><p>1、&nbsp;&nbsp; 最寄駅～会場周辺においての、許可のないチラシ・パンフ等の配布、アンケート収集、署名などの行為は禁止させていただきます。生誕委員の活動も同様です。</p><p>2、&nbsp;&nbsp; 全てのお客様の手荷物検査・金属探知による検査を行います。これに伴い、入場にかなりの混雑が予想されます。早めにご来場、入場列へとお並び頂きます様、お願い致します。<br />手荷物をお持ちのお客様は整列時に、鞄のチャックを開けておいて下さい。</p><p>3、&nbsp;&nbsp; 場内に持ち込める手荷物のサイズを指定させて頂きます。縦横40cm、幅20cm以内といたします。バックパック、ブリーフケース、アタッシュケース、キャリーバック等、大きな荷物に関しては持ち込みを禁止致します。</p><p>サイズを超えた荷物のお預かりは一切行いません。</p><p>4、&nbsp;&nbsp; 再入場は禁止とさせて頂きます。</p><p>5、&nbsp;&nbsp; ランダムにご本人確認をさせていただきます。チケットのご購入者様ご本人は、お名前が確認できる証明書をご持参下さい。本人確認が出来ない場合、入場をお断りさせていただきます。予めご了承ください。</p><p>6、&nbsp;&nbsp; プレゼント・横断幕の持ち込みは禁止とさせて頂きます。会場にお持ち頂いても、お預かりすることはできません。手紙も同様です。</p><p>7、&nbsp;&nbsp; 会場へのサイリウムの持ち込みは、長さ25cm以下のものとさせて頂きます。25cmを超えるグッズに関しましては、持ち込みを禁止させて頂きますので予めご了承下さい。<br />また、過度に発光するサイリウム・液体サイリウムに関しては、周囲のお客様の迷惑にもなりますので、持ち込まないようお願い致します。</p><p>8、&nbsp;&nbsp; 会場内のお手洗は、開演前の混雑が予想されます。事前に駅などの公共のお手洗いをご利用頂ますようご協力お願い致します。</p><p>9、&nbsp;&nbsp; コンサートが終演後は、規制退場を予定しております。ご自分の席でお待ちになり、係員の指示に従ってご退場いただくようお願い致します。</p><p>&nbsp;</p><p>「手荷物検査」「金属探知機検査」により、入場が混雑される事が予想されます。</p><p>上記記載の通り、手荷物は最低限の持参で来場頂ます様、重ねてお願い致します。</p><p>開演直前であっても同様の検査を実施致しますので、ご来場の際には時間に余裕を持ってお越しください。</p><p>&nbsp;</p><p>場内では、公演中ご自身の席以外での観覧は禁止です。</p><p>その他、会場内では係員の指示に必ず従っていただくようお願い致します。</p><p>指示を守って頂けない場合は、ご退場をお願いする場合もございます。</p><p>&nbsp;</p><p>安全な会場運営、定刻での開演にはお客さま皆様のご協力が必要になります。</p><p>何卒、ご理解の程、宜しくお願い致します。</p>"
+    },
+    {
+      "category": "event",
+      "code": "E00003",
+      "title": "3月17日（木）「欅坂46 生中継! デビューカウントダウンライブ!!」当日券販売のお知らせ",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/E00003?ima=0000",
+      "pubdate": "2016/03/16 00:00:00",
+      "thumbnail": null,
+      "content": "<p>いよいよ明日に迫りました「欅坂46 生中継! デビューカウントダウンライブ!!」。</p><p>おかげさまで大変多くのお申込みをいただきましたが、前売受付のキャンセル分とカメラ席調整による、若干分のチケットのご用意が出来ましたので、当日券として販売致します。<br />お一人様1枚限り。枚数に限りがありますので、無くなり次第終了とさせていただきます。予めご了承ください。&nbsp;</p><p><br />＜発売情報＞</p><p>3月17日（木）16:00～東京国際フォーラム ホールA当日券売場にて</p><p>料金　指定1,000円（税込）</p><p>※お一人様1枚限り。無くなり次第終了となります。</p><p>&nbsp;</p><p>＜公演情報＞</p><p>「欅坂46 生中継! デビューカウントダウンライブ!!」</p><p><br />【日時・会場】</p><p>■2016年3月17日（木） &nbsp; 開場17:00／開演18:40</p><p>東京国際フォーラム ホールA</p><p><br />【料金】</p><p>指定 1,000円(税込)</p><p><br />【お問合せ】</p><p>Zeppライブ　03-5575-5170　(平日 13:00～17:00)</p><p>※客席を含む会場内の映像・写真が公開されることがあります。</p><p>※出演者は予告なく変更になる場合がございますので、予めご了承ください。</p>"
+    },
+    {
+      "category": "media",
+      "code": "M00022",
+      "title": "デビューシングル「サイレントマジョリティー」のMusic Videoフルサイズを期間限定で公開！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00022?ima=0000",
+      "pubdate": "2016/03/16 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "4月6日（水）リリースのデビューシングル「サイレントマジョリティー」のMusic Videoフルサイズを期間限定で公開致しました！<br />是非みなさまチェックしてみて下さい！<br /><br /><a href=\"https://www.youtube.com/watch?v=DeGkiItB9d8\">「サイレントマジョリティー」Music Videoはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00023",
+      "title": "「JAPAN芸能カルチャー研究所」のインタビューに菅井友香が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00023?ima=0000",
+      "pubdate": "2016/03/15 00:00:00",
+      "tags": [
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "菅井友香のインタビューが掲載されます。<br /><br /><a href=\"http://japan-culture-labo.com/1458\">JAPAN芸能カルチャー研究所のインタビューページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00021",
+      "title": "「EX大衆」(3月15日(水)発売)に今泉佑唯、小林由依、志田愛佳、渡邉理佐が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00021?ima=0000",
+      "pubdate": "2016/03/15 00:00:00",
+      "tags": [
+        "07",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "今泉佑唯、小林由依、志田愛佳、渡邉理佐の撮り下ろし写真とインタビューが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00020",
+      "title": "3月15日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」には守屋茜が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00020?ima=0000",
+      "pubdate": "2016/03/15 00:00:00",
+      "tags": [
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "守屋茜の撮り下ろし写真とインタビューが掲載されます。<br /><br /><a href=\"http://hustlepress.co.jp/keyakizaka46_20/\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」サイトはコチラ</a>"
+    },
+    {
+      "category": "shakehands",
+      "code": "S00003",
+      "title": "デビューシングル 『サイレントマジョリティー』　発売記念 個別握手会　第7次～第10次応募受付のご案内",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/S00003?ima=0000",
+      "pubdate": "2016/03/15 00:00:00",
+      "thumbnail": null,
+      "content": "<p>欅坂46デビューシングル『サイレントマジョリティー』 forTUNE music限定個別握手会参加券付通常盤（SRCL-9041）ですが、下記内容で、第7次～第10次の応募受付を行います。<br /> 詳細をご確認いただき、みなさま奮ってご応募ください。</p><p><br /> <strong>★抽選購入申込スケジュール★</strong><br /> <strong>【第7次応募受付】 2016年3月24日（木）15：00 ～ 3月25日（金）14：00 まで</strong><br /> <strong>（抽選結果連絡：2016年3月25日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</strong><br /> <strong>※第7次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</strong><br /> <strong>※第6次応募受付にて、販売予定数量に達した場合、第7次応募受付は実施いたしません。</strong></p><p><strong>※おまとめサービス対象外</strong></p><p><br /> <strong>【第8次応募受付】 2016年3月31日（木）15：00 ～ 4月1日（金）14：00 まで</strong><br /> <strong>（抽選結果連絡：2016年4月1日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</strong><br /> <strong>※第8次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</strong><br /> <strong>※第7次応募受付にて、販売予定数量に達した場合、第8次応募受付は実施いたしません。</strong></p><p><strong>※おまとめサービス対象外</strong></p><p><br /> <strong>【第9次応募受付】 2016年4月7日（木）15：00 ～ 4月8日（金）14：00 まで</strong><br /> <strong>（抽選結果連絡：2016年4月8日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</strong><br /> <strong>※第9次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</strong><br /> <strong>※第8次応募受付にて、販売予定数量に達した場合、第9次応募受付は実施いたしません。</strong></p><p><strong>※おまとめサービス対象外</strong></p><p><br /> <strong>【第10次応募受付】 2016年4月14日（木）15：00 ～ 4月15日（金）14：00 まで</strong><br /> <strong>（抽選結果連絡：2016年4月15日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</strong><br /> <strong>※第10次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</strong><br /> <strong>※第9次応募受付にて、販売予定数量に達した場合、第10次応募受付は実施いたしません。</strong></p><p><strong>※2016年5月1日（日）京都・京都パルスプラザ開催分は最終受付となります。</strong></p><p><strong>※おまとめサービス対象外</strong></p><p><br /> <strong>≪受付イベント日程／会場≫</strong><br /> 　※全5会場予定。</p><p>(1)2016年5月1日（日）京都・京都パルスプラザ</p><p>(2)2016年5月15日（日）愛知・ポートメッセなごや</p><p>(3)2016年5月28日（土）千葉・幕張メッセ</p><p>(4)2016年6月4日（土）神奈川・パシフィコ横浜</p><p>(5)2016年6月26日（日）神奈川・パシフィコ横浜</p><p>&nbsp;</p><p>配送予定日：<br /> 2016年4月6日(水)までに配送予定</p><p>※第8次応募以降は発売日以降、入金確認次第順次出荷。</p><p>&nbsp;</p><p>※おまとめサービス※</p><p>おまとめサービス対象（第6次応募まで）</p><p>おまとめサービスとは、複数回に分けてご注文いただいたお客様の注文を自動的に１配送にまとめて出荷するサービスです。</p><p>●複数回のお申込分を出荷前におまとめする機能です。</p><p>●以下の条件に合致した場合におまとめいたします。</p><p>・同一IDのお客様のご注文分である。</p><p>・同一の配送先が指定されている。</p><p>・お支払方法がクレジットカード払いである。</p><p>●１おまとめの最大単位は、商品・特典の種類数合計が130明細です。</p><p>　最大明細数を超える場合はおまとめ結果が複数単位となります。</p><p>　１注文分が複数単位に分かれてまとまる事はございません。</p><p>&nbsp;</p><p>*「オンライン収納代行（コンビニ払い、Pay-easy、ネットバンキング）」は、おまとめサービス適用対象外です。</p><p>&nbsp;</p><p>欅坂46　デビューシングル『サイレントマジョリティー』forTUNE music限定個別握手会参加券付通常盤（SRCL-9041）の抽選購入申し込みについての詳細は、「forTUNE music(<a href=\"http://fortunemusic.jp/\">http://fortunemusic.jp/</a>)」をご覧ください。</p>"
+    },
+    {
+      "category": "release",
+      "code": "R00003",
+      "title": "4月6日（水）リリース、デビューシングル「サイレントマジョリティー」の収録内容発表！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/R00003?ima=0000",
+      "pubdate": "2016/03/14 00:00:00",
+      "thumbnail": null,
+      "content": "4月6日（水）にリリース致します、デビューシングル「サイレントマジョリティー」の収録内容を発表致します！<br />詳細は下記URLをご参照ください。<br /><br /><a href=\"http://www.keyakizaka46.com/mob/pageShw.php?site=k46o&ima=4309&cd=silent_majority\">「サイレントマジョリティー」収録内容はコチラ！</a>"
+    },
+    {
+      "category": "other",
+      "code": "O00001",
+      "title": "3月17日（木）欅坂46 生中継！ デビューカウントダウンライブ！！ における、祝花・プレゼントに関しまして",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/O00001?ima=0000",
+      "pubdate": "2016/03/14 00:00:00",
+      "thumbnail": null,
+      "content": "<p>■祝花について</p><p>&nbsp;3月17日（木）・東京国際フォーラム ホールAにて開催される「欅坂46 生中継！ デビューカウントダウンライブ！！」に際し、メンバーへの祝花をお送りいただく場合は、<span style=\"text-decoration: underline;\"><strong>3月17（木）の9～12時に会場に到着するよう手配をお願いいたします</strong></span>。<br />また、<span style=\"text-decoration: underline;\"><strong>引き取りに関しましては、必ず同日3/17（木）22～23時の間で引き揚げていただくよう、ご手配をお願いいたします</strong></span>。</p><p><br />※3/17（木）以前に到着しても会場の都合で受け取ることが出来ません。必ず期日指定でのご手配をお願いします。<br />締切り時間を過ぎて届いたものに関しましては、主催側にて飾らないという判断をさせていただくことがあります。</p><p>また、祝花の数や、生花の状態を見て、締切りに間に合っている場合でもスタッフの判断で取り下げさせていただく場合がございますので、あらかじめご了承ください。</p><p>飾る場所、並び等に関してのリクエストにはお応えできません。主催側にて判断させていただきます。</p><p><br />※お客様ご自身で祝花の装飾をすることは出来ません。<br />必ず業者にお願いして下さい。<br />また、一人でも多くのお客さまからの祝花を並べることが出来るよう、施工等を必要とする装飾花はなるべくご遠慮ください。<br />主催者判断で掲出をお断りする場合があります。</p><p>&nbsp;</p><p>■手紙・プレゼント・応援幕について</p><p>メンバーへのお手紙・プレゼント・応援幕の持ち込みは禁止とさせていただきます。会場にお持ちいただいても、お預かりすることは出来ません。予めご了承ください</p><p>&nbsp;<br />ご質問、不明点等は下記までお問合せ下さい。&nbsp;</p><p>問合せ先 ： Zeppライブ</p><p>03-5575-5170　(平日13:00～17:00)</p>"
+    },
+    {
+      "category": "goods",
+      "code": "G00002",
+      "title": "3月17日（木）欅坂46 生中継！ デビューカウントダウンライブ！！ におけるグッズ販売に関して",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/G00002?ima=0000",
+      "pubdate": "2016/03/14 00:00:00",
+      "thumbnail": null,
+      "content": "<p>3月17日（木）東京国際フォーラム ホールAにて開催される「欅坂46 生中継！ デビューカウントダウンライブ！！」におけるグッズ販売に関しまして、たくさんのお問合せをいただきましたが、当日のグッズ販売の予定はありません。<br />あらかじめ、ご了承ください。</p>"
+    },
+    {
+      "category": "media",
+      "code": "M00019",
+      "title": "3月13日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」-番外編-に土生瑞穂が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00019?ima=0000",
+      "pubdate": "2016/03/13 00:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "土生瑞穂の撮り下ろし写真と自分以外のメンバーの呼び方&印象ひとことアンケートが掲載されます。<br /><br /><a href=\"http://hustlepress.co.jp/keyakizaka46_19/\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」サイトはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00018",
+      "title": "「ヤングアニマル」6号(3月11日(金)発売)表紙・巻頭・別冊付録にメンバー21人が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00018?ima=0000",
+      "pubdate": "2016/03/11 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "メンバー21人の撮り下ろし写真が掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "M00015",
+      "title": "「週刊少年マガジン」15号(3月9日(水)発売)表紙・巻頭に今泉佑唯、小林由依、鈴本美愉、平手友梨奈、渡辺梨加が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00015?ima=0000",
+      "pubdate": "2016/03/09 00:00:00",
+      "tags": [
+        "07",
+        "12",
+        "17",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "<span style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'MS Pゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">今泉佑唯、小林由依、鈴本美愉、平手友梨奈、渡辺梨加の撮り下ろし写真が掲載されます。</span>"
+    },
+    {
+      "category": "media",
+      "code": "M00014",
+      "title": "3月8日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」には土生瑞穂が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00014?ima=0000",
+      "pubdate": "2016/03/08 00:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "<span style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">土生瑞穂の撮り下ろし写真とインタビューが掲載されます。<br /><br /><a href=\"http://hustlepress.co.jp/keyakizaka46_18/\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」サイトはコチラ</a><br /></span>"
+    },
+    {
+      "category": "release",
+      "code": "R00002",
+      "title": "4月6日（水）発売　デビューシングル　タイトル&タイアップ決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/R00002?ima=0000",
+      "pubdate": "2016/03/07 00:00:00",
+      "tags": [
+        "pickup4"
+      ],
+      "thumbnail": null,
+      "content": "<span style=\"font-size: 10pt;\">4月6日（水）にリリースとなる欅坂46のデビューシングルのタイトルとタイアップが決定致しました！</span><br /><br /><strong><span style=\"font-size: 10pt;\">≪タイトル&タイアップ≫</span></strong><br /><strong><span style=\"font-size: 10pt;\">「サイレントマジョリティー」&hellip;服、借りホーダイ&ldquo;メチャカリ &lsquo;TV CMソング</span></strong><br /><br /><span style=\"font-size: 10pt;\"><a href=\"https://mechakari.com/\">メチャカリのオフィシャルサイトはコチラ</a></span><br /><span style=\"font-size: 10pt;\">※サイト内からメンバー21人が出演しております、全21パターンのCM映像がご覧いただけます。</span><br /><br /><br /><span style=\"font: 10pt/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px;\"><strong>≪商品概要≫</strong><br />4月6日(水)発売　欅坂46 デビューシングル「サイレントマジョリティー」≫</span><br style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\" /><span style=\"font: 10pt/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">初回仕様限定盤TYPE-A(SRCL-9035～9036)　税抜\\1,528&nbsp; CD+DVD</span><br style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\" /><span style=\"font: 10pt/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">初回仕様限定盤TYPE-B(SRCL-9037～9038)　税抜\\1,528&nbsp; CD+DVD</span><br style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\" /><span style=\"font: 10pt/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">初回仕様限定盤TYPE-C(SRCL-9039～9040)　税抜\\1,528&nbsp; CD+DVD</span><br style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\" /><span style=\"font: 10pt/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">通常盤(SRCL-9041)　税抜\\972 CDのみ</span><br style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\" /><br style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\" /><span style=\"font: 10pt/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">★初回仕様限定盤共通封入特典★</span><br style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\" /><span style=\"font: 10pt/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">「全国握手会イベント参加券orスペシャルプレゼント応募券」1枚封入</span><br style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\" /><span style=\"font: 10pt/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; font-size-adjust: none; font-stretch: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">「メンバー生写真」ランダム1枚封入<br /></span><br style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\" /><span style=\"font-size: 10pt;\"><a href=\"/s/k46o/page/debut0406?ima=0000\">※握手会の詳細はコチラ</a></span><br /><span style=\"font-size: 10pt;\"><a href=\"/s/k46o/news/detail/R00008?ima=0000\">※スペシャルプレゼントの応募詳細はコチラ</a></span><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M00013",
+      "title": "「欅って、書けない?」放送時間変更のお知らせ",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00013?ima=0000",
+      "pubdate": "2016/03/06 00:00:00",
+      "thumbnail": null,
+      "content": "<span style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">本日の番組放送時間ですが、25:25～25:55となります。</span>"
+    },
+    {
+      "category": "media",
+      "code": "M00012",
+      "title": "「ビッグコミックスピリッツ」15号(3月7日(月)発売)表紙・巻頭に菅井友香、土生瑞穂、平手友梨奈が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00012?ima=0000",
+      "pubdate": "2016/03/06 00:00:00",
+      "tags": [
+        "11",
+        "14",
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "<span style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'MS Pゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">菅井友香、土生瑞穂、平手友梨奈の撮り下ろし写真とインタビューが掲載されます。</span>"
+    },
+    {
+      "category": "media",
+      "code": "M00011",
+      "title": "3月5日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」-番外編-に長沢菜々香が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00011?ima=0000",
+      "pubdate": "2016/03/05 15:00:00",
+      "thumbnail": null,
+      "content": "<span style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">長沢菜々香の撮り下ろし写真と自分以外のメンバーの呼び方&印象ひとことアンケートが掲載されます。<br /><br /><a href=\"http://hustlepress.co.jp/keyakizaka46_17/\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」サイトはコチラ</a><br /></span>"
+    },
+    {
+      "category": "event",
+      "code": "E00002",
+      "title": "3月5日（土）欅坂46　名古屋＆大阪初上陸　ミニ握手会　開催会場のお知らせ",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/E00002?ima=0000",
+      "pubdate": "2016/03/05 01:00:00",
+      "thumbnail": null,
+      "content": "<p>お待たせ致しました。<br />3月5日（土）欅坂46メンバーが名古屋と大阪に初上陸する、ミニ握手会の開催会場をお知らせいたします。</p><p>【名古屋】イオンモール木曽川　ノースコート<br />【大阪】あべのハルカス　空の広場</p><p>となります。たくさんのご来場をお待ちしております。</p><p>【日時・会場・参加メンバー】<br />2016年3月5日(土)<br />・名古屋　イオンモール木曽川　ノースコート<br />　<a href=\"http://kisogawa-aeonmall.com/\">http://kisogawa-aeonmall.com/</a><br />　1部参加メンバー：石森虹花、織田奈那、鈴本美愉、平手友梨奈、渡邉理佐<br />　2部参加メンバー：尾関梨香、菅井友香、土生瑞穂、渡辺梨加<br />&nbsp;<br />・大阪あべのハルカス　空の広場<br />　<a href=\"http://www.abenoharukas-300.jp/\">http://www.abenoharukas-300.jp/</a><br />　1部参加メンバー：上村莉菜、小林由依、佐藤詩織、長沢菜々香、米谷奈々未<br />　2部参加メンバー：小池美波、齋藤冬優花、志田愛佳、守屋茜</p><p>※今泉佑唯、原田葵、長濱ねるは欠席となります。<br />&nbsp;<br />1部11:00 整理券配布開始&nbsp; / 12:00 ミニ握手会START　　<br />2部15:00 整理券配布開始　/ 16:00 ミニ握手会START<br />※観覧フリー<br />※全会場同時開催<br />&nbsp;<br />【イベント内容】<br />・ミニ握手会<br />※ミニ握手会に参加するには整理券が必要になります。参加方法は下記の【イベント参加方法】をご確認下さい。<br />　　<br />【イベント参加方法】<br />イベント当日、上記整理券配布開始時刻より会場にて整理券を配布致します。<br />※整理券配布場所は当日の状況により変更になる可能性がございますので、<br />会場の係員の指示に従ってください。<br />※整理券は数に限りがございますので、お並びいただいているお客様がいらっしゃいましても、<br />　途中で終了する場合がございます。予めご了承下さい。<br />&nbsp;<br />【共通注意事項】<br />・イベントに関して会場への直接のお問い合わせはご遠慮ください。<br />・当日は公共交通機関でお越しください。<br />・会場設営のため、場所取りをされたとしても、移動をお願いする可能性がございますので、予めご了承ください。<br />・整理券は1枚につき、1回限り、1名様のみ、当日限りの有効とさせて頂きます。<br />・整理券の再発行は致しません。紛失等にはご注意下さい。<br />・整理券の譲渡および転売は一切禁止させて頂きます。<br />・イベント当日、諸事情によりイベント自体が中止となる場合がございます。<br />・当日の事故・混乱防止のため、イベントでは様々な制限を設けさせて頂くことがございます。<br />・諸事情によりイベントの企画内容や開催時間等が変更になる場合もございます。<br />・当日はマスコミ・メディアの取材・撮影が入る場合がございます。予めご了承下さい。<br />・客席を含む会場内の映像・写真が公開されることがあります。<br />・荒天の場合、イベント中止になる場合がございます。予めご了承下さい。<br />・小学生以上の方は握手会に参加される場合、整理券が必要になります。<br />・握手会は、スタッフがお客様の肩や腕などに触れて誘導する場合がございます。ご了承の上、ご参加下さい。<br />・お酒を飲んでのイベント参加は禁止させて頂きます。<br />・イベント運営の時間は十分に確保させて頂いておりますが、万が一、時間内にお客様のお持ちの参加券をご利用になれなかった場合の保証等は致しかねますのでご了承ください。<br />・会場内における貴重品管理は各自でお願い致します。また施設内や会場での荷物置き等による場所取り行為や座り込みは禁止させて頂きます。スタッフにより荷物を移動させて頂く場合やお客様自身、ご移動して頂く場合もございます。<br />・当日は事故・混乱防止のため、様々な制限を設けさせて頂くことがございます。<br />・予想を大きく上回る人数が来場した場合、イベント時に会場への入場を制限させていただく可能性がございます。</p>"
+    },
+    {
+      "category": "event",
+      "code": "E00001",
+      "title": "緊急告知! 3月5日（土）欅坂46　名古屋＆大阪初上陸　ミニ握手会開催決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/E00001?ima=0000",
+      "pubdate": "2016/03/04 12:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "3月5日（土）に欅坂46メンバーが名古屋と大阪に初上陸！ ミニ握手会を開催致します。<br />下記詳細をご確認の上、お越しください。皆様のご来場お待ちしております！<br />なお、各地の開催会場に関しましては、本日4日（金）25時頃（5日（土）深夜1時頃）に発表いたします。<br /> <br />【日時・会場・参加メンバー】<br />2016年3月5日(土)<br />・名古屋（会場名は4日（金）25時頃発表）<br />　1部参加メンバー：石森虹花、織田奈那、鈴本美愉、平手友梨奈、渡邉理佐<br />　2部参加メンバー：尾関梨香、菅井友香、土生瑞穂、渡辺梨加<br /> <br />・大阪（会場名は4日（金）25時頃発表）<br />　1部参加メンバー：上村莉菜、小林由依、佐藤詩織、長沢菜々香、米谷奈々未<br />　2部参加メンバー：小池美波、齋藤冬優花、志田愛佳、守屋茜<br /><br />※今泉佑唯、原田葵、長濱ねるは欠席となります。<br /> <br />1部11:00 整理券配布開始 / 12:00 ミニ握手会START　　<br />2部15:00 整理券配布開始　/ 16:00 ミニ握手会START<br />※観覧フリー<br />※全会場同時開催<br /> <br />【イベント内容】<br />・ミニ握手会<br />※ミニ握手会に参加するには整理券が必要になります。参加方法は下記の【イベント参加方法】をご確認下さい。<br />　　<br />【イベント参加方法】<br />イベント当日、上記整理券配布開始時刻より会場にて整理券を配布致します。<br />※整理券配布場所は当日の状況により変更になる可能性がございますので、会場の係員の指示に従ってください。<br />※整理券は数に限りがございますので、お並びいただいているお客様がいらっしゃいましても、途中で終了する場合がございます。予めご了承下さい。<br /> <br />【共通注意事項】<br />・イベントに関して会場への直接のお問い合わせはご遠慮ください。<br />・当日は公共交通機関でお越しください。<br />・会場設営のため、場所取りをされたとしても、移動をお願いする可能性がございますので、予めご了承ください。<br />・整理券は1枚につき、1回限り、1名様のみ、当日限りの有効とさせて頂きます。<br />・整理券の再発行は致しません。紛失等にはご注意下さい。<br />・整理券の譲渡および転売は一切禁止させて頂きます。<br />・イベント当日、諸事情によりイベント自体が中止となる場合がございます。<br />・当日の事故・混乱防止のため、イベントでは様々な制限を設けさせて頂くことがございます。<br />・諸事情によりイベントの企画内容や開催時間等が変更になる場合もございます。<br />・当日はマスコミ・メディアの取材・撮影が入る場合がございます。予めご了承下さい。<br />・客席を含む会場内の映像・写真が公開されることがあります。<br />・荒天の場合、イベント中止になる場合がございます。予めご了承下さい。<br />・小学生以上の方は握手会に参加される場合、整理券が必要になります。<br />・握手会は、スタッフがお客様の肩や腕などに触れて誘導する場合がございます。ご了承の上、ご参加下さい。<br />・お酒を飲んでのイベント参加は禁止させて頂きます。<br />・イベント運営の時間は十分に確保させて頂いておりますが、万が一、時間内にお客様のお持ちの参加券をご利用になれなかった場合の保証等は致しかねますのでご了承ください。<br />・会場内における貴重品管理は各自でお願い致します。また施設内や会場での荷物置き等による場所取り行為や座り込みは禁止させて頂きます。スタッフにより荷物を移動させて頂く場合やお客様自身、ご移動して頂く場合もございます。<br />・当日は事故・混乱防止のため、様々な制限を設けさせて頂くことがございます。<br />・予想を大きく上回る人数が来場した場合、イベント時に会場への入場を制限させていただく可能性がございます。"
+    },
+    {
+      "category": "media",
+      "code": "S00002",
+      "title": "「ヤングガンガン」6号(3月4日(金)発売)表紙・巻頭・巻末・付録ポスターに今泉佑唯、小林由依、鈴本美愉、平手友梨奈、渡辺梨加が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/S00002?ima=0000",
+      "pubdate": "2016/03/04 00:00:00",
+      "tags": [
+        "07",
+        "12",
+        "17",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "<span style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">今泉佑唯、小林由依、鈴本美愉、平手友梨奈、渡辺梨加の撮り下ろし写真が掲載されます。</span>"
+    },
+    {
+      "category": "media",
+      "code": "M00010",
+      "title": "「週刊ヤングジャンプ」14号(3月3日(木)発売)に今泉佑唯、小林由依が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00010?ima=0000",
+      "pubdate": "2016/03/03 00:00:00",
+      "tags": [
+        "07"
+      ],
+      "thumbnail": null,
+      "content": "今泉佑唯、小林由依の撮り下ろし写真が掲載されます。<br /><br /><a href=\"http://youngjump.jp/gravure/imaizumi_kobayashi/photo/\">週刊ヤングジャンプグラビアビューアーはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00009",
+      "title": "本日3月3日（木）より、mechakari×欅坂46 公式Instagramスタート！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00009?ima=0000",
+      "pubdate": "2016/03/03 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "<p style=\"margin: 0mm 0mm 0pt;\">&nbsp;</p><p>earth music&ecologyなど人気ブランドの新作アイテムが定額でかり放題の新サービスmechakari（メチャカリ）を欅坂46メンバーがはじめることになりました！</p><p style=\"margin: 0mm 0mm 0pt;\">&nbsp;</p><p>その様子をmechakari&times;欅坂46 公式Instagramにて定期的にお届けしていきます！皆様是非チェックしてみて下さい！<br /><br /><a href=\"https://www.instagram.com/mechakari_keyakizaka46/\">mechakari&times;欅坂46公式インスタグラムアカウントはコチラ</a><br /><br /><a href=\"https://mechakari.com/\">mechakariオフィシャルサイトはコチラ</a><br /><br /><br /><br /></p><p style=\"margin: 0mm 0mm 0pt;\">&nbsp;</p>"
+    },
+    {
+      "category": "media",
+      "code": "M00017",
+      "title": "STREETJACK公式Webサイトオープン記念！今泉佑唯、鈴本美愉、平手友梨奈、渡辺梨加の「初登場グラビア」を期間限定プレイバック公開！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00017?ima=0000",
+      "pubdate": "2016/03/02 00:00:00",
+      "tags": [
+        "12",
+        "17",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "<p style=\"margin: 0mm 0mm 0pt;\"><span style=\"font-family: ＭＳ Ｐゴシック;\"><span lang=\"EN-US\"><span style=\"font-size: medium;\">STREETJACK2016</span></span><span style=\"font-size: medium;\">年</span><span lang=\"EN-US\"><span style=\"font-size: medium;\">1</span></span><span style=\"font-size: medium;\">月号（</span><span lang=\"EN-US\"><span style=\"font-size: medium;\">2015</span></span><span style=\"font-size: medium;\">年</span><span lang=\"EN-US\"><span style=\"font-size: medium;\">11</span></span><span style=\"font-size: medium;\">月発売）で</span><span lang=\"EN-US\"><span style=\"font-size: medium;\">STREETJACK</span></span><span style=\"font-size: medium;\">に初登場した今泉佑唯、鈴本美愉、平手友梨奈、渡辺梨加が、</span><span lang=\"EN-US\"><span style=\"font-size: medium;\">STREETJACK</span></span><span style=\"font-size: medium;\">の公式</span><span lang=\"EN-US\"><span style=\"font-size: medium;\">Web</span></span><span style=\"font-size: medium;\">サイトのオープンを記念して、初々しいファーストカットを期間限定で公開となりました。<br /><br /></span><span style=\"font-size: medium;\"><br /><a href=\"http://best-times.jp/articles/-/1156\">STREETJACK公式Webサイトはコチラ</a><br /></span></span></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00008",
+      "title": "3月31日(木)東京国際フォーラムAにて3月17日に開催されるデビュー直前イベントのCS放送TBSチャンネル1での再放送も決定!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00008?ima=0000",
+      "pubdate": "2016/03/02 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "3月31日(木)東京国際フォーラムAにて、3月17日に開催されるデビュー直前イベントのCS放送TBSチャンネル1での再放送が決定致しました！<br /><br /><p>&lt;再放送概要&gt;<br />CS放送TBSチャンネル1にて23:00～24:20<br />詳しくは、TBSチャンネルのホームページをご覧ください。</p><a href=\"http://www.tbs.co.jp/tbs-ch/item/o1801/\">TBSチャンネルのホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00016",
+      "title": "小学館ビジュアルウェブSにて今泉佑唯、鈴本美愉、平手友梨奈、渡辺梨加の少年サンデーグラビアセレクションが期間限定公開！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00016?ima=0000",
+      "pubdate": "2016/03/01 00:00:00",
+      "tags": [
+        "12",
+        "17",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "小学館ビジュアルウェブSにて今泉佑唯、鈴本美愉、平手友梨奈、渡辺梨加の少年サンデーグラビアセレクションが期間限定で公開となりました。<br /><br /><a href=\"http://visualweb.youngsunday.com/\">小学館ビジュアルウェブSはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00007",
+      "title": "「graduation 高校卒業2016」(3月1日(火)発売)に尾関梨香が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00007?ima=0000",
+      "pubdate": "2016/03/01 00:00:00",
+      "tags": [
+        "04"
+      ],
+      "thumbnail": null,
+      "content": "<span style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'MS Pゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">尾関梨香の撮り下ろし写真とインタビューが掲載されます。</span>"
+    },
+    {
+      "category": "media",
+      "code": "M00006",
+      "title": "「graduation 中学卒業2016」(3月1日(火)発売)に原田葵が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00006?ima=0000",
+      "pubdate": "2016/03/01 00:00:00",
+      "tags": [
+        "15"
+      ],
+      "thumbnail": null,
+      "content": "<span style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'MS Pゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">原田葵の撮り下ろし写真とインタビューが掲載されます。</span>"
+    },
+    {
+      "category": "media",
+      "code": "M00005",
+      "title": "3月1日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」には長沢菜々香が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00005?ima=0000",
+      "pubdate": "2016/03/01 00:00:00",
+      "thumbnail": null,
+      "content": "<span style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">長沢菜々香の撮り下ろし写真とインタビューが掲載されます。<br /><br /><a href=\"http://hustlepress.co.jp/keyakizaka46_16/\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない!」サイトはコチラ</a><br /></span>"
+    }
+  ],
+  "count": "58"
 }

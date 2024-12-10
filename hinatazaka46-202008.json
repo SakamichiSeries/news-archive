@@ -1,4 +1,580 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "media",
+      "code": "M00517",
+      "title": "9月3日(木)19:00〜日本テレビ「THE突破ファイル」に佐々木美玲が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00517?ima=0000",
+      "pubdate": "2020/08/31 17:00:00",
+      "tags": [
+        "8"
+      ],
+      "thumbnail": null,
+      "content": "9月3日(木)19:00〜日本テレビ「THE突破ファイル」に佐々木美玲が出演致します。<br />是非ご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/toppa/\">「THE突破ファイル」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00515",
+      "title": "9月1日(火)18:55～テレビ東京「内村のツボる動画」に加藤史帆、齊藤京子、河田陽菜、小坂菜緒、丹生明里が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00515?ima=0000",
+      "pubdate": "2020/08/31 16:40:00",
+      "tags": [
+        "5",
+        "6",
+        "13",
+        "14",
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "9月1日(火)18:55～テレビ東京「内村のツボる動画」に加藤史帆、齊藤京子、河田陽菜、小坂菜緒、丹生明里が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/tuborudouga/\">テレビ東京「内村のツボる動画」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00514",
+      "title": "8月31日(月)19:00〜テレビ朝日「クイズプレゼンバラエティー Qさま!! 3時間SP」に坂道軍団として、渡邉美穂が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00514?ima=0000",
+      "pubdate": "2020/08/31 16:30:00",
+      "tags": [
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "8月31日(月)19:00〜テレビ朝日「クイズプレゼンバラエティー Qさま!! 3時間SP」に坂道軍団として、渡邉美穂が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00513",
+      "title": "9月6日(日)18:30～文化放送「日向坂46の「ひ」」にて1stアルバム通常盤収録曲「See Through」を解禁！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00513?ima=0000",
+      "pubdate": "2020/08/31 13:50:00",
+      "thumbnail": null,
+      "content": "<p>9月6日(日)18:30～文化放送「日向坂46の「ひ」」にて1stアルバム通常盤収録曲「See Through」を解禁致します。</p><p><span>ぜひお聞きください。</span></p><p><span>&nbsp;</span></p><p><a href=\"http://www.joqr.co.jp/hinatazaka/\">文化放送「日向坂の「ひ」」オフィシャルサイトはこちら</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00512",
+      "title": "8月31日(月)～9月4日(金)5:50～日本テレビ「ZIP! 」内にて、「流行ニュース キテルネ！日向坂46スペシャルコラボ」が放送！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00512?ima=0000",
+      "pubdate": "2020/08/30 23:00:00",
+      "tags": [
+        "5",
+        "6",
+        "8",
+        "12",
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "<span>8月31日(月)～9月4日(金)5:50～日本テレビ「ZIP! 」内にて、「流行ニュース キテルネ！日向坂46スペシャルコラボ」が放送されます。<br />ぜひご覧ください。<br /><br />出演スケジュール<br />8月31日(月)：佐々木美玲<br />9月1日(火)：金村美玖<br />9月2日(水)：齊藤京子<br />9月3日(木)：加藤史帆<br />9月4日(金)：小坂菜緒<br /><br />※生放送のため内容の変更がある場合がございます。<br />※当コーナーは6:50頃からのO.A.を予定しております。<br /><br /><a href=\"https://www.ntv.co.jp/zip/\">日本テレビ「ZIP!」オフィシャルサイトはこちら</a><br /></span>"
+    },
+    {
+      "category": "media",
+      "code": "M00509",
+      "title": "8月31日(月)16:40～NHK-FM「ゆうがたパラダイス」にて1stアルバム収録曲「ただがむしゃらに」を解禁！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00509?ima=0000",
+      "pubdate": "2020/08/30 18:00:00",
+      "thumbnail": null,
+      "content": "<p><span>8月31日(月)16:40～NHK-FM「ゆうがたパラダイス」にて1stアルバムTYPE-B収録曲「ただがむしゃらに」を解禁致します。</span></p><p><span>ぜひお聞きください。</span></p><p><span>&nbsp;</span></p><p><a href=\"http://www.nhk.or.jp/yupara/\">NHK-FM「ゆうがたパラダイス」オフィシャルサイトはこちら</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00511",
+      "title": "8月29日(土)NBA Rakuten「とりあえずNBAファンになってみる？」配信お休みのお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00511?ima=0000",
+      "pubdate": "2020/08/29 14:10:00",
+      "tags": [
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "<p>8月29日(土)18:00～渡邉美穂が出演を予定しておりました、NBA Rakuten「とりあえずNBAファンになってみる？」でございますが、本日の配信は夏休みということで、お休みとなります。<br />次回配信は9月5日(土)を予定しておりますので、ぜひチェックしてみてください。</p><p><br /><a href=\"https://nba.rakuten.co.jp/\">NBA Rakutenオフィシャルサイトはこちら</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00510",
+      "title": "8月29日(土)、30(日)11:00～「Coca-Cola STAGE:0 eSPORTS High-School Championship 2020「ブロック代表決定戦決勝戦」」に佐々木久美、松田好花、宮田愛萌、渡邉美穂が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00510?ima=0000",
+      "pubdate": "2020/08/29 10:48:00",
+      "tags": [
+        "7",
+        "18",
+        "19",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "「Coca-Cola STAGE:0 eSPORTS High-School Championship 2020「ブロック代表決定戦決勝戦」」に、下記日程で日向坂46のメンバーが出演致します<br />ぜひご覧ください。<br /><br />Day 1<br />29日(土)11:00~<br />『リーグ・オブ・レジェンド』部門：佐々木久美、渡邉美穂 <br />『クラッシュ・ロワイヤル』部門：松田好花、宮田愛萌<br /><br />Day2<br />30日(日)11:00~<br />『リーグ・オブ・レジェンド』部門：佐々木久美、渡邉美穂&nbsp;<br />『クラッシュ・ロワイヤル』部門：松田好花、宮田愛萌<br /><br /><a href=\"https://www.YouTube.com/c/TOKYOeSPORTSHIGH\">「Coca-Cola STAGE:0 eSPORTS High-School Championship 2020「ブロック代表決定戦決勝戦」」視聴はこちら</a>"
+    },
+    {
+      "category": "other",
+      "code": "O00076",
+      "title": "9月1日（火）～ローソンにて「日向坂46 アプリスタンプラリー」が開催！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O00076?ima=0000",
+      "pubdate": "2020/08/28 19:05:17",
+      "thumbnail": null,
+      "content": "9月1日（火）～ローソンにて「日向坂46 アプリスタンプラリー」が開催されます。<br />ローソン店舗に来店し、ローソンアプリ内でスタンプをためて応募すると日向坂46オリジナルQUOカードやオリジナル缶バッジが当たります！<br /><br /><a href=\"https://www.lawson.co.jp/lab/campaign/hinatastamprally/\">ローソン「日向坂46 アプリスタンプラリー」の詳細はコチラ</a><br /><br /><br /><br />"
+    },
+    {
+      "category": "release",
+      "code": "R00053",
+      "title": "1stアルバム「ひなたざか」の最新アーティスト写真が公開！オフィシャルサイトのデザインも「ひなたざか」仕様にリニューアル！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00053?ima=0000",
+      "pubdate": "2020/08/28 18:00:00",
+      "thumbnail": null,
+      "content": "9月23日(水)リリースの1stアルバム「ひなたざか」の最新アーティスト写真を公開致しました。<br />また、オフィシャルサイトのデザインも｢ひなたざか｣仕様にリニューアルしております。<br />ぜひご覧ください。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/hinata_syugo_1stAL_1.jpg\" alt=\"\" width=\"5000\" height=\"3292\" /><br /><a href=\"https://www.hinatazaka46.com/s/official/page/1st_album?ima=0000\"><br />日向坂46 1stアルバム「ひなたざか」詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00508",
+      "title": "8月28日(金)発売の「読売中高生新聞」に佐々木久美のインタビューが掲載！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00508?ima=0000",
+      "pubdate": "2020/08/28 12:55:00",
+      "tags": [
+        "7"
+      ],
+      "thumbnail": null,
+      "content": "8月28日(金)発売の「読売中高生新聞」に佐々木久美のインタビューが掲載されています。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.yomiuri.co.jp/teen\">「読売中高生新聞」詳細はこちら</a>"
+    },
+    {
+      "category": "other",
+      "code": "S00168",
+      "title": "「ひかりTV主催 チャリティ企画」にて、日向坂46のチャリティグッズが販売！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/S00168?ima=0000",
+      "pubdate": "2020/08/28 12:00:00",
+      "thumbnail": null,
+      "content": "「ひかりTV主催 チャリティ企画」にて、日向坂46のチャリティグッズが下記日程で販売されます。<br />また、「ひかりＴＶ公式YouTube チャンネル」では、同じく下記日程で佐々木久美、金村美玖、富田鈴花、丹生明里、渡邉美穂の提供チャリティグッズの紹介動画も紹介される予定です。<br />ぜひチェックしてみてください。<br /><br />2020年9月4日(金)～2020年9月30日(水)<br /><br /><br /><a href=\"https://www.hikaritv.net/charity/index.html\">「ひかりTV主催 チャリティ企画」詳細はこちら</a><br /><a href=\"https://www.youtube.com/user/HikariCaesar\">「ひかりＴＶ公式YouTube チャンネル」はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00506",
+      "title": "8月27日(木)18:25～テレビ東京「どうぶつピース!!」に日向坂メンバーが出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00506?ima=0000",
+      "pubdate": "2020/08/27 16:10:00",
+      "thumbnail": null,
+      "content": "<span>テレビ東京「どうぶつピース!!」に、「日向坂で会いましょう」とのコラボ企画と題して日向坂46のメンバーが下記スケジュールで出演致します。<br /><span><br />8月27日(木)18:25～<br />9月3日(木)18:25～<br />9月10日(木)18:25～<br />9月17日(木)18:25～<br /></span><br /></span>ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/doubutsu_peace/\">テレビ東京「どうぶつピース!!」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00507",
+      "title": "「Platinum FLASH Vol.13」表紙に齊藤京子、中面に影山優佳、髙橋未来虹、森本茉莉、山口陽世が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00507?ima=0000",
+      "pubdate": "2020/08/27 15:10:00",
+      "tags": [
+        "4",
+        "6",
+        "22",
+        "23",
+        "24"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「<span>Platinum FLASH Vol.13</span>」表紙に齊藤京子、中面に影山優佳、髙橋未来虹、森本茉莉、山口陽世の撮り下ろし写真とインタビューが掲載されております。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://smart-flash.jp/platinumflash-guidance\">「Platinum FLASH Vol.13」詳細はこちら</a>"
+    },
+    {
+      "category": "release",
+      "code": "R00052",
+      "title": "9月23日(水)にリリース致します1stアルバム「ひなたざか」のジャケット写真を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00052?ima=0000",
+      "pubdate": "2020/08/26 12:00:00",
+      "thumbnail": null,
+      "content": "9月23日(水)にリリース致します1stアルバム「ひなたざか」のジャケット写真が公開となりました。<br /><br />TYPE-A<br /><img src=\"https://cdn.hinatazaka46.com/files/14/hnt46_1stAlbum_jk_fix_A1.jpg\" alt=\"\" width=\"2251\" height=\"1673\" /><br /><br />TYPE-B<br /><img src=\"https://cdn.hinatazaka46.com/files/14/hnt46_1stAlbum_jk_fix_B1.jpg\" alt=\"\" width=\"1690\" height=\"1501\" /><br /><br />通常盤<br /><img src=\"https://cdn.hinatazaka46.com/files/14/hnt46_1stAlbum_jk_fix_Tsujo1.jpg\" alt=\"\" width=\"1424\" height=\"1412\" /><br /><br /><a href=\"https://www.hinatazaka46.com/s/official/news/detail/R00051?ima=0000\">1stアルバム「ひなたざか」詳細はこちら</a>"
+    },
+    {
+      "category": "release",
+      "code": "R00051",
+      "title": "9月23日(水)リリース、1stアルバム「ひなたざか」収録内容発表！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00051?ima=0000",
+      "pubdate": "2020/08/26 01:00:00",
+      "thumbnail": null,
+      "content": "<p><span>9月23日(水)リリース、1stアルバム「ひなたざか」収録内容発表が発表されました！</span><span><br /></span><span><br /><br /></span></p><p><span><strong>◆1stアルバムタイトル◆</strong><br /><span style=\"font-size: 16pt;\"><strong>ひなたざか<br /><br /></strong></span></span></p><p>発売日：<span>2020</span>年<span>9</span>月<span>23</span>日（水）</p><p>商品形態：初回仕様限定盤<span>(</span>豪華版<span>)TYPE-A</span>　<span>CD1</span>枚<span>+Blu-ray</span>　<span>5,445</span>円<span>(</span>税抜き<span>)</span>　<span>SRCL-11580</span>～<span>11581</span></p><p>初回仕様限定盤<span>TYPE-B</span>　<span>CD1</span>枚<span>+Blu-ray</span>　<span>4,909</span>円<span>(</span>税抜き<span>)</span>　<span>SRCL-11582</span>～<span>11583</span></p><p>通常盤　<span>CD only</span>　<span>2,545</span>円<span>(</span>税抜き<span>)</span>　<span>SRCL-11584</span></p><p>&nbsp;</p><p>★初回仕様限定盤共通封入特典<span>★<br /> </span>「スペシャル応募券」<span>1</span>枚封入<span><br /> </span>※スペシャル応募詳細に関しては、後日オフィシャルサイトにて発表</p><p><br /> 【初回仕様限定盤<span> TYPE-A</span>】<span><br /> ■</span>スペシャル三方背<span>BOX<br /> ■</span>豪華フォトブック永久仕様<span><br /> ■</span>スペシャル応募券封入<span><br /> <br /> </span>【初回仕様限定盤<span> TYPE-B</span>】<span><br /> ■</span>三方背<span>BOX<br /> ■</span>フォトブック永久仕様<span><br /> ■</span>スペシャル応募券封入</p><p>&nbsp;</p><p><strong>≪収録曲全<span>27</span>曲一覧≫</strong></p><p><strong>既存曲：</strong></p><p>キュン（<span>1stSG</span>）</p><p>ドレミソラシド（<span>2ndSG</span>）</p><p>こんなに好きになっちゃっていいの？（<span>3rdSG</span>）</p><p>ソンナコトナイヨ（<span>4thSG</span>）</p><p>JOYFUL LOVE（<span>1stSG</span>）</p><p>キツネ（<span>2ndSG</span>）</p><p>青春の馬（<span>4thSG</span>）</p><p>ときめき草（<span>1stSG</span>）</p><p>ホントの時間（<span>3rdSG</span>）</p><p>川は流れる（<span>3rdSG</span>）</p><p>まさか　偶然&hellip;（<span>3rdSG</span>）</p><p>Footsteps（<span>1stSG</span>）</p><p>My god（<span>2ndSG</span>）</p><p>Cage（<span>2ndSG</span>）</p><p>Dash＆<span>Rush</span>（<span>2ndSG</span>）</p><p>ナゼー（<span>4thSG</span>）</p><p>&nbsp;</p><p><strong>リテイク曲：</strong></p><p>誰よりも高く跳べ！<span>2020</span></p><p>NO WAR in the future 2020</p><p>約束の卵<span> 2020</span></p><p>&nbsp;</p><p><strong>未発売曲：</strong></p><p>Overture</p><p>日向坂</p><p>&nbsp;</p><p><strong>新曲：</strong></p><p>アザトカワイイ</p><p>My fans</p><p>ただがむしゃらに</p><p>どうして雨だと言ったんだろう？</p><p>See Through</p><p>この夏をジャムにしよう</p><p>&nbsp;</p><p><strong>≪形態別収録内容≫</strong></p><p><span style=\"text-decoration: underline;\"><strong>初回仕様限定盤(豪華版)TYPE-A（SRCL-11580～1）</strong></span></p><p style=\"text-align: center;\"><img src=\"https://cdn.hinatazaka46.com/files/14/hnt46_1stAlbum_jk_fix_A1.jpg\" alt=\"\" width=\"200\" height=\"149\" /><br /><br /></p><p>DISC1／<span>CD</span>&nbsp;</p><ol><li>Overture</li><li>アザトカワイイ</li><li>青春の馬</li><li>ドレミソラシド</li><li>この夏をジャムにしよう</li><li>キツネ</li><li>ソンナコトナイヨ</li><li>こんなに好きになっちゃっていいの？</li><li>キュン</li><li>ホントの時間</li><li>My god</li><li>Dash＆<span>Rush</span></li><li>誰よりも高く跳べ！<span>2020</span></li><li>日向坂</li><li>JOYFUL LOVE</li></ol><p>&nbsp;<br />DISC2／<span>Blu-ray</span></p><p>・「アザトカワイイ」<span>Music Video</span></p><p>・日向坂<span>46</span>デビューカウントダウンライブ<span>!! in </span>横浜アリーナ～けやき坂<span>46 LAST LIVE</span>～</p><p>&nbsp;&nbsp;</p><p><span style=\"text-decoration: underline;\"><strong>初回仕様限定盤TYPE-B（SRCL-11582～3）　<br /><img src=\"https://cdn.hinatazaka46.com/files/14/hnt46_1stAlbum_jk_fix_B1.jpg\" alt=\"\" width=\"200\" height=\"178\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong>CD1枚<span>+Blu-ray</span><strong><br /></strong></span></p><p>&nbsp;</p><p>DISC1／<span>CD</span></p><ol><li>Overture</li><li>ドレミソラシド</li><li>ナゼー</li><li>NO WAR in the future 2020</li><li>ただがむしゃらに</li><li>アザトカワイイ</li><li>Cage</li><li>どうして雨だと言ったんだろう？</li><li>川は流れる</li><li>こんなに好きになっちゃっていいの？</li><li>キュン</li><li>ソンナコトナイヨ</li><li>キツネ</li><li>青春の馬</li><li>JOYFUL LOVE　　</li></ol><p><br />DISC2／<span>Blu-ray</span></p><p>・「アザトカワイイ」<span>Music Video</span></p><p>・日向坂<span>46</span>デビューカウントダウンライブ<span>!! in </span>横浜アリーナ～日向坂<span>46 FIRST LIVE</span>～</p><p>&nbsp;</p><p><span style=\"text-decoration: underline;\"><strong>通常盤（SRCL-11584）<br /><img src=\"https://cdn.hinatazaka46.com/files/14/hnt46_1stAlbum_jk_fix_Tsujo1.jpg\" alt=\"\" width=\"200\" height=\"198\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></span></p><ol><li>Overture</li><li>キュン</li><li>ドレミソラシド</li><li>こんなに好きになっちゃっていいの？</li><li>ソンナコトナイヨ</li><li>JOYFUL LOVE</li><li>ときめき草</li><li>Footsteps</li><li>キツネ</li><li>まさか　偶然&hellip;</li><li>青春の馬</li><li>アザトカワイイ</li><li>My fans</li><li>See Through</li><li>約束の卵<span> 2020</span></li></ol><p>&nbsp;</p><p><strong>≪歌唱メンバー一覧≫</strong></p><p><strong>既存曲：</strong></p><p>キュン（1stSG）</p><p>歌唱メンバー：井口眞緒、潮紗理菜、柿崎芽実、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの</p><p>&nbsp;</p><p>ドレミソラシド（2ndSG）</p><p>歌唱メンバー：井口眞緒、潮紗理菜、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの</p><p>&nbsp;</p><p>こんなに好きになっちゃっていいの？（3rdSG）</p><p>歌唱メンバー：井口眞緒、潮紗理菜、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、松田好花、宮田愛萌、渡邉美穂、上村ひなの</p><p>&nbsp;</p><p>ソンナコトナイヨ（4thSG）</p><p>歌唱メンバー：潮紗理菜、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの</p><p>&nbsp;</p><p>JOYFUL LOVE（1stSG）</p><p>歌唱メンバー：井口眞緒、潮紗理菜、柿崎芽実、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂</p><p>&nbsp;</p><p>キツネ（2ndSG）</p><p>歌唱メンバー：</p><p>井口眞緒、潮紗理菜、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの</p><p>&nbsp;</p><p>青春の馬（4thSG）</p><p>歌唱メンバー：潮紗理菜、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの</p><p>&nbsp;</p><p>ときめき草（1stSG）</p><p>歌唱メンバー：井口眞緒、潮紗理菜、柿崎芽実、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの</p><p>&nbsp;</p><p>ホントの時間（3rdSG）</p><p>歌唱メンバー：井口眞緒、潮紗理菜、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、松田好花、宮田愛萌、渡邉美穂、上村ひなの</p><p>&nbsp;</p><p>川は流れる（3rdSG）</p><p>歌唱メンバー：井口眞緒、潮紗理菜、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、松田好花、宮田愛萌、渡邉美穂、上村ひなの</p><p>&nbsp;</p><p>まさか　偶然&hellip;（3rdSG）</p><p>歌唱メンバー：富田鈴花、松田好花</p><p>&nbsp;</p><p>Footsteps（1stSG）</p><p>歌唱メンバー：加藤史帆、佐々木久美、佐々木美玲、高本彩花、小坂菜緒</p><p>&nbsp;</p><p>My god（2ndSG）</p><p>歌唱メンバー：井口眞緒、潮紗理菜、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依</p><p>&nbsp;</p><p>Cage（2ndSG）</p><p>歌唱メンバー：東村芽依、金村美玖、河田陽菜、丹生明里</p><p>&nbsp;</p><p>Dash＆Rush（2ndSG）</p><p>歌唱メンバー：金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの</p><p>&nbsp;</p><p>ナゼー（4thSG）</p><p>歌唱メンバー：東村芽依、河田陽菜、松田好花</p><p>&nbsp;</p><p><strong>リテイク曲：</strong></p><p>誰よりも高く跳べ！2020</p><p>歌唱メンバー：潮紗理菜、影山優佳、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの、髙橋未来虹、森本茉莉、山口陽世</p><p>&nbsp;</p><p>NO WAR in the future 2020</p><p>歌唱メンバー：潮紗理菜、影山優佳、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの、髙橋未来虹、森本茉莉、山口陽世</p><p>&nbsp;</p><p>約束の卵&nbsp;2020</p><p>歌唱メンバー：潮紗理菜、影山優佳、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの、髙橋未来虹、森本茉莉、山口陽世</p><p>&nbsp;</p><p><strong>未発売曲：</strong></p><p>Overture</p><p>&nbsp;</p><p>日向坂</p><p>歌唱メンバー：井口眞緒、潮紗理菜、柿崎芽実、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの</p><p>&nbsp;</p><p><strong>新曲：</strong></p><p>アザトカワイイ</p><p>歌唱メンバー：潮紗理菜、影山優佳、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの、髙橋未来虹、森本茉莉、山口陽世</p><p>&nbsp;</p><p>My fans</p><p>歌唱メンバー：潮紗理菜、影山優佳、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの、髙橋未来虹、森本茉莉、山口陽世</p><p>&nbsp;</p><p>ただがむしゃらに</p><p>歌唱メンバー：潮紗理菜、影山優佳、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、宮田愛萌、渡邉美穂、上村ひなの、髙橋未来虹、森本茉莉、山口陽世</p><p>&nbsp;</p><p>どうして雨だと言ったんだろう？</p><p>歌唱メンバー：加藤史帆、齊藤京子、佐々木美玲</p><p>&nbsp;</p><p>See Through</p><p>歌唱メンバー：金村美玖、小坂菜緒</p><p>&nbsp;</p><p>この夏をジャムにしよう</p><p>歌唱メンバー：上村ひなの、髙橋未来虹、森本茉莉、山口陽世</p>"
+    },
+    {
+      "category": "release",
+      "code": "R00050",
+      "title": "8月25日(火)文化放送「レコメン！」にて1stアルバム「ひなたざか」収録の新曲を解禁！収録内容も発表！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00050?ima=0000",
+      "pubdate": "2020/08/25 08:00:00",
+      "thumbnail": null,
+      "content": "<p><span>8月25日(火)文化放送「レコメン！」にて1stアルバム「ひなたざか」収録の新曲と収録内容を解禁致します。</span></p><p><span>ぜひお聞きください。</span></p><p><span>&nbsp;</span></p><p><a href=\"http://www.joqr.co.jp/reco/\">文化放送「レコメン！」オフィシャルサイトはこちら</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00505",
+      "title": "8月24日(月)20:00〜日本テレビ「世界まる見え!テレビ特捜部」に松田好花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00505?ima=0000",
+      "pubdate": "2020/08/24 10:30:00",
+      "tags": [
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "<p><span>8月24日(月)20:00〜日本テレビ「世界まる見え!テレビ特捜部」に松田好花が出演致します。<br />ぜひご覧ください。</span></p><br /><a href=\"https://www.ntv.co.jp/marumie/\">日本テレビ「世界まる見え!テレビ特捜部 」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00504",
+      "title": "8月24日(月)20:00～TBS「クイズ！THE違和感」に佐々木久美が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00504?ima=0000",
+      "pubdate": "2020/08/24 10:30:00",
+      "tags": [
+        "7"
+      ],
+      "thumbnail": null,
+      "content": "8月24日(月)20:00～TBS「クイズ！THE違和感」に佐々木久美が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/quiziwakan/\">TBS「クイズTHE違和感」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00503",
+      "title": "「CanCam」10月号に加藤史帆が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00503?ima=0000",
+      "pubdate": "2020/08/21 14:15:00",
+      "tags": [
+        "5"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「CanCam」10月号にCanCamモデルとして、加藤史帆の撮り下ろし写真が掲載されております。<br /><br /><span>ぜひチェックしてみてください。</span><br /><br /><a href=\"https://cancam.jp/\">「CanCam」オフィシャルサイトはこちら</a><br /><br /><br /><br /><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M00502",
+      "title": "「JJ」10月号に高本彩花が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00502?ima=0000",
+      "pubdate": "2020/08/21 14:15:00",
+      "tags": [
+        "10"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「JJ」10月号にJJ専属モデルとして、高本彩花が登場しております。<br /><br />ぜひチェックしてみてください。<br /><br /><a href=\"https://jj-jj.net/\">「JJ」オフィシャルサイトはこちら</a><br /><br /><br /><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M00501",
+      "title": "「Ray」10月号に佐々木久美が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00501?ima=0000",
+      "pubdate": "2020/08/21 14:15:00",
+      "tags": [
+        "7"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「Ray」10月号にRay専属モデルとして、佐々木久美の撮り下ろし写真が掲載されております。<br /><br /><span>ぜひチェックしてみてください。</span><br /><br /><a href=\"https://ray-web.jp/\">「Ray」オフィシャルサイトはこちら</a><br /><br /><br /><br /><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M00500",
+      "title": "8月20日(木)18:25~テレビ東京「どうぶつピース！！」に加藤史帆、佐々木久美、佐々木美玲、高本彩花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00500?ima=0000",
+      "pubdate": "2020/08/20 16:45:00",
+      "tags": [
+        "5",
+        "7",
+        "8",
+        "10"
+      ],
+      "thumbnail": null,
+      "content": "<span>8月20日(木)18:25~テレビ東京「どうぶつピース！！」に加藤史帆、佐々木久美、佐々木美玲、高本彩花が出演致します。<br /></span>ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/doubutsu_peace/\">テレビ東京「どうぶつピース！！」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00498",
+      "title": "日向坂46 1stアルバムリード曲「アザトカワイイ」Music Videoを公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00498?ima=0000",
+      "pubdate": "2020/08/20 12:01:00",
+      "thumbnail": null,
+      "content": "<p><span>9月23日(水)発売の1stアルバム『ひなたざか』リード曲「アザトカワイイ」Music Videoを公開</span><span>致しました。</span><span><br /> </span><span><span>是非ご覧ください。</span></span><span><br /> <br /> </span><span><a href=\"https://youtu.be/m-FRFhvM1EA\">「アザトカワイイ」Music Videoはこちら</a></span></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00499",
+      "title": "BS12 アニメ「かえるのピクルス」に金村美玖、丹生明里、渡邉美穂が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00499?ima=0000",
+      "pubdate": "2020/08/20 11:05:00",
+      "thumbnail": null,
+      "content": "10月4日(日)から全12話放送される、アニメ「かえるのピクルス」に金村美玖、丹生明里、渡邉美穂が出演致します。<br /> <br /> 是非ご覧ください。<br /> <br /><a href=\"https://pickles-anime.com\" target=\"_blank\">「かえるのピクルス」番組ホームページはこちら</a><br /> <br /> <br /> 番組名：<br /> 「かえるのピクルス - きもちのいろ - 」<br /> <br /> 放送：<br /> BS12にて<br /> 毎週日曜 21:55〜 ※初回10月4日(日)<br /> 再放送毎週月曜 7:57〜 ※初回10月5日(月)<br /> 12話（１クール）"
+    },
+    {
+      "category": "media",
+      "code": "M00497",
+      "title": "8月19日(水)19:30～「有吉ぃぃeeeee」公式YouTubeチャンネル「卓志ぃぃeeeee～田中卓志と日向坂46！クラロワ分からないぃぃeeeeeをスッキリぃぃeeeee!SP【クラッシュ・ロワイヤル】」に松田好花と宮田愛萌が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00497?ima=0000",
+      "pubdate": "2020/08/19 08:00:00",
+      "tags": [
+        "18",
+        "19"
+      ],
+      "thumbnail": null,
+      "content": "8月19日(水)19:30～「有吉ぃぃeeeee」公式YouTubeチャンネル「卓志ぃぃeeeee～田中卓志と日向坂46！クラロワ分からないぃぃeeeeeをスッキリぃぃeeeee!SP【クラッシュ・ロワイヤル】」に松田好花と宮田愛萌が出演致します。<br /><br />ぜひご覧ください。<br /><br /><a href=\"https://www.google.com/url?q=https://youtu.be/vAPuIGdNTnM&sa=D&source=calendar&usd=2&usg=AOvVaw2L0fwSvgED4utJHUzO1i3W\">視聴はこちらから</a>"
+    },
+    {
+      "category": "release",
+      "code": "R00049",
+      "title": "9月23日(水)リリース、1stアルバムタイトル発表!",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00049?ima=0000",
+      "pubdate": "2020/08/18 19:00:00",
+      "thumbnail": null,
+      "content": "<p><span>9月23日<span>(</span>水<span>)リリース</span>日向坂<span>46</span>の1stアルバムのタイトルが決定致しました<span>!</span></span><span><br /> </span><span>収録内容等の詳細は後日発表させて頂きます。</span><span><br /> <br /><br /></span></p><p><span><strong>◆1stアルバムタイトル◆</strong><br /><span style=\"font-size: 16pt;\"><strong>ひなたざか<br /><br /></strong></span></span></p><p>≪2020年9月23日(水)発売　日向坂46 1stアルバム『ひなたざか』≫</p><p>初回仕様限定盤(豪華版)TYPE-A　CD1枚+Blu-ray　5,445円(税抜き)　SRCL-11580～11581</p><p>初回仕様限定盤TYPE-B　CD1枚+Blu-ray　4,909円(税抜き)　SRCL-11582～11583</p><p>通常盤　CD only　2,545円(税抜き)　SRCL-11584<br /><br /></p><p><br /><strong>★初回仕様限定盤共通封入特典★</strong><br />「スペシャル応募券」1枚封入<br />※スペシャル応募詳細に関しましては、後日オフィシャルサイトにて発表させて頂きます。</p><p><br />【初回仕様限定盤 TYPE-A】<br />■スペシャル三方背BOX<br />■豪華フォトブック永久仕様<br />■スペシャル応募券封入<br /><br />【初回仕様限定盤 TYPE-B】<br />■三方背BOX<br />■フォトブック永久仕様<br />■スペシャル応募券封入</p>"
+    },
+    {
+      "category": "media",
+      "code": "M00496",
+      "title": "8月17日(月)24:15～テレビ朝日「しくじり先生 俺みたいになるな!! お笑い研究部「宮下草薙のラジオを考える」前編」に佐々木美玲が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00496?ima=0000",
+      "pubdate": "2020/08/17 20:22:00",
+      "tags": [
+        "8"
+      ],
+      "thumbnail": null,
+      "content": "<span>8月17日(月)24:15～テレビ朝日「しくじり先生 俺みたいになるな!! お笑い研究部「宮下草薙のラジオを考える」前編」に佐々木美玲が演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/shikujiri/\">テレビ朝日「しくじり先生　俺みたいになるな!!」オフィシャルサイトはこちら</a><br /></span>"
+    },
+    {
+      "category": "media",
+      "code": "M00495",
+      "title": "8月16日(日)22:00～TBS系列「林先生の初耳学！」に齊藤京子が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00495?ima=0000",
+      "pubdate": "2020/08/16 08:00:00",
+      "tags": [
+        "6"
+      ],
+      "thumbnail": null,
+      "content": "8月16日(日)22:00～TBS系列「林先生の初耳学！」に齊藤京子が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.mbs.jp/mimi/\">TBS系列「林先生の初耳学！」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00494",
+      "title": "8月15日(土)9:30~TBS「王様のブランチ」内コーナー、「ごはんクラブコーナー」に松田好花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00494?ima=0000",
+      "pubdate": "2020/08/14 23:10:00",
+      "tags": [
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "8月15日(土)9:30~TBS「王様のブランチ」内コーナー、「ごはんクラブコーナー」に松田好花が出演致します。<br />※生放送のため変更になる可能性がございます。<br /><br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/brunch/\">TBS「王様のブランチ」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00493",
+      "title": "テレビ東京「内村のツボる動画」番組内企画での近藤春菜さんとの「ドレミソラシド」スペシャルコラボMusic VideoがYouTubeで公開中！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00493?ima=0000",
+      "pubdate": "2020/08/13 22:15:00",
+      "thumbnail": null,
+      "content": "<span>テレビ東京「内村のツボる動画」番組内企画での</span>近藤春菜さんとの「ドレミソラシド」スペシャルコラボMusic VideoがYouTubeで公開されております。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.youtube.com/watch?v=-a_nzVieufc&feature=youtu.be\">近藤春菜さんとの「ドレミソラシド」スペシャルコラボMusic Video視聴はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00492",
+      "title": "9月5日(土)「マイナビ presents TOKYO GIRLS COLLECTION 2020 AUTUMN/WINTER」に加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高本彩花、小坂菜緒のモデル出演が決定！DASADAファッションステージも実施！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00492?ima=0000",
+      "pubdate": "2020/08/13 15:38:00",
+      "thumbnail": null,
+      "content": "<span>9月5日(土)「マイナビ presents TOKYO GIRLS COLLECTION 2020 AUTUMN/WINTER</span><span>」に加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高本彩花、小坂菜緒がモデル出演することが、そして、ブランド\"DASADA\"の新COLLECTIONファッションステージの実施が決定致しました。<br /><br /></span>ぜひご注目ください。<br /><br /><a href=\"https://girlswalker.com/tgc/20aw/\">「マイナビ presents TOKYO GIRLS COLLECTION 2020 AUTUMN/WINTER」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "event",
+      "code": "E00116",
+      "title": "【重要なお知らせ】4thシングル「ソンナコトナイヨ」スペシャルイベントに関して",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00116?ima=0000",
+      "pubdate": "2020/08/13 10:00:00",
+      "thumbnail": null,
+      "content": "<span>いつも日向坂46への応援、誠にありがとうございます。</span><br /><span>新型コロナウイルス感染拡大防止に伴い、日向坂46スペシャルイベントに関しまして、ご当選されたお客様にお知らせがございます。</span><br /><span>4thシングル「ソンナコトナイヨ」の発売を記念したスペシャルイベントですが、今もなお新型コロナウイルスに感染される方が多く発生しており、ウイルスの終息の目処が未だたっていない状況や、イベントにおける感染リスクの危険性に伴い、誠に申し訳ございませんが4thシングル「ソンナコトナイヨ」スペシャルイベントを延期とさせて頂きます。</span><br /><span>&nbsp;</span><br /><br /><span>【4thシングル「ソンナコトナイヨ」発売記念 スペシャルイベント】</span><br /><span>●‪2020年8月29日（土）‬＠都内某会場</span><br /><span>&nbsp;</span><br /><br /><span>ご当選されたお客様には、当選ハガキを既に発送させて頂いております。</span><br /><span>延期の詳細に関しましては、オフィシャルサイトにて追ってご案内させて頂きますので、当選ハガキをお持ちになってお待ち頂きます様、宜しくお願い申し上げます。</span><br /><span>&nbsp;</span><br /><br /><span>※なお上記に該当するのは、Aコース「私物サイン会」となり、その他のコースは該当しませんので、Bコース・Cコース・Dコースにご当選されたお客様には、随時プレゼントの発送をさせて頂きます。</span><br /><span>&nbsp;</span><br /><br /><span>Seed & Flower合同会社</span>"
+    },
+    {
+      "category": "media",
+      "code": "M00491",
+      "title": "8月13日(木)19:00〜日本テレビ「THE突破ファイル」2時間SPスタジオゲストに加藤史帆、渡邉美穂が、再現ドラマに佐々木久美、富田鈴花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00491?ima=0000",
+      "pubdate": "2020/08/13 09:52:00",
+      "tags": [
+        "5",
+        "7",
+        "15",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "8月13日(木)19:00〜日本テレビ「THE突破ファイル」2時間SPのスタジオゲストに加藤史帆、渡邉美穂が、再現ドラマに佐々木久美、富田鈴花が出演致します。<br />是非ご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/toppa/\">「THE突破ファイル」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00490",
+      "title": "8月13日(水)11:55～日本テレビ「ヒルナンデス！」に加藤史帆、渡邉美穂が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00490?ima=0000",
+      "pubdate": "2020/08/13 09:45:00",
+      "tags": [
+        "5",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "8月13日(水)11:55～日本テレビ「ヒルナンデス！」に加藤史帆、渡邉美穂が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"http://www.ntv.co.jp/hirunan/\">日本テレビ「ヒルナンデス！」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00489",
+      "title": "8月11日(火)文化放送「レコメン！」にて1stアルバム リード曲「アザトカワイイ」をラジオ初解禁！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00489?ima=0000",
+      "pubdate": "2020/08/11 13:10:00",
+      "thumbnail": null,
+      "content": "<p><span>8月11日(火)文化放送「レコメン！」にて、1stアルバム リード曲「アザトカワイイ」をラジオ初解禁致します。</span></p><p><span>ぜひお聞きください。</span></p><p><span>&nbsp;</span></p><p><a href=\"http://www.joqr.co.jp/reco/\">文化放送「レコメン！」オフィシャルサイトはこちら</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00488",
+      "title": "「朝日新聞デジタル」に影山優佳のインタビューが掲載！紙面は8月12日(水)の全国版に掲載予定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00488?ima=0000",
+      "pubdate": "2020/08/11 12:00:00",
+      "tags": [
+        "4"
+      ],
+      "thumbnail": null,
+      "content": "「朝日新聞デジタル」にて、影山優佳のインタビュー記事が掲載されております。<br />また、8月12日(水)「朝日新聞全国版 スポーツ面」にも掲載予定です。<br /><br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.asahi.com/articles/ASN885K7FN83PTQP00F.html\">朝日新聞デジタル 影山優佳インタビューはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00487",
+      "title": "8月14日(金)24:20～TBS「有吉ジャポンⅡ ジロジロ有吉」に丹生明里が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00487?ima=0000",
+      "pubdate": "2020/08/10 19:35:00",
+      "tags": [
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "8月14日(金)24:20～TBS「有吉ジャポンⅡ ジロジロ有吉」に丹生明里が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/jiroari/\">TBS「有吉ジャポンⅡ ジロジロ有吉」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00486",
+      "title": "8月10日(月)18:00～テレビ東京YouTubeチャンネル生配信「卓志ぃぃeeeee!」に佐々木久美、渡邉美穂が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00486?ima=0000",
+      "pubdate": "2020/08/10 09:30:00",
+      "tags": [
+        "7",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "8月10日(月)18:00～テレビ東京YouTubeチャンネル生配信「卓志ぃぃeeeee!」に佐々木久美、渡邉美穂が出演致します。<br />ぜひご覧ください。<br /><br /><span lang=\"EN-US\"><a href=\"https://www.youtube.com/watch?v=t0LkT2CnIQE\" target=\"_blank\">テレビ東京YouTubeチャンネル生配信「卓志ぃぃeeeee!」動画視聴はこちら</a></span><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M00485",
+      "title": "8月10日(月) 、11(火)8:15～NHK総合「＃高校最後の夏だから 球児たちの晴れ舞台」に佐々木久美が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00485?ima=0000",
+      "pubdate": "2020/08/10 08:00:00",
+      "tags": [
+        "7"
+      ],
+      "thumbnail": null,
+      "content": "<span>8月10日(月) 、11(火)8:15～NHK総合「<span>＃高校最後の夏だから　球児たちの晴れ舞台</span>」に佐々木久美が出演致します。<br /></span>ぜひご覧ください。<br /><br /><a href=\"https://www1.nhk.or.jp/sports2/amabb/\">NHK総合「＃高校最後の夏だから　球児たちの晴れ舞台」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00484",
+      "title": "「Sho-Comi 17号」に齊藤京子、丹生明里、松田好花が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00484?ima=0000",
+      "pubdate": "2020/08/05 15:10:00",
+      "tags": [
+        "6",
+        "16",
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「Sho-Comi 17号」に齊藤京子、丹生明里、松田好花の撮り下ろし写真とインタビューが掲載されております。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.google.com/url?q=https://sho-comi.com/&sa=D&source=calendar&usd=2&usg=AOvVaw2ntBi9KtyY-LZ4c4G2w5hL\" target=\"_blank\">「Sho-Comi」オフィシャルサイトはこちら</a><span>&nbsp;&nbsp;</span>"
+    },
+    {
+      "category": "other",
+      "code": "O00075",
+      "title": "アメリカで話題 環境配慮型の容器を使用したミネラルウォーターのJUST WATERと日向坂46のコラボレーション本日8月４日第二弾ブロマイド解禁！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O00075?ima=0000",
+      "pubdate": "2020/08/04 11:00:00",
+      "thumbnail": null,
+      "content": "JUST WATERはこれまで一般的に用いられてたプラスチック素材の容器を使わず、54％の紙と28％のサトウキビ由来のプラスチックの合計82％が再生可能資源からできた容器を使用しています。<br /><br />詳しくは特設サイトをご覧ください。<br/><a href=\"https://event.rakuten.co.jp/drink/justwater/\">https://event.rakuten.co.jp/drink/justwater/</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00483",
+      "title": "「B.L.T. SUMMER CANDY 2020」表紙・巻頭に金村美玖、中面に濱岸ひよりが登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00483?ima=0000",
+      "pubdate": "2020/08/03 11:30:00",
+      "tags": [
+        "12",
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「B.L.T. SUMMER CANDY 2020」表紙・巻頭に金村美玖、中面に濱岸ひよりの撮り下ろし写真とインタビューが掲載されております。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://bltweb.jp/2020/07/27/bltsummercandy2020_store/\">「B.L.T. SUMMER CANDY 2020」詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00482",
+      "title": "8月4日(火)20:00～SHOWROOM『日向坂46「3年目のデビュー」公開直前！セルフ生プレゼンSP』に加藤史帆、佐々木久美、上村ひなのが出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00482?ima=0000",
+      "pubdate": "2020/08/03 11:30:00",
+      "tags": [
+        "5",
+        "7",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "8月4日(火)20:00～SHOWROOM『日向坂46「3年目のデビュー」公開直前！セルフ生プレゼンSP』に加藤史帆、佐々木久美、上村ひなのが出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.showroom-live.com/hinatazaka46\">SHOWROOM『日向坂46「3年目のデビュー」公開直前！セルフ生プレゼンSP』視聴はこちらから</a><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M00481",
+      "title": "8月1日(土)19:00～TBS「炎の体育会TV」に加藤史帆、佐々木久美、東村芽依が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00481?ima=0000",
+      "pubdate": "2020/08/01 13:25:00",
+      "tags": [
+        "5",
+        "7",
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "8月1日(土)19:00～TBS「炎の体育会TV」に加藤史帆、佐々木久美、東村芽依が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"http://www.tbs.co.jp/taiikukaitv/\">TBS「炎の体育会TV」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "event",
+      "code": "E00115",
+      "title": "日向坂46「春の全国アリーナツアー2020～18人の音楽隊と風変わりな仲間たち～」 広島・福岡・大阪・群馬・神奈川公演、振替日程に伴う払い戻しのお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00115?ima=0000",
+      "pubdate": "2020/08/01 12:00:00",
+      "thumbnail": null,
+      "content": "<p><span>日向坂<span>46</span>の春の全国アリーナツアーに関しまして、振替公演にご来場が叶わないお客様には、チケットの払い戻しをさせていただきます。</span></p><p><span>振替公演へご来場をご希望のお客様は、発券されましたチケットがそのまま有効となります。紛失されないよう大切に保管していただき、振替公演当日必ずチケットをご持参ください。お持ちのチケットは、同会場の公演にて、そのまま有効です。</span></p><p><span>&nbsp;</span></p><p><span style=\"background-color: #ffff00; color: #ff0000;\">＊発券／電子チケットをお受け取りされていない方で、振替公演をご希望の方の</span></p><p><span style=\"background-color: #ffff00; color: #ff0000;\">「当選権利」は有効です。(過去に払戻手続き済の場合は対象外となります)</span></p><p><span style=\"background-color: #ffff00; color: #ff0000;\">　 発券は振替公演の一般発売の際にご案内をいたします。</span></p><p><span>&nbsp;</span></p><p><span>各プレイガイドにより払い戻し方法が異なります。</span></p><p><span>必ずご確認の上、お手続きいただきますようお願いいたします。</span></p><p><span>払い戻し期間終了後の払い戻しは受付できませんので、十分ご注意ください。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span>&mdash;払い戻し対象公演―</span></p><p><span>&nbsp;</span></p><p><span>＜広島＞広島サンプラザホール</span></p><p><span>2020</span><span>年<span>3</span>月<span>18</span>日<span>(</span>水<span>)</span></span></p><p><span>2020</span><span>年<span>3</span>月<span>1</span>９日<span>(</span>木<span>)</span></span></p><p><span>2020</span><span>年<span>6</span>月<span>10</span>日<span>(</span>水<span>) </span><span>　<span>※3/18(</span>水<span>)</span>公演の振替</span></span></p><p><span>2020</span><span>年<span>6</span>月<span>11</span>日<span>(</span>木<span>) </span>　<span>※3/19(</span>木<span>)</span>公演の振替</span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>福岡<span>&gt;</span>マリンメッセ福岡</span></p><p><span>2020</span><span>年<span>3</span>月<span>31</span>日<span>(</span>火<span>)</span></span></p><p><span>2020</span><span>年<span>4</span>月<span>1</span>日<span>(</span>水<span>)</span></span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>大阪<span>&gt;</span>丸善インテックアリーナ大阪</span></p><p><span>2020</span><span>年<span>4</span>月<span>10</span>日<span>(</span>金<span>)</span></span></p><p><span>2020</span><span>年<span>4</span>月<span>11</span>日<span>(</span>土<span>)</span></span></p><p><span>2020</span><span>年<span>4</span>月<span>12</span>日<span>(</span>日<span>)</span></span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>群馬<span>&gt;G</span>メッセ群馬</span></p><p><span>2020</span><span>年<span>5</span>月<span>8</span>日<span>(</span>金<span>)</span></span></p><p><span>2020</span><span>年<span>5</span>月<span>9</span>日<span>(</span>土<span>)</span></span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>神奈川<span>&gt;</span>ぴあアリーナ<span>MM</span></span></p><p><span>2020</span><span>年<span>5</span>月<span>12</span>日<span>(</span>火<span>)</span></span></p><p><span>2020</span><span>年<span>5</span>月<span>13</span>日<span>(</span>水<span>)</span></span></p><p><span>2020</span><span>年<span>5</span>月<span>14</span>日<span>(</span>木<span>)</span></span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span style=\"color: #ff0000;\"><strong>【払い戻し期間】</strong></span></p><p><span style=\"color: #ff0000;\"><strong>８月１日(土)12:00〜８月23日(日)23:59</strong></span></p><p><span style=\"color: #ff0000;\">※プレイガイドによっては払い戻し日程が異なりますのでご注意ください。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span style=\"background-color: #00ff00;\">■ファンクラブ・オフィシャル・楽天チケット先行(電子チケット)にてご購入のお客様</span></p><p><span>以下<span>URL</span>の登録フォームにしたがって、お客様情報、返金先情報の登録をお願いいたします。</span></p><p><span><a href=\"http://r-t.jp/hinatazaka46-refund\"><span>http://r-t.jp/hinatazaka46-refund</span></a></span></p><p><span>※同行者様分の払戻し申請であっても、必ず応募者様が申請手続きをお願いいたします。</span></p><p><span>※購入枚数と払戻し希望枚数が異なる場合、応募者分・同行者分どちらのチケットを払戻しにするかご選択ください。</span></p><p><span>※<span>2</span>枚購入の場合で、応募者と同行者を分けてそれぞれに個別の返金はできません。<span>(</span>同一受付番号の申請が複数回あった場合、最後の申請のみ有効となります<span>)</span></span></p><p><span>※親子席をご購入の方で払戻しをご希望される方は購入した枚数全てとなりますのでご了承ください。</span></p><p><span>◎申請期限締切後、楽天チケットにて情報を精査し、確認後に返金のご案内をいたします。 ご案内までは、払戻し受付期間終了後から<span>2-3</span>ヶ月ほどお時間を頂戴する可能性もございます。</span></p><p><span>※「メルマネ」というサービスでのご返金案内となります。迷惑メール対策等で、ドメイン指定などメールの受信を制限されているお客様は、以下のドメインからのメールを受信できるように設定変更してください。 </span></p><p><span>【追加ドメイン】〜<span>@ac.rakuten-bank.co.jp / </span>〜<span>@cc.rakuten-bank.co.jp / </span>〜<span>@mail.rakuten-bank.co.jp</span></span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span style=\"background-color: #00ff00;\">■ファンクラブ・オフィシャル・楽天チケット先行(紙チケット)にてご購入のお客様</span><span>　</span></p><p><span>払戻受付期間内にチケットを発券していただき、</span></p><p><span>楽天チケットまで「簡易書留」「宅配便」「特定記録郵便」にてチケットをご送付お願いいたします。</span></p><p><span>該当公演のチケットを期限内にご返送いただければ、ご返金希望の銀行口座にお振込みにてご返金いたします。</span></p><p><span>※返送代として<span>300</span>円を上限としてお返しいたします。</span></p><p><span>ただし、着払いにて返送された場合は、差し引き金額になります。予めご了承ください。</span></p><p><span>※払戻受付期間最終日までに必着</span></p><p><span>・楽天チケットへのチケット返送をもって払戻しとなります。</span></p><p><span>※楽天スーパーポイントを決済にご利用のお客様に対しては、ご利用いただいたポイント分も含めて全額口座振込にて返金いたします。</span></p><p><span>※半券がないチケット（入場済み）チケットに関しては対応不可となります。</span></p><p><span>※払戻受付期間を過ぎますと、ご返金は一切できかねますのでご注意ください。</span></p><p><span>チケット送付の際に下記ご購入者情報、ご返金先口座の情報を記入したメモ等を同封いただき、送付いただきますようお願いいたします。</span></p><p><span>※群馬・神奈川公演の紙チケットにてご購入のお客様は個別対応となりますので、別途ご案内差し上げます。</span></p><p><span>&nbsp;</span></p><p><span>-------------</span></p><p><span>&nbsp;</span></p><p><span>・お名前：</span></p><p><span>・お電話番号：</span></p><p><span>・銀行名：</span></p><p><span>・銀行コード：</span></p><p><span>・支店名：</span></p><p><span>・支店コード：</span></p><p><span>・口座番号：</span></p><p><span>・口座種類（当座口座か普通口座）：</span></p><p><span>・名義人名<span>(</span>カナ<span>)</span>：</span></p><p><span>&nbsp;</span></p><p><span>-------------</span></p><p><span>&nbsp;</span></p><p><span>（メモの内容と同封内容に相違がある場合、お電話にてご確認させていただくことがあります）</span></p><p><span>払戻し受付期間内のチケットの到着確認後、順次ご返金の対応をいたします。</span></p><p><span>ご返金完了までは、払戻し受付期間終了後から<span>2-3</span>ヶ月ほどお時間を頂戴する可能性もございます。</span></p><p><span>予めご理解ご了承の程お願い申し上げます。</span></p><p><span>&nbsp;</span></p><p><span>※以下の場合、返金ができかねますのでご注意ください。</span></p><p><span>・払戻し受付指定期間を過ぎて到着した場合。</span></p><p><span>・お客様情報の記載が無く、確認が取れない場合。</span></p><p><span>・破損したり、汚れ等で券面内容の確認ができないもの。</span></p><p><span>・半券のないチケット（入場済み）の場合</span></p><p><span>・普通郵便等でお送りされ、破損・紛失等があった場合。</span></p><p><span>&nbsp;</span></p><p><span>----------</span></p><p><span>【チケット返送先】</span></p><p><span>〒<span>158-0094</span></span></p><p><span>東京都世田谷区玉川<span>2-21-1</span>（二子玉川ライズオフィス内）</span></p><p><span>株式会社　チケットスター<span>(</span>楽天チケット<span>)</span>「日向坂<span>46</span>」払戻し係</span></p><p><span>----------</span></p><p><span>・お問合せ：</span></p><p><span><a href=\"https://ticket.faq.rakuten.net/\">https://ticket.faq.rakuten.net/<br /><br /></a></span></p><p><span>&nbsp;</span></p><p><span style=\"background-color: #00ff00;\">■ローソンチケット先行(電子チケット)・チケプラトレード(EMTGチケットトレード)にてご購入のお客様</span><span>　</span></p><p><span>下記<span>URL</span>よりご申請ください。</span></p><p><span>※同行者様分の払戻し申請であっても、必ず応募者様が申請手続きをお願いいたします。</span></p><p><span><a href=\"https://tixplus.jp/feature/hinatazaka46_tour2020_3/\"><span>https://tixplus.jp/feature/hinatazaka46_tour2020_3/</span></a></span></p><p><span>&nbsp;</span></p><p><span>[</span><span>注意事項<span>]</span></span></p><p><span>※チケットをご購入した際に入力した<span>Plus member ID(</span>旧<span>:EMTG ID)</span>にてログインください</span></p><p><span>※チケプラ<span>(</span>旧<span>:EMTG)</span>へご登録の電話番号、メールアドレスを元にご返金の登録をさせていただきますので、あらかじめマイページよりご確認をお願いいたします</span></p><p><span>※購入枚数と払戻し希望枚数が異なる場合、応募者分・同行者分どちらのチケットを払戻しにするかアンケートにて選択ください</span></p><p><span>※親子席をご購入の方で払戻しをご希望される方は購入した枚数全てとなりますのでご了承ください</span></p><p><span>&nbsp;</span></p><p><span>◎申請期限締切後、『<span>CASH POST</span>』の返金管理システムを利用して、お客様が指定した口座へ返金を行わせていただきます。</span></p><p><span>チケプラへご登録のメールアドレス宛てに払戻のご案内メールを後日お送りさせていただきますので、</span></p><p><span>※迷惑メール対策（ドメイン指定受信など）を設定されている方は、「<span>plusmember.jp</span>」からのメールが受信できるように設定をお願いいたします。</span></p><p><span>&nbsp;</span></p><p><span>・お問合せ： </span></p><p><span>カスタマーサポート（平日<span>11:00</span>～<span>12:00 / 13:30</span>～<span>18:00</span>）</span></p><p><span><a href=\"https://tixplus.jp/support/tixplus/\"><span>https://tixplus.jp/support/tixplus/</span></a></span></p><p><span>※お問い合わせの際は、『日向坂<span>46 </span>払戻しの件』とご明記の上、</span></p><p><span>電話番号・氏名・<span>ID(</span>メールアドレス<span>)</span>を必ずお書き添えください</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span style=\"background-color: #00ff00;\">■ローソンチケット先行(紙チケット)にてご購入のお客様</span><span>　</span></p><p><span>お手元のチケットと各種手数料券をお持ちの上、お近くのローソン、ミニストップ店舗で払戻しをいたします。</span></p><p><span>上記払戻し期間内にローソン、ミニストップ店舗にチケットをご持参の上、店内設置<span>Loppi</span>で払戻しのお手続きをお願いいたします。</span></p><p><span>チケットをお引取りいただいたコンビニであれば、どの店舗でも払戻し可能です。</span></p><p><span>まだチケットを発券されていない方は、お手数ですが、ローソン・ミニストップにて一度チケットを発券の上、</span></p><p><span>再度<span>Loppi</span>にて払戻しお手続きください。</span></p><p><span>&nbsp;</span></p><p><span>＊</span><span>払戻希望の方は再度店内の</span><span>Loppi</span><span>にて払戻しの手続きをお願いいたします。</span></p><p><span>＊</span><span>振替公演参加ご希望の方はそのまま有効となりますので公演日までなくさずにチケットをお持ちください</span><span>。</span></p><p><span>&nbsp;</span></p><p><span>※配送引取されたお客様は最寄りのローソン店舗で払戻しをさせていただきます。</span></p><p><span>&nbsp;</span></p><p><span>ローソンチケットでの払戻し方法に関してはこちら</span></p><p><span><a href=\"http://l-tike.com/oc/lt/haraimodoshi/\"><span>http://l-tike.com/oc/lt/haraimodoshi/</span></a></span><span>　</span></p><p><span>&nbsp;</span></p><p><span>ローソン・ミニストップにて、「払い戻し」手続きを行うお客様へのお知らせ</span></p><p><span>夜間・早朝（<span>21</span>時～<span>6</span>時頃）のチケット払い戻しに関しまして、</span></p><p><span>防犯対策として警察からの協力要請・指導を受け、夜間・早朝時間帯はレジ内の現金を制限されております。</span></p><p><span>その為、夜間・早朝とその直前・直後の時間帯はつり銭が不足する場合がございますので、</span></p><p><span>払い戻しは夜間・早朝を避けてお手続きいただきますようお願い申し上げます。</span></p><p><span>&nbsp;</span></p><p><span>お問い合わせ：ローソンチケット　</span><span><a href=\"https://l-tike.com/contact/\"><span>https://l-tike.com/contact/</span></a></span></p><p><span>※カスタマーセンターでの電話によるお問い合わせの受付を休止している場合がございます。<span><br /> </span>お問い合わせにつきましては、メールにてお受けしておりますが、<strong><span>お問い合わせが殺到し、大変混み合っておりまして、返信には数日～２週間程度かかる場合もあります。</span></strong><span>何卒ご理解賜りますようお願い申し上げます。</span></span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span style=\"background-color: #00ff00;\"><span>■</span>【e＋（イープラス）】にてご購入のお客様</span></p><p><span style=\"color: #ff0000;\"><strong>【払い戻し期間】８月2日(日)10:00〜８月23日(日)23:59</strong></span></p><p><span>&nbsp;</span></p><p><span>払い戻し方法は、チケットの受取方法や支払方法により異なります。</span></p><p><span>払い戻し方法詳細については下記の払い戻し方法チャートを確認してください。</span></p><p><span>&nbsp;</span></p><p><span>＜公演延期　払い戻し方法確認チャート＞</span></p><p><span>http://eplus.jp/refund2/</span></p><p><span>質問に答えながらご自身の状況を確認してください。　適切な払い戻し方法をご覧になれます。</span></p><p><span>&nbsp;</span></p><p><span>【払戻方法に関するご案内・お問合せ】　</span><span><a href=\"http://eplus.jp/refund2-toiawase/\"><span>http://eplus.jp/refund2-toiawase/</span></a></span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>"
+    }
+  ],
+  "count": "46"
 }

@@ -1,4 +1,508 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "media",
+      "code": "M00004",
+      "title": "Yahoo!検索に欅坂46メンバーが登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00004?ima=0000",
+      "pubdate": "2016/02/29 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "<p style=\"margin: 0mm 0mm 0pt;\"><span style=\"font-family: ＭＳ ゴシック; font-size: small;\">全メンバーの撮り下ろし自己紹介動画が期間限定で公開致しました。</span></p><p style=\"margin: 0mm 0mm 0pt;\"><span style=\"font-family: ＭＳ ゴシック;\"><span style=\"font-size: small;\">是非ヤフーで「欅坂<span lang=\"EN-US\">46</span></span><span style=\"font-size: small;\">」と検索してみて下さい！<br /><br /><a href=\"http://yahoo.jp/d2PG0M\">欅坂46 ヤフー限定自己紹介動画はコチラ</a><br /></span></span></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00003",
+      "title": "「月刊エンタメ」(2月29日(月)発売)に今泉佑唯、小林由依、鈴本美愉、平手友梨奈、渡辺梨加が登場!",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00003?ima=0000",
+      "pubdate": "2016/02/29 00:00:00",
+      "tags": [
+        "07",
+        "12",
+        "17",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "<span style=\"font: 18px/normal 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; widows: 1; background-color: #ffffff; -webkit-text-stroke-width: 0px;\">今泉佑唯、小林由依、鈴本美愉、平手友梨奈、渡辺梨加の撮り下ろし写真とインタビューが掲載されます。<br /><br /></span>"
+    },
+    {
+      "category": "media",
+      "code": "465199",
+      "title": "「欅って、書けない？」放送時間変更のお知らせ",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/465199?ima=0000",
+      "pubdate": "2016/02/29 00:00:00",
+      "thumbnail": null,
+      "content": "<div id=\"infoDetail\" class=\"clearfix\"><p>本日の番組放送時間ですが、25：15～25：45となります。</p></div>"
+    },
+    {
+      "category": "media",
+      "code": "M00002",
+      "title": "2月26日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」-番外編-に小池美波が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M00002?ima=0000",
+      "pubdate": "2016/02/29 00:00:00",
+      "tags": [
+        "06"
+      ],
+      "thumbnail": null,
+      "content": "<div id=\"infoDetail\" class=\"clearfix\"><p>小池美波の撮り下ろし写真と自分以外のメンバーの呼び方&印象ひとことアンケートが掲載されます。</p><p class=\"link\"><a href=\"http://hustlepress.co.jp/keyakizaka46_15/\" target=\"_blank\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」サイトはコチラ</a></p></div>"
+    },
+    {
+      "category": "media",
+      "code": "465166",
+      "title": "「FLASHスペシャル」（2月26日（金）発売）に鈴本美愉、平手友梨奈が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/465166?ima=0000",
+      "pubdate": "2016/02/29 00:00:00",
+      "tags": [
+        "12",
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "<div id=\"infoDetail\" class=\"clearfix\"><p>鈴本美愉、平手友梨奈の撮り下ろし写真とインタビューが掲載されます。</p></div>"
+    },
+    {
+      "category": "event",
+      "code": "465150",
+      "title": "3月17日（木）東京国際フォーラムA公演、詳細決定！2月27日（土）昼12時～チケット申込受付スタート",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/465150?ima=0000",
+      "pubdate": "2016/02/26 00:00:00",
+      "thumbnail": null,
+      "content": "<div id=\"infoDetail\" class=\"clearfix\"><p>先日発表致しました、3月17日（木）・東京国際フォーラム ホールAでのデビュー直前イベント「欅坂46生中継！デビューカウントダウンライブ！！」の詳細が決定致しました。<br />チケットのお申し込みは2月27日（土）昼12時～開始いたします。皆様のお申し込み、お待ちしております！</p><p><br />＜イベント概要＞<br />■公演名：欅坂46生中継！デビューカウントダウンライブ！！<br />■開催日：2016年3月17日（木）<br />■会場：東京国際フォーラム ホールA<br />　　　　※所在地：東京都千代田区丸の内3丁目5-1<br />　　　　　<a href=\"https://www.t-i-forum.co.jp/\">https://www.t-i-forum.co.jp/</a><br />■時間：17:00開場／18:40開演／20:00終演<br />■料金：指定席1,000円（税込）／親子席1,000円（税込）<br />※チケット販売は、インターネットによる申込／抽選のみとなります。</p><p>■申込受付期間：2016年2月27日（土）昼12:00～3月6日（日）23:59<br />■受付URL：　&nbsp;<a href=\"http://eplus.jp/keyakizaka46sp/\">http://eplus.jp/keyakizaka46sp/</a>（PC／モバイル共通）</p><p><br />※お申込みは、お一人様1回のみ2枚までとなります。<br />下記＜お申込みに関する注意事項＞を必ず事前にお読みの上、お申込みください。<br />※入場時にお申し込み代表者様の身分証確認をランダムにて実施させていただきます。<br />　本人確認ができない場合には、同行者を含め、入場をお断りさせていただきます。<br />※親子席以外は未就学児童入場不可。<br />※親子席は3歳以上有料となります。<br />　ただし座席が必要な場合は2歳以下でも、１名につき1枚のチケットが必要です。<br />　また、2歳以下のお子様で座席が不要な場合、保護者1名につきお子様1名のみ膝上で鑑<br />　賞可能です。<br />※親子席は小学生（12歳）以下のお子様とその保護者が対象となります。<br />※会場入場口にて、親子であることを証明するもの（例：保険証・住民票など、写しも可）をご<br />　提示いただく場合があります。親子であることが証明されない場合、チケットをお持ちでもご退場いただく場合があります。予めご了承ください。<br />※客席を含む会場内の映像・写真が公開されることがあります。<br />※出演者は予告なく変更になる場合がございますので、予めご了承ください。</p><p>&nbsp;</p><p>＜お申込みに関する注意事項＞※必ずお読みください。</p><p>＊チケットには、お申込み者のお名前が記載されます。お申込みの際は、来場者のお名前にて必ずお申込みください。</p><p>＊座席は全て厳正なる抽選で決めさせていただきます。</p><p>＊オークションサイト・金券ショップ・個人間での売買で購入・譲渡されたチケットは、その有効性を一切保障いたしません。また営利目的での転売は、いかなる場合でも固くお断りいたします。</p><p><br />●今回の受付は「イープラス」のシステムを利用します。<br />●e＋会員登録は、無料です。<br />●チケット券面には、『お申込みされた方のe＋会員登録されているお名前』を印字し、氏名が確認できる「本人確認書類」をイベントの当日にご持参いただきます。<br />必ず来場されるご本人が会員登録の上、お申込みください。 お申込み後の氏名変更はお受けいたしません。お申込みの際は、必ずご自身のe＋会員登録情報をご確認ください。 会員登録を間違ったり、<br />情報変更をお忘れになられた等による支障が発生しても、イベント主催者ならびにイープラスは一切の責任を負いかねます。<br />●先着順ではございません。抽選制となりますので、受付期間内のご都合の良い時間にお申込みください。<br />●抽選結果の発表は、3月9日（水）を予定しております。&nbsp;<br />●抽選の結果はメールにてお知らせ致します。<br />あらかじめ「@eplus.co.jp」からのメールが受信できるよう設定をしてください。<br />お申込みの確認、メールの未着、遅延の場合はイープラスの「申込み状況照会」でご確認ください<br />●チケットのお申込みに関するお問合せは以下にお問合せください。<br />問合せ先：イープラス&nbsp;<br />　Q&A　http://eplus.jp/qa/<br />●お一人様につき、お申込みは1回のみ。枚数は2枚までとなります。<br />●当日、車イスでのご来場はスペースを準備するため、お手数ですが チケットを発券された後に必ずZeppライブ宛にお電話にてご連絡ください。お電話では、名前・座席番号を確認させていただいた上、当日の入場方法をご案内します。<br />※Zeppライブ　TEL:03-5575-5170　(平日13:00～17:00)<br />●転売の為のお申込みは固くお断り致します。<br />●購入時、チケット代の他にシステム利用料等、各種手数料が必要となります。&nbsp;<br />●お申込みされたチケットは、理由の如何を問わず、取替・変更・キャンセルはお受けできません。<br />●中止等の場合、各手数料は返金いたしませんので、予めご了承ください。</p><p>&nbsp;<br />＜生放送概要＞<br />CS放送TBSチャンネル1で18:40より生中継<br />詳しくは、TBSチャンネルのホームページをご覧ください。<br />TBSチャンネルのホームページは<a href=\"http://www.tbs.co.jp/tbs-ch/item/o1801/\" target=\"_blank\">コチラ</a></p><p><br />【公演に関するお問合せ先】<br />Zeppライブ　03-5575-5170　（平日 13：00～17：00）</p></div><div class=\"socialArea clearfix\">&nbsp;</div>"
+    },
+    {
+      "category": "media",
+      "code": "465121",
+      "title": "「週刊ヤングジャンプ」13号（2月24日（水）発売）に平手友梨奈が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/465121?ima=0000",
+      "pubdate": "2016/02/25 00:00:00",
+      "tags": [
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "<p>平手友梨奈の撮り下ろし写真が掲載されます。</p><p class=\"link\"><a href=\"http://youngjump.jp/gravure/hirate_yurina/photo/\" target=\"_blank\">週刊ヤングジャンプグラビアビューアーはコチラ</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "465120",
+      "title": "「週刊少年サンデー」13号（2月24日（水）発売）表紙・巻頭に今泉佑唯、鈴本美愉、平手友梨奈、渡辺梨加が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/465120?ima=0000",
+      "pubdate": "2016/02/24 00:00:00",
+      "tags": [
+        "12",
+        "17",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "<p>今泉佑唯、鈴本美愉、平手友梨奈、渡辺梨加の撮り下ろし写真が掲載されます。</p>"
+    },
+    {
+      "category": "media",
+      "code": "465119",
+      "title": "「SamuraiELO」4月号（2月24日（水）発売）に今泉佑唯、志田愛佳、菅井友香、長沢菜々香、土生瑞穂、平手友梨奈、守屋茜、長濱ねるが登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/465119?ima=0000",
+      "pubdate": "2016/02/24 00:00:00",
+      "tags": [
+        "11",
+        "14",
+        "17",
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "<p>今泉佑唯、志田愛佳、菅井友香、長沢菜々香、土生瑞穂、平手友梨奈、守屋茜、長濱ねるの撮り下ろし写真が掲載されます。</p>"
+    },
+    {
+      "category": "media",
+      "code": "465118",
+      "title": "「STREET JACK」4月号（2月24日（水）発売）に今泉佑唯、上村莉菜、尾関梨香、佐藤詩織、志田愛佳、菅井友香、土生瑞穂、平手友梨奈、守屋茜、渡辺梨加が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/465118?ima=0000",
+      "pubdate": "2016/02/24 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "11",
+        "14",
+        "17",
+        "18",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "<p>今泉佑唯、上村莉菜、尾関梨香、佐藤詩織、志田愛佳、菅井友香、土生瑞穂、平手友梨奈、守屋茜、渡辺梨加の撮り下ろし写真が掲載されます。</p>"
+    },
+    {
+      "category": "media",
+      "code": "465116",
+      "title": "「UTB」（2月23日（火）発売）に平手友梨奈が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/465116?ima=0000",
+      "pubdate": "2016/02/23 00:00:00",
+      "tags": [
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "<p>平手友梨奈の撮り下ろし写真とインタビューが掲載されます。</p>"
+    },
+    {
+      "category": "media",
+      "code": "465007",
+      "title": "2月23日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」には小池美波が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/465007?ima=0000",
+      "pubdate": "2016/02/23 00:00:00",
+      "tags": [
+        "06"
+      ],
+      "thumbnail": null,
+      "content": "<p>小池美波の撮り下ろし写真とインタビューが掲載されます。</p><p class=\"link\"><a href=\"http://hustlepress.co.jp/keyakizaka46_14/\" target=\"_blank\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」サイトはコチラ</a></p>"
+    },
+    {
+      "category": "shakehands",
+      "code": "464983",
+      "title": "欅坂46　デビューシングル 『サイレントマジョリティー』　発売記念個別握手会　第3次～第10次応募受付のご案内",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464983?ima=0000",
+      "pubdate": "2016/02/23 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21",
+        "pickup2"
+      ],
+      "thumbnail": null,
+      "content": "<span style=\"font-size: 12pt;\">欅坂46　デビューシングル『サイレントマジョリティー』 forTUNE music限定個別握手会参加券付通常盤（SRCL-9041）ですが、下記内容にて、第3次～第10次の応募受付を行います。詳細をご確認いただき、みなさま奮ってご応募ください。</span><br /><br /><br /><span style=\"font-size: 12pt;\">★抽選購入申込スケジュール★</span><br /><span style=\"font-size: 12pt;\"><strong>[終了]</strong>【第3次応募受付】 2016年2月25日（木）15：00 ～ 2月26日（金）14：00 まで</span><br /><span style=\"font-size: 12pt;\">（抽選結果連絡：2016年2月26日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</span><br /><span style=\"font-size: 12pt;\">※第3次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</span><br /><span style=\"font-size: 12pt;\">※第2次応募受付にて、販売予定数量に達した場合、第3次応募受付は実施いたしません。</span><br /><br /><br /><span style=\"font-size: 12pt;\"><strong>[終了]</strong>【【第4次応募受付】 2016年3月3日（木）15：00 ～ 3月4日（金）14：00 まで</span><br /><span style=\"font-size: 12pt;\">（抽選結果連絡：2016年3月4日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</span><br /><span style=\"font-size: 12pt;\">※第4次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</span><br /><span style=\"font-size: 12pt;\">※第3次応募受付にて、販売予定数量に達した場合、第4次応募受付は実施いたしません。</span><br /><br /><br /><span style=\"font-size: 12pt;\"><strong>[終了]</strong>【【第5次応募受付】 2016年3月10日（木）15：00 ～ 3月11日（金）14：00 まで</span><br /><span style=\"font-size: 12pt;\">（抽選結果連絡：2016年3月11日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</span><br /><span style=\"font-size: 12pt;\">※第5次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</span><br /><span style=\"font-size: 12pt;\">※第4次応募受付にて、販売予定数量に達した場合、第5次応募受付は実施いたしません。</span><br /><br /><br /><span style=\"font-size: 12pt;\"><strong>[終了]</strong>【第6次応募受付】 2016年3月17日（木）15：00 ～ 3月18日（金）14：00 まで</span><br /><span style=\"font-size: 12pt;\">（抽選結果連絡：2016年3月18日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</span><br /><span style=\"font-size: 12pt;\">※第6次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</span><br /><span style=\"font-size: 12pt;\">※第5次応募受付にて、販売予定数量に達した場合、第6次応募受付は実施いたしません。</span><br /><br /><br /><span style=\"font-size: 12pt;\"><strong>[終了]</strong>【第7次応募受付】 2016年3月24日（木）15：00 ～ 3月25日（金）14：00 まで</span><br /><span style=\"font-size: 12pt;\">（抽選結果連絡：2016年3月25日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</span><br /><span style=\"font-size: 12pt;\">※第7次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</span><br /><span style=\"font-size: 12pt;\">※第6次応募受付にて、販売予定数量に達した場合、第7次応募受付は実施いたしません。</span><br /><br /><span style=\"font-size: 12pt;\">※おまとめサービス対象外</span><br /><br /><br /><span style=\"font-size: 12pt;\"><strong>[終了]</strong>【第8次応募受付】 2016年3月31日（木）15：00 ～ 4月1日（金）14：00 まで</span><br /><span style=\"font-size: 12pt;\">（抽選結果連絡：2016年4月1日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</span><br /><span style=\"font-size: 12pt;\">※第8次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</span><br /><span style=\"font-size: 12pt;\">※第7次応募受付にて、販売予定数量に達した場合、第8次応募受付は実施いたしません。</span><br /><br /><span style=\"font-size: 12pt;\">※おまとめサービス対象外</span><br /><br /><br /><span style=\"font-size: 12pt;\">【第9次応募受付】 2016年4月7日（木）15：00 ～ 4月8日（金）14：00 まで</span><br /><span style=\"font-size: 12pt;\">（抽選結果連絡：2016年4月8日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</span><br /><span style=\"font-size: 12pt;\">※第9次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</span><br /><span style=\"font-size: 12pt;\">※第8次応募受付にて、販売予定数量に達した場合、第9次応募受付は実施いたしません。</span><br /><br /><span style=\"font-size: 12pt;\">※おまとめサービス対象外</span><br /><br /><br /><span style=\"font-size: 12pt;\">【第10次応募受付】 2016年4月14日（木）15：00 ～ 4月15日（金）14：00 まで</span><br /><span style=\"font-size: 12pt;\">（抽選結果連絡：2016年4月15日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）</span><br /><span style=\"font-size: 12pt;\">※第10次応募受付は、1回のお申し込みにつき、1人15種類まで、１種あたり5枚まで(最大75枚まで)。お1人様６回まで申込可能。</span><br /><span style=\"font-size: 12pt;\">※第9次応募受付にて、販売予定数量に達した場合、第10次応募受付は実施いたしません。</span><br /><br /><span style=\"font-size: 12pt;\">※2016年5月1日（日）京都・京都パルスプラザ開催分は最終受付となります。</span><br /><br /><span style=\"font-size: 12pt;\">※おまとめサービス対象外</span><br /><br /><br /><span style=\"font-size: 12pt;\">≪受付イベント日程／会場≫</span><br /><span style=\"font-size: 12pt;\">　※全5会場予定。</span><br /><span style=\"font-size: 12pt;\">(1)2016年5月1日（日）京都・京都パルスプラザ</span><br /><span style=\"font-size: 12pt;\">(2)2016年5月15日（日）愛知・ポートメッセなごや</span><br /><span style=\"font-size: 12pt;\">(3)2016年5月28日（土）千葉・幕張メッセ</span><br /><span style=\"font-size: 12pt;\">(4)2016年6月4日（土）神奈川・パシフィコ横浜</span><br /><span style=\"font-size: 12pt;\">(5)2016年6月26日（日）神奈川・パシフィコ横浜</span><br /><br /><br /><span style=\"font-size: 12pt;\">配送予定日：</span><br /><span style=\"font-size: 12pt;\">2016年4月6日(水)までに配送予定</span><br /><span style=\"font-size: 12pt;\">※第8次応募以降は発売日以降、入金確認次第順次出荷。</span><br /><br /><br /><span style=\"font-size: 12pt;\">※おまとめサービス※</span><br /><span style=\"font-size: 12pt;\">おまとめサービス対象（第6次応募まで）</span><br /><span style=\"font-size: 12pt;\">おまとめサービスとは、複数回に分けてご注文いただいたお客様の注文を自動的に１配送にまとめて出荷するサービスです。</span><br /><span style=\"font-size: 12pt;\">●複数回のお申込分を出荷前におまとめする機能です。</span><br /><span style=\"font-size: 12pt;\">●以下の条件に合致した場合におまとめいたします。</span><br /><span style=\"font-size: 12pt;\">・同一IDのお客様のご注文分である。</span><br /><span style=\"font-size: 12pt;\">・同一の配送先が指定されている。</span><br /><span style=\"font-size: 12pt;\">・お支払方法がクレジットカード払いである。</span><br /><span style=\"font-size: 12pt;\">●１おまとめの最大単位は、商品・特典の種類数合計が130明細です。</span><br /><span style=\"font-size: 12pt;\">　最大明細数を超える場合はおまとめ結果が複数単位となります。</span><br /><span style=\"font-size: 12pt;\">　１注文分が複数単位に分かれてまとまる事はございません。</span><br /><br /><span style=\"font-size: 12pt;\">*「オンライン収納代行（コンビニ払い、Pay-easy、ネットバンキング）」は、おまとめサービス適用対象外です。</span><br /><br /><br /><span style=\"font-size: 12pt;\">欅坂46　デビューシングル『サイレントマジョリティー』forTUNE music限定個別握手会参加券付通常盤（SRCL-9041）の抽選購入申し込みについての詳細は、「forTUNE music(http://fortunemusic.jp/)」をご覧ください。</span><br /><br /><span style=\"font-size: 12pt;\"><a href=\"https://fortunemusic.jp/keyakizaka46_201604/\">forTUNE musicはコチラ</a></span>"
+    },
+    {
+      "category": "event",
+      "code": "464981",
+      "title": "3月17日（木）東京国際フォーラムAにてデビュー直前イベント開催＆CS放送TBSチャンネル1にて生放送決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464981?ima=0000",
+      "pubdate": "2016/02/23 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "<p>3月17日（木）にデビュー直前イベント「欅坂46生中継！デビューカウントダウンライブ！！」の開催が決定になりました。<br />また、合わせて本イベントはCS放送TBSチャンネル1にて生放送も決定致しました！</p><p>&nbsp;</p><p>&nbsp;<br />※ご観覧の申し込み方法などのイベント詳細は後日発表とさせて頂きます。</p><p>&nbsp;</p><p>&nbsp;<br />＜イベント概要＞</p><p>&nbsp;</p><p>■開催日：2016年3月17日（木）<br />■会場：東京国際フォーラムA</p><p>&nbsp;</p><p>&nbsp;<br />＜生放送概要＞</p><p>&nbsp;</p><p>CS放送TBSチャンネル1で18:40より生中継<br />詳しくは、TBSチャンネルのホームページをご覧ください。</p><p>&nbsp;</p><p class=\"link\"><a href=\"http://www.tbs.co.jp/tbs-ch/item/o1801/\" target=\"_blank\">TBSチャンネルのホームページはコチラ</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "464922",
+      "title": "2月20日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」-番外編-に石森虹花が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464922?ima=0000",
+      "pubdate": "2016/02/20 00:00:00",
+      "thumbnail": null,
+      "content": "石森虹花の撮り下ろし写真と自分以外のメンバーの呼び方&印象ひとことアンケートが掲載されます。<p class=\"link\"><a href=\"http://hustlepress.co.jp/keyakizaka46_13/\" target=\"_blank\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」サイトはコチラ</a></p>"
+    },
+    {
+      "category": "event",
+      "code": "464803",
+      "title": "3月29日（火）ZIP!春フェス2016 オフィシャルサイトをご覧の皆様へ先行特別販売(抽選制)のご案内",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464803?ima=0000",
+      "pubdate": "2016/02/18 00:00:00",
+      "thumbnail": null,
+      "content": "3月29日（火）に出演する、ZIP!春フェス2016におきましてオフィシャルサイト先行特別販売(抽選制)が決定致しましたのでご案内致します。<br /><br />＜公園概要＞<br /><p>ZIP!春フェス2016<br />出演日：2016年3月29日(火) TOKYO DOME CITY HALL （東京都）<br />OPEN/START： 16:30 / 17:30 (予定)</p><p>チケット：アリーナ立見 6,400円（税込・整理番号付）<br />　　　　　バルコニー指定 6,400円（税込）<br />出演：家入レオ/欅坂46/ソナーポケット/ダイスケ/超特急 (50音順)</p><p>-----</p><p>▼欅坂46 オフィシャルサイト先行特別販売(抽選制)&nbsp;</p><p>応募受付期間：2月18日(木)12:00～2月24日(水)23:59<br />当落発表：2月26日(金)13:00～2月28日(日)18:00<br />ご入金期間：2月26日(金)13:00～2月29日(月)21:00</p><p><br />欅坂46 オフィシャルサイト特別販売　受付専用URL(PC/スマフォ/携帯共通)：<br /><a href=\"http://eplus.jp/zip-keyakizaka46/\">http://eplus.jp/zip-keyakizaka46/</a></p><p><br />※一度の申し込みにつき2枚までとさせて頂きます。</p><p><br />[チケットに関するお問合せ]<br />Q&A：<a href=\"http://eplus.jp/qa/\">http://eplus.jp/qa/</a></p><p><br />□&nbsp;注意事項□<br />★お問合わせ時間が過ぎ、操作方法不明等の理由によりご入金できなかった場合、ご対応できませんのでご了承ください。<br />★当先行受付終了後のチケット先行に関するお問い合わせは一切お受けできませんのでご了承ください。<br />★同時に、他出演アーティストのファンクラブでも当イベントチケット先行予約受付を行っている場合もございます。</p><p><br />&nbsp;[チケット一般発売日] 2016年3月6日(日)10：00～<br />　お問合せ＝ソーゴー東京　03-3405-9999　</p><p><br />※3歳以上のお子様は、チケットが必要となります。<br />※客席を含む会場内の映像・写真が公開される場合があります。予めご了承下さい。</p>"
+    },
+    {
+      "category": "event",
+      "code": "464754",
+      "title": "3月29日（火）ZIP!春フェス2016（東京ドームシティホール）出演決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464754?ima=0000",
+      "pubdate": "2016/02/17 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "3月29日（火）、30日（水）、31日（木）に開催される、ZIP!春フェス2016への出演が決定致しました！<br />欅坂46は3月29日（火）に出演となります。下記をご確認の上、皆様のご来場をお待ちしております。<br /><br />【公演概要】<br />ZIP!春フェス2016<br />日時：2016年3月29日（火）、30日（水）、31日（木）　OPEN：16:30（予定）　/　開演：17:30（予定）<br />会場：東京ドームシティホール<br /><br />※欅坂46の出演は3/29（火）となります。<br />※観覧方法、出演者詳細は下記ZIP!春フェス2016オフィシャルサイトをご参照ください。<p class=\"link\"><a href=\"http://www.ntv.co.jp/zip/spring2016/\" target=\"_blank\">ZIP!春フェス2016オフィシャルサイトはコチラ</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "464751",
+      "title": "2月16日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」には石森虹花が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464751?ima=0000",
+      "pubdate": "2016/02/16 00:00:00",
+      "thumbnail": null,
+      "content": "石森虹花の撮り下ろし写真とインタビューが掲載されます。<p class=\"link\"><a href=\"http://hustlepress.co.jp/keyakizaka46_12/\" target=\"_blank\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」サイトはコチラ</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "464675",
+      "title": "「blt graph.vol.6」（2月15日（月）発売）に渡邉理佐が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464675?ima=0000",
+      "pubdate": "2016/02/15 00:00:00",
+      "tags": [
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "渡邉理佐の撮り下ろし写真とインタビューが掲載されます。"
+    },
+    {
+      "category": "event",
+      "code": "464659",
+      "title": "3月11日（金）COUNTDOWN TV SPECIAL FES（国立代々木第二体育館）出演決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464659?ima=0000",
+      "pubdate": "2016/02/14 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "3月10日（木）、11日（金）に開催される、COUNTDOWN TV SPECIAL FESへの出演が決定致しました！<br />欅坂46は3月11日（金）に出演となります。下記をご確認の上、皆様のご来場をお待ちしております。<br /><br />【公演概要】<br />COUNTDOWN TV SPECIAL FES<br />日時：2016年3月10日（木）、11日（金）　OPEN：18:00（予定）　/　開演：19:00（予定）<br />会場：国立代々木競技場 第二体育館<br /><br />※欅坂46の出演は3/11（金）となります。<br />※観覧方法、出演者詳細は下記COUNTDOWN TV SPECIAL FESオフィシャルサイトをご参照ください。<p class=\"link\"><a href=\"http://www.tbs.co.jp/cdtv_fes2016/\" target=\"_blank\">COUNTDOWN TV SPECIAL FESオフィシャルサイトはコチラ</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "464625",
+      "title": "2月12日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」-番外編-に渡邉理佐が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464625?ima=0000",
+      "pubdate": "2016/02/12 00:00:00",
+      "tags": [
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "渡邉理佐の撮り下ろし写真と自分以外のメンバーの呼び方&印象ひとことアンケートが掲載されます。<p class=\"link\"><a href=\"http://hustlepress.co.jp/keyakizaka46_11/\" target=\"_blank\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」サイトはコチラ</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "464532",
+      "title": "「MARQUEE」Vol.113（2月10日（水）発売）に今泉佑唯、上村莉菜、原田葵、平手友梨奈、渡辺梨加が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464532?ima=0000",
+      "pubdate": "2016/02/10 00:00:00",
+      "tags": [
+        "03",
+        "15",
+        "17",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "今泉佑唯、上村莉菜、原田葵、平手友梨奈、渡辺梨加の撮り下ろし写真とインタビューが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "464534",
+      "title": "「TVstation」4号（2月10日（水）発売）に今泉佑唯、平手友梨奈、渡辺梨加が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464534?ima=0000",
+      "pubdate": "2016/02/10 00:00:00",
+      "tags": [
+        "17",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "今泉佑唯、平手友梨奈、渡辺梨加の撮り下ろし写真とインタビューが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "464507",
+      "title": "「UTB+」3月号（2月9日（火）発売）に今泉佑唯、小池美波、長濱ねるが登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464507?ima=0000",
+      "pubdate": "2016/02/09 00:00:00",
+      "tags": [
+        "06"
+      ],
+      "thumbnail": null,
+      "content": "今泉佑唯、小池美波、長濱ねるの撮り下ろし写真とインタビューが掲載されます。"
+    },
+    {
+      "category": "media",
+      "code": "464508",
+      "title": "2月9日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」には渡邉理佐が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464508?ima=0000",
+      "pubdate": "2016/02/09 00:00:00",
+      "tags": [
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "渡邉理佐の撮り下ろし写真とインタビューが掲載されます。<br /><a href=\"http://hustlepress.co.jp/keyakizaka46_10/\" target=\"_blank\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」サイトはコチラ</a>"
+    },
+    {
+      "category": "release",
+      "code": "464411",
+      "title": "4月6日（水）欅坂46デビューシングル発売決定！！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464411?ima=0000",
+      "pubdate": "2016/02/06 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21",
+        "pickup1"
+      ],
+      "thumbnail": null,
+      "content": "4月6日（水）に欅坂46のデビューシングルが発売決定致しました！<br />収録内容等の詳細に関しては後日発表させて頂きます。<br /><br /><p>≪4月6日（水）発売　欅坂46 デビューシングル「タイトル未定」≫<br />初回仕様限定盤TYPE-A(SRCL-9035～9036)　税抜\\1,528&nbsp; CD＋DVD<br />初回仕様限定盤TYPE-B(SRCL-9037～9038)　税抜\\1,528&nbsp; CD＋DVD<br />初回仕様限定盤TYPE-C(SRCL-9039～9040)　税抜\\1,528&nbsp; CD＋DVD<br />通常盤(SRCL-9041)　税抜\\972 CDのみ<br /><br />★初回仕様限定盤共通封入特典★<br />「全国握手会イベント参加券orスペシャルプレゼント応募券」1枚封入<br />「メンバー生写真」ランダム1枚封入<br /><br />※全国握手会の詳細、スペシャルプレゼントの応募詳細に関しましては、後日オフィシャルサイトで発表させて頂きます。</p>"
+    },
+    {
+      "category": "shakehands",
+      "code": "464412",
+      "title": "デビューシングル発売記念！全国握手会＆個別握手会の開催決定！！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464412?ima=0000",
+      "pubdate": "2016/02/06 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "15",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "4月6日（水）デビューシングルの発売を記念した全国握手会＆個別握手会の開催も決定致しました！<br />下記をご確認の上、皆様のご来場お待ちしております！<br /><br /><p><span style=\"text-decoration: underline;\">≪欅坂46　デビューシングル発売記念全国握手会≫</span><br />　4月17日（日）幕張メッセ<br />　4月30日（土）京都パルスプラザ<br />　5月14日（土）ポートメッセ名古屋<br /><br />※デビューシングル「タイトル未定」の初回仕様限定（CD＋DVD）盤・Type-A（SRCL-9035～6）・Type-B（SRCL-9037～8）<br />・Type-C（SRCL-9039～9040）に初回仕様特典として封入される「全国握手会イベント参加券 or スペシャルプレゼント応募券」をお持ちの方を対象とした握手会となります。<br />※各会場の握手会詳細、スペシャルプレゼントの応募詳細に関しましては、後日オフィシャルサイトで発表させて頂きます。<br /><br /></p><p><span style=\"text-decoration: underline;\">≪欅坂46　デビューシングル発売記念個別握手会≫</span><br />　5月1日（日）京都パルスプラザ<br />　5月15日（日）ポートメッセ名古屋<br />　5月28日（土）幕張メッセ<br />　6月4日（土）パシフィコ横浜<br />　6月26日（日）パシフィコ横浜</p><br />※デビューシングル「タイトル未定」のforTUNE music限定個別握手会参加券付通常盤（SRCL-9041）をご購入いただいた方を対象とした握手会となります。<br /><p align=\"left\">※通常盤（SRCL-9041）は一般流通（CD・DVD・WEBショップ）でも販売しますが、<span style=\"text-decoration: underline;\">個別握手会参加券が特典として付くのは、</span><br /><span style=\"text-decoration: underline;\">forTUNE music販売分のみとなります。</span><br /><br />■抽選購入申込スケジュール<br />【第１次応募受付】 2016年2月8日（月）18：00 ～ 2月12日（金）14：00 まで<br />（抽選結果連絡：2016年2月12日（金）18：00 以降、順次メール、またはMy Page「抽選応募の履歴・結果確認」にて）<br /><br />※個別握手会の詳細はforTUNE musicオフィシャルサイトをご参照ください。</p>　<br /><br /><br /><p class=\"link\"><a href=\"https://fortunemusic.jp/\" target=\"_blank\">forTUNE musicオフィシャルサイトはコチラ</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "464425",
+      "title": "2月5日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」-番外編-に菅井友香が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464425?ima=0000",
+      "pubdate": "2016/02/05 00:00:00",
+      "tags": [
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "菅井友香の撮り下ろし写真と自分以外のメンバーの呼び方&印象ひとことアンケートが掲載されます。<p class=\"link\"><a href=\"http://hustlepress.co.jp/keyakizaka46_09/\" target=\"_blank\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」サイトはコチラ</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "464306",
+      "title": "2月2日公開の「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」には菅井友香が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464306?ima=0000",
+      "pubdate": "2016/02/02 00:00:00",
+      "tags": [
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "菅井友香の撮り下ろし写真とインタビューが掲載されます。今回から新テーマ「ぐるっとグラっと自己紹介」となります。<p class=\"link\"><a href=\"http://hustlepress.co.jp/keyakizaka46_08/\" target=\"_blank\">「HUSTLE PRESS」連載「欅坂46 駆け上るまで待てない！」サイトはコチラ</a></p>"
+    },
+    {
+      "category": "audition",
+      "code": "464227",
+      "title": "けやき坂46（ひらがなけやき）2次審査に関するお知らせ",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464227?ima=0000",
+      "pubdate": "2016/02/01 00:00:00",
+      "thumbnail": null,
+      "content": "けやき坂46（ひらがなけやき）メンバーオーディションにご応募いただきました皆様、ありがとうございました。 たくさんのご応募があり、審査が難航したため、お知らせが遅くなり申し訳ございませんでした。<br /> 1次審査が終了し、1次審査通過した方々には2次審査案内を発送させていただきました。<br /> ※2次審査案内は封書にて郵送させていただいております。ご不明な点などございましたら、下記までお問い合わせください。<br /> 株式会社ソニー・ミュージックエンタテインメント　ＳＤグループ （Tel/03-3515-5693 平日：11：00～17：00）"
+    },
+    {
+      "category": "media",
+      "code": "464228",
+      "title": "「週刊ヤングマガジン」9号（2月1日（月）発売）3号連続企画、第三弾は上村莉菜、尾関梨香、織田奈那、小池美波、原田葵、渡辺梨加、渡邉理佐！ ",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/464228?ima=0000",
+      "pubdate": "2016/02/01 00:00:00",
+      "tags": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "15",
+        "20",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "上村莉菜、尾関梨香、織田奈那、小池美波、原田葵、渡辺梨加、渡邉理佐の撮り下ろし写真が掲載されます。"
+    }
+  ],
+  "count": "31"
 }

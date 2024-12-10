@@ -1,4 +1,533 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "media",
+      "code": "M01568",
+      "title": "2月1日（土）6:30～メ～テレ「デルサタ」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01568?ima=0000",
+      "pubdate": "2020/01/31 19:00:00",
+      "tags": [
+        "04",
+        "06",
+        "43",
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "2月1日（土）メ～テレ「デルサタ」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.nagoyatv.com/del-sat/\">メ～テレ「デルサタ」番組ホームページはこちら</a><br /><br /><br />"
+    },
+    {
+      "category": "event",
+      "code": "E00459",
+      "title": "2020年2月29日(土)「第30回東京ガールズコレクション2020　SPRING/SUMMER」 に土生瑞穂、渡辺梨加、渡邉理佐、藤吉夏鈴、森田ひかる、山﨑天のモデル出演が決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/E00459?ima=0000",
+      "pubdate": "2020/01/31 15:00:00",
+      "tags": [
+        "14",
+        "20",
+        "21",
+        "47",
+        "50",
+        "51"
+      ],
+      "thumbnail": null,
+      "content": "2月29日(土)「第30回東京ガールズコレクション 2020 SPRING/SUMMER」 に土生瑞穂、渡辺梨加、渡邉理佐、藤吉夏鈴、森田ひかる、山﨑天のモデル出演する事が決定しました。<br /><br /><a href=\"https://girlswalker.com/tgc/20ss/\">「第30回東京ガールズコレクション2020　SPRING/SUMMER」公式ホームページはこちら<br /></a><br />＜公演概要＞<br />■開催日時<br />2020年2月29日（土）<br />開場 12:30 / 開演14:30 / 終演 21:30（予定）<br />※イベントの進行状況により、終演時間は前後する可能性があります。<br /><br />■会場<br />国立代々木競技場第一体育館（東京都渋谷区神南2-1-1）<br /><br />■主催<br />東京ガールズコレクション実行委員会 <br /><br />■後援<br />環境庁、東京都、渋谷区<br /><br />■演出<br />DRUMCAN<br /><br />■企画・制作<br />株式会社W TOKYO"
+    },
+    {
+      "category": "media",
+      "code": "M01567",
+      "title": "「BUBKA」3月号(1月31日(金)発売)に石森虹花、小林由依、守屋茜、井上梨名、武元唯衣、森田ひかるが登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01567?ima=0000",
+      "pubdate": "2020/01/31 08:00:00",
+      "tags": [
+        "07",
+        "18",
+        "43",
+        "45",
+        "50"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「BUBKA」3月号に森田ひかるの撮り下ろし写真、守屋茜、石森虹花&times;小林由依、井上梨名&times;武元唯衣のインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.bubkaweb.com/\">「BUBKA」3月号の詳細はこちら</a><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01566",
+      "title": "「週刊少年チャンピオン」No.9（1月30日(木)発売)表紙・巻頭に田村保乃、松田里奈が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01566?ima=0000",
+      "pubdate": "2020/01/30 08:00:00",
+      "tags": [
+        "46",
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「週刊少年チャンピオン」に田村保乃、松田里奈の撮り下ろし写真が掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.akitashoten.co.jp/w-champion\">「週刊少年チャンピオン」NO.9の詳細はこちら</a><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01574",
+      "title": "2月7日（金）23:15～テレビ朝日金曜ナイトドラマ「女子高生の無駄づかい」の第3話より、染谷リリィ役で小林由依の出演決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01574?ima=0000",
+      "pubdate": "2020/01/30 06:00:00",
+      "tags": [
+        "07"
+      ],
+      "thumbnail": null,
+      "content": "現在放送中のテレビ朝日金曜ナイトドラマ「女子高生の無駄づかい」に染谷リリィ役で小林由依の出演が決定致しました。<br />2月7日（金）23:15～の第3話より登場致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/jyoshimuda/\">テレビ朝日金曜ナイトドラマ「女子高生の無駄づかい」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01570",
+      "title": "1月31日(金)25:20～ KHB東日本放送「ピカピカ☆チョイス」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01570?ima=0000",
+      "pubdate": "2020/01/29 19:00:00",
+      "tags": [
+        "04",
+        "06",
+        "43",
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "1月31日(金)25:20～ KHB東日本放送「ピカピカ☆チョイス」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.khb-tv.co.jp/\">KHB東日本放送のホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01565",
+      "title": "「週刊少年サンデー」9号(1月29日(水)発売)の表紙・巻頭に菅井友香が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01565?ima=0000",
+      "pubdate": "2020/01/29 08:00:00",
+      "tags": [
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「少年サンデー」に菅井友香の撮り下ろし写真が掲載されます。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://websunday.net/\">「週刊少年サンデー」9号の詳細はこちら</a><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01548",
+      "title": "2月4日（火）26:05～テレビ東京「吉本坂46が売れるまでの全記録」に武元唯衣が出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01548?ima=0000",
+      "pubdate": "2020/01/29 02:35:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "2月4日（火）26:05～テレビ東京「吉本坂46が売れるまでの全記録」に武元唯衣が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/yoshimotozaka/\">テレビ東京「吉本坂46が売れるまでの全記録」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01562",
+      "title": "1月29日（水）6:00～メ~テレ「ドデスカ！」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01562?ima=0000",
+      "pubdate": "2020/01/28 19:00:00",
+      "tags": [
+        "04",
+        "06",
+        "43",
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "1月29日（水）6:00～メ~テレ「ドデスカ！」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演致します。<br /><br />是非ご覧ください。<br /><br />※生放送の為予告なく番組の内容が変更する場合がございます。ご了承ください。<br /><br /><a href=\"https://www.nagoyatv.com/dode/\">メ～テレ「ドデスカ！」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01558",
+      "title": "1月29日（水）5:20～FBS福岡放送「バリはやッ！ZIP！」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01558?ima=0000",
+      "pubdate": "2020/01/28 19:00:00",
+      "tags": [
+        "04",
+        "06",
+        "43",
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "1月29日（水）5:20～FBS福岡放送「バリはやッ！ZIP！」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演致します。<br /><br />是非ご覧ください。<br /><br />※生放送の為予告なく番組の内容が変更する場合がございます。ご了承ください。<br /><br /><a href=\"http://www.fbs.co.jp/barihaya/\">FBS福岡放送「バリはやッ！ZIP！」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01563",
+      "title": "「Numero TOKYO」No.134　3月号（1月28日（火）発売）に平手友梨奈が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01563?ima=0000",
+      "pubdate": "2020/01/28 08:00:00",
+      "tags": [
+        "17"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「Numero TOKYO」No.134　3月号に平手友梨奈の撮り下ろし写真とインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://numero.jp/\">「Numero TOKYO」No.134　3月号の詳細はこちら</a><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01555",
+      "title": "「with」3月号(1月28日(火)発売)に小林由依が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01555?ima=0000",
+      "pubdate": "2020/01/28 08:00:00",
+      "tags": [
+        "07"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「With」3月号に専属モデルとして小林由依の撮り下ろし写真が掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://withonline.jp/\">「with」3月号の詳細はコチラ</a><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01549",
+      "title": "「日刊スポーツ」新連載「坂道の火曜日」（1月28日(火)発売）に菅井友香が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01549?ima=0000",
+      "pubdate": "2020/01/28 08:00:00",
+      "tags": [
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "菅井友香の撮り下ろし写真とインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br />「坂道の火曜日」連載公式Twitter<br /><a class=\"ProfileHeaderCard-screennameLink u-linkComplex js-nav\" href=\"https://twitter.com/sakamichinikkan\"><span class=\"username u-dir\" dir=\"ltr\">@<span class=\"u-linkComplex-target\">sakamichinikkan</span></span></a>"
+    },
+    {
+      "category": "release",
+      "code": "R00119",
+      "title": "「欅坂46　LIVE at 東京ドーム 〜ARENA TOUR 2019 FINAL〜」発売記念衣装＆パネル展示がSHIBUYA TSUTAYAにて決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/R00119?ima=0000",
+      "pubdate": "2020/01/27 20:30:00",
+      "thumbnail": null,
+      "content": "2020年1月29日（水）にリリースされる欅坂46、「欅坂46　LIVE at 東京ドーム 〜ARENA TOUR 2019 FINAL〜」の発売を記念して、SHIBUYA TSUTAYAで衣装ならびにパネル展示を行うことが決定いたしました！<br /><br />是非、足をお運び下さい！！<br /><br />★「欅坂46　LIVE at 東京ドーム 〜ARENA TOUR 2019 FINAL〜」発売記念　欅坂46　衣装＆パネル展示★<br /><br />《開催店舗》<br />SHIBUYA TSUTAYA <br /><br />《開催期間》<br />2020年1月28日（火）～2020年2月3日（月）<br />※予告なく、店舗内での展示場所や開催期日の変更がある場合がございます。あらかじめご了承ください。"
+    },
+    {
+      "category": "media",
+      "code": "M01564",
+      "title": "1月29日（水）19:00～テレビ朝日「あいつ今何してる？」に尾関梨香が出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01564?ima=0000",
+      "pubdate": "2020/01/27 20:00:00",
+      "tags": [
+        "04"
+      ],
+      "thumbnail": null,
+      "content": "1月29日（水）19:00～テレビ朝日「あいつ今何してる？」に尾関梨香が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/aitsuima/\">テレビ朝日「あいつ今何してる？」の番組ホームページはこちら</a><br /><br /><br />"
+    },
+    {
+      "category": "release",
+      "code": "R00118",
+      "title": "1月29日(水)発売のDVD&Blu-ray「欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」の特典映像　予告編を公開！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/R00118?ima=0000",
+      "pubdate": "2020/01/25 12:00:00",
+      "thumbnail": null,
+      "content": "1月29日（水）発売のDVD&Blu-ray「欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」の特典映像 予告編が公開となりました。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://youtu.be/vVycl9PAOcc\">「欅坂46 LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」特典映像　予告編はこちら</a><br /><br /><br /><img src=\"https://cdn.keyakizaka46.com/files/14/SRXL238.jpg\" alt=\"\" width=\"694\" height=\"514\" /><br />初回限定生産盤<br /><br /><img src=\"https://cdn.keyakizaka46.com/files/14/SRXL240.jpg\" alt=\"\" width=\"690\" height=\"487\" /><br />通常盤<br /><br /><br /><strong>■発売日</strong><br />2020年1月29日（水）<br /><br /><strong>■商品概要</strong><br />・DVD初回生産限定盤（SRBL-1896～1897） 8,000円（税込）<br />　2枚組<br />　三方背仕様<br />　<span style=\"background-color: #ffffff;\">ポストカードセット封入（6枚組　※全46種のうち6枚1セット封入）</span><br /><br />・DVD通常盤（SRBL-1898）　5,200円（税込）<br /><br />・Blu-ray初回生産限定盤（SRXL-238～239）　10,000円（税込）<br />　2枚組<br />　三方背仕様<br /><span style=\"background-color: #ffffff;\">　ポストカードセット封入（6枚組　※全46種のうち6枚1セット封入）</span><br /><br />・Blu-ray通常盤（SRXL-240）　7,200円（税込）<br /><br />※初回生産限定盤に封入されるポストカードのサイズ・絵柄は共通です。<br /><br /><br /><strong>■収録内容　※DVD/Blu-ray共通</strong><br />【DISC1】<br /><p>・オープニング<br />・Overture<br />・ガラスを割れ！<br />・Dance Track<br />・語るなら未来を&hellip;<br />・Dance Track<br />・Student Dance<br />・Dance Track<br />・エキセントリック<br />・世界には愛しかない<br />・⻘空が違う<br />・バレエと少年<br />・制服と太陽<br />・⼆⼈セゾン<br />・キミガイナイ<br />・もう森へ帰ろうか？<br />・僕たちの戦争<br />・結局、じゃあねしか⾔えない<br />・サイレントマジョリティー<br />・避雷針<br />・アンビバレント<br />・⾵に吹かれても<br />・危なっかしい計画<br />・太陽は⾒上げる⼈を選ばない<br />・不協和⾳<br />・⾓を曲がる&nbsp;<br /><br /></p><p>【DISC2】　※初回生産限定盤のみ<br /><span>・Making of LIVE at 東京ドーム<br />・プレイバックトーク　<br />（<span>尾関梨香・小池美波・菅井友香・土生瑞穂、</span><span>武元唯衣・田村保乃・松田里奈・森田ひかる）</span></span></p><br /><br /><strong>☆Loppi(ローソン・ミニストップ)・HMV限定セットの発売が決定!!!☆</strong><br />Loppi・HMV限定セットアイテムは、【B2クリアポスター2枚セット】!!<br /><br />【商品内容】 <br />　《Loppi・HMV限定クリアポスター2枚付きBlu-ray初回》10,600円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きBlu-ray通常》7,800円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きDVD初回》8,600円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きDVD通常》5,800円(税込)<br />※クリアポスター2枚付きのBlu-ray・DVD初回生産限定盤は、Loppi・HMV限定特典も対象となります。<br />※通常盤にはLoppi・HMV限定特典は付きません。ご注意ください。<br /><br />★全国のローソン・ミニストップ店頭Loppi端末でのお申し込みはコチラ<br /><a href=\"http://www.lawson.co.jp/campaign/lop_keyakidome19/\">http://www.lawson.co.jp/campaign/lop_keyakidome19/</a><br /><br />★HMV（店舗・オンライン）でのお申し込みはコチラ<br /><a href=\"https://www.hmv.co.jp/news/article/1912061027/\">https://www.hmv.co.jp/news/article/1912061027/</a><br /><br />※期間中でも完売になる可能性がございます。予めご了承ください。<br /><br /><p></p>"
+    },
+    {
+      "category": "media",
+      "code": "M01557",
+      "title": "1月26日（日）6:30～TNCテレビ西日本「ももち浜DXストア」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01557?ima=0000",
+      "pubdate": "2020/01/25 09:00:00",
+      "tags": [
+        "04",
+        "06",
+        "43",
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "1月26日（日）6:30～TNCテレビ西日本「ももち浜DXストア」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演致します。<br /><br />是非ご覧ください。<br /><br />※生放送の為予告なく番組の内容が変更する場合がございます。ご了承ください。<br /><br /><a href=\"https://www.tnc.co.jp/store/\">TNCテレビ西日本「ももち浜DXストア」番組ホームページはこちら</a><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M01556",
+      "title": "1月26日（日）9:30～テレビ東京系テレビ大阪「JAPAN COUNTDOWN」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01556?ima=0000",
+      "pubdate": "2020/01/25 08:00:00",
+      "tags": [
+        "04",
+        "06",
+        "43",
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "1月26日（日）9:30～テレビ東京系テレビ大阪「JAPAN COUNTDOWN」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-osaka.co.jp/ip4/jcd/\">テレビ東京系テレビ大阪「JAPAN COUNTDOWN」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01572",
+      "title": "1月25日(土)16:30～TKUテレビ熊本「若っとランド」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01572?ima=0000",
+      "pubdate": "2020/01/24 19:00:00",
+      "tags": [
+        "04",
+        "06",
+        "43",
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "1月25日(土)16:30～TKUテレビ熊本「若っとランド」に尾関梨香、小池美波、井上梨名、武元唯衣がコメント出演致します。<br /><br />是非ご覧ください。<br /><br />※生放送の為予告なく番組の内容が変更する場合がございます。ご了承ください。<br /><br /><a href=\" https://www.tku.co.jp/wakatto/\">TKUテレビ熊本「若っとランド」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "shakehands",
+      "code": "S00391",
+      "title": "織田奈那、佐藤詩織、鈴本美愉、平手友梨奈の振り替えが発生している個別握手会参加券に関して",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/S00391?ima=0000",
+      "pubdate": "2020/01/23 21:20:00",
+      "thumbnail": null,
+      "content": "振り替えが発生している織田奈那、佐藤詩織、鈴本美愉、平手友梨奈の個別握手会参加券をお持ちの方におかれましては、追ってご案内をさせて頂きます。<br /><br />それまでは個別握手会参加券をお持ちになって、お待ち頂きますよう宜しくお願い申し上げます。"
+    },
+    {
+      "category": "other",
+      "code": "O00185",
+      "title": "織田奈那、佐藤詩織、鈴本美愉、平手友梨奈に関しまして",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/O00185?ima=0000",
+      "pubdate": "2020/01/23 20:50:00",
+      "thumbnail": null,
+      "content": "欅坂46のメンバーとして活動してまいりました織田奈那、鈴本美愉はこの発表をもちましてグループを卒業、平手友梨奈はグループを脱退致します。<br />在籍中はたくさんの応援をいただきありがとうございました。<br /><br />また、佐藤詩織は本人からの申し出により活動を一時休止致します。活動再開の目途が立ちましたら改めてご案内致します。<br /><br />Seed & Flower合同会社"
+    },
+    {
+      "category": "media",
+      "code": "M01554",
+      "title": "「Ray」3月号(1月23日(木)発売)に渡辺梨加が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01554?ima=0000",
+      "pubdate": "2020/01/23 08:00:00",
+      "tags": [
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「Ray」3月号にRayモデルとして渡辺梨加の撮り下ろし写真が掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://ray-web.jp/\">「Ray」3月号の詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01553",
+      "title": "「JJ」3月号（1月23日(木)発売)の表紙に土生瑞穂が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01553?ima=0000",
+      "pubdate": "2020/01/23 08:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「JJ」3月号にJJモデルとして、土生瑞穂の撮り下ろし写真が掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://jj-jj.net/\">「JJ」3月号の詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01551",
+      "title": "1月25日（土）5:00～ニッポン放送「徳光和夫 とくモリ！歌謡サタデー」に菅井友香がゲスト出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01551?ima=0000",
+      "pubdate": "2020/01/23 08:00:00",
+      "tags": [
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "1月25日（土）5:00～ニッポン放送<span>「徳光和夫 とくモリ！歌謡サタデー」</span>に菅井友香がゲスト出演致します。<br /><br />是非お聴きください。<br /><br /><a href=\"https://www.1242.com/toku/\">ニッポン放送「徳光和夫　とくもり歌謡サタデー」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01547",
+      "title": "1月28日（火）26:05～テレビ東京「吉本坂46が売れるまでの全記録」に武元唯衣が出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01547?ima=0000",
+      "pubdate": "2020/01/22 02:35:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "1月28日（火）26:05～テレビ東京「吉本坂46が売れるまでの全記録」に武元唯衣が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/yoshimotozaka/\">テレビ東京「吉本坂46が売れるまでの全記録」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01552",
+      "title": " 「non-no」3月号(1月20日(月)発売)に渡邉理佐が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01552?ima=0000",
+      "pubdate": "2020/01/20 18:07:53",
+      "tags": [
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「non-no」3月号にnon-noモデルとして渡邉理佐の撮り下ろし写真が掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://nonno.hpplus.jp/\">「non-no」3月号詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01550",
+      "title": "1月21日（火）11:30～ニッポン放送「高田文夫のラジオビバリー昼ズ」に菅井友香のゲスト出演が決定！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01550?ima=0000",
+      "pubdate": "2020/01/20 13:00:00",
+      "tags": [
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "1月21日（火）11:30～ニッポン放送「高田文夫のラジオビバリー昼ズ」に菅井友香がゲスト出演致します。<br /><br />是非お聴きください。<br /><br /><a href=\"https://www.1242.com/takada/\">ニッポン放送「高田文夫のラジオビバリー昼ズ」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "release",
+      "code": "R00117",
+      "title": "1月29日(水)発売のDVD&Blu-ray「欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」のLoppi・HMV限定セットアイテム【B2クリアポスター2枚セット】の絵柄を公開！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/R00117?ima=0000",
+      "pubdate": "2020/01/17 17:00:00",
+      "thumbnail": null,
+      "content": "<p>1月29日(水)発売のDVD&Blu-ray「欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」のLoppi・HMV限定セットのB2クリアポスター2枚セットの絵柄が公開となりました。<br /><br /><img src=\"https://cdn.keyakizaka46.com/files/14/kyk_CP_SAMPLE_01_S.jpg\" alt=\"\" width=\"970\" height=\"686\" /></p><p><img src=\"https://cdn.keyakizaka46.com/files/14/kyk_CP_SAMPLE_02_S.jpg\" alt=\"\" width=\"971\" height=\"687\" /><br /><br /></p><p>【商品内容】</p><p>　《Loppi・HMV限定クリアポスター2枚付きBlu-ray初回》10,600円(税込)</p><p>　《Loppi・HMV限定クリアポスター2枚付きBlu-ray通常》7,800円(税込)</p><p>　《Loppi・HMV限定クリアポスター2枚付きDVD初回》8,600円(税込)</p><p>　《Loppi・HMV限定クリアポスター2枚付きDVD通常》5,800円(税込)</p><p>※クリアポスター2枚付きのBlu-ray・DVD初回生産限定盤は、Loppi・HMV限定特典も対象となります。</p><p>※通常盤にはLoppi・HMV限定特典は付きません。ご注意ください。</p><p>&nbsp;</p><p>★全国のローソン・ミニストップ店頭Loppi端末でのお申し込みはコチラ</p><p><a href=\"http://www.lawson.co.jp/campaign/lop_keyakidome19/\">http://www.lawson.co.jp/campaign/lop_keyakidome19/</a></p><p>&nbsp;</p><p>★HMV(店舗・オンライン)でのお申し込みはコチラ</p><p><a href=\"https://www.hmv.co.jp/news/article/1912061027/\">https://www.hmv.co.jp/news/article/1912061027/</a></p><p>&nbsp;</p><p>※期間中でも完売になる可能性がございます。予めご了承ください。</p>"
+    },
+    {
+      "category": "release",
+      "code": "R00116",
+      "title": "1月29日(水)発売のDVD&Blu-ray「欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」のダイジェスト映像を公開！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/R00116?ima=0000",
+      "pubdate": "2020/01/17 12:00:00",
+      "thumbnail": null,
+      "content": "1月29日（水）発売のDVD&Blu-ray「欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」のダイジェスト映像が公開となりました。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://youtu.be/c_4x91rrW3g\">「欅坂46 LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」ダイジェスト映像はこちら</a><br /><br /><br /><img src=\"https://cdn.keyakizaka46.com/files/14/SRXL238.jpg\" alt=\"\" width=\"694\" height=\"514\" /><br />初回限定生産盤<br /><br /><img src=\"https://cdn.keyakizaka46.com/files/14/SRXL240.jpg\" alt=\"\" width=\"690\" height=\"487\" /><br />通常盤<br /><br /><br /><strong>■発売日</strong><br />2020年1月29日（水）<br /><br /><strong>■商品概要</strong><br />・DVD初回生産限定盤（SRBL-1896～1897） 8,000円（税込）<br />　2枚組<br />　三方背仕様<br />　<span style=\"background-color: #ffffff;\">ポストカードセット封入（6枚組　※全46種のうち6枚1セット封入）</span><br /><br />・DVD通常盤（SRBL-1898）　5,200円（税込）<br /><br />・Blu-ray初回生産限定盤（SRXL-238～239）　10,000円（税込）<br />　2枚組<br />　三方背仕様<br /><span style=\"background-color: #ffffff;\">　ポストカードセット封入（6枚組　※全46種のうち6枚1セット封入）</span><br /><br />・Blu-ray通常盤（SRXL-240）　7,200円（税込）<br /><br />※初回生産限定盤に封入されるポストカードのサイズ・絵柄は共通です。<br /><br /><br /><strong>■収録内容　※DVD/Blu-ray共通</strong><br />【DISC1】<br /><p>・オープニング<br />・Overture<br />・ガラスを割れ！<br />・Dance Track<br />・語るなら未来を&hellip;<br />・Dance Track<br />・Student Dance<br />・Dance Track<br />・エキセントリック<br />・世界には愛しかない<br />・⻘空が違う<br />・バレエと少年<br />・制服と太陽<br />・⼆⼈セゾン<br />・キミガイナイ<br />・もう森へ帰ろうか？<br />・僕たちの戦争<br />・結局、じゃあねしか⾔えない<br />・サイレントマジョリティー<br />・避雷針<br />・アンビバレント<br />・⾵に吹かれても<br />・危なっかしい計画<br />・太陽は⾒上げる⼈を選ばない<br />・不協和⾳<br />・⾓を曲がる&nbsp;<br /><br /></p><p>【DISC2】　※初回生産限定盤のみ<br /><span>・Making of LIVE at 東京ドーム<br />・プレイバックトーク　<br />（<span>尾関梨香・小池美波・菅井友香・土生瑞穂、</span><span>武元唯衣・田村保乃・松田里奈・森田ひかる）</span></span></p><br /><br /><strong>☆Loppi(ローソン・ミニストップ)・HMV限定セットの発売が決定!!!☆</strong><br />Loppi・HMV限定セットアイテムは、【B2クリアポスター2枚セット】!!<br /><br />【商品内容】 <br />　《Loppi・HMV限定クリアポスター2枚付きBlu-ray初回》10,600円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きBlu-ray通常》7,800円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きDVD初回》8,600円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きDVD通常》5,800円(税込)<br />※クリアポスター2枚付きのBlu-ray・DVD初回生産限定盤は、Loppi・HMV限定特典も対象となります。<br />※通常盤にはLoppi・HMV限定特典は付きません。ご注意ください。<br /><br />★全国のローソン・ミニストップ店頭Loppi端末でのお申し込みはコチラ<br /><a href=\"http://www.lawson.co.jp/campaign/lop_keyakidome19/\">http://www.lawson.co.jp/campaign/lop_keyakidome19/</a><br /><br />★HMV（店舗・オンライン）でのお申し込みはコチラ<br /><a href=\"https://www.hmv.co.jp/news/article/1912061027/\">https://www.hmv.co.jp/news/article/1912061027/</a><br /><br />※期間中でも完売になる可能性がございます。予めご了承ください。<br /><br /><p></p>"
+    },
+    {
+      "category": "media",
+      "code": "M01542",
+      "title": "1月23日(木)19:00～日本テレビ「THE突破ファイル 」に小林由依、土生瑞穂、松田里奈が出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01542?ima=0000",
+      "pubdate": "2020/01/16 20:00:00",
+      "tags": [
+        "07",
+        "14",
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "1月23日(木)19:00～日本テレビ「THE突破ファイル 」に小林由依、土生瑞穂がパネラーとして、松田里奈が再現ドラマに出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/toppa/\">「THE突破ファイル」番組ホームページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01546",
+      "title": "「blt graph.」vol.51(1月16日(木)発売)の中面に尾関梨香が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01546?ima=0000",
+      "pubdate": "2020/01/16 08:00:00",
+      "tags": [
+        "04"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「blt graph.」Vol.51の中面に尾関梨香の撮り下ろし写真とインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://zasshi.tv/category/bltgraph\">「blt graph.」vol.51の詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01545",
+      "title": "「週刊少年マガジン」7号(1月15日(水)発売)の表紙、巻頭に尾関梨香、小池美波、小林由依、菅井友香、原田葵が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01545?ima=0000",
+      "pubdate": "2020/01/15 08:00:00",
+      "tags": [
+        "04",
+        "06",
+        "07",
+        "11",
+        "15"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「週刊少年マガジン」7号の表紙・巻頭に尾関梨香、小池美波、小林由依、菅井友香、原田葵の撮り下ろし写真が掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\" https://shonenmagazine.com/\">「週刊少年マガジン」7号の詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01544",
+      "title": "「EX大衆」2月号（1月15日(水)発売)に原田葵、インタビューで石森虹花×守屋茜、渡辺梨加が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01544?ima=0000",
+      "pubdate": "2020/01/15 08:00:00",
+      "tags": [
+        "15",
+        "18",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「EX大衆」2月号に原田葵の撮り下ろし写真、石森虹花&times;守屋茜、渡辺梨加のインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.futabasha.co.jp/magazine/ex_taishu.html\">「EX大衆」2月号の詳細はコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01543",
+      "title": "1月15日（水）19:00～テレビ朝日「あいつ今なにしてる？」に土生瑞穂が出演！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01543?ima=0000",
+      "pubdate": "2020/01/14 19:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "1月15日（水）19:00～テレビ朝日「あいつ今なにしてる？」に土生瑞穂が出演致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/aitsuima/\">テレビ朝日「あいつ今なにしてる？」の番組ホームページはこちら</a><br /><br /><br />"
+    },
+    {
+      "category": "event",
+      "code": "E00458",
+      "title": "2月1日（土）映画「ロバマン」舞台挨拶に小池美波が登壇！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/E00458?ima=0000",
+      "pubdate": "2020/01/11 00:00:00",
+      "tags": [
+        "06"
+      ],
+      "thumbnail": null,
+      "content": "2月1日（土）映画「ロバマン」舞台挨拶に小池美波が登壇致します。<br />皆様のご来場をお待ちしております！<br /><br />■映画「ロバマン」舞台挨拶詳細<br />会場：池袋シネマ・ロサ１<br />時間：11:45開演　上映後舞台挨拶<br />登壇者：河崎実監督、吉田照美、小池美波（欅坂46）<br />※登壇者は予告なく変更になる場合がございますので予めご了承ください。<br />料金(税込)：2,000円　※ 別途手数料あり<br /><br />≪発売情報≫<br />【一般発売（先着）】<br />・受付期間：1/18[土]12：00～ ※但し、限定数の販売ですので、無くなり次第終了となります。<br /><br />・受付方法<br />WEB予約　≪URL：<a href=\"https://l-tike.com/68man\">https://l-tike.com/68man</a>≫(PC/モバイル/スマホ)<br />Loppi直接購入(ローソン・ミニストップ店内設置/Lコード入力にて購入)<br /><br />・決済方法<br />WEB予約　　 &rarr;クレジット決済・キャリア決済<br />Loppi直接購入 &rarr;店頭決済のみ (レジにてクレジットカードも使用可能です。)<br /><br />・ Lコード: 32135<br />・枚数制限：4枚まで<br /><br />・手数料：<br />WEB/モバイル&rarr;330円/1枚(内訳：システム利用料220円、店頭発券手数料110円)<br />Loppi直接購入&rarr;店頭発券手数料110円/1枚<br /><br />≪注意事項≫<br />・いかなる場合においても舞台挨拶中の途中入場はお断りさせて頂きますので、ご了承ください。<br />・全国共通鑑賞券他前売り券はご利用いただけません。<br />・特別興行の為、各種招待券はご利用いただけません。<br />・お席はお選びいただけません。<br />・ご購入の際は各種手数料がかかります。詳しくは、購入の際ご確認ください。<br />・場内でのカメラ(携帯カメラ含む)・ビデオによる撮影、録音等は固くお断りいたします。<br />・転売目的でのご購入は、固くお断り致します。<br />・全席指定となります。チケットをお持ちでない方はご覧になれません。<br />・登壇者および舞台挨拶は、都合により予告なく変更になる場合がございます。<br />・当日マスコミ取材が入る場合がございます。予めご了承ください。<br />≪チケット販売に関するお問合せ≫<br />ローソンチケットインフォメーション (10:00～18:00) 0570-000-777"
+    },
+    {
+      "category": "release",
+      "code": "R00115",
+      "title": "1月29日(水)発売のDVD&Blu-ray『欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～』 CDショップチェーン別先着特典絵柄を公開！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/R00115?ima=0000",
+      "pubdate": "2020/01/10 18:00:05",
+      "thumbnail": null,
+      "content": "1月29日(水)発売となる欅坂46のDVD&Blu-ray『欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～』 [初回生産限定盤DVD(SRBL-1896～1897)、初回生産限定盤Blu-ray(SRXL-238～239)] を下記CDショップチェーンにてご購入いただいた方に、1枚お買い上げにつき1枚、先着で下記オリジナル特典を差し上げます。<br /><br />★予約者優先　先着オリジナル特典★<br />■Amazon.co.jp(ECサイト)-ミニクリアファイル(Amazon.co.jp絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/9_amazon.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■HMV全店(HMV&BOOKS online含む)・Loppi(ローソン・ミニストップ店頭端末)-ミニクリアファイル(HMV絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/17_HMV.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■玉光堂/バンダレコード/ライオン堂(ECサイト含む)-ミニクリアファイル(玉光堂/バンダレコード/ライオン堂絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/14_gyokkodo.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■コーチャンフォー グループ全店(エムズエクスポ盛岡店　含む)-ミニクリアファイル(コーチャンフォー絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/10_kotyanfo.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■上新電機ディスクピア(Joshin web含む)-ミニクリアファイル(上新電機ディスクピア絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/16_jyosin_denki.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■WonderGOO/新星堂全店(一部店舖除く) および新星堂WonderGOOオンライン-ミニクリアファイル(WonderGOO/新星堂絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/11_wonderGOO.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■セブンネット-ミニクリアファイル(セブンネット絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/7_seven_net.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■ソフマップCDソフト取扱い店(ドットコム含む)※一部店舗除く-ミニクリアファイル(ソフマップ絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/4_sofmap.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■Sony Music Shop-ミニクリアファイル(Sony Music Shop絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/8_sony_music_shop.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■タワーレコード全店(オンライン含む/一部店舗除く)-ミニクリアファイル(タワーレコード絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/13_tower_records.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■TSUTAYA　RECORDS (オンライン含む/一部店舗除く)-ミニクリアファイル(TSUTAYA RECORDS絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/tsutaya_records.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■フタバ図書全店(一部店舗除く)-ミニクリアファイル(フタバ図書絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/5_futaba_tosyo.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■山野楽器CD/DVD取扱店(一部店舗除く)-ミニクリアファイル(山野楽器絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/6_yamano_gakki.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■楽天ブックス(ECサイト)-ミニクリアファイル(楽天ブックス絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/15_rakutenbooks.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■ラムタラ各店(ラムタラ、アリババ、ムーラン)-ミニクリアファイル(ラムタラ絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/ramutara_2.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■ヨドバシカメラ　ヨドバシ.com(一部店舗を除く) -ミニクリアファイル(ヨドバシカメラ絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/1_yodobashi.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br />■欅坂46応援店-ミニクリアファイル(欅坂46応援店絵柄)<br /><img src=\"https://cdn.keyakizaka46.com/files/14/12_ouenten.jpg\" alt=\"\" width=\"624\" height=\"440\" /><br /><br /><a href=\"https://www.sonymusic.co.jp/Music/Info/keyakizaka46/shoplist/200129/\">欅坂46応援店リストはこちら<br /></a><br /><br />※上記は全て予定事項につき、予告なく変更になる可能性がございます。あらかじめご了承ください。<br />※特典は店舗毎に無くなり次第終了となります。"
+    },
+    {
+      "category": "release",
+      "code": "R00114",
+      "title": "1月29日(水)発売のDVD&Blu-ray「欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」ジャケット写真を公開！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/R00114?ima=0000",
+      "pubdate": "2020/01/10 18:00:00",
+      "thumbnail": null,
+      "content": "1月29日（水）発売のDVD&Blu-ray「欅坂46　LIVE at 東京ドーム ～ARENA TOUR 2019 FINAL～」のジャケット写真が公開となりました。<br /><br /><img src=\"https://cdn.keyakizaka46.com/files/14/SRXL238.jpg\" alt=\"\" width=\"694\" height=\"514\" /><br />初回限定生産盤<br /><br /><img src=\"https://cdn.keyakizaka46.com/files/14/SRXL240.jpg\" alt=\"\" width=\"690\" height=\"487\" /><br />通常盤<br /><br /><br /><strong>■発売日</strong><br />2020年1月29日（水）<br /><br /><strong>■商品概要</strong><br />・DVD初回生産限定盤（SRBL-1896～1897） 8,000円（税込）<br />　2枚組<br />　三方背仕様<br />　<span style=\"background-color: #ffffff;\">ポストカードセット封入（6枚組　※全46種のうち6枚1セット封入）</span><br /><br />・DVD通常盤（SRBL-1898）　5,200円（税込）<br /><br />・Blu-ray初回生産限定盤（SRXL-238～239）　10,000円（税込）<br />　2枚組<br />　三方背仕様<br /><span style=\"background-color: #ffffff;\">　ポストカードセット封入（6枚組　※全46種のうち6枚1セット封入）</span><br /><br />・Blu-ray通常盤（SRXL-240）　7,200円（税込）<br /><br />※初回生産限定盤に封入されるポストカードのサイズ・絵柄は共通です。<br /><br /><br /><strong>■収録内容　※DVD/Blu-ray共通</strong><br />【DISC1】<br /><p>・オープニング<br />・Overture<br />・ガラスを割れ！<br />・Dance Track<br />・語るなら未来を&hellip;<br />・Dance Track<br />・Student Dance<br />・Dance Track<br />・エキセントリック<br />・世界には愛しかない<br />・⻘空が違う<br />・バレエと少年<br />・制服と太陽<br />・⼆⼈セゾン<br />・キミガイナイ<br />・もう森へ帰ろうか？<br />・僕たちの戦争<br />・結局、じゃあねしか⾔えない<br />・サイレントマジョリティー<br />・避雷針<br />・アンビバレント<br />・⾵に吹かれても<br />・危なっかしい計画<br />・太陽は⾒上げる⼈を選ばない<br />・不協和⾳<br />・⾓を曲がる&nbsp;<br /><br /></p><p>【DISC2】　※初回生産限定盤のみ<br /><span>・Making of LIVE at 東京ドーム<br />・プレイバックトーク　<br />（<span>尾関梨香・小池美波・菅井友香・土生瑞穂、</span><span>武元唯衣・田村保乃・松田里奈・森田ひかる）</span></span></p><br /><br /><strong>☆Loppi(ローソン・ミニストップ)・HMV限定セットの発売が決定!!!☆</strong><br />Loppi・HMV限定セットアイテムは、【B2クリアポスター2枚セット】!!<br /><br />【商品内容】 <br />　《Loppi・HMV限定クリアポスター2枚付きBlu-ray初回》10,600円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きBlu-ray通常》7,800円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きDVD初回》8,600円(税込)<br />　《Loppi・HMV限定クリアポスター2枚付きDVD通常》5,800円(税込)<br />※クリアポスター2枚付きのBlu-ray・DVD初回生産限定盤は、Loppi・HMV限定特典も対象となります。<br />※通常盤にはLoppi・HMV限定特典は付きません。ご注意ください。<br /><br />★全国のローソン・ミニストップ店頭Loppi端末でのお申し込みはコチラ<br /><a href=\"http://www.lawson.co.jp/campaign/lop_keyakidome19/\">http://www.lawson.co.jp/campaign/lop_keyakidome19/</a><br /><br />★HMV（店舗・オンライン）でのお申し込みはコチラ<br /><a href=\"https://www.hmv.co.jp/news/article/1912061027/\">https://www.hmv.co.jp/news/article/1912061027/</a><br /><br />※期間中でも完売になる可能性がございます。予めご了承ください。<br /><br /><p></p>"
+    },
+    {
+      "category": "media",
+      "code": "M01541",
+      "title": "「読売中高生新聞」(1月10日(金)発売)に尾関梨香が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01541?ima=0000",
+      "pubdate": "2020/01/10 08:00:00",
+      "tags": [
+        "05",
+        "11"
+      ],
+      "thumbnail": null,
+      "content": "発売中の「読売中高生新聞」に尾関梨香のインタビューが掲載されております。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://www.434381.jp/teen/\">「読売中高生新聞」の公式サイトはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01540",
+      "title": "「Top Yell NEO 2019-2020」(1月8日(水)発売)の表紙・巻頭に井上梨名、田村保乃、藤吉夏鈴、中面に尾関梨香、武元唯衣、山﨑天が登場！",
+      "caption": "",
+      "link": "https://www.keyakizaka46.com/s/k46o/news/detail/M01540?ima=0000",
+      "pubdate": "2020/01/08 08:00:00",
+      "tags": [
+        "04",
+        "43",
+        "45",
+        "46",
+        "47",
+        "51"
+      ],
+      "thumbnail": null,
+      "content": "「Top Yell NEO 2019-2020」(1月8日(水)発売)の表紙・巻頭に井上梨名、田村保乃、藤吉夏鈴、中面に尾関梨香、武元唯衣、山﨑天の撮り下ろし写真とインタビューが掲載されます。<br /><br />是非ご覧ください。<br /><br /><a href=\"http://www.takeshobo.co.jp/book_d/shohin/5543311\">「Top Yell NEO2019-2020」の詳細はこちら</a><br /><br /><div></div>"
+    }
+  ],
+  "count": "39"
 }

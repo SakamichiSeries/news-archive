@@ -1,4 +1,859 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "media",
+      "code": "M00888",
+      "title": "6月1日(火)25:38～朝日放送テレビ「これ余談なんですけど・・・」に佐々木久美が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00888?ima=0000",
+      "pubdate": "2021/05/31 17:10:40",
+      "tags": [
+        "7"
+      ],
+      "thumbnail": null,
+      "content": "6月1日(火)25:38～朝日放送テレビ「これ余談なんですけど・・・」に佐々木久美が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.asahi.co.jp/yodan/\" target=\"_blank\">「これ余談なんですけど・・・」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00889",
+      "title": "6月1日(火)20:00～フジテレビ「潜在能力テスト」に佐々木美玲が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00889?ima=0000",
+      "pubdate": "2021/05/31 17:04:00",
+      "tags": [
+        "8"
+      ],
+      "thumbnail": null,
+      "content": "6月1日(火)20:00～フジテレビ「潜在能力テスト」に佐々木美玲が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/senzainouryoku/\" target=\"_blank\">「潜在能力テスト」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00890",
+      "title": "6月1日(火)25:58～TBS「アカデミーナイトG」に小坂菜緒が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00890?ima=0000",
+      "pubdate": "2021/05/31 16:55:32",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "6月1日(火)25:58～TBS「アカデミーナイトG」に小坂菜緒が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/academy-n/\" target=\"_blank\">「アカデミーナイトG」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00851",
+      "title": "「BUBKA」7月号（5月31日(月)発売）発売の表紙・巻頭に金村美玖が、中面に東村芽依、宮田愛萌×森本茉莉、富田鈴花×髙橋未来虹が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00851?ima=0000",
+      "pubdate": "2021/05/31 11:16:46",
+      "tags": [
+        "11",
+        "12",
+        "15",
+        "19",
+        "22",
+        "23"
+      ],
+      "thumbnail": null,
+      "content": "「BUBKA」7月号（5月31日(月)発売）発売の表紙・巻頭に金村美玖が、中面に東村芽依、宮田愛萌&times;森本茉莉、富田鈴花&times;髙橋未来虹が登場しております。<br /><br /><a href=\"https://www.bubkaweb.com/posts/17889089\" target=\"_blank\">「BUBKA」7月号の詳細はコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00885",
+      "title": "5月31日(月)22:54～日本テレビ「The Gift」に丹生明里が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00885?ima=0000",
+      "pubdate": "2021/05/31 11:14:20",
+      "tags": [
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "5月31日(月)22:54～日本テレビ「The Gift」に丹生明里が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/thegift/\" target=\"_blank\">「The Gift」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00884",
+      "title": "5月31日(月)24:15～テレビ朝日「しくじり先生 俺みたいになるな!!」に高本彩花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00884?ima=0000",
+      "pubdate": "2021/05/31 11:13:27",
+      "tags": [
+        "10"
+      ],
+      "thumbnail": null,
+      "content": "5月31日(月)24:15～テレビ朝日「しくじり先生 俺みたいになるな!!」に高本彩花が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/shikujiri/\" target=\"_blank\">「しくじり先生 俺みたいになるな!!」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "release",
+      "code": "R00096",
+      "title": "日向坂46 5thシングル「君しか勝たん」発売記念 スペシャル応募抽選企画 オンラインミート＆グリート（個別トーク会）応募がスタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00096?ima=0000",
+      "pubdate": "2021/05/31 10:00:00",
+      "thumbnail": null,
+      "content": "<p><span lang=\"EN-US\">5</span><span>月<span lang=\"EN-US\">26</span>日<span lang=\"EN-US\">(</span>水<span lang=\"EN-US\">)</span>発売の<span lang=\"EN-US\">5th</span>シングル「君しか勝たん」<span lang=\"EN-US\">CD</span>購入者のスペシャル応募抽選企画がスタート致しました。<span lang=\"EN-US\"><br /> </span>初回仕様限定盤<span lang=\"EN-US\">(TYPE-A</span>～<span lang=\"EN-US\">TYPE-D</span>のいずれか<span lang=\"EN-US\">)</span>に封入されているシリアルナンバーをご確認頂き、奮ってご参加ください。<br />シリアルナンバーは初回仕様限定盤にのみ封入されておりますので、お間違え無いようお願い致します。</span></p><p><span>&nbsp;</span>※内容によって、ご応募の際に必要な応募券の枚数<span>(</span>シリアルナンバーの数<span>)</span>が異なります。</p><p><span>※ご応募期間は、<span>2021</span>年<span>8</span><span>月<span>13</span>日<span>(</span>金<span>)23:59</span></span>までとなっております。</span></p><p><span>（イベントの場合はイベント当日まで、プレゼントの場合は賞品の発送をもってご当選通知とかえさせて頂きます。<span>)</span></span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span>応募方法：<br /><a href=\"https://ticket.fortunemusic.app/hinatazaka46/\">「5thシングル「君しか勝たん」CD購入者スペシャル応募抽選企画特設サイト」はこちら<br /></a>※表示される手順に沿ってご応募ください。</p><p><span>&nbsp;</span></p><p><span>※ご応募には、商品に同梱の抽選応募券に記載されているシリアルナンバー<span>(</span>半角英数字<span>13</span>桁<span>)</span>が必要です。予めご用意のうえ応募ください。</span></p><p><span>※ひとつのシリアルナンバーにつき、<span>1</span>回のみ応募が可能です。いかなる理由においても、<span>ID</span>ナンバーの再発行はいたしませんので、ご注意ください。</span></p><p><span>※一度ご応募が完了しますと、お申込み内容・申込者情報の変更、キャンセルは一切できませんのでご注意ください。</span></p><p><span>※一度ご応募に使用したシリアルナンバーは、ご応募を以って無効となります。同じシリアルナンバーでの応募は一回のみとなります。</span></p><p><span>&nbsp;</span></p><p><span>応募期間：</span></p><p><span>2021</span><span>年<span>5</span>月<span>26</span>日<span>(</span>水<span>)18:00</span>～<span>8</span>月<span>13</span>日<span>(</span>金<span>)23:59</span>まで</span></p><p><strong><span>※応募するイベント・商品によって締切が異なります。ご応募の際に必ず締切をご確認ください。</span></strong></p><p><span>※応募期間を過ぎますと、ご応募いただけなくなりますのでご注意ください。</span></p><p><span>※アクセスが集中すると、応募サイトにつながりにくくなる可能性がございます。当選は受付順ではございませんので、時間帯を改めてご応募いただきますようお願いいたします。</span></p><p><span>※締切前はアクセスが集中する可能性がございますので、時間の余裕をもってご応募ください。</span></p><p></p><p><strong><span>&nbsp;</span></strong></p><p><strong><span>&lt;</span></strong><strong><span>賞品<span>&gt;</span></span></strong><span><br /> </span><strong><span>■<span>3</span>枚応募■</span></strong><strong><span><br /> </span></strong><span><br /> </span><strong><span>★購入者応募抽選スペシャルイベント！オンラインサイン会</span></strong><span><br /> </span><span>メンバーとのオンラインサイン会にご参加いただけます！<span><br /> <br /> </span></span><span>開催日：<span>2021</span>年<span>8</span>月<span>8</span>日<span>(</span>日<span>)</span></span><span><br /> </span><span>受付開始　<span>18:15</span>　<span>/</span>　イベント開始　<span>18</span>：<span>30</span>　<span>/</span>　受付終了<span> 19:15<br /> </span>ご当選者数：各メンバー<span>20</span>名様　合計<span>440</span>名様<span><br /></span></span><strong><span><br /></span></strong></p><p><strong><span>応募期間：<span>2021</span>年<span> 5/31(</span>月<span>)10:00 </span>～ <span>6/18(</span>金<span>)23:59</span></span></strong></p><p><strong><span>&rarr;当選発表<span> 2021</span>年 <span>6/25(</span>金<span>)</span>　<span>16:00</span>ごろ予定</span></strong></p><p></p><p><span>【参加メンバー】<span><br /> </span>潮紗理菜、影山優佳、加藤史帆、齊藤京子、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、</span>宮田愛萌、渡邉美穂、上村ひなの、髙橋未来虹、森本茉莉、山口陽世</p><p><span><span> <br /> </span><strong><span>■<span>2</span>枚応募■</span></strong><strong><span><br /> </span></strong><span><br /> </span><strong><span>★秘蔵生写真メンバーサイン入り</span></strong><span><br /> </span>秘蔵生写真にご応募頂いたメンバーの直筆サインを入れてプレゼント！<span><br /> <br /> </span>ご当選者数：各メンバー<span>10</span>名様　合計<span>220</span>名様<span><br /> </span>応募締切：<span>2021</span>年<span>8</span>月<span>13</span>日<span>(</span>金<span>)23:59</span>まで<span><br /> </span></span><span>※プレゼントは賞品の発送をもってご当選通知とかえさせて頂きます。</span></p><p><span>&nbsp;</span></p><p><strong><span>■<span>1</span>枚応募■</span></strong><strong><span><br /> </span></strong><span><br /> </span><strong><span>★応募者全員当選！<span>5th</span>シングル「君しか勝たん」ミニライブ視聴用<span>ID</span></span></strong><span><span><br /> 5th</span></span><span><span>シングル「君しか勝たん」収録曲のパフォーマンスをライブ配信でご覧いただけます。<span><br /> <br /> </span></span></span><span><span>ミニライブ配信日時：<span>2021</span>年<span>7</span>月16日<span>(</span>金<span>)20:30</span>～</span></span><span><span><br /> </span></span><span><span>ご当選者数：応募者全員<span><br /> </span></span></span><span><strong><span>◆締切日：<span> 2021</span>年7月2日<span>(</span>金<span>)23:59</span></span></strong></span><span><span><br /> <br /> </span></span></p><p><span><span>&nbsp;</span></span></p><p><span><strong><span>★応募者全員当選！<span>5th</span>シングル「君しか勝たん」ミニライブ・アーカイブ配信 視聴用<span>ID</span></span></strong></span><span><span><br /> 5th</span></span><span><span>シングル「君しか勝たん」収録曲のパフォーマンスをライブ配信（アーカイブ）でご覧いただけます。<span><br /> <br /> </span></span></span><span><span>アーカイブ配信日時：<span>2021</span>年<span>7</span>月<span>23</span>日<span>(</span>金・祝<span>)20:30</span>～</span></span><span><span><br /> </span></span><span><span>ご当選者数：応募者全員<span><br /> </span>※内容は「応募者全員当選！<span>5th</span>シングル「君しか勝たん」ミニライブ」と同様になります。<span><br /> </span></span></span><span><strong><span>◆締切日：<span> 2021</span>年<span>7</span>月<span>9</span>日<span>(</span>金<span>)23:59</span></span></strong></span></p><p><span><strong><span>&nbsp;</span></strong></span></p><p><span><span><br /> </span></span><span><strong><span>★応募者全員当選！<span>5th</span>シングル「君しか勝たん」ミニライブ・メンバー解説付き 視聴用<span>ID</span></span></strong></span><span><span><br /> 5th</span></span><span><span>シングル「君しか勝たん」収録曲のパフォーマンス・ライブ配信をメンバー解説付きでご覧いただけます。<span><br /> <br /> </span></span></span><span><span>メンバー解説付き・アーカイブ配信日時：<span>2021</span>年<span>8</span>月<span>6</span>日<span>(</span>金<span>)20:30</span>～</span></span><span><span><br /> </span></span><span><span>ご当選者数：応募者全員<span><br /> </span>※ライブ部分の内容は「応募者全員当選！<span>5th</span>シングル「君しか勝たん」ミニライブ」と同様になります。</span></span><span><br /> </span><strong><span>◆締切日：<span> 2021</span>年<span>7</span>月<span>23</span>日<span>(</span>金<span>)23:59</span></span></strong></p><p><strong><span>&nbsp;</span></strong></p><p><strong><span>&nbsp;</span></strong></p><p><strong><span>★購入者応募抽選企画！<span>5th</span>シングル「君しか勝たん」 発売記念オンラインミート＆グリート（個別トーク会）</span></strong><span><br /> </span><span>シングルの発売を記念して、個別トーク会を実施致します！<br />全レーンペアでの実施となります！<br />※対象のメンバーと二人続けてミート＆グリートをお楽しみ頂けます。<br /><br /></span></p><p><span>開催日：<span><br /> </span></span><span>2021</span><span><span>年<span>8</span>月<span>1</span>日<span>(</span>日<span>)<br /> 2021</span>年<span>8</span>月<span>7</span>日<span>(</span>土<span>)<br /> 2021</span>年<span>8</span>月<span>8</span>日<span>(</span>日<span>)</span></span></span><span><span><br /> </span></span><span>各メンバー各日<span>4</span>部開催（抽選制）<span><br /> <br /> </span></span><span>応募期間：<br /><span>※全レーンペアでの実施に伴い、各応募期間後の&rdquo;優先応募期間&rdquo;の設定はございません。<br /></span><br /></span></p><p><span>1</span><span>次応募 <span>2021</span>年<span>5/31(</span>月<span>)10:00</span>～<span>6/1(</span>火<span>)23:59</span></span></p><p><span>&rarr;当選発表 <span>2021</span>年<span> 6/4(</span>金<span>)16:00</span>ごろ</span></p><p><span>&nbsp;</span></p><p><span>2</span><span>次応募 <span>2021</span>年<span>6/7(</span>月<span>)10:00</span>～<span>6/8(</span>火<span>)23:59</span></span></p><p><span>&rarr;当選発表 <span>2021</span>年 <span>6/11(</span>金<span>)16:00</span>ごろ<br /></span>&nbsp;</p><p><span>3</span><span>次応募 <span>2021</span>年<span>6/14(</span>月<span>)10:00</span>～<span>6/15(</span>火<span>)23:59</span></span></p><p><span>&rarr;当選発表 <span>2021</span>年 <span>6/18(</span>金<span>)16:00</span>ごろ</span></p><p><br /><br /></p><p><span>【オンラインミート＆グリート（個別トーク会）スケジュール】 ※全日程共通<span><br /> </span>＜第１部＞ 受付開始<span> 11:45 / </span>イベント開始<span> 12</span>：<span>00 / </span>受付終了<span> 12:45<br /> </span>＜第２部＞ 受付開始<span> 13:15 / </span>イベント開始<span> 13</span>：<span>30 / </span>受付終了<span> 14:15<br /> </span>＜第３部＞ 受付開始<span> 15:15 / </span>イベント開始<span> 15</span>：<span>30 / </span>受付終了<span> 16:15<br /> </span>＜第４部＞ 受付開始<span> 16:45 / </span>イベント開始<span> 17</span>：<span>00 / </span>受付終了<span> 17:45<br /> </span>※受付終了時刻までに、参加メンバー、チケット使用枚数をお選びいただき、本人確認へ進んでいただいたお客様は、その部のイベントにご参加いただくことが可能です。<span><br /> </span>受付終了時刻を過ぎてしまうと、イベントにご参加いただくことができなくなってしまいますので、ご注意ください。<span><br /> <br /> </span>【イベント内容】<span><br /> </span>メンバー個別のオンライントーク会（オンラインミート＆グリート（個別トーク会）のみの実施です。ライブステージはございません。）<span><br /> </span>※全日程とも終了時間の<span>15</span>分前をそれぞれの部のオンラインミート＆グリート（個別トーク会）の受付締切とさせていただきます。<span><br /> </span>※受付開始・締切時間、イベント開始・終了時間は予定となっております。スケジュールは、都合により変更となる場合があります。その際は、日向坂<span>46</span>公式サイト にてご案内いたします。<span><br /> <br /> </span>【レーン詳細】※全レーンペアとなっております<span><br /></span>8月1日(日)<br />1　潮紗理菜　松田好花<br />2　影山優佳　宮田愛萌<br />3　加藤史帆　高瀬愛奈<br />4　齊藤京子　山口陽世<br />5　佐々木久美　東村芽依<br />6　佐々木美玲　上村ひなの<br />7　高本彩花　丹生明里<br />8　金村美玖　森本茉莉<br />9　河田陽菜　濱岸ひより<br />10　小坂菜緒　髙橋未来虹<br />11　富田鈴花　渡邉美穂<br /><br />8月7日(土)<br />1　潮紗理菜　東村芽依<br />2　影山優佳　佐々木美玲<br />3　加藤史帆　佐々木久美<br />4　齊藤京子　高瀬愛奈<br />5　高本彩花　河田陽菜<br />6　金村美玖　髙橋未来虹<br />7　小坂菜緒　森本茉莉<br />8　富田鈴花　松田好花<br />9　丹生明里　山口陽世<br />10　濱岸ひより　上村ひなの<br />11　宮田愛萌　渡邉美穂<br /><br />8月8日(日)&nbsp;<br />1　潮紗理菜　佐々木美玲<br />2　影山優佳　松田好花<br />3　加藤史帆　髙橋未来虹<br />4　齊藤京子　濱岸ひより<br />5　佐々木久美　河田陽菜<br />6　高瀬愛奈　金村美玖<br />7　高本彩花　渡邉美穂<br />8　東村芽依　富田鈴花<br />9　小坂菜緒　山口陽世<br />10　丹生明里　森本茉莉<br />11　宮田愛萌　上村ひなの<br /></span></p><p><span><span> <br /> <br /> </span><strong><span>★<span>5th</span>シングル「君しか勝たん」<span>B2</span>サイズ告知ポスター</span></strong><span><br /> 5th</span>シングル「君しか勝たん」の告知ポスターをプレゼント！<span><br /> <br /> </span>ご当選者数：<span>100</span>名<span><br /> </span>応募締切：<span>2021</span>年<span>8</span>月<span>13</span>日<span>(</span>金<span>)23:59</span>まで</span></p><p><span>プレゼントの場合は賞品の発送をもってご当選通知とかえさせて頂きます。</span></p><p><span><br /> <br /> <br /> </span><strong><span>★特製ソロポスター</span></strong><span><br /> 5th</span><span>シングル「君しか勝たん」の個人<span>A</span>写ポスターをプレゼント！<span><br /> <br /> </span>ご当選者数：各メンバー<span>20</span>名様　合計<span>440</span>名様<span><br /> </span>応募締切：<span>2021</span>年<span>8</span>月<span>13</span>日<span>(</span>金<span>)23:59</span>まで</span></p><p><span>プレゼントの場合は賞品の発送をもってご当選通知とかえさせて頂きます。</span></p><p><span><br /> <br /> <br /> </span><strong><span>★秘蔵生写真</span></strong><span><br /> </span><span>秘蔵生写真をプレゼント！<span><br /> <br /> </span>ご当選者数：各メンバー<span>10</span>名様　合計<span>220</span>名様<span><br /> </span>応募締切：<span>2021</span>年<span>8</span>月<span>13</span>日<span>(</span>金<span>)23:59</span>まで</span></p><p><span>プレゼントの場合は賞品の発送をもってご当選通知とかえさせて頂きます。</span></p><p><span>&nbsp;</span></p>"
+    },
+    {
+      "category": "shakehands",
+      "code": "S00222",
+      "title": "5月30日(日)開催「オンラインミート＆グリート（個別トーク会）」第5部 丹生明里欠席のご案内",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/S00222?ima=0000",
+      "pubdate": "2021/05/30 19:41:00",
+      "thumbnail": null,
+      "content": "<p><span>5月30日(日)開催分「</span><span>オンラインミート＆グリート（個別トーク会）」第5部</span><span>ですが、丹生明里は体調不良のため</span><span>欠席させて頂きます。</span><span><br /> </span><span><span>振り替えに関しましては後日オフィシャルサイトにてご案内申し上げます。</span></span></p><p><span>&nbsp;</span></p><p><span>【お問い合わせ先】</span><span><br /> </span><span><span>① 商品に関するお問い合わせ「<span>forTUNE music</span>」はこちら</span></span><span><br /> </span><span><a href=\"https://main.fortunemusic.jp/m/pageShw.php?site=F&cd=inquiry\"><span>https://main.fortunemusic.jp/m/pageShw.php?site=F&cd=inquiry</span></a></span><span><br /> </span><span><span>② イベント当日のお問い合わせ、アプリや通信環境に対するお問い合わせ「<span>forTUNE meets</span>カスタマーサポートセンター」はこちら</span></span><span><br /> </span><span><span>電話番号：<span>050-3066-4383</span></span></span><span><br /> </span><span><span>お問合せフォームからのお問合せ受付：</span></span><span><a href=\"https://www.fortunemusic.app/contact/index.html\"><span>https://www.fortunemusic.app/contact/index.html</span></a></span></p>"
+    },
+    {
+      "category": "event",
+      "code": "E00144",
+      "title": "櫻坂46・日向坂46による合同ライブ「W-KEYAKI FES. 2021」開催決定！ ファンクラブ抽選先行、本日5/29(土)12:00より受付スタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00144?ima=0000",
+      "pubdate": "2021/05/29 12:00:00",
+      "thumbnail": null,
+      "content": "<span>けやき坂<span>46</span>（ひらがなけやき）から日向坂<span>46</span>へ。欅坂<span>46</span>から櫻坂<span>46</span>へ。</span><br /> <span>1</span><span>本の欅から生まれ、それぞれ自分たちの坂を駆けあがっている<span>2</span>グループが、この夏、初の合同ライブを開催します！</span><br /> <span>会場は&ldquo;聖地&rdquo;ともいうべき、富士急ハイランドコニファーフォレスト。</span><br /> <span>初日の櫻坂<span>46</span>は、有観客公演として、メンバー全員が揃う初のライブ・パフォーマンス。</span><br /> <span>2</span><span>日目の日向坂<span>46</span>は、太陽の下、たくさんの&ldquo;おひさま&rdquo;と夏を満喫するライブを。</span><br /> <span>そして最終日、念願の<span>2</span>グループ合同ライブが実現いたします。</span><br /> <span>&nbsp;</span><br /> <span>本日<span>5</span>月<span>29</span>日<span>(</span>土<span>)12:00 </span>より、ファンクラブ抽選先行の申込受付を開始。</span><br /> <span>たくさんのお申込み、お待ちしてます！</span><br /> <span>&nbsp;</span><br /> <span>&lt;</span><span>公演情報<span>&gt;</span></span><br /> <strong><span>「<span>W-KEYAKI FES. 2021</span>」</span></strong><br /> <span>&nbsp;</span><br /> <span>【出演<span>(</span>予定<span>)</span>】</span><br /> <strong><span>7/ 9(</span></strong><strong><span>金<span>) </span>：櫻坂<span>46</span></span></strong><br /> <strong><span>7/10(</span></strong><strong><span>土<span>)</span>：日向坂<span>46</span></span></strong><br /> <strong><span>7/11(</span></strong><strong><span>日<span>)</span>：櫻坂<span>46</span>／日向坂<span>46<br /></span></span></strong><br /> <span>【会場】</span><br /> <strong><span>富士急ハイランドコニファーフォレスト</span></strong><br /> <strong><span>&nbsp;</span></strong><br /> <span>【日程・時間】<br /></span><strong><span>2021</span></strong><strong><span>年<br /> ①<span>7</span>月<span>9</span>日（金） 開場<span> 16</span>：<span>00/</span>開演<span> 18</span>：<span>00</span>　</span></strong><strong><span>＜櫻坂<span>46</span>＞<br /></span></strong><strong><span>②<span>7</span>月<span>10</span>日（土）開場 <span>13</span>：<span>00/</span>開演<span> 15</span>：<span>00</span>　</span></strong><strong><span>＜日向坂<span>46</span>＞<br /></span></strong><strong><span>③<span>7</span>月<span>11</span>日（日）開場 <span>15</span>：0<span>0/</span>開演<span> 17</span>：0<span>0</span>　</span></strong><strong><span>＜櫻坂<span>46</span>／日向坂<span>46</span>＞</span></strong><br /> <strong><span>&nbsp;</span></strong><br /> <span>【料金】</span><br /> <strong><span>全席指定　<span>7/9(</span>金<span>)</span>・<span>10(</span>土<span>)</span>＝<span>8,500</span>円<span>(</span>税込<span>)</span>、　<span>7/11(</span>日<span>)</span>＝<span>9,500</span>円<span>(</span>税込<span>)</span></span></strong><br /> <span>&nbsp;</span><br /> <span style=\"color: #3366ff;\">※座席数は厚生労働省のガイドライン及び会場の定める規約に準じて収容人数を設定しております。 </span><br /> <span style=\"color: #3366ff;\">※公演中止・延期の場合を除き、お客様の体調不良および新型コロナウイルス感染によるチケットの払い戻しは致しません。</span><br /> <span style=\"color: #3366ff;\">チケットご購入の際には、ご自身の体調や環境をふまえご判断くださいますようお願いいたします。</span><br /> <span style=\"color: #3366ff;\">※お申込み、来場前に必ずオフィシャルホームページにて「ライブ開催についてのガイドライン」を必ずご確認ください。</span><br /> <span style=\"color: #3366ff;\">ガイドラインは<a href=\"https://www.hinatazaka46.com/files/14/wkeyakifes_guideline.pdf\"><span style=\"color: #3366ff;\">こちら</span></a></span><br /> <span>&nbsp;</span><br /> <span>※全てのお客様の手荷物検査・金属探知による検査を行います。</span><br /> <span>※入場時にご来場者全員の身分証確認を実施させていただきます。</span><br /> <span>本人確認ができない場合には、理由の如何を問わず入場をお断りさせていただきます。</span><br /> <span>顔写真付き電子チケットでご入場の場合は、電子チケットの提示で本人確認をさせていただきますが、</span><br /> <span>身分証の提示をお願いする場合もございます。</span><br /> <span>また、電子チケットに顔写真の登録が無い場合には、入場をお断りさせていただきます。予めご了承ください。</span><br /> <span>※<span>3</span>歳以上有料となります。</span><br /> <span>ただし座席が必要な場合は<span>2</span>歳以下でも、<span>1</span>名につき<span>1</span>枚のチケットが必要です。</span><br /> <span>また、<span>2</span>歳以下のお子様で座席が不要な場合、保護者<span>1</span>名につきお子様<span>1</span>名のみ膝上で鑑賞可能です。</span><br /> <span>※客席を含む会場内の映像・写真が公開されることがあります。</span><br /> <span>※出演者は予告なく変更になる場合がございますので、予めご了承ください。<br /><br /><br /></span><span>&lt;</span><span>ファンクラブ会員先行申込受付<span>&gt;</span></span><br /> <span>【受付期間】</span><br /> <strong><span>2021</span></strong><strong><span>年<span>5</span>月<span>29</span>日<span>(</span>土<span>)12:00</span>～<span>6</span>月<span>1</span>日<span>(</span>火<span>)23:59</span></span></strong><br /><span style=\"text-decoration: underline;\"><br /><a href=\"/s/official/ticket/detail/T00018?ima=0000\">日向坂46ファンクラブ会員の方はコチラ</a></span><br />&nbsp;<br /><span style=\"text-decoration: underline;\"><a href=\"https://sakurazaka46.com/s/s46/ticket/detail/WKEYAKI_FES?ima=0840\">櫻坂46ファンクラブ会員の方はコチラ</a></span><br /><br /> <span>ファンクラブ会員を対象とした先行申込受付になります。お申込みは、ファンクラブ会員ご本人に限らせていただきます。</span><br /> <span style=\"color: #ff0000;\">※ファンクラブ会員先行のお申込みには、ファンクラブご入会の上、「MY PAGE」のプロフィール登録が全て完了している必要がございます。</span><br /> <span style=\"color: #ff0000;\">※チケットは、すべてスマートフォン電子チケットでの受取になります。</span><br /> <span style=\"color: #ff0000;\">受取にはチケプラ電子チケットアプリへの登録(無料)が必要となり、チケットお申込み時にご登録いただきます。</span><br /> <span style=\"color: #ff0000;\">※お申込み時、お申込み者のお名前・メールアドレス・携帯電話番号・Plus member IDと、同行者様のお名前・携帯電話番号・Plus member IDもご登録いただきます。2枚申し込まれる場合には、予め同行者様のお名前と携帯電話番号、Plus member IDを必ずご準備ください。(同行者様がファンクラブ会員である必要はありません)。</span><br /> <span style=\"color: #ff0000;\">※チケット当選後には、同行者様を含め、発券(ダウンロード)期日までにチケプラへの顔写真の登録が必要となります。顔写真の登録が無い場合には、入場をお断りさせていただきます。予めご了承ください。</span><br /> <span>&nbsp;</span><br /> <span>&nbsp;</span><br /> <span><span style=\"color: #000000; background-color: #ffff00;\">先行受付に関する注意事項　</span><span style=\"color: #ff0000;\"><span style=\"color: #000000; background-color: #ffff00;\">※必ずお読みください</span><br /></span></span><br /> <span style=\"color: #3366ff;\">*チケットには、お申込み者、同行者のお名前が印字されます。</span><br /><span style=\"color: #3366ff;\">&nbsp;お申込みの際は、来場者のお名前にて必ずお申込みください。お申込み後の氏名変更はお受けいたしません。</span><br /><span style=\"color: #3366ff;\">&nbsp;チケットに印字される氏名は、お申込み時にご入力いただいた登録情報です。</span><br /><span style=\"color: #3366ff;\">&nbsp;ご家族間、ご友人間であっても譲渡は固くお断りいたします。</span><br /><span style=\"color: #3366ff;\">&nbsp;いかなる理由があろうとも、ご変更は受付いたしませんので、お申込みの際はお間違い・ご入力漏れの無いようご注意ください。</span><br /><span style=\"color: #3366ff;\">&nbsp;お申込み者ご本人様以外のご入場は、理由の如何を問わず入場をお断りさせていただきます。</span><br /> <span style=\"color: #3366ff;\">*先行予約は一般発売より事前に、チケット購入の機会を提供している受付方法です。</span><br /><span style=\"color: #3366ff;\">座席は全て抽選で決めていますので、必ずしも前方の座席がご用意できるとは限りません。</span><br /> <span style=\"color: #3366ff;\">*オークションサイト・金券ショップ・個人間での売買で購入されたチケットは、その有効性を一切保障いたしません。</span><br /><span style=\"color: #3366ff;\">チケットの譲渡・転売は固くお断りします。</span><br /> <span style=\"color: #3366ff;\">*櫻坂46・日向坂46、両グループのファンクラブにご入会されている方は、どちらか１つのファンクラブでのお申込みをお願い致します。</span><br /> <span style=\"color: #3366ff;\">*櫻坂46・日向坂46、両グループのファンクラブから二重のお申込みはお止めください。</span><br /> <span style=\"color: #3366ff;\">*二重当選した場合のご返金は行いません。</span><br /> <span>&nbsp;</span><br /> <span>■今回の受付は「楽天チケット」のシステムを利用します。</span><br /> <span>■チケットのお申込みの際は、櫻坂<span>46</span>ファンクラブでご登録のお名前・メールアドレス・携帯電話番号にて必ずお申込みください。</span><br /> <span>■先着順ではございません。抽選制となりますので、受付期間内のご都合の良い時間にお申込みください。</span><br /> <span>■抽選結果の発表は、<span style=\"color: #ff0000;\">6月4日(金)夕方以降</span>を予定しております。</span><br /> <span>■抽選の結果は、ご登録メールアドレス宛てに送信されます。あらかじめ「<span>@ticket.rakuten.co.jp</span>」からのメールが受信できるよう設定をしてください。 お申込みの確認、メールの未着、遅延の場合は「楽天チケット」のお申込みページ内にある、「抽選お申込み内容・結果の確認」ボタンか</span><span><a href=\"http://r-t.jp/l-review/\"><span>http://r-t.jp/l-review/</span></a></span><span>より、ご確認ください。メール受信不備等による責は負いかねます。</span><br /> <span>■チケットのお申込みに関する内容は以下にお問合せください。</span><br /> <span>《問い合わせ先<span>:</span>楽天チケット》</span><br /> <span>　</span><span><a href=\"https://ticket.faq.rakuten.net/\"><span>https://ticket.faq.rakuten.net/</span></a></span><br /> <span>電話　<span>050-5893-9366</span>（受付時間：平日<span>10</span>時～<span>17</span>時）</span><br /> <span>&nbsp;</span><br /> <span>■お１人様<span>2</span>枚までとなります。</span><br /> <span>■お申込みは、お<span>1</span>人様<span>1</span>公演につき<span>1</span>回のみとなります。</span><span>(</span><span>複数日程申込可<span>)</span></span><br /> <span>■お申込み者、同行者を入れ替えてのお申込みはおやめください。お申込み者、同行者と入れ替えて二重当選した場合のご返金等は行いません。</span><br /> <span>■チケットは、すべてスマートフォン電子チケットでの受取になります。</span><br /> <span>■今回の電子チケットは「チケプラ」のシステムを利用します。</span><br /> <span>&nbsp;</span><br /> <span>《電子チケットお申込みに際して》</span><br /> <span>■電子チケットの利用に際し、申込者・同行者ともに、チケプラの無料会員登録が必要です。</span><br /> <span>無料登録はコチラ<span>(</span></span><span><a href=\"https://tixplus.jp/regist/mailset.php?type=0\"><span>https://tixplus.jp/regist/mailset.php?type=0</span></a></span><span>)</span><br /> <span>■お申込み時には、お申込み者のお名前・メールアドレス・携帯電話番号・<span>Plus member ID</span>と、同行者様のお名前・携帯電話番号・<span>Plus member ID</span>もご登録いただきます。</span><br /> <span>2</span><span>枚申し込まれる場合には、予め同行者様のお名前と携帯電話番号、<span>Plus member ID</span>を必ずご準備ください。</span><br /> <span>■電話番号が誤って登録されている場合はチケットが表示出来ませんので入力間違いがないようご注意ください。</span><br /> <span>　お申込み後の電話番号変更はお受けいたしません。</span><br /> <span>■電子チケットでは以下の利用制限があります。</span><br /> <span>　利用制限に該当する場合には当選されても電子チケットをご利用いただけないか、または、電子チケットのご利用を保証できないためご入場ができない場合がございます。</span><br /> <span>&nbsp;</span><br /> <span>【利用制限】</span><br /> <span>※電子チケットアプリは、インターネット接続が可能な、<span>090/080/070</span>で始まる電話番号を持ったスマホで利用できます。</span><br /> <span>※<span>iPhone</span>は、<span>SMS</span>契約が必須となります。</span><br /> <span>※「ガラケー」「らくらくスマートフォン」「ガラホ」「<span>iPad</span>などのタブレット端末」「<span>iPod touch</span>」は電子チケット非対応となります。</span><br /> <span>また一部のスマホは対応しておりません。必ず非対応機種をご確認ください。</span><br /> <span>《対応端末確認はこちら》</span><br /> <span><a href=\"https://help.tixplus.jp/dticket/87/\"><span>https://help.tixplus.jp/dticket/87/</span></a></span><br /> <span>&nbsp;</span><br /> <span>■お申し込み前に電子チケットについては、下記のページをお読みください。</span><br /> <span><a href=\"https://tixplus.jp/feature/hinatazaka46_dticket/\">https://tixplus.jp/feature/hinatazaka46_dticket/</a></span><br /> <span>&nbsp;</span><br /> <span>■チケット当選後、電子チケットの発券期限までに顔写真を登録していただきます。</span><br /> <span>公演入場時に本人確認を取らせていただきますので、顔写真は、本人と確認しやすいものをご登録していただくようお願いいたします。本人確認が取りづらい場合には、別途、入場時に身分証の提示をお願いする場合があります。</span><br /> <span>■電子チケットは、お申込み時の携帯電話番号<span>(</span>携帯電話<span>)</span>で受け取りとなります。</span><br /> <span>※同行者がいる場合は、同行者分はお申込みの際にご登録頂きました同行者の携帯電話でのチケット受け取りとなります。</span><br /> <span>&nbsp;</span><br /> <span>■当日、車イスでのご来場はスペースを準備するため、お手数ですがチケットを購入された後、<span style=\"color: #ff0000;\">7月6日(火)までに</span>必ずお電話にてご連絡ください。お電話では、名前を確認させていただいた上、当日の入場方法をご案内します。介助が必要な方のみお連れ様は<span>1</span>名様まで一緒にご覧いただけますが、必ずチケットが必要となります。また状況によってお連れ様はご自身のお席でご観覧をお願いする場合がございます。また確認のため、障害者手帳等の証明書を拝見させていただく場合がございます。予めご了承ください。</span><br /> <span>&nbsp;</span><br /> <span>■転売の為のご購入は固くお断り致します。</span><br /> <span>■ご購入されたチケットは、理由の如何を問わず、取替・変更・キャンセルはお受けできません。</span><br /> <span>■購入時、チケット代の他に送料・システム利用料等、各種手数料が必要となります。</span><br /> <span>■中止等の場合、送料・各手数料は返金いたしませんので、予めご了承ください。</span><br /> <span>■お支払い方法</span><br /> <span>・クレジット</span><br /> <span>・コンビニ<span>(</span>ファミリーマート<span>)</span></span><br /> <span>&nbsp;</span><br /> <span style=\"background-color: #ffff00;\">本人確認書類について</span><br /> <span>◎顔写真付きのものであれば、<span>1</span>点をご持参ください。以下がその対象となります。</span><br /> <span>　※全てについてコピーは不可です。現物をご持参ください。</span><br /> <span>　※<span>12</span>歳までのお客様は【健康保険証】の<span>1</span>点のみご持参でもご入場いただけます。</span><br /> <span>&nbsp;</span><br /> <span>(1)</span><span>パスポート</span><br /> <span>(2)</span><span>運転免許証<span>(</span>公安委員会・警察庁発行の物に限ります。<span>)</span></span><br /> <span>(3)</span><span>写真付き学生証<span>(</span>名前が手書きでも可<span>)</span></span><br /> <span>(4)</span><span>住民基本台帳カード</span><br /> <span>(5)</span><span>身体障害者手帳、療育手帳、精神障害者保健福祉手帳</span><br /> <span>(6)</span><span>在留カードまたは特別永住者証明書</span><br /> <span>(7)</span><span>顔写真付きクレジットカード</span><br /> <span>(8)</span><span>個人番号カード<span>(</span>マイナンバーカード<span>)</span></span><br /> <span>※個人番号カード<span>(</span>マイナンバーカード<span>)</span>を身分証明書として利用される際は、表面<span>(</span>写真のある方<span>)</span>のみをご提示ください。裏面<span>(</span>個人番号が印字された面<span>)</span>を提示されないようご注意ください。</span><br /> <span>なお、本人確認の際に、個人番号カード<span>(</span>マイナンバーカード<span>)</span>の裏面を見ることはありません。</span><br /> <span>※個人番号<span>(</span>マイナンバー<span>)</span>の通知カード<span>(</span>個人番号が印字された写真のない紙のカード<span>)</span>は身分証明書として使用できません。</span><br /> <span>&nbsp;</span><br /> <span>◎上記<span>(1)</span>～<span>(8)</span>をお持ちでない場合は、下記<span>(a)</span>～<span>(f)</span>の<span>2</span>点<span>,</span>もしくは<span>(a)</span>～<span>(f)</span>の<span>1</span>点と名前が印字されているもの<span>1</span>点以上で確認をとらせて頂きます。<span>(</span>名前の手書き不可。<span>)</span></span><br /> <span>(a)</span><span>保険証</span><br /> <span>(b)</span><span>住民票</span><br /> <span>(<span>c<span>)</span><span>戸籍謄本</span></span></span><br /> <span>(d)</span><span>戸籍抄本</span><br /> <span>(e)</span><span>印鑑登録証明書</span><br /> <span>(f)</span><span>年金手帳</span><br /> <span>&nbsp;</span><br /> <span>&lt;</span><span>名前が印字されているものの例<span>&gt;</span></span><br /> <span>社員証・顔写真の無い学生証・クレジットカード・キャッシュカード・診察券</span><br /> <span>※全てについてコピー・名前の手書き・期限切れは完全に不可です。 公共料金<span>(</span>電気、水道など<span>)</span>請求書や各種郵便物の類は、名前が印字されたものであっても不可です。</span><br /> <span>&nbsp;</span><br /> <span>◎保険証の貸し借りは法律で禁止されております。</span><br /> <span>また、本人確認書類の細工・偽造、偽造した本人確認書類の使用は全て犯罪行為です。</span><br /> <span>&nbsp;</span><br /> <span>●本人確認ができなかった場合には、入場をお断りさせていただきます。</span><br /> <span>また、オークションでのチケット売買を想定してのチケット抽選申込みは絶対におやめください。</span><br /> <span>当選された場合に来場が可能な公演のみをお申込みいただくよう、お願い致します。</span><br /> <span>&nbsp;</span><br /> <span>&nbsp;</span><br /> <span>【公演に関するお問合せ先】</span><br /> <span>ライブエグザム　<span>TEL:03-5575-5170</span>　<span>(</span>平日 月曜・火曜<span>13:00</span>～<span>17:00)</span></span><br /> <span>&nbsp;</span><br /> <span>【ファンクラブに関するお問合せ】</span><br /> <a href=\"https://www.hinatazaka46.com/s/official/inquiry\">日向坂</a><a href=\"https://www.hinatazaka46.com/s/official/inquiry\">46ファンクラブに関するQ&A・お問い合わせはこちら</a><br /><a href=\"https://sakurazaka46.com/s/s46/inquiry?ima=0054\"><span>櫻坂<span>46ファンクラブに関するQ&A・お問い合わせはこちら</span></span></a><br /><span>※Q&Aをお読みになっても解決しない場合「それ以外のお問い合わせについて」よりお問い合わせください。<br /></span>"
+    },
+    {
+      "category": "media",
+      "code": "M00887",
+      "title": "5月31日(月)～配信開始のAmazon Prime Video「内村さまぁ～ず Second」に潮紗理菜、金村美玖、渡邉美穂が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00887?ima=0000",
+      "pubdate": "2021/05/28 16:37:58",
+      "tags": [
+        "2",
+        "12",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "5月31日(月)～配信開始のAmazon Prime Video「内村さまぁ～ず Second」に潮紗理菜、金村美玖、渡邉美穂が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"http://uchisama.com/\" target=\"_blank\">「内村さまぁ～ず Second」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00886",
+      "title": "5月31日(月)20:00～日本テレビ「世界まる見え！テレビ特捜部」に加藤史帆が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00886?ima=0000",
+      "pubdate": "2021/05/28 16:04:15",
+      "tags": [
+        "5"
+      ],
+      "thumbnail": null,
+      "content": "5月31日(月)20:00～日本テレビ「世界まる見え！テレビ特捜部」に加藤史帆が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/marumie/\" target=\"_blank\">「世界まる見え！テレビ特捜部」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00882",
+      "title": "5月30日(日)23:00～朝日放送テレビ「支配人やってみませんか？」に佐々木久美が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00882?ima=0000",
+      "pubdate": "2021/05/28 08:00:00",
+      "tags": [
+        "7"
+      ],
+      "thumbnail": null,
+      "content": "5月30日(日)23:00～朝日放送テレビ「支配人やってみませんか？」に佐々木久美が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://twitter.com/abc_tokuban\">「支配人やってみませんか？」公式Twitter</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00883",
+      "title": "DAZN「Atsuto Uchida's FOOTBALL TIME」♯33に影山優佳が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00883?ima=0000",
+      "pubdate": "2021/05/27 18:15:00",
+      "tags": [
+        "4"
+      ],
+      "thumbnail": null,
+      "content": "配信中のDAZN「Atsuto Uchida's FOOTBALL TIME」♯33に影山優佳が出演しております。<br />ぜひチェックしてみて下さい。<br /><br /><a href=\"https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/atsuto-uchidas-football-time%E4%BB%8A%E5%A4%8F%E3%81%AB%E7%8F%BE%E5%BD%B9%E3%82%92%E5%BC%95%E9%80%80%E3%81%97%E3%81%9F%E5%86%85%E7%94%B0%E7%AF%A4%E4%BA%BA%E6%B0%8F%E3%81%AE%E5%88%9D%E3%81%AE%E5%86%A0%E7%95%AA%E7%B5%84%E3%81%8C10%E6%9C%881%E6%97%A5%E3%81%8B%E3%82%89%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%B8/g8v4es6x7n69158n07e2p5286\">DAZN「Atsuto Uchida's FOOTBALL TIME」詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00880",
+      "title": "5月29日(土)9:30～TBS「王様のブランチ」に丹生明里が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00880?ima=0000",
+      "pubdate": "2021/05/27 14:00:00",
+      "tags": [
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "5月29日(土)9:30～TBS「王様のブランチ」に丹生明里が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/brunch/\">「王様のブランチ」オフィシャルサイト</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00879",
+      "title": "5月29日(土)5:30～TBS「まるっと！サタデー！」に加藤史帆、佐々木久美、佐々木美玲、丹生明里が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00879?ima=0000",
+      "pubdate": "2021/05/27 13:00:00",
+      "tags": [
+        "5",
+        "7",
+        "8",
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "5月29日(土)5:30～TBS「まるっと！サタデー！」に加藤史帆、佐々木久美、佐々木美玲、丹生明里が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/marutto-saturday/\">「まるっと！サタデー！」オフィシャルサイト</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00878",
+      "title": "5月29日(土)20:00～テレビ朝日「池上彰のニュースそうだったのか!!」に松田好花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00878?ima=0000",
+      "pubdate": "2021/05/27 12:00:00",
+      "tags": [
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "5月29日(土)20:00～テレビ朝日「池上彰のニュースそうだったのか!!」に松田好花が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">「池上彰のニュースそうだったのか!!」オフィシャルサイト</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00877",
+      "title": "5月28日(金)25:29～日本テレビ「バズリズム02」に日向坂46が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00877?ima=0000",
+      "pubdate": "2021/05/27 11:00:00",
+      "thumbnail": null,
+      "content": "5月28日(金)25:29～日本テレビ「バズリズム02」に日向坂46が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/buzzrhythm/\">「バズリズム02」オフィシャルサイト</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00881",
+      "title": "5月28日(金)21:00～テレビ朝日「MUSIC STATION」への出演が決定！！ ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00881?ima=0000",
+      "pubdate": "2021/05/27 10:00:00",
+      "thumbnail": null,
+      "content": "<p><span>5月28日(金)21:00～テレビ朝日「MUSIC STATION」への出演が決定致しました。</span><br /><span>是非ご覧ください。&nbsp;</span><br /><br /><a href=\"https://www.tv-asahi.co.jp/music/\" target=\"_blank\">テレビ朝日「MUSIC STATION」オフィシャルサイトはこちら</a><br /><br /><br /></p><p><span>&nbsp;</span></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00876",
+      "title": "5月28日(金)24:00～日本テレビ「news zero」にて佐々木久美のインタビューが放送！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00876?ima=0000",
+      "pubdate": "2021/05/27 10:00:00",
+      "tags": [
+        "7"
+      ],
+      "thumbnail": null,
+      "content": "5月28日(金)24:00～日本テレビ「news zero」に佐々木久美のインタビューが放送されます。<br />ぜひご覧ください。<br /><br />※生放送のため内容に変更がある場合がございます。<br /><br /><a href=\"https://www.ntv.co.jp/zero/\">日本テレビ「news zero」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00874",
+      "title": "5月28日(金)11:55～日本テレビ「ヒルナンデス！」に齊藤京子、高本彩花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00874?ima=0000",
+      "pubdate": "2021/05/27 08:00:00",
+      "tags": [
+        "6",
+        "10"
+      ],
+      "thumbnail": null,
+      "content": "5月28日(金)11:55～日本テレビ「ヒルナンデス！」に齊藤京子、高本彩花が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/hirunan/\">「ヒルナンデス！」オフィシャルサイト</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00872",
+      "title": "TVアニメ「さよなら私のクラマー」に影山優佳が声優として初出演することが決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00872?ima=0000",
+      "pubdate": "2021/05/26 15:10:00",
+      "tags": [
+        "4"
+      ],
+      "thumbnail": null,
+      "content": "TVアニメ「さよなら私のクラマー」に影山優佳が声優として初出演することが決定致しました。<br />海老名あやめ役での出演となります。<br /><br />ぜひご覧ください。<br /><br /><br />影山優佳出演回：<br /><p><span>＃</span><span>9</span><span>　<br /></span><span>TOKYO MX：5</span><span>月</span><span>30</span><span>日(日)</span><span>23</span><span>：</span><span>30</span><span>～</span><span><span>&nbsp;</span>(</span><span>再放送：5月31日<span>(</span>月<span>)</span><span>19:00</span>～<span>)</span></span></p><p><span>ＢＳ日テレ：<span>5</span>月<span>30</span>日<span>(</span>日<span>)</span><span>23:30</span>～</span></p><p><span>KBC：</span><span><span>6</span>月<span>7</span>日<span>(</span>月<span>)</span><span>25:50</span>～</span></p><p><span>AT-X：</span><span><span>6</span>月<span>1</span>日<span>(</span>火<span>)</span><span>21:00</span>～</span><span>（リピート放送：(木)</span><span>9:00</span><span>～／(月)</span><span>15:00</span><span>～）</span></p><p><span>&nbsp;<br /></span><span>＃</span><span>11</span><span>　<br />TOKYO MX：</span><span>6</span><span>月</span><span>13</span><span>日(日)</span><span>23</span><span>：</span><span>30</span><span>～（</span><span>再放送：<span>6</span>月<span>14</span>日<span>(</span>月<span>)</span><span>19:00</span>～）</span></p><p><span>ＢＳ日テレ<span>：</span><span>6</span>月<span>13</span>日<span>(</span>日<span>)</span><span>23:30</span>～</span></p><p><span>KBC：</span><span><span>6</span>月<span>21</span>日<span>(</span>月<span>)</span><span>25:50</span>～</span></p><p><span>AT-X：</span><span><span>6</span>月<span>15</span>日<span>(</span>火<span>)</span><span>21:00</span>～</span><span>（リピート放送：(木)</span><span>9:00</span><span>～／(月)</span><span>15:00</span><span>～）</span></p><p><span>&nbsp;<br /></span><span>＃</span><span>12</span><span>　<br />TOKYO MX：</span><span>6</span><span>月</span><span>20</span><span>日(日)</span><span>23</span><span>：</span><span>30</span><span>～</span><span>(</span><span>再放送：<span>6</span>月<span>21</span>日<span>(</span>月<span>)</span><span>19:00</span>～<span>)</span></span></p><p><span>ＢＳ日テレ<span>：</span><span>6</span>月<span>20</span>日<span>(</span>日<span>) </span><span>23:30</span>～</span></p><p><span>KBC：</span><span><span>6</span>月<span>28</span>日<span>(</span>月<span>) </span><span>25:50</span>～</span></p><p><span>AT-X：</span><span><span>6</span>月<span>22</span>日<span>(</span>火<span>) </span><span>21:00</span>～</span><span>（リピート放送：(木)</span><span>9:00</span><span>～／(月)</span><span>15:00</span><span>～）</span></p><p><span>&nbsp;</span></p><p>＜配信情報＞</p><p><span>【地上波同時配信】</span></p><p><span>毎週(日)<span>23:</span><span>30</span>〜</span><span>d</span><span>アニメストアにて配信開始！</span></p><p><br /><br /></p><p><span><a href=\"https://sayonara-cramer.com/tv/\">TVアニメ「さよなら私のクラマー」公式サイトはこちら</a><br /></span></p>"
+    },
+    {
+      "category": "release",
+      "code": "R00095",
+      "title": "5thシングル「君しか勝たん」全5形態の楽曲をコンプリートしたSpecial Editionの配信がスタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00095?ima=0000",
+      "pubdate": "2021/05/26 14:00:00",
+      "thumbnail": null,
+      "content": "5thシングル「君しか勝たん」全5形態の楽曲をコンプリートしたSpecial Editionの配信がスタート致しました。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://hinatazaka46.lnk.to/KCo043TC\">5thシングル「君しか勝たん (Special Edition)」はこちら</a><br /><a href=\"https://hinatazaka46.lnk.to/4thSG_TW\"></a>"
+    },
+    {
+      "category": "media",
+      "code": "M00871",
+      "title": "『日向坂46 5thシングル「君しか勝たん」CM』を日向坂46 OFFICIAL YouTube CHANNELにて公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00871?ima=0000",
+      "pubdate": "2021/05/26 13:00:00",
+      "thumbnail": null,
+      "content": "『日向坂46 5thシングル「君しか勝たん」CM』を日向坂46 OFFICIAL YouTube CHANNELにて公開致しました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/JBCp7rDGGMM\">「日向坂46 5thシングル「君しか勝たん」CM」視聴はこちら</a> <br /><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\"><br /></a><a href=\"https://www.hinatazaka46.com/s/official/page/5th_single?ima=0000\">5thシングル「君しか勝たん」詳細はこちら</a><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\"><br /></a>"
+    },
+    {
+      "category": "shakehands",
+      "code": "S00221",
+      "title": "5thシングル「君しか勝たん」発売記念オンラインミート＆グリート 佐々木美玲に関しまして",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/S00221?ima=0000",
+      "pubdate": "2021/05/25 21:05:00",
+      "thumbnail": null,
+      "content": "<p><span>5月30日(日)開催の「</span><span>オンラインミート＆グリート（個別トーク会）」</span><span>ですが、佐々木美玲は治療専念のため</span><span>欠席させて頂きます。</span><span><br /> </span><span><span>振り替えに関しましては後日オフィシャルサイトにてご案内申し上げます。</span></span></p><p><span>&nbsp;</span></p><p><span>【お問い合わせ先】</span><span><br /> </span><span><span>① 商品に関するお問い合わせ「<span>forTUNE music</span>」はこちら</span></span><span><br /> </span><span><a href=\"https://main.fortunemusic.jp/m/pageShw.php?site=F&cd=inquiry\"><span>https://main.fortunemusic.jp/m/pageShw.php?site=F&cd=inquiry</span></a></span><span><br /> </span><span><span>② イベント当日のお問い合わせ、アプリや通信環境に対するお問い合わせ「<span>forTUNE meets</span>カスタマーサポートセンター」はこちら</span></span><span><br /> </span><span><span>電話番号：<span>050-3066-4383</span></span></span><span><br /> </span><span><span>お問合せフォームからのお問合せ受付：</span></span><span><a href=\"https://www.fortunemusic.app/contact/index.html\"><span>https://www.fortunemusic.app/contact/index.html</span></a></span></p>"
+    },
+    {
+      "category": "other",
+      "code": "O00086",
+      "title": "佐々木美玲 休養のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O00086?ima=0000",
+      "pubdate": "2021/05/25 21:00:00",
+      "tags": [
+        "8"
+      ],
+      "thumbnail": null,
+      "content": "佐々木美玲に関しまして、健康診断の結果、精密検査を受けたところ1週間ほどの入院が必要と診断されました。<br />つきましては、本人と話し合い当面の間治療に専念させていただく事になりました。<br /><br />ファンの皆様、関係者の皆様にはご心配とご迷惑をお掛けいたしますが、引き続き皆様の応援よろしくお願い致します。"
+    },
+    {
+      "category": "shakehands",
+      "code": "S00220",
+      "title": "日向坂46 5thシングル「君しか勝たん」発売記念 オンラインミート＆グリート（個別トーク会）第7次～第9次応募受付決定！！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/S00220?ima=0000",
+      "pubdate": "2021/05/25 18:00:00",
+      "thumbnail": null,
+      "content": "<p><span>2021</span><span>年<span>5</span>月<span>26</span>日（水）発売、日向坂<span>46 5th</span>シングル「君しか勝たん」 通常盤</span><span>forTUNE music</span><span>限定オンラインミート＆グリート（個別トーク会）参加権利付通常盤（<span>SRCL-11802</span>）におきまして、下記内容にて第<span>7</span>次～第<span>9</span>次の応募受付を行います。詳細をご確認いただき、みなさま奮ってご応募ください。</span></p><p><span>&nbsp;</span></p><p><span>※本商品（通常盤<span>/</span></span><span>SRCL-11802</span><span>）は一般流通（<span>CD</span>・<span>DVD</span>・<span>WEB</span>ショップ）でも販売しますが、オンラインミート＆グリート（個別トーク会）参加権利が特典として付くのは、<span>forTUNE music</span>販売分のみとなります。</span></p><p><span>※お申込みには<span>forTUNE music</span>の会員登録が必要となります。ご登録は、必ずイベントに参加される方のお名前でお願い致します。</span></p><p><span>&nbsp;</span></p><p><span>■お申し込み・詳細はこちら！</span></p><p><span><a href=\"https://fortunemusic.jp/hinatazaka46_202105/\">https://fortunemusic.jp/hinatazaka46_202105/</a></span></p><p><span>&nbsp;</span></p><p><span>■抽選購入申込スケジュール</span></p><p><span>【第<span>7</span>次応募受付】<span> 2021</span>年<span>5</span>月<span>26</span>日（水）<span>14</span>：<span>00 </span>～<span>5</span>月<span>27</span>日（木）<span>14</span>：<span>00 </span>まで</span></p><p><span>（抽選結果連絡：<span>2021</span>年<span>5</span>月<span>27</span>日（木）<span>18</span>：<span>00 </span>以降、順次メール、または<span>My Page</span>「抽選応募の履歴・結果確認」にて）</span></p><p><span>※第<span>7</span>次応募受付は、<span>1</span>回のお申し込みにつき、<span>1</span>人<span>15</span>種類まで、１種あたり<span>3</span>枚まで<span>(</span>最大<span>45</span>枚まで<span>)</span>。お<span>1</span>人様<span>5</span>回まで申込可能。</span></p><p><span>※第<span>7</span>次応募受付にて、販売予定数量に達した場合、第<span>8</span>次応募受付以降は実施いたしません。</span></p><p><strong><span>※<span>2021</span>年<span>6</span>月<span>6</span>日<span>(</span>日<span>)</span>開催分は最終受付となります。</span></strong></p><p><span>※おまとめサービス対象外</span></p><p><span>&nbsp;</span></p><p><span>【第<span>8</span>次応募受付】<span> 2021</span>年<span>6</span>月<span>2</span>日（水）<span>14</span>：<span>00 </span>～ <span>6</span>月<span>3</span>日（木）<span>14</span>：<span>00 </span>まで</span></p><p><span>（抽選結果連絡：<span>2021</span>年<span>6</span>月<span>3</span>日（木）<span>18</span>：<span>00 </span>以降、順次メール、または<span>My Page</span>「抽選応募の履歴・結果確認」にて）</span></p><p><span>※第<span>8</span>次応募受付は、<span>1</span>回のお申し込みにつき、<span>1</span>人<span>15</span>種類まで、１種あたり<span>3</span>枚まで<span>(</span>最大<span>45</span>枚まで<span>)</span>。お<span>1</span>人様<span>5</span>回まで申込可能。</span></p><p><span>※第<span>8</span>次応募受付にて、販売予定数量に達した場合、第<span>9</span>次応募受付以降は実施いたしません。</span></p><p><strong><span>※<span>2021</span>年<span>6</span>月<span>13</span>日<span>(</span>日<span>)</span>開催分は最終受付となります。</span></strong></p><p><span>※おまとめサービス対象外</span></p><p><span>&nbsp;</span></p><p><span>【第<span>9</span>次応募受付】<span> 2021</span>年<span>6</span>月<span>9</span>日（水）<span>14</span>：<span>00 </span>～ <span>6</span>月<span>10</span>日（木）<span>14</span>：<span>00 </span>まで</span></p><p><span>（抽選結果連絡：<span>2021</span>年<span>6</span>月<span>10</span>日（木）<span>18</span>：<span>00 </span>以降、順次メール、または<span>My Page</span>「抽選応募の履歴・結果確認」にて）</span></p><p><span>※第<span>9</span>次応募受付は、<span>1</span>回のお申し込みにつき、<span>1</span>人<span>15</span>種類まで、１種あたり<span>3</span>枚まで<span>(</span>最大<span>45</span>枚まで<span>)</span>。お<span>1</span>人様<span>5</span>回まで申込可能。</span></p><p><strong><span>※<span>2021</span>年<span>6</span>月<span>20</span>日<span>(</span>日<span>)</span>開催分は最終受付となります。</span></strong></p><p><span>※おまとめサービス対象外</span></p><p><span>&nbsp;</span></p><p><span>★開催日時★</span></p><p><span>【日程】</span></p><p><span>2021</span><span>年<span>5</span>月<span>30</span>日<span>(</span>日<span>) </span>※受付終了</span></p><p><span>2021</span><span>年<span>6</span>月<span>6</span>日<span>(</span>日<span>)</span></span></p><p><span>2021</span><span>年<span>6</span>月<span>13</span>日<span>(</span>日<span>)</span></span></p><p><span>2021</span><span>年<span>6</span>月<span>20</span>日<span>(</span>日<span>)</span></span></p><p><span>2021</span><span>年<span>6</span>月<span>27</span>日<span>(</span>日<span>)</span></span></p><p><span>2021</span><span>年<span>7</span>月<span>4</span>日<span>(</span>日<span>)</span></span></p><p><span>&nbsp;</span></p><p><span>【時間】　※全日程共通</span></p><p><span>　　開始時間<span>/10</span>：<span>00</span>　　終了時間<span>/20</span>：<span>00</span></span></p><p><span>&nbsp;</span></p><p><span>【</span><span>オンラインミート＆グリート（個別トーク会）スケジュール</span><span>】</span></p><p><span>＜第１部＞ 受付開始　<span>9:45</span>　<span>/</span>　イベント開始　<span>10</span>：<span>00</span>　<span>/</span>　受付終了<span> 11:15 </span>（<span>11</span>時<span>30</span>分 終了予定）</span></p><p><span>＜第２部＞ 受付開始　<span>11:45</span>　<span>/</span>　イベント開始　<span>12</span>：<span>00</span>　<span>/</span>　受付終了<span> 13:15 </span>（<span>13</span>時<span>30</span>分 終了予定）</span></p><p><span>＜第３部＞ 受付開始　<span>14:15</span>　<span>/</span>　イベント開始　<span>14</span>：<span>30</span>　<span>/</span>　受付終了<span> 15:45 </span>（<span>16</span>時<span>00</span>分 終了予定）</span></p><p><span>＜第４部＞ 受付開始　<span>16:15</span>　<span>/</span>　イベント開始　<span>16</span>：<span>30</span>　<span>/</span>　受付終了<span> 17:45 </span>（<span>18</span>時<span>00</span>分 終了予定）</span></p><p><span>＜第５部＞ 受付開始　<span>18:15</span>　<span>/</span>　イベント開始　<span>18</span>：<span>30</span>　<span>/</span>　受付終了<span> 19:45 </span>（<span>20</span>時<span>00</span>分 終了予定）</span></p><p><span>&nbsp;</span></p><p><span>※受付終了時刻までに、参加メンバー、チケット使用枚数をお選びいただき、本人確認へ進んでいただいたお客様は、その部のイベントにご参加いただくことが可能です。受付終了時刻を過ぎてしまうと、イベントにご参加いただくことができなくなってしまいますので、ご注意ください。</span></p><p><span>※開始、終了時間は予定となっております。スケジュールは、都合により変更となる場合があります。その際は、当サイトにてご案内いたします。</span></p><p><span>&nbsp;</span></p><p><span>★配送予定日★</span></p><p><span>発売日以降にお届け</span></p><p><span>&nbsp;</span></p><p><span>★その他★</span></p><p><span>日向坂<span>46 5th</span>シングル「君しか勝たん」<span> forTUNE music</span>限定オンラインミート＆グリート（個別トーク会）参加権利付通常盤（<span>SRCL-11802</span>）の抽選購入申し込みについての詳細は、「<span>forTUNE music(<a href=\"https://fortunemusic.jp/\">https://fortunemusic.jp/</a>)</span>」をご覧ください。</span></p><p><span>&nbsp;</span></p><p><span>【お問い合わせ先】</span></p><p><span><span>①</span></span><span>商品に関するお問い合わせ「<span>forTUNE music</span>」はこちら</span></p><p><span><a href=\"https://main.fortunemusic.jp/m/pageShw.php?site=F&cd=inquiry\"><span>https://main.fortunemusic.jp/m/pageShw.php?site=F&cd=inquiry</span></a></span></p><p><span>②アプリや通信環境に対するお問い合わせ「<span>forTUNE meets</span>カスタマーサポートセンター」はこちら</span></p><p><span>電話番号：<span>050-3066-4383</span></span></p><p><span>お問合せフォームからのお問合せ受付：</span><span><a href=\"https://www.fortunemusic.app/contact/index.html\"><span>https://www.fortunemusic.app/contact/index.html</span></a></span></p><p><span>&nbsp;</span></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00867",
+      "title": "「週刊ヤングジャンプ」（5月27日(木)発売）の表紙に加藤史帆、佐々木美玲、高本彩花、巻末に濱岸ひより、上村ひなのが登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00867?ima=0000",
+      "pubdate": "2021/05/25 09:00:00",
+      "tags": [
+        "5",
+        "8",
+        "10",
+        "17",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "「週刊ヤングジャンプ」（5月27日(木)発売）の表紙に加藤史帆、佐々木美玲、高本彩花、巻末に濱岸ひより、上村ひなのが登場致します。<br /><br /><a href=\"https://youngjump.jp/\">「週刊ヤングジャンプ」オフィシャルサイト</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00866",
+      "title": "5月27日(木)19:58～テレビ東京「ものまねのプロ215人がガチで選んだいま本当にスゴい！ものまね芸人ランキング」に佐々木久美、髙橋未来虹が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00866?ima=0000",
+      "pubdate": "2021/05/25 08:30:00",
+      "tags": [
+        "7",
+        "22"
+      ],
+      "thumbnail": null,
+      "content": "5月27日(木)19:58～テレビ東京「ものまねのプロ215人がガチで選んだいま本当にスゴい！ものまね芸人ランキング」に佐々木久美、髙橋未来虹が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/monomanegeinin_210527/\">「ものまねのプロ215人がガチで選んだいま本当にスゴい！ものまね芸人ランキング」オフィシャルサイト</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00865",
+      "title": "5月27日(木)19:00～日本テレビ「THE突破ファイル」に加藤史帆、金村美玖が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00865?ima=0000",
+      "pubdate": "2021/05/25 08:00:00",
+      "tags": [
+        "5",
+        "12"
+      ],
+      "thumbnail": null,
+      "content": "5月27日(木)19:00～日本テレビ「THE突破ファイル」に加藤史帆、金村美玖が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/toppa/\">「THE突破ファイル」オフィシャルサイト</a>"
+    },
+    {
+      "category": "goods",
+      "code": "G00042",
+      "title": "日向坂46 5thシングル「君しか勝たん」オフィシャルグッズ 通信販売開始受付のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/G00042?ima=0000",
+      "pubdate": "2021/05/24 19:00:00",
+      "thumbnail": null,
+      "content": "<div style=\"text-align: center;\"><span style=\"color: #ff0000;\"><span style=\"color: #ff0000;\"><strong></strong></span></span><p style=\"text-align: left;\"><span>5th</span><span>シングル「君しか勝たん」の発売を記念してオフィシャルグッズの販売が決定しました！</span></p><span style=\"color: #ff0000;\"><span style=\"color: #ff0000;\"><strong></strong></span></span><p style=\"text-align: left;\"><span>&nbsp;</span></p><span style=\"color: #ff0000;\"><span style=\"color: #ff0000;\"><strong></strong></span></span><p style=\"text-align: left;\"><span>5</span><span>月<span>24</span>日<span>(</span>月<span>)19:00</span>～日向坂<span>46 </span>オフィシャルグッズストアにて、</span><span>5th</span><span>シングル「君しか勝たん」<span>オフィシャルグッズのご注文受付を開始いたします。<span>&nbsp;</span></span><span><br /> <br /> </span></span></p><span style=\"color: #ff0000;\"><span style=\"color: #ff0000;\"><strong></strong></span></span><p style=\"text-align: left;\"><span>5th</span><span>シングル収録曲をモチーフとした推しメンマフラータオルやキーホルダーセットに加え、オフィシャルグッズとして初のパジャマやランダムステッカーセットなど様々なラインナップをご用意しております。また、今回発売の生写真はメンバー直筆サイン入り生写真がランダムに封入されております！この機会にぜひお買い求め下さい。</span></p><span style=\"color: #ff0000;\"><span style=\"color: #ff0000;\"><strong></strong></span></span><p style=\"text-align: left;\"><span>&nbsp;</span></p><span style=\"color: #ff0000;\"><span style=\"color: #ff0000;\"><strong></strong></span></span><p><span style=\"color: #ff0000;\"><strong>【日向坂46 オフィシャルグッズストア】</strong></span></p><span style=\"color: #ff0000;\"><span style=\"color: #ff0000;\"><strong></strong></span></span><p><span><a href=\"https://store.plusmember.jp/hinatazaka46/\"><span>&nbsp;</span>https://store.plusmember.jp/hinatazaka46/</a></span></p><span style=\"color: #ff0000;\"><span style=\"color: #ff0000;\"><strong></strong></span></span><p><span style=\"color: #ff0000;\"><strong>5</strong><strong>月24日(月)19:00～</strong>　<strong>日向坂46 オフィシャルグッズストアにて受付開始!!!<br /><br /></strong></span></p><span style=\"color: #ff0000;\"><span style=\"color: #ff0000;\"><strong></strong></span></span><p style=\"text-align: left;\"><span><img src=\"https://cdn.hinatazaka46.com/files/14/210524_HZ_KATAN_GOODS_A.png\" alt=\"\" width=\"1000\" height=\"2514\" /><br /> <img src=\"https://cdn.hinatazaka46.com/files/14/210524_HZ_KATAN_GOODS_B.png\" alt=\"\" width=\"1000\" height=\"2712\" /><br /></span><span><span style=\"color: #ff0000;\"><br />※オフィシャルグッズストアの注意事項をよくご確認の上、ご利用ください。</span><br /></span>※販売開始時刻など、事情により変更になる場合もございます。予めご了承下さい。<br />※各アイテムの商品在庫数には限りがございますので、購入時に個数制限を設けさせて頂く商品がございます。売り切れの際はご容赦願います。<br />※天候の状況や交通状況などによりお届けに時間を要する場合がございますので、あらかじめご了承ください。</p></div>"
+    },
+    {
+      "category": "release",
+      "code": "R00092",
+      "title": "5th Single「君しか勝たん」特設サイトにて、MVメイキングやユニットトーク動画を更新！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00092?ima=0000",
+      "pubdate": "2021/05/24 18:00:00",
+      "thumbnail": null,
+      "content": "5月26日(水)発売 5th Single「君しか勝たん」の特設サイトにて、「声の足跡」ミュージックビデオ撮影時のメイキングフォトを公開いたしました！<br /><br />ファンクラブ会員限定の「声の足跡」メイキングムービーや、特別動画企画の「ユニットトーク動画」が全編公開されましたので、ぜひチェックしてみてください！<br /><br /><a href=\"/s/official/page/5th_single_sp?ima=0000\"><strong>「君しか勝たん」特設ページはこちら</strong></a><br /><br />更に、ファンクラブ会員限定の「日向坂46ヒストリー」にも「声の足跡」が公開されましたので、こちらもぜひチェックしてみてください。<br /><br /><br /><br /><b>「ユニットトーク動画」とは<br /></b>お互いの「君しか勝たん」＝好きな所について、二人組でトークをしてもらうファンクラブ会員限定の特別動画企画です。<br /><br />＜全編公開中！＞<br />&rdquo;加藤 史帆 &times; 齊藤 京子&rdquo;編<br />&rdquo;金村 美玖 &times; 小坂 菜緒\"編<br />\"河田 陽菜 &times; 丹生 明里\"編<br />\"高瀬 愛奈 &times; 山口 陽世\"編<br />\"潮 紗理菜 &times; 佐々木 久美\"編<br />\"富田 鈴花 &times; 髙橋 未来虹\"編<br />\"濱岸 ひより &times; 上村 ひなの\"編<br />\"東村 芽依 &times; 渡邉 美穂\"編<br />\"影山 優佳 &times; 松田 好花\"編<br />&rdquo;佐々木 美玲 &times; 高本 彩花&rdquo;編<br />&rdquo;宮田 愛萌 &times; 森本 茉莉&rdquo;編"
+    },
+    {
+      "category": "media",
+      "code": "M00862",
+      "title": "5月26日(水)25:56～テレビ朝日「まんが未知」に丹生明里が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00862?ima=0000",
+      "pubdate": "2021/05/24 09:00:00",
+      "tags": [
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "5月26日(水)25:56～テレビ朝日「まんが未知」に丹生明里が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://twitter.com/_mangamichi_\">テレビ朝日「まんが未知」公式Twitterはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00863",
+      "title": "5月26日(水)19:00～TBS「東大王」に佐々木久美が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00863?ima=0000",
+      "pubdate": "2021/05/24 08:30:00",
+      "tags": [
+        "7"
+      ],
+      "thumbnail": null,
+      "content": "5月26日(水)19:00～TBS「東大王」に佐々木久美が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/toudaiou-TBS/\">TBS「東大王」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00864",
+      "title": "「TV LIFE」11号（5月26日(水)発売）に上村ひなの、髙橋未来虹、森本茉莉、山口陽世が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00864?ima=0000",
+      "pubdate": "2021/05/24 08:00:00",
+      "tags": [
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "thumbnail": null,
+      "content": "「TV LIFE」11号（5月26日(水)発売）に上村ひなの、髙橋未来虹、森本茉莉、山口陽世が登場致します。<br /><br /><a href=\"https://www.tvlife.jp/\">「TV LIFE」オフィシャルサイト</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00870",
+      "title": "日向坂46 5thシングル「君しか勝たん」ヒット祈願全員チアリーディング生配信詳細が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00870?ima=0000",
+      "pubdate": "2021/05/24 01:36:00",
+      "thumbnail": null,
+      "content": "日向坂46 5thシングル「君しか勝たん」ヒット祈願全員チアリーディング生配信詳細が決定致しました。<br />ぜひご覧ください。<br /><br />▼配信日時<br />5月26日(水)20:00頃〜<br /><br />▼配信サイト<br />日向坂46 OFFICIAL YouTube CHANNEL<br /><br /><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\">日向坂46 OFFICIAL YouTube CHANNELはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00861",
+      "title": "5月25日(火)20:00～フジテレビ「潜在能力テスト」に潮紗理菜が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00861?ima=0000",
+      "pubdate": "2021/05/23 08:00:00",
+      "tags": [
+        "2"
+      ],
+      "thumbnail": null,
+      "content": "5月25日(火)20:00～フジテレビ「潜在能力テスト」に潮紗理菜が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/senzainouryoku/\">フジテレビ「潜在能力テスト」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00868",
+      "title": "5thシングル「君しか勝たん」TYPE-D収録の特典映像\"個人PV\"5本(予告編)が公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00868?ima=0000",
+      "pubdate": "2021/05/22 12:00:00",
+      "thumbnail": null,
+      "content": "5thシングル「君しか勝たん」TYPE-D収録の特典映像\"個人PV\"5本(予告編)が、日向坂46 OFFICIAL YouTube CHANNELにて公開されました。<br /><br />・日向坂46 加藤史帆『5年間』<br />・日向坂46 佐々木久美『NIGHT FLIGHT』<br />・日向坂46 東村芽依『わたしはねこ』<br />・日向坂46 河田陽菜『かわだっち』<br />・日向坂46 髙橋未来虹『そういえば、あの頃』<br /><br />ぜひご覧ください。<br /><br /><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\">日向坂46 OFFICIAL YouTube CHANNELはこちら<br /><br /></a><a href=\"https://www.hinatazaka46.com/s/official/page/5th_single?ima=0000\">5thシングル「君しか勝たん」詳細はこちら</a><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\"><br /></a>"
+    },
+    {
+      "category": "media",
+      "code": "M00869",
+      "title": "5月22日(土)23：10～NHK「シブヤノオト」に出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00869?ima=0000",
+      "pubdate": "2021/05/22 11:50:00",
+      "thumbnail": null,
+      "content": "5月22日(土)23：10～NHK「シブヤノオト」に出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.nhk.or.jp/music/s-oto/\">NHK「シブヤノオト」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00860",
+      "title": "5月24日(月)19:00～日本テレビ「有吉ゼミ 2時間SP」に佐々木美玲、上村ひなのが出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00860?ima=0000",
+      "pubdate": "2021/05/22 09:00:00",
+      "tags": [
+        "8",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "5月24日(月)19:00～日本テレビ「有吉ゼミ 2時間SP」に佐々木美玲、上村ひなのが出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/arizemi/\">日本テレビ「有吉ゼミ 」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00859",
+      "title": "5月24日(月)22:00～日本テレビ「しゃべくり007」に加藤史帆、佐々木久美、佐々木美玲、河田陽菜、丹生明里が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00859?ima=0000",
+      "pubdate": "2021/05/22 08:30:00",
+      "tags": [
+        "5",
+        "7",
+        "8",
+        "13",
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "5月24日(月)22:00～日本テレビ「しゃべくり007」に加藤史帆、佐々木久美、佐々木美玲、河田陽菜、丹生明里が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/007/\">テレビ朝日「しゃべくり007」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00858",
+      "title": "「B.L.T.」7月号（5月24日(月)発売）の表紙・巻頭に加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00858?ima=0000",
+      "pubdate": "2021/05/22 08:00:00",
+      "tags": [
+        "5",
+        "12",
+        "13",
+        "14",
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "「B.L.T.」7月号（5月24日(月)発売）の表紙・巻頭に加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里が登場致します。<br /><br /><a href=\"https://bltweb.jp/2021/05/15/blt07-h46hf5h1_store/\">「B.L.T.」7月号の詳細はコチラ</a>"
+    },
+    {
+      "category": "release",
+      "code": "R00091",
+      "title": "5thシングル「君しか勝たん」リリースを記念して、CDショップチェーンにてコラボレーションキャンペーンの実施が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00091?ima=0000",
+      "pubdate": "2021/05/21 19:00:00",
+      "thumbnail": "https://cdn.hinatazaka46.com/images/14/764/154e39d64aa75e01a6f467b39ab6f.jpg",
+      "content": "<p>5<span style=\"font-size: 13.3333px;\">th</span>シングル「君しか勝たん」のリリースを記念して、下記CDショップチェーンにてコラボレーションキャンペーンの実施が決定致しました。詳しくは各CDショップのサイトをご覧ください。</p><p><span>&nbsp;</span></p><p><strong><span>＜新星堂・<span>WonderGOO</span>＞<br /></span></strong>5<span style=\"font-size: 13.3333px;\">th</span>シングル「君しか勝たん」のリリースを記念して、新星堂・WonderGOOでは推しメンSHOPが登場します！！</p><p><strong><span>&nbsp;</span></strong></p><p><strong><span>★その１！撮り下ろしオリジナルコラボポスター★</span></strong></p><p><span>新星堂・<span>WonderGOO</span>の店頭に、</span>加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里の撮り下ろしによるオリジナルコラボポスターが登場します。</p><p><span>&nbsp;<img src=\"https://cdn.hinatazaka46.com/files/14/_%E6%96%B0%E6%98%9F%E5%A0%82%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%205.20.jpg\" alt=\"\" width=\"472\" height=\"663\" /></span></p><p><span>&nbsp;</span></p><p><strong><span>★その２！！日向坂<span>46</span>推しメン<span>SHOP</span>＆スベシャルのぼり★</span></strong></p><p><span>「日向坂<span>46</span>推しメン<span>SHOP</span>」が新星堂・<span>WonderGOO 22</span>応援店舗＋エンタバアキバ<span>by WonderGOO/SHINSEIDO</span>に登場いたします！ </span></p><p><span>あなたの推しメンの「推しメン<span>SHOP</span>」に是非ご来店下さい！</span>エンタバアキバ<span> by WonderGOO / SHINSEIDO</span>には全メンバーののぼりが登場！</p><p><span>※メンバー個別スペシャルのぼりは<span>5/25(</span>火)からの掲示となります。（準備が整い次第順次掲示）</span></p><p><span>※緊急事態宣言に伴い、臨時休業や時短営業を行っている店舗もございます。休業中の店舗は営業再開後に実施とさせていただきます。営業状況は各店舗のホームページ<span>/Twitter</span>にてご確認ください。</span></p><p><span>&nbsp;</span></p><p><strong><span>★その３！！！直筆サイン入りコラボポスターが当たる応募抽選★</span></strong></p><p><span>抽選で<span>10</span>名様に加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里</span>の直筆サインを入れたコラボポスターをプレゼント致します！</p><p><span>新星堂<span>/WonderGOO</span>全店<span>(</span>一部店舖除く<span>) </span>および新星堂<span>WonderGOO</span>オンラインにて</span>5<span style=\"font-size: 13.3333px;\">th</span>シングル「君しか勝たん」一枚お買い上げにつき専用応募はがきを一枚差し上げます。</p><p><span>（なくなり次第終了。応募締切：<span>2021</span>年<span>6</span>月<span>25</span>日(金)当日消印有効）</span></p><p><span>&nbsp;</span></p><p><span>詳細は、あなたの推しメンの店舗が分かる特設サイトへ。</span></p><p><span>&rArr;</span><span><a href=\"https://item.rakuten.co.jp/wondergoo/c/0000003121/\"><span>https://item.rakuten.co.jp/wondergoo/c/0000003121/</span></a></span>&nbsp;</p><p></p><p><strong><span>&lt;TSUTAYA&gt;</span></strong></p><p><strong><span>日向坂<span>46</span>&times;<span>TSUTAYA on IDOL</span></span></strong></p><p><strong><span>メンバー直筆サイン入り撮り下ろしポスター　プレゼントキャンペーン実施！</span></strong></p><p><strong><span>加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里 表紙の別冊『<span>TSUTAYA on IDOL</span>』配布決定！</span></strong></p><p><span>&nbsp;<br /></span>日向坂<span>46</span>の<span>5th</span>シングル「君しか勝たん」の発売を記念して、全国の<span>TSUTAYA RECORDS</span>でご購入された方に先着で『<span>TSUTAYA on IDOL </span>応募用フォトジャケット（<span>Type</span>別ジャケット絵柄）』をプレゼント！</p><p><span>更に、応募用フォトジャケット裏面の<span>QR</span>コードからご応募された方から抽選で、『加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里 直筆サイン入り撮り下ろし<span>Lifestylin'</span>？ポスター』を<span>10</span>名様にプレゼント！</span></p><p><span>&nbsp;</span></p><p><strong><span>■先着特典</span></strong></p><p><span>TSUTAYA on IDOL </span><span>応募用フォトジャケット（<span>Type</span>別絵柄）</span></p><p><span>※絵柄は<span>Type</span>別に異なります。</span></p><p><span>※なくなり次第終了とさせていただきます。</span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_TSUTAYA%20on%20IDOL%20%E5%BF%9C%E5%8B%9F%E7%94%A8%E3%83%95%E3%82%A9%E3%83%88%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88%EF%BC%88Type%E5%88%A5%E7%B5%B5%E6%9F%84%EF%BC%89.jpg\" alt=\"\" width=\"630\" height=\"630\" />&nbsp;<br /><br /></span></p><p><strong><span>■抽選特典</span></strong></p><p><span>加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里</span><span> 直筆サイン入り撮り下ろし<span>Lifestylin'</span>？ポスター<span>（<span>10</span>名様）</span></span></p><p><span><br /> </span><span>【応募期間】</span></p><p><span><span>5</span>月<span>25</span>日(火)～<span>6</span>月<span>25</span>日(金)<span>23:59</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_TSUTAYA%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%205.20.jpg\" alt=\"\" width=\"418\" height=\"591\" />&nbsp;<br /><br /></span></p><p><span>■応募・当選発表について</span></p><p><span>※対象商品を複数枚購入頂いた場合でも、エントリーは１回で購入枚数分の抽選対象となります。</span></p><p><span>※当選発表は発送を持って代えさせていただきます。</span></p><p><span>※店舗または、<span>TSUTAYA </span>オンラインショッピングへの応募、当選に関するお問い合わせはご対応致しかねます。</span></p><p><span>※お申込み後の応募賞品の変更、お取り消し、個人情報の変更は一切お受けできませんのでご注意ください。</span></p><p><span>※賞品の第三者への転売やオークションでの出品・転売を固く禁止致します</span></p><p><span>本キャンペーンに関するお問い合わせ</span></p><p><span><a href=\"http://tsutaya.jp/store_form/\">http://tsutaya.jp/store_form/<br /><br /></a></span></p><p><span>※店舗サービスのお問い合わせフォームです。</span><span>内容入力の欄に「日向坂<span>46</span>　ポスタープレゼント」とご入力の上でご質問内容を入力し、</span>必要事項もご入力いただきお問い合わせください。</p><p><span>&nbsp;</span></p><p><span>【店頭での購入時の注意事項】</span></p><p><span>店頭での対象商品購入時には<span>T</span>カードを必ずご提示ください。ご提示無しでの購入の場合は抽選対象外となります。</span></p><p><span>&nbsp;</span></p><p><span>【<span>TSUTAYA </span>オンラインショッピングでの購入時の注意事項】</span></p><p><span>T</span><span>カード番号を登録されていないお客様は<span>6</span>月<span>25</span>日（金）までに<span>T</span>カード番号の登録をお願いします。</span></p><p><span>・<span>T</span>カード番号の確認・変更に関して<span> <br /><a href=\"https://shop.tsutaya.co.jp/guide/tcard/\">https://shop.tsutaya.co.jp/guide/tcard/<br /></a><br /></span></span></p><p><span>・<span>TSUTAYA </span>オンラインショッピング ログイン<br /><span><a href=\"https://ssl.tsutaya.co.jp/shopping.html\">https://ssl.tsutaya.co.jp/shopping.html<br /></a><br /></span></span></p><p><span>TSUTAYA </span><span>オンラインショッピングに関するお問い合わせ</span></p><p><span><a href=\"http://tsutaya.jp/ecmq/\">http://tsutaya.jp/ecmq/<br /><br /></a></span></p><p><span>【対象店舗】</span><span><br /> </span><span>・<span>TSUTAYA RECORDS</span>全店</span></p><p><span>（一部オリジナル特典の取り扱いのない店舗もございます。）<span><br /> </span>・<span>TSUTAYA </span>オンラインショッピング</span></p><p><span>（<span>TSUTAYA </span>オンラインショッピングはご予約分のみが対象です。）</span></p><p><span>&nbsp;</span></p><p><strong><span>■別冊<span>TSUTAYA on IDOL</span></span></strong></p><p><span>加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里 </span><span>が表紙を飾った店頭フリーペーパー別冊『<span>TSUTAYA on IDOL</span>』が、<span>2021</span>年<span>5</span>月<span>22</span>日(土)より全国の<span>TSUTAYA RECORDS</span>（一部店舗除く）で順次配布開始予定！</span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_TSUTAYA%E3%80%80%E6%A8%AA.jpg\" alt=\"\" width=\"787\" height=\"558\" />&nbsp;</span></p><p><span>【表紙・スペシャルインタビュー】加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里</span></p><p><span>【配布開始日・配布場所】</span></p><p><span>2021</span><span>年<span>5</span>月<span>22</span>日(土)：全国の<span>TSUTAYA RECORDS</span>（一部店舗除く）</span></p><p><span>&nbsp;</span></p><p><strong><span>TSUTAYA</span></strong><strong><span>のアイドル専門サイトはこちら！</span></strong></p><p><strong><span><a href=\"http://tsutaya.jp/toi/\">http://tsutaya.jp/toi/<br /><br /></a></span></strong></p><p><span>&nbsp;</span></p><p><strong><span>＜タワーレコード＞</span></strong></p><p><span>日向坂<span>46 </span>&times;<span> TOWER RECORDS</span>開催決定！</span>&nbsp;</p><p><span><span>5th</span>シングル「君しか勝たん」をリリース！発売を記念してタワーレコード全店にてスペシャルキャンペーンが決定しました！</span></p><p><span>&nbsp;</span></p><p><span>①撮り下ろし<span>B2</span>コラボポスター全店掲出！</span></p><p><span>加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里の撮り下ろし<span>B2</span>ポスターが掲出されます。タワーレコード店頭でしか見られないカット！</span></p><p><span>&nbsp;</span></p><p><span>掲出期間：<span>2021</span>年<span>5</span>月<span>25</span>日(火)～<span>6</span>月<span>7</span>日(月)</span></p><p><span>掲出店舗：タワーレコードおよび<span>TOWERmini</span>全店（<span>TOWER RECORDS CAFE</span>、タワーレコード オンライン除く）</span></p><p><span>■新型コロナウイルスの影響により、一部店舗で営業時間変更・休止を行っている場合がございます。営業を行っている店舗については下記<span>URL</span>をご確認ください。</span></p><p><span><a href=\"https://tower.jp/store\">https://tower.jp/store<br /><span><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_TOWER%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%205.20.jpg\" alt=\"\" width=\"1164\" height=\"822\" /></span>&nbsp;<br /></a></span></p><p><span>②別冊<span>TOWER PLUS+</span>の発行！</span></p><p><span>フリーマガジン『別冊<span>TOWER PLUS+ </span>日向坂<span>46</span>特別号』の発行が決定！表紙も<span>B2</span>コラボポスターと同様、『別冊<span>TOWER PLUS+</span>』だけの撮り下ろしカット。中面には加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里の直筆メッセージ（転写）を掲載！</span></p><p><span><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_TOWER%2B%28%E5%86%8A%E5%AD%90%29%205.20.jpg\" alt=\"\" width=\"898\" height=\"1125\" />&nbsp;</span></p><p><span>＜別冊<span>TOWER PLUS+</span>詳細＞</span></p><p><span>サイズ：<span>B5</span>変型</span></p><p><span>ページ数：<span>4P</span></span></p><p><span>配布期間：<span>2021</span>年<span>5</span>月<span>26</span>日（水）開店～</span></p><p><span>配布店舗：タワーレコードおよび<span>TOWERmini</span>全店（<span>TOWER RECORDS CAFE</span>、タワーレコード オンライン除く）</span></p><p><span>■新型コロナウイルスの影響により、一部店舗で営業時間変更・休止を行っている場合がございます。営業を行っている店舗については下記<span>URL</span>をご確認ください。</span></p><p><span><a href=\"https://tower.jp/store\">https://tower.jp/store<br />&nbsp;<br /></a></span></p><p><span>※無くなり次第終了となります。</span></p><p><span>※より多くの方に手に取って頂きたいため、お<span>1</span>人様各<span>1</span>部までとさせていただきます。ご了承ください。</span></p><p><span>※配布開始時間は店舗により異なりますので、予めご了承下さい。</span></p><p><span>※天候や交通事情により入荷が遅れる場合がございます。</span></p><p><span>※別冊<span>TOWER PLUS+</span>は無くなり次第終了となります。</span></p><p><span>※お取り置きは不可となります。ご了承ください。</span></p><p><span>※増刷の予定はございません。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span>③店頭ストアプレイ実施！</span></p><p><span>タワーレコード店内で【日向坂<span>46</span>＠タワーレコードスペシャルプログラム】を放送します。</span>&nbsp;</p><p><span>放送期間：<span>2021</span>年<span>5</span>月<span>25</span>日(火)～<span>5</span>月<span>31</span>日(月) ※放送期間は店舗によって異なります。</span></p><p><span>対象店舗：タワーレコードおよび<span>TOWERmini</span>全店<span> (TOWER RECORDS CAFE</span>、タワーレコード オンライン除く<span>)</span></span></p><p><span>■新型コロナウイルスの影響により、一部店舗で営業時間変更・休止を行っている場合がございます。営業を行っている店舗については下記<span>URL</span>をご確認ください。</span></p><p><span><a href=\"https://tower.jp/store\">https://tower.jp/store<br /><br /></a></span></p><p>&nbsp;</p><p><span>④告知タペストリー掲示！</span></p><p><span>対象店舗にて、発売告知タペストリーを掲示して発売を盛り上げます。</span>&nbsp;</p><p><span>掲示期間：<span>2021</span>年<span>5</span>月<span>25</span>日(火)～<span>5</span>月<span>31</span>日(月) ※掲示期間は各店舗により異なります。</span></p><p><span>掲示店舗：渋谷店、仙台パルコ店、京都店、池袋店、名古屋パルコ店、川崎店、名古屋近鉄パッセ店、梅田大阪マルビル店、新宿店、郡山店、難波店、秋葉原店、新潟店、横浜ビブレ店、ららぽーと立川立飛店、錦糸町パルコ店</span></p><p><span>■新型コロナウイルスの影響により、一部店舗で営業時間変更・休止を行っている場合がございます。営業を行っている店舗については下記<span>URL</span>をご確認ください。</span></p><p><span><a href=\"https://tower.jp/store\">https://tower.jp/store<br /><br /></a></span></p><p><span>&nbsp;</span>&nbsp;</p><p><span>⑤おひさま店舗推しメンソロポスター掲出！</span></p><p><span>ニューシングル発売を記念して、下記おひさま店舗にて推しメンソロポスター掲出します。</span></p><p><span>掲出期間：<span>2021</span>年<span>5</span>月<span>25</span>日(火)～<span>5</span>月<span>31</span>日(月) ※掲出期間は各店舗により異なります。</span></p><p><span>掲出店舗：渋谷店、仙台パルコ店、京都店、広島店、池袋店、名古屋ﾊﾟﾙｺ店、川崎店、福岡パルコ店、神戸店、吉祥寺店、梅田大阪マルビル店、札幌ピヴォ店、新宿店、郡山店、東浦店、難波店、橿原店、秋葉原店、モレラ岐阜店、静岡店、ららぽーと磐田店、ららぽーと<span>TOKYO-BAY</span>店、アミュプラザ博多店、アリオ鷲宮店、<span>TOWERmini</span>アリオ仙台泉店、アリオ上尾店、横浜ビブレ店、那覇店、アミュプラザ鹿児島店、グランツリー武蔵小杉店、ららぽーと立川立飛店、錦糸町パルコ店</span></p><p><span>■新型コロナウイルスの影響により、一部店舗で営業時間変更・休止を行っている場合がございます。営業を行っている店舗については下記<span>URL</span>をご確認ください。</span></p><p><span><a href=\"https://tower.jp/store\">https://tower.jp/store<br />&nbsp;<br /></a></span></p><p><span><br />⑥告知ポスタージャック開催！</span></p><p><span>対象店舗にて、告知ポスターを大量掲出し皆様をお迎えします。</span></p><p>掲出期間：<span>2021</span>年<span>5</span>月<span>25</span>日（火）～<span>5</span>月<span>31</span>日（月）※掲出期間は店舗により異なります。</p><p><span>掲出店舗：仙台パルコ店、名古屋パルコ店、福岡パルコ店、金沢フォーラス店、新宿店、秋葉原店、那覇店、ららぽーと立川立飛店、錦糸町パルコ店</span></p><p><span>■新型コロナウイルスの影響により、一部店舗で営業時間変更・休止を行っている場合がございます。営業を行っている店舗については下記<span>URL</span>をご確認ください。</span></p><p><span><a href=\"https://tower.jp/store\">https://tower.jp/store<br />&nbsp;<br /></a></span></p><p><span><br />⑦タワーレコードで『君しか勝たん』をご購入のお客様に応募施策が決定！</span></p><p><span>日向坂<span>46</span>『君しか勝たん』をタワーレコードおよび<span>TOWERmini</span>全店、タワーレコード オンラインでご購入いただいたお客様の中より抽選で、加藤史帆、金村美玖、河田陽菜、小坂菜緒、丹生明里の直筆サイン入り撮り下ろし<span>B2</span>コラボポスターを<span>10</span>名様にプレゼント！</span></p><p><span>&nbsp;</span></p><p><span>【応募期間】<span>2021</span>年<span>5</span>月<span>25</span>日(火)～<span>2021</span><span>年<span>6</span>月<span>7</span>日(月)<span>23</span>：<span>59</span></span></span></p><p><span>&nbsp;</span></p><p><span>【応募方法】応募フォームよりご応募いただきます。</span></p><p><span>※店舗でご購入いただいた方は応募<span>QR</span>コード付きレシートより、タワーレコード オンラインでご購入いただいた方は応募フォームより応募が可能となります。</span></p><p><span>※応募の際にはタワーレコードオンラインへのログインが必要です。</span></p><p><span>※オンラインの応募フォームは入荷日当日よりこちらのページでリンクをアップいたします。</span></p><p><span>&nbsp;</span></p><p><span>【当選者発表】賞品の発送をもって代えさせていただきます。</span></p><p><span>【対象店舗】タワーレコードおよび<span>TOWERmini</span>全店、タワーレコード オンライン</span></p><p><span>&nbsp;</span></p><p><span>【注意事項】</span></p><p><span>※応募にはタワーレコードメンバーズへの登録が必要になります。</span></p><p><span>※下記のいずれかを応募時にご入力ください。</span></p><p><span>〈店舗にて購入された方〉</span></p><p><span>・対象商品お買い上げ時のレシート番号（レシート右下に記載 例：<span>1000/0001/1234</span>）</span></p><p><span>〈オンラインにて購入された方〉</span></p><p><span>・<span>14</span>桁の注文番号<span>(</span>例<span>:10A12345678901</span>）</span></p><p><span>※レシート番号・注文番号を入力いただければ、複数回応募が可能となります。</span></p><p><span>※複数口の場合は口数を入力ください。</span></p><p><span>※こちらの応募は、<span>PC</span>およびスマートフォンのみになります。</span></p><p><span>※個人情報は賞品発送以外の目的で使用することはございません。</span></p><p><span>&nbsp;</span></p><p><span>【注意事項】</span></p><p><span>緊急事態宣言等により休業中・または営業時間変更の店舗もございます。詳しい店舗状況は下記リンク先からご確認ください。</span></p><p><span><a href=\"https://tower.jp/store/\">https://tower.jp/store/<br /><br /></a></span></p><p><span>現在休業中の店舗では、営業再開後に各企画を開始、場合によっては実施中止となる可能性もございます。各店の実施をご確認のうえご利用ください。</span></p><p><span>&nbsp;</span>&nbsp;</p><p><strong><span>&lt;HMV&gt;</span></strong></p><p><strong><span>日向坂<span>46 5th</span>シングル「君しか勝たん」発売を記念して、全国の<span>HMV</span>で様々な企画の実施が決定！</span></strong></p><p><strong><span><span>①<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>HMV</span></strong><strong><span>全店で日向坂<span>46</span>&times;<span>HMV</span>キャンペーン開催</span></strong></p><p><strong><span><span>②<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>日向坂<span>46</span>コラボポスター全店掲出＆応募抽選プレゼント施策実施</span></strong></p><p><strong><span><span>③<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>HMV</span></strong><strong><span>全店で「君しか勝たん」音源＆金村美玖さん、小坂菜緒さんからのコメント放送が決定！</span></strong></p><p><strong><span><span>④<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>全国の<span>HMV</span>で配布するフリーペーパー「<span>the music & movie master</span>」に<span>5</span>月特別発行「日向坂<span>46</span>特集」号が決定！撮り下ろしインタビューに加藤史帆さん、金村美玖さん、小坂菜緒さん、河田陽菜さん、丹生明里さんが登場！</span></strong></p><p><strong><span><span>⑤<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>HMV&BOOKS SHIBUYA</span></strong><strong><span>大パネル展示開催！</span></strong></p><p><strong><span><span>⑥<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>Loppi</span></strong><strong><span>・<span>HMV</span>限定特典：生写真<span>(2~3</span>枚<span>)</span>付き<span>CD</span>を大好評ご予約受付中！</span></strong></p><p><strong><span>詳しくは：</span></strong><span><a href=\"https://www.hmv.co.jp/news/article/2103251023/\"><span>https://www.hmv.co.jp/news/article/2103251023/</span></a></span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><strong><span><span>①<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>HMV</span></strong><strong><span>全店で日向坂<span>46</span>&times;<span>HMV</span>キャンペーン開催</span></strong></p><p><span>HMV</span><span>店舗で日向坂<span>46</span>&times;<span>HMV</span>キャンペーンの開催が決定しました。</span></p><p><span>HMV</span><span>店舗でお買い上げ<span>2,000</span>円（税込）毎に先着で<span>HMV</span>限定「メンバー絵柄クーポン（全<span>22</span>種からランダム）」をプレゼント！</span></p><p><span>詳しくはこちら：</span><a href=\"https://www.hmv.co.jp/news/article/2104261017/\"><span>https://www.hmv.co.jp/news/article/2104261017/</span></a></p><p><span><span><span>&nbsp;</span></span></span></p><p><strong><span><span>②<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>日向坂<span>46</span>コラボポスター全店掲出＆応募抽選プレゼント施策</span></strong></p><p><span>&nbsp;<img src=\"https://cdn.hinatazaka46.com/files/14/_HMV%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%205.20.jpg\" alt=\"\" width=\"710\" height=\"1003\" /></span></p><p><span>【ポスター掲出期間】</span></p><p><span>2021</span><span>年<span>5</span>月<span>25</span>日<span>(</span>火<span>)</span>～<span>2021</span>年<span>5</span>月<span>31</span>日<span>(</span>月<span>)</span>予定</span></p><p><span>※掲出は予告なく終了、延長する場合がございます。</span></p><p><span>&nbsp;</span></p><p><strong><span>コラボポスター応募抽選について</span></strong></p><p><span>【購入対象期間】</span></p><p><span>～<span>2021</span>年<span>5</span>月<span>31</span>日<span>(</span>月<span>)</span></span></p><p><span>※全国の<span>HMV</span>・<span>HMV&BOOKS</span>店舗、<span>HMV&BOOKS online</span>でご購入いただいた方が対象です。</span></p><p><span>※期間以前にご予約いただいた方も対象となります。</span></p><p><span>※<span>HMV&BOOKS online</span>でご購入の場合は、同日の出荷分までが対象となります。</span></p><p><span>&nbsp;</span></p><p><span>【応募対象期間】</span></p><p><span>2021</span><span>年<span>5</span>月<span>25</span>日<span>(</span>火<span>)</span>～<span>2021</span>年<span>6</span>月<span>7</span>日<span>(</span>月<span>)</span></span></p><p><span>&nbsp;</span></p><p><span>【応募方法】</span></p><p><span>対象商品ご購入後（商品出荷時）に、メールにて応募フォームの<span>URL</span>をお知らせ致します。</span></p><p><span>&nbsp;</span></p><p><span>【購入時の注意事項】</span></p><p><span>※ローソン<span>WEB</span>会員の登録が必要です。</span></p><p><span>※</span><span>HMV&BOOKS online</span><span>（<span>ONLINE</span>サイト）及び<span>HMV MOBILE</span>以外からのご購入、非会員でのご購入は対象外となります。</span></p><p><span>他の<span>EC</span>ショッピングモールの<span>HMV</span>サイト（<span>Yahoo!</span>ショッピング、楽天市場、<span>Amazon</span>、<span>DeNA</span>ショッピング、<span>au</span>ショッピングモール）、<span>HMV</span>＠<span>Loppi</span>などでのお買い上げは対象外です。</span></p><p><span>※</span><span>HMV</span><span>店頭でお買い上げのお客様<span>&rarr;</span>ご購入日より<span>2</span>～<span>3</span>日以内にメールにてご案内致します。</span></p><p><span>※</span><span>お客様の携帯にて指定着信許可をされている場合は、<span>&ldquo;@hmv.co.jp&rdquo;</span>のドメイン許可設定が必要になります。</span></p><p><span>※</span><span>HMV&BOOKS online</span><span>でご注文頂いた場合、タイミングによっては対象期間を過ぎる場合がございますことをご了承ください。</span></p><p><span>※</span><span>当選は賞品の発送をもってかえさせていただきます。</span></p><p><span>※</span><span>画像はイメージです。実物とは異なる場合があります。</span></p><p><span>&nbsp;</span></p><p><span>≪</span><span>店頭でお買い上げの際のご注意</span><span>≫</span></p><p><span>・購入時に<span>Ponta</span>カードを必ずご提示ください。</span></p><p><span>・購入日までにローソン<span>WEB</span>会員への登録をお済ませください。</span></p><p><span>　※</span><span>購入時に提示いただいた<span>Ponta</span>カードのご登録が必要です。</span></p><p><span>・購入日までに<span>HMV</span>のメルマガのご登録が必要です。</span></p><p><span>・お客様の携帯にて指定着信許可をされている場合は、<span>@hmv.co.jp</span>のドメイン許可設定が必要になります。</span></p><p><strong><span>&nbsp;</span></strong></p><p><strong><span><span>③<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>HMV</span></strong><strong><span>全店で「君しか勝たん」音源＆金村美玖さん、小坂菜緒さんからのコメント放送が決定！</span></strong></p><p><span>&nbsp;</span>【放送期間】</p><p><span>●～<span>5</span>月<span>24</span>日(月)第<span>1</span>弾</span></p><ul><li><span><span>5</span>月<span>25</span>日(火)～<span>5</span>月<span>31</span>日(月)第<span>2</span>弾</span></li></ul><p><span>※放送時間は店舗により異なります。</span></p><p><span>&nbsp;</span></p><p><strong><span><span>④<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>全国の<span>HMV</span>で配布するフリーペーパー「<span>the music & movie master</span>」に<span>5</span>月特別発行「日向坂<span>46</span>特集」号が決定！撮り下ろしインタビューに加藤史帆、金村美玖、小坂菜緒、河田陽菜、丹生明里が登場！</span></strong></p><p><span>the music</span><span>　<span>&</span>　<span>movie master</span>の<span>5</span>月号は特別号「日向坂<span>46</span>特集」で決定！</span></p><p><span>加藤史帆、金村美玖、小坂奈緒、河田陽菜の完全撮り下ろし写真とメンバーのインタビューを掲載いたします。</span></p><p><span>特別号は開くとポスターになる特別仕様となっておりますので是非店頭でお手に取ってください。</span></p><p><strong><span><img src=\"https://cdn.hinatazaka46.com/files/14/_HMV%E5%86%8A%E5%AD%90%28Music%20Master%29.jpg\" alt=\"\" width=\"798\" height=\"1125\" /><br />&nbsp;</span></strong></p><p><span>【配布期間】<span>5</span>月<span>25</span>日(火)～全国の<span>HMV</span>店頭で配布</span></p><p><span>※なくなり次第終了となります。</span></p><p><strong><span>&nbsp;</span></strong><strong><span>&nbsp;</span></strong></p><p><strong><span><span>⑤<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>HMV&BOOKS SHIBUYA</span></strong><strong><span>大パネル展示開催！</span></strong></p><p><span>HMV&BOOKS SHIBUYA 5</span><span>階特設スペースにて、大パネル展示を開催いたします。</span></p><p><span>【開催店舗】</span></p><p><span>HMV&BOOKS SHIBUYA</span></p><p><span>【開催期間】</span></p><p><span>2021</span><span>年<span>5</span>月<span>25</span>日(火)開店時～<span>5</span>月<span>31</span>日(月)閉店まで</span></p><p><span>※休業となる可能性がございます。予めご了承ください。</span></p><p><span>&nbsp;</span></p><p><strong><span><span>⑥<span>&nbsp;&nbsp; </span></span></span></strong><strong><span>Loppi</span></strong><strong><span>・<span>HMV</span>限定特典：生写真<span>(2~3</span>枚<span>)</span>付き<span>CD</span>を大好評ご予約受付中！</span></strong></p><p><strong><span>詳しくは：</span></strong><span><a href=\"https://www.hmv.co.jp/news/article/2103251023/\"><span>https://www.hmv.co.jp/news/article/2103251023/</span></a></span></p><p></p>"
+    },
+    {
+      "category": "release",
+      "code": "M00855",
+      "title": "5thシングル「君しか勝たん」発売記念展示が全国のCD SHOPで実施決定！！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00855?ima=0000",
+      "pubdate": "2021/05/21 19:00:00",
+      "thumbnail": null,
+      "content": "<p><span><span>5</span>月<span>26</span>日(水)にリリースされる<span>5th</span>シングル「君しか勝たん」の発売を記念して、全国の<span>CD SHOP</span>でパネル展示を行うことが決定いたしました。</span></p><p><span>また<span>SHIBUYA TSUTAYA</span>では特別に衣装を展示いたします。</span></p><p><span>&nbsp;</span></p><p><span>★日向坂<span>46</span>　<span>5th</span>シングル「君しか勝たん」パネル展示★</span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>北海道<span>&gt;</span></span></p><p><span>HMV</span><span>札幌ステラプレイス</span></p><p><span>玉光堂パセオ店</span></p><p><span>玉光堂四丁目店</span></p><p><span>玉光堂イオンモール札幌発寒店</span></p><p><span>玉光堂カテプリ新さっぽろ店</span></p><p><span>玉光堂イオン江別店</span></p><p><span>玉光堂イオン千歳店</span></p><p><span>玉光堂イオンモール旭川駅前店</span></p><p><span>玉光堂イオン釧路店</span></p><p><span>玉光堂イオン北見店</span></p><p><span>&nbsp;</span></p><p><span>＜宮城県＞</span></p><p><span>タワーレコード仙台パルコ店</span></p><p><span>山野楽器仙台店</span></p><p><span>バンダレコードイオン仙台中山店</span></p><p><span>バンダレコードイオンモール名取店</span></p><p><span>&nbsp;</span></p><p><span>＜福島県＞</span></p><p><span>タワーレコード郡山店</span></p><p><span>バンダレコードイオン福島店</span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>東京都<span>&gt;</span></span></p><p><span>HMV&BOOKS SHIBUYA</span></p><p><span>HMV</span><span>立川</span></p><p><span>ＴＳＵＴＡＹＡ　町田木曽店</span></p><p><span>SHIBUYA TSUTAYA</span><span>　※衣装展示あり</span></p><p><span>タワーレコード渋谷店</span></p><p><span>タワーレコード池袋店</span></p><p><span>タワーレコード新宿店</span></p><p><span>タワーレコード秋葉原店</span></p><p><span>タワーレコード町田店</span></p><p><span>タワーレコード錦糸町パルコ店</span></p><p><span>新星堂アトレ吉祥寺店</span></p><p><span>新星堂アルカキット錦糸町店</span></p><p><span>山野楽器西武池袋店</span></p><p><span>バンダレコードＬＩＶＩＮ田無店</span></p><p><span>バンダレコードイオン板橋店</span></p><p><span>バンダレコードイトーヨーカドー赤羽店</span></p><p><span>ヨドバシカメラ マルチメディア<span> Akiba</span></span></p><p><span>ヨドバシカメラ マルチメディア 新宿西口</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>神奈川県<span>&gt;</span></span></p><p><span>HMV</span><span>ラゾーナ川崎</span></p><p><span>タワーレコード横浜ビブレ店</span></p><p><span>新星堂小田原ダイナシティ店</span></p><p><span>新星堂アピタ長津田店</span></p><p><span>山野楽器辻堂店</span></p><p><span>山野楽器たまプラーザテラス店</span></p><p><span>バンダレコードららぽーと海老名店</span></p><p><span>バンダレコード綾瀬タウンヒルズ店</span></p><p><span>バンダレコードイオン金沢八景店</span></p><p><span>ヨドバシカメラ マルチメディア 横浜</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span>＜埼玉県＞</span></p><p><span>HMV</span><span>大宮アルシェ</span></p><p><span>タワーレコードアリオ鷲宮店</span></p><p><span>タワーレコードアリオ上尾店</span></p><p><span>新星堂新越谷駅ビル店</span></p><p><span>WonderGOO</span><span>入間店</span></p><p><span>山野楽器イオンモール北戸田店</span></p><p><span>バンダレコード本川越ペペ店</span></p><p><span>バンダレコードららぽーと新三郷店</span></p><p><span>&nbsp;</span></p><p><span>＜千葉県＞</span></p><p><span>ＴＳＵＴＡＹＡ　松戸駅前店</span></p><p><span>幕張　蔦屋書店</span></p><p><span>ＴＳＵＴＡＹＡ　木更津店</span></p><p><span>ＴＳＵＴＡＹＡ　市原五井店</span></p><p><span>新星堂カルチェ５柏店</span></p><p><span>山野楽器そごう千葉店</span></p><p><span>バンダレコードテラスモール松戸店</span></p><p><span>バンダレコードイオンマリンピア店</span></p><p><span>&nbsp;</span></p><p><span>＜栃木県＞</span></p><p><span>ＴＳＵＴＡＹＡ　栃木城内店</span></p><p><span>WonderGOO</span><span>小山店</span></p><p><span>&nbsp;</span></p><p><span>＜茨城県＞</span></p><p><span>新星堂水戸店</span></p><p><span>WonderGOO</span><span>鹿島店</span></p><p><span>WonderGOO</span><span>守谷店</span></p><p><span>WonderGOO</span><span>つくば店</span></p><p><span>バンダレコードイオンモールつくば店</span></p><p><span>バンダレコードイオンモール土浦店</span></p><p><span>&nbsp;</span></p><p><span>＜山梨県＞</span></p><p><span>新星堂ラザウォーク甲斐双葉店</span></p><p><span>&nbsp;</span></p><p><span>＜石川県＞</span></p><p><span>ＴＳＵＴＡＹＡ　金沢店</span></p><p><span>&nbsp;</span></p><p><span>＜静岡店＞</span></p><p><span>ＴＳＵＴＡＹＡ　佐鳴台店</span></p><p><span>ＴＳＵＴＡＹＡ　藤枝瀬戸新屋店</span></p><p><span>タワーレコードららぽーと磐田店</span></p><p><span>バンダレコード三島店</span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>愛知県<span>&gt;</span></span></p><p><span>ＴＳＵＴＡＹＡ　汐田橋店</span></p><p><span>ＴＳＵＴＡＹＡ　三ノ輪店</span></p><p><span>タワーレコード名古屋パルコ店</span></p><p><span>タワーレコード名古屋近鉄パッセ店</span></p><p><span>タワーレコード東浦店</span></p><p><span>新星堂アスナル金山店</span></p><p><span>バンダレコードイオンモール名古屋茶屋店</span></p><p><span>バンダレコードイオンモール長久手店</span></p><p><span>&nbsp;</span></p><p><span>＜長野県＞</span></p><p><span>ＴＳＵＴＡＹＡ　北松本店</span><span><span>&nbsp;&nbsp; </span></span></p><p><span>&nbsp;</span></p><p><span>＜新潟県＞</span></p><p><span>タワーレコード新潟店</span></p><p><span>ヨドバシカメラ マルチメディア 新潟駅前</span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>奈良県<span>&gt;</span></span></p><p><span>タワーレコード橿原店</span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>大阪府<span>&gt;</span></span></p><p><span>ＴＳＵＴＡＹＡ　あべの橋店</span></p><p><span>タワーレコード難波店</span></p><p><span>山野楽器イオンモール鶴見緑地店</span></p><p><span>ヨドバシカメラ マルチメディア 梅田</span></p><p><span>&nbsp;</span></p><p><span>&lt;</span><span>兵庫県<span>&gt;</span></span></p><p><span>HMV</span><span>阪急西宮ガーデンズ</span></p><p><span>&nbsp;</span></p><p><span>＜京都府＞</span></p><p><span>タワーレコード京都店</span></p><p><span>ヨドバシカメラ マルチメディア 京都</span></p><p><span>&nbsp;</span></p><p><span>＜広島県＞</span></p><p><span>新星堂福山店</span></p><p><span>&nbsp;</span></p><p><span>＜熊本県＞</span></p><p><span>蔦屋書店　熊本三年坂</span></p><p><span>&nbsp;</span></p><p><span>＜福岡県＞</span></p><p><span>HMV&BOOKS HAKATA</span></p><p><span>タワーレコード福岡パルコ店</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span>《開催期間》</span></p><p><span><span>5</span>月<span>25</span>日(火)以降掲出開始</span></p><p><span>※</span><span>店舗によって掲出開始日が異なります。必ず各店舗の情報をご確認ください。</span></p><p><span>※予告なく、店舗内での展示場所や開催期日の変更がある場合がございます。あらかじめご了承ください。</span></p><p><span>※店舗によって展示点数が違います。あらかじめご了承ください。</span></p><p><span>&nbsp;</span></p><p><span>≪新型コロナウイルス感染防止のお願い≫</span></p><p><span>※ご来店の際は必ずマスク着用をお願い致します。</span></p><p><span>※入店前には店頭備え付けの除菌スプレーで手指の消毒をおねがいいたします。ご理解とご協力の程、お願い致します。</span></p><p><span>※店頭では他のお客様との距離を十分に空けてお待ちいただきますようお願い致します。</span></p><p><span>※ご来店は原則ご本人様<span>1</span>名でお願い致します。</span></p><p><span>※店内が混雑した場合は密集・密接を避けるため、入場制限などをさせていただく場合がございます。</span></p><p><span>&nbsp;</span></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00854",
+      "title": "5thシングル「君しか勝たん」TYPE-C収録の特典映像\"個人PV\"5本(予告編)が公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00854?ima=0000",
+      "pubdate": "2021/05/21 12:00:00",
+      "thumbnail": null,
+      "content": "5thシングル「君しか勝たん」TYPE-C収録の特典映像\"個人PV\"5本(予告編)が、日向坂46 OFFICIAL YouTube CHANNELにて公開されました。<br /><br />・日向坂46 小坂菜緒『文学少女のふりをした彼女は、自分がスポーツ漫画オタクであることを地球上の誰にも言い出せずにいる。』<br />・日向坂46 富田鈴花『富田っ！あんた、間違ってるわ！』<br />・日向坂46 濱岸ひより『ひよタンバリン』<br />・日向坂46 渡邉美穂『普通にあこがれて』<br />・日向坂46 上村ひなの『明日はもうちょっとアイドル。』<br /><br />ぜひご覧ください。<br /><br /><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\">日向坂46 OFFICIAL YouTube CHANNELはこちら<br /><br /></a><a href=\"https://www.hinatazaka46.com/s/official/page/5th_single?ima=0000\">5thシングル「君しか勝たん」詳細はこちら</a><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\"><br /></a>"
+    },
+    {
+      "category": "media",
+      "code": "M00853",
+      "title": "全国のラジオ局で日向坂46メンバーのコメントがオンエア！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00853?ima=0000",
+      "pubdate": "2021/05/21 00:00:00",
+      "thumbnail": null,
+      "content": "<p><span>全国のラジオ局で日向坂</span><span>46</span><span>メンバーのコメントが下記日程でオンエアされます。</span></p><p><span>ぜひお聴きください。</span></p><p><span>※放送日・内容の変更がある場合はございます。</span></p><p><span>※詳しくは各番組のオフィシャルサイトをご覧ください。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p><p><span>潮紗理菜</span></p><p><span>5/21(</span><span>金</span><span>)20:00</span><span>～</span><span>20:30</span><span>　</span><span>FM</span><span>福岡「カムカムＦＭ福岡」</span></p><p><span>5/24(</span><span>月</span><span>)16:00</span><span>～</span><span>18:55</span><span>　</span><span>FM</span><span>香川「</span><span>JOY-U-CLUB</span><span>」</span></p><p><span>5/26(</span><span>水</span><span>)11:30</span><span>～</span><span>14:34</span><span>　</span><span>FM</span><span>熊本「バンゲア」</span></p><p><span>5/27(</span><span>木</span><span>)7:30</span><span>～</span><span>11:00</span><span>　</span><span>Kiss FM KOBE</span><span>「４</span><span>SEASONS</span><span>」</span></p><p><span>5/27(</span><span>木</span><span>) 8:20</span><span>～</span><span>10:55</span><span>　</span><span>FM</span><span>宮崎「ＪＯＹＦＭ　ハイブリッドモーニング」</span></p><p><span>5/30(</span><span>日</span><span>)18:00</span><span>～</span><span>19:00</span><span>　</span><span>FM</span><span>愛媛「</span><span>FM</span><span>ベストヒットえひめ」</span></p><p><span>5/31(</span><span>月</span><span>)19:30</span><span>～</span><span>21:00</span><span>　</span><span>FM NORTH WAVE</span><span>「</span><span>RADIO GROOVE</span><span>」</span></p><p><span>6/3(</span><span>木</span><span>)17:45</span><span>～</span><span>19:00</span><span>　</span><span>FM</span><span>福井「</span><span>Update Evening!</span><span>」</span></p><p><span>6/8(</span><span>火</span><span>)21:00</span><span>～</span><span>22:51</span><span>　</span><span>RKB</span><span>「カリメン！」</span></p><p><span>6/19(</span><span>土</span><span>)18:55</span><span>～</span><span>19:00</span><span>　</span><span>FM</span><span>とやま「Ｊ・ＰＯＰファクトリー」</span></p><p><span>&nbsp;</span></p><p><span>高瀬愛奈</span></p><p><span>5/21(</span><span>金</span><span>)18:00</span><span>～</span><span>22:00</span><span>　</span><span>AIR-G</span><span>&rsquo;「</span><span>IMAREAL</span><span>」</span></p><p><span>5/24(</span><span>月</span><span>)21:00</span><span>～</span><span>21:55</span><span>　</span><span>FM</span><span>鹿児島「ＦＬＡＰ</span><span> the </span><span>&mu;</span><span> Artist Voice</span><span>」</span></p><p><span>5/25(</span><span>火</span><span>)15:30</span><span>～</span><span>19:30</span><span>　</span><span>LOVEFM</span><span>「</span><span>music</span><span>&times;</span><span>serendipity</span><span>」</span></p><p><span>5/25(</span><span>火</span><span>)17:00</span><span>～</span><span>18:55</span><span>　</span><span>FM</span><span>岡山「</span><span>TWILIGHT PAVEMENT</span><span>」</span></p><p><span>5/27(</span><span>木</span><span>)20:00</span><span>～</span><span>22:00</span><span>　広島</span><span>FM</span><span>「大窪シゲキの９ジラジ」</span></p><p><span>5/31(</span><span>月</span><span>)21:55</span><span>～</span><span>22:00</span><span>　</span><span>FM</span><span>石川「</span><span>HELLO FIVE BOX</span><span>」</span></p><p><span>6/4(</span><span>金</span><span>)18:25</span><span>～</span><span>18:30</span><span>　</span><span>K-mix</span><span>「三園綾音のキャッチ・ザ・ミュージック」</span></p><p><span>6/9(</span><span>水</span><span>)21:00</span><span>～</span><span>22:51</span><span>　</span><span>RKB</span><span>「カリメン！」</span></p><p><span>6/10(</span><span>木</span><span>)16:00</span><span>～</span><span>17:46</span><span>　</span><span>FM</span><span>大阪</span><span>Music Bit</span></p><p><span>&nbsp;</span></p><p><span>宮田愛萌</span></p><p><span>5/26(</span><span>水</span><span>)16:00</span><span>～</span><span>18:55(18:00</span><span>台</span><span>)</span><span>　</span><span>FM</span><span>徳島「</span><span>T-Joint</span><span>」</span></p><p><span>5/27(</span><span>木</span><span>)16:00</span><span>&sim;</span><span>17:46</span><span>　</span><span>FM</span><span>大阪「</span><span>Music Bit</span><span>」</span></p><p><span>5/27(</span><span>木</span><span>)16:00</span><span>～</span><span>18:50</span><span>　</span><span>FM</span><span>長崎「</span><span>Colors</span><span>」</span></p><p><span>5/27(</span><span>木</span><span>)17:15</span><span>～</span><span>18:25(17:40</span><span>頃</span><span>)</span><span>　</span><span>FM</span><span>山陰「</span><span>GO-</span><span>！</span><span>EVENING</span><span>！」</span></p><p><span>5/27(</span><span>木</span><span>)22:00</span><span>～</span><span>24:30</span><span>　</span><span>CBC</span><span>ラジオ「推シマシ」</span></p><p><span>5/28(</span><span>金</span><span>)13:00</span><span>～</span><span>16:00</span><span>　静岡放送</span><span>SBS</span><span>ラジオ「金のふくわうち</span></p><p><span>6/10(</span><span>木</span><span>)21:00</span><span>～</span><span>22:51</span><span>　</span><span>RKB</span><span>「カリメン！」</span></p><p><span>&nbsp;</span></p><p><span>森本茉莉</span></p><p><span>5/24(</span><span>月</span><span>)17:00</span><span>～</span><span>19:00</span><span>　</span><span>FM GIFU</span><span>「</span><span>TWILIGHT MAGIC</span><span>」</span></p><p><span>5/26(</span><span>水</span><span>)7:30</span><span>～</span><span>9:55</span><span>　</span><span>FM</span><span>大分「</span><span>Sky Tune OITA</span><span>」</span></p><p><span>5/26(</span><span>水</span><span>)14:00</span><span>～</span><span>19:00</span><span>　</span><span>e-radio</span><span>「キャッチ！」</span></p><p><span>5/26(</span><span>水</span><span>)16:00</span><span>～</span><span>18:55</span><span>　</span><span>FM</span><span>佐賀「</span><span>CHANGE</span></p><p><span>5/28(</span><span>金</span><span>)13:30</span><span>&sim;</span><span>18:55(15:00</span><span>台</span><span>)</span><span>　</span><span>FM</span><span>山口「</span><span>Happy Happy FRIDAY</span><span>」</span></p><p><span>5/30(</span><span>日</span><span>)9:00</span><span>～</span><span>9:55</span><span>　</span><span>FM GIFU</span><span>「</span><span>the Canadian Club</span><span>の音選たまご」</span></p><p><span>5/31(</span><span>水</span><span>)20:25</span><span>～</span><span>20:55</span><span>　</span><span>FM</span><span>福岡「</span><span>MOVING</span><span>　</span><span>MONTHLY</span><span>　</span><span>STYLE</span><span>」</span></p><p><span>6/5(</span><span>土</span><span>)9:30</span><span>～</span><span>9:55</span><span>　</span><span>FM AICHI</span><span>「沢井里奈のさわやか</span><span>#</span><span>さわーたいむ」</span></p><p><span>6/11(</span><span>金</span><span>)21:00</span><span>～</span><span>22:51</span><span>　</span><span>RKB</span><span>「カリメン！」<br /><br /><br /><a href=\"https://www.hinatazaka46.com/s/official/page/5th_single_sp?ima=0000\">5thシングル「君しか勝たん」詳細はこちら</a><br /></span></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00852",
+      "title": "5月21日(金)23:00～日本テレビ「MUSIC BLOOD」への出演が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00852?ima=0000",
+      "pubdate": "2021/05/20 23:25:00",
+      "thumbnail": null,
+      "content": "5月21日(金)23:00～日本テレビ「MUSIC BLOOD」への出演が決定致しました。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/musicblood/\">日本テレビ「MUSIC BLOOD」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00850",
+      "title": "5thシングル「君しか勝たん」TYPE-B収録の特典映像\"個人PV\"6本(予告編)が公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00850?ima=0000",
+      "pubdate": "2021/05/20 12:00:00",
+      "thumbnail": null,
+      "content": "5thシングル「君しか勝たん」TYPE-B収録の特典映像\"個人PV\"6本(予告編)が、日向坂46 OFFICIAL YouTube CHANNELにて公開されました。<br /><br />・日向坂46 潮紗理菜『潮紗理菜の世界民族楽器の旅』<br />・日向坂46 影山優佳『学びの化物 影山に1日休みを与えてみた』<br />・日向坂46 高本彩花『夜灯』<br />・日向坂46 丹生明里『丹生明里のやりたいこと10個やってみた！』<br />・日向坂46 松田好花『真夜中の松田さん』<br />・日向坂46 森本茉莉『MARIE IN WONDERLAND』<br /><br />ぜひご覧ください。<br /><br /><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\">日向坂46 OFFICIAL YouTube CHANNELはこちら<br /><br /></a><a href=\"https://www.hinatazaka46.com/s/official/page/5th_single?ima=0000\">5thシングル「君しか勝たん」詳細はこちら</a><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\"><br /></a>"
+    },
+    {
+      "category": "media",
+      "code": "M00849",
+      "title": "5thシングル「君しか勝たん」TYPE-A収録の特典映像\"個人PV\"6本(予告編)が公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00849?ima=0000",
+      "pubdate": "2021/05/19 12:16:00",
+      "thumbnail": null,
+      "content": "5thシングル「君しか勝たん」TYPE-A収録の特典映像\"個人PV\"6本(予告編)が、日向坂46 OFFICIAL YouTube CHANNELにて公開されました。<br /><br />・日向坂46 齊藤京子「死んじゃうくらい、抱きしめて。」<br />・日向坂46 佐々木美玲「みーぱんの目指せ！ドッグトレーナー」<br />・日向坂46 高瀬愛奈「ホントのワタシ。」<br />・日向坂46 金村美玖「水色、美玖色」<br />・日向坂46 宮田愛萌「私たちの未来」<br />・日向坂46 山口陽世「ぱるよの星」<br /><br />ぜひご覧ください。<br /><br /><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\">日向坂46 OFFICIAL YouTube CHANNELはこちら<br /><br /></a><a href=\"https://www.hinatazaka46.com/s/official/page/5th_single?ima=0000\">5thシングル「君しか勝たん」詳細はこちら</a><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\"><br /></a>"
+    },
+    {
+      "category": "media",
+      "code": "M00848",
+      "title": "5月24日(月)～26(水)文化放送「レコメン！」にて「日向坂祭り」開催決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00848?ima=0000",
+      "pubdate": "2021/05/19 10:20:00",
+      "thumbnail": null,
+      "content": "<p><span>5月24日(月)～26(水)文化放送「レコメン！」にて「日向坂祭り」と題して3日間連続で下記メンバーが出演致します。</span></p><p><span>ぜひお聴きください。<br /><br /><br />24(月)23:00〜佐々木久美<br /><br />25(火)22:00〜高瀬愛奈・渡邉美穂、23:45頃〜(予定)加藤史帆<br /><br />26(水)22:00〜潮紗理菜・富田鈴花<br />&nbsp;<br /></span></p><p><a href=\"http://www.joqr.co.jp/reco/\">文化放送「レコメン！」オフィシャルサイトはこちら<br /><br /></a><a href=\"https://www.hinatazaka46.com/s/official/page/5th_single?ima=0000\">5thシングル「君しか勝たん」詳細はこちら</a><a href=\"http://www.joqr.co.jp/reco/\"><br /></a></p>"
+    },
+    {
+      "category": "other",
+      "code": "O00085",
+      "title": "「膨大な夢に押し潰されて」フォーメーション公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O00085?ima=0000",
+      "pubdate": "2021/05/19 01:00:00",
+      "thumbnail": null,
+      "content": "5thシングル「君しか勝たん」収録曲、「膨大な夢に押し潰されて」のフォーメーションを公開致しました！<br /><br />是非チェックしてください！<br /><br /><a href=\"https://www.hinatazaka46.com/s/official/diary/formation/list\">フォーメーションページはコチラ</a>"
+    },
+    {
+      "category": "release",
+      "code": "M00847",
+      "title": "5月26日(水)リリース日向坂46 5thシングル「君しか勝たん」CDショップチェーン別先着特典絵柄決定！！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00847?ima=0000",
+      "pubdate": "2021/05/18 17:18:00",
+      "thumbnail": "https://cdn.hinatazaka46.com/images/14/606/196bf481d6fddd41858894f4731e6.jpg",
+      "content": "<p><span>5</span><span>月<span>26</span>日<span>(</span>水<span>)にリリース</span>となる日向坂<span>46</span>の<span>5th</span>シングル「君しか勝たん」初回仕様限定盤<span>Type A(SRCL-11794</span>～<span>11795)</span>、初回仕様限定盤<span>Type B(SRCL-11796</span>～<span>11797)</span>、初回仕様限定盤<span>Type C(SRCL-11798</span>～<span>11799) </span>、初回仕様限定盤<span>Type D(SRCL-11800</span>～<span>11801)</span>、通常盤<span>(SRCL-11802)</span>を下記<span>CD</span>ショップチェーンにてご購入いただいた方に、<span>1</span>枚お買い上げにつき<span>1</span>枚、先着で下記オリジナル特典を差し上げます。</span></p><p><span>&nbsp;</span></p><p><span>★予約者優先　先着オリジナル特典★</span></p><p><span>[</span><span>生写真<span>]</span></span></p><p><span>■全国のローソン・ミニストップ<span>Loppi</span>端末<span>/HMV</span>全店<span>(HMV&BOOKS online</span>含む<span>)-</span>生写真<span>(Type A</span>～<span>D:3</span>枚、通常盤<span>:2</span>枚※撮り下ろし各形態別絵柄<span>)<br /><br />Type A<br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_A1_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /></span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_A2_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_A3_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><br />Type B<br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_B1_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_B2_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /></span></p><p></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_B3_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><br /><br />Type C<br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_C1_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_C2_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_C3_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><br />Type D<br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_D1_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_D2_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_D3_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><br />Type 通常<br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_T1_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/fix_hinata_5th_Photocard_T2_0512sample.jpg\" alt=\"\" width=\"1751\" height=\"1186\" /><br /><br />・<span>HMV</span>限定生写真（<span>2~3</span>枚）特典付の<span>CD</span>のご予約は下記をご確認下さい。<br /></span></p><p><span>全国のローソン・ミニストップ店頭<span>Loppi</span>端末でのお申し込みはコチラ</span></p><p><span><a href=\"https://www.lawson.co.jp/campaign/lop_hinata5th/\"><span>https://www.lawson.co.jp/campaign/lop_hinata5th/</span></a></span></p><p><span>&nbsp;</span></p><p><span>HMV</span><span>（店舗・オンライン）でのお申込み詳細はコチラ</span></p><p><span><a href=\"https://www.hmv.co.jp/news/article/2103251023/\"><span>https://www.hmv.co.jp/news/article/2103251023/</span></a></span></p><p><span>&nbsp;</span></p><p><span>[</span><span>メガジャケ<span>]</span></span></p><p><span>■<span>Amazon.co.jp(EC</span>サイト<span>)</span>　<span>-</span>メガジャケ<span>(</span>各<span>Type</span>別<span>)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_%E7%B8%BA%EF%BD%AA%E7%B8%BA%E3%83%BBhinatazaka_megaJK_amazon_sample_A.jpg\" alt=\"\" width=\"681\" height=\"681\" /><br />&nbsp;<img src=\"https://cdn.hinatazaka46.com/files/14/_%E7%B8%BA%EF%BD%AA%E7%B8%BA%E3%83%BBhinatazaka_megaJK_amazon_sample_B.jpg\" alt=\"\" width=\"681\" height=\"681\" /></span></p><p><span><span><img src=\"https://cdn.hinatazaka46.com/files/14/_%E7%B8%BA%EF%BD%AA%E7%B8%BA%E3%83%BBhinatazaka_megaJK_amazon_sample_C.jpg\" alt=\"\" width=\"681\" height=\"681\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_%E7%B8%BA%EF%BD%AA%E7%B8%BA%E3%83%BBhinatazaka_megaJK_amazon_sample_D.jpg\" alt=\"\" width=\"681\" height=\"681\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_%E7%B8%BA%EF%BD%AA%E7%B8%BA%E3%83%BBhinatazaka_megaJK_amazon_sample_T.jpg\" alt=\"\" width=\"681\" height=\"681\" /><br /><br /><br />&nbsp;</span>[</span><span>フォトジャケット<span>]</span></span></p><p><span>■<span>TSUTAYA</span>　<span>RECORDS</span>（<span>TSUTAYA</span>オンライン含む<span>/</span>一部店舗除く）<span>-</span>フォトジャケット<span>(</span>各<span>Type</span>別<span>)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_%E7%B8%BA%EF%BD%AA%E7%B8%BA%E3%83%BBhinatazaka46_photoJK_tsutaya_sample_A.jpg\" alt=\"\" width=\"709\" height=\"710\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_%E7%B8%BA%EF%BD%AA%E7%B8%BA%E3%83%BBhinatazaka46_photoJK_tsutaya_sample_B.jpg\" alt=\"\" width=\"710\" height=\"710\" />&nbsp;</span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_%E7%B8%BA%EF%BD%AA%E7%B8%BA%E3%83%BBhinatazaka46_photoJK_tsutaya_sample_C.jpg\" alt=\"\" width=\"710\" height=\"710\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_%E7%B8%BA%EF%BD%AA%E7%B8%BA%E3%83%BBhinatazaka46_photoJK_tsutaya_sample_D.jpg\" alt=\"\" width=\"709\" height=\"709\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_%E7%B8%BA%EF%BD%AA%E7%B8%BA%E3%83%BBhinatazaka46_photoJK_tsutaya_sample_T.jpg\" alt=\"\" width=\"710\" height=\"709\" /><br /><br /></span></p><p><span>[</span><span>ポストカード<span>]</span></span></p><p><span>■セブンネットショッピング<span>-</span>ポストカード<span>(Type A)<br /><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_A6postcard_sample_A.jpg\" alt=\"\" width=\"875\" height=\"621\" /><br /></span></span></p><p><span><br />■タワーレコード全店<span>(</span>オンライン含む<span>/</span>一部店舗除く<span>)-</span>ポストカード<span>(Type B)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_A6postcard_sample_B.jpg\" alt=\"\" width=\"875\" height=\"621\" /><br /><br /><br />■ヨドバシカメラ　ヨドバシ<span>.com(</span>一部店舗を除く<span>)-</span>ポストカード<span>(Type C)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_A6postcard_sample_C.jpg\" alt=\"\" width=\"875\" height=\"621\" /><br /><br /><br />■ラムタラ各店<span>(</span>ラムタラ、アリババ、ムーラン、ラムタラＷｅｂＳｈｏｐ<span>)-</span>ポストカード<span>(Type D)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_A6postcard_sample_D.jpg\" alt=\"\" width=\"875\" height=\"621\" />&nbsp;<br /><br /></span></p><p><span>[B3</span><span>ミニポスター<span>]</span></span></p><p><span>■山野楽器<span>CD/DVD</span>取扱店<span>(</span>一部店舗除く<span>)-B3</span>ミニポスター<span>(Type A)<br /><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_B3poster_sample_A.jpg\" alt=\"\" width=\"1460\" height=\"1033\" /><br /></span></span></p><p><span><br />■フタバ図書全店<span>(</span>一部店舗除く<span>)-</span></span><span>B3</span><span>ミニポスター<span>(Type B)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_B3poster_sample_B.jpg\" alt=\"\" width=\"1461\" height=\"1033\" /><br /><br />■<span>WonderGOO/</span>新星堂全店<span>(</span>一部店舖除く<span>) </span>および新星堂<span>WonderGOO</span>オンライン<span>-B3</span>ミニポスター<span>(Type C)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_B3poster_sample_C.jpg\" alt=\"\" width=\"1461\" height=\"1033\" /><br /><br /><br />■ソフマップ<span>CD</span>ソフト取扱い店<span>(</span>ドットコム含む<span>)</span>※一部店舗除く<span>-</span></span><span>B3</span><span>ミニポスター<span>(Type D)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_B3poster_sample_D.jpg\" alt=\"\" width=\"1460\" height=\"1033\" /><br /><br /><br />■日向坂<span>46</span>応援店<span>-B3</span>ミニポスター<span>(</span>通常盤<span>)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_B3poster_sample_T.jpg\" alt=\"\" width=\"1461\" height=\"1033\" /><br /><br /><br />応援店リストはこちら</span></p><p><span><a href=\"https://www.sonymusic.co.jp/Music/Info/hinatazaka46/shoplist/210526/\"><span>https://www.sonymusic.co.jp/Music/Info/hinatazaka46/shoplist/210526/</span></a></span></p><p><span>&nbsp;</span></p><p><span>[</span><span>ステッカー<span>]</span></span></p><p><span>■上新電機ディスクピア<span>(Joshin web</span>含む<span>)-</span>ステッカー<span>(Type A)<br /><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_sticker_sample_A.jpg\" alt=\"\" width=\"709\" height=\"710\" /><br /></span></span></p><p><span><br />■コーチャンフォーグループ全店<span>(</span>エムズエクスポ盛岡店　含む<span>)-</span></span><span>ステッカー<span>(Type B)<br /><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_sticker_sample_B.jpg\" alt=\"\" width=\"710\" height=\"710\" /><br /></span></span></p><p><span><br />■楽天ブックス<span>(EC</span>サイト<span>)-</span>ステッカー<span>(Type C)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_sticker_sample_C.jpg\" alt=\"\" width=\"710\" height=\"710\" /><br /><br />■玉光堂<span>/</span>バンダレコード<span>/</span>ライオン堂<span>(EC</span>サイト含む<span>)-</span>ステッカー<span>(Type D)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_sticker_sample_D.jpg\" alt=\"\" width=\"709\" height=\"709\" /><br /><br />■<span>Sony Music Shop-</span>ステッカー<span>(</span>通常盤<span>)</span></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/hinatazaka46_sticker_sample_T.jpg\" alt=\"\" width=\"710\" height=\"709\" /><br />&nbsp;</span></p><p><span>※上記は全て予定事項につき、予告なく変更になる可能性がございます。あらかじめご了承ください。</span></p><p><span>※特典は店舗毎に無くなり次第終了となります。</span></p>"
+    },
+    {
+      "category": "release",
+      "code": "R00090",
+      "title": "5th Single「君しか勝たん」特設サイトオープン！MVメイキングフォトやユニットトーク動画を公開中！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00090?ima=0000",
+      "pubdate": "2021/05/17 20:00:00",
+      "thumbnail": null,
+      "content": "5月26日(水)発売 5th Single「君しか勝たん」の特設サイトを公開いたしました！<br /><br /><a href=\"/s/official/page/5th_single_sp?ima=0000\"><strong>「君しか勝たん」特設ページはこちら</strong></a><br /><br />特設ページ内では「君しか勝たん」ミュージックビデオ撮影時のメイキングフォトに加え、ファンクラブ会員限定のメイキングムービー、「ユニットトーク動画」を公開中！<br /><br />ファンクラブ会員限定の「日向坂46ヒストリー」にも「君しか勝たん」が公開されましたので、<span>ぜひチェックしてみてください！</span><br /><br /><br /><b>「ユニットトーク動画」とは<br /></b>お互いの「君しか勝たん」＝好きな所について、二人組でトークをしてもらうファンクラブ会員限定の特別動画企画です。<br />本日より毎日公開されますので、どうぞお楽しみに！<br /><br />＜現在公開中！＞<br />&rdquo;佐々木 美玲 &times; 高本 彩花&rdquo;編<br />&rdquo;宮田 愛萌 &times; 森本 茉莉&rdquo;編"
+    },
+    {
+      "category": "media",
+      "code": "M00846",
+      "title": "「日向坂46 5thシングル「君しか勝たん」個人PVティザー映像」が公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00846?ima=0000",
+      "pubdate": "2021/05/16 12:47:00",
+      "thumbnail": null,
+      "content": "<span>「日向坂</span><span>46 5th</span><span>シングル「君しか勝たん」個人</span><span>PV</span><span>ティザー映像」が日向坂46 OFFICIAL YouTube CHANNELにて公開されました。<br /></span>ぜひご覧ください。<br /><br /><a href=\"https://www.youtube.com/watch?v=IZ6O2DBXWZ8\">「日向坂46 5thシングル「君しか勝たん」個人PVティザー映像」視聴はこちら<br /></a><br /><a href=\"https://www.hinatazaka46.com/s/official/page/5th_single?ima=0000\">5thシングル「君しか勝たん」詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00845",
+      "title": "5月22日(土)18:00～フジテレビ「MUSIC FAIR」出演が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00845?ima=0000",
+      "pubdate": "2021/05/14 23:40:00",
+      "thumbnail": null,
+      "content": "5月22日(土)18:00～フジテレビ「MUSIC FAIR」への出演が決定致しました。<br />「君しか勝たん」を披露致します。<br /><br />是非ご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/MUSICFAIR/\">フジテレビ「MUSIC FAIR」オフィシャルサイトはこちら</a><br /><br /><br /><br />"
+    },
+    {
+      "category": "media",
+      "code": "M00844",
+      "title": "5月17日(月)21:00～TBS「CDTV ライブ！ライブ！」出演が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00844?ima=0000",
+      "pubdate": "2021/05/14 23:35:00",
+      "thumbnail": null,
+      "content": "5月17日(月)21:00～TBS「CDTV ライブ！ライブ！」に出演することが決定致しました。「君しか勝たん」をTV初披露致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/cdtv_livelive/\">TBS「CDTV ライブ！ライブ！」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00843",
+      "title": "5月15日(土)6:00～フジテレビ「めざましどようび」内コーナー”めざましじゃんけん”に加藤史帆と丹生明里が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00843?ima=0000",
+      "pubdate": "2021/05/14 22:50:00",
+      "tags": [
+        "5",
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "5月15日(土)6:00～フジテレビ「めざましどようび」内コーナー&rdquo;<span>めざましじゃんけん</span>&rdquo;に加藤史帆と丹生明里が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/mezado/\">フジテレビ「めざましどようび」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "other",
+      "code": "R00087",
+      "title": "「どうする？どうする？どうする？」フォーメーション公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00087?ima=0000",
+      "pubdate": "2021/05/14 22:40:00",
+      "thumbnail": null,
+      "content": "本日5月14日(金)22:30にMVが公開された、「どうする？どうする？どうする？」のフォーメーションを公開致しました！<br /><br />是非チェックしてください！<br /><br /><a href=\"https://www.hinatazaka46.com/s/official/diary/formation/list\">フォーメーションページはコチラ</a>"
+    },
+    {
+      "category": "other",
+      "code": "R00088",
+      "title": "「世界にはThank you！が溢れている」フォーメーション公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00088?ima=0000",
+      "pubdate": "2021/05/14 22:10:00",
+      "thumbnail": null,
+      "content": "本日5月14日(金)22：00にMVが公開された、「世界にはThank you！が溢れている」のフォーメーションを公開致しました！<br /><br />是非チェックしてください！<br /><br /><a href=\"https://www.hinatazaka46.com/s/official/diary/formation/list\">フォーメーションページはコチラ</a>"
+    },
+    {
+      "category": "other",
+      "code": "R00089",
+      "title": "「Right？」フォーメーション公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00089?ima=0000",
+      "pubdate": "2021/05/14 21:40:00",
+      "thumbnail": null,
+      "content": "本日5月14日(金)21：30にMVが公開された、「Right？」のフォーメーションを公開致しました！<br /><br />是非チェックしてください！<br /><br /><a href=\"https://www.hinatazaka46.com/s/official/diary/formation/list\">フォーメーションページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00842",
+      "title": "5月14日(金)24:20～TBS「有吉ジャポンⅡ ジロジロ有吉」に佐々木美玲と丹生明里が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00842?ima=0000",
+      "pubdate": "2021/05/13 16:00:00",
+      "tags": [
+        "8",
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "5月14日(金)24:20～TBS「有吉ジャポンⅡ ジロジロ有吉」に佐々木美玲と丹生明里が出演致します。<br /><br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/jiroari/\">TBS「有吉ジャポンⅡ ジロジロ有吉」</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00841",
+      "title": "5月18日(火)23:45~文化放送「レコメン！」にて5thシングル収録曲「膨大な夢に押し潰されて」を初解禁！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00841?ima=0000",
+      "pubdate": "2021/05/12 15:00:00",
+      "thumbnail": null,
+      "content": "<p><span>5月18日(火)23:45~文化放送「レコメン！」にて5thシングル収録曲「膨大な夢に押し潰されて」を初解禁致します。</span></p><p><span>ぜひお聴きください。</span></p><p><span>&nbsp;</span></p><p><a href=\"http://www.joqr.co.jp/reco/\">文化放送「レコメン！」オフィシャルサイトはこちら<br /><br /></a><a href=\"https://www.hinatazaka46.com/s/official/page/5th_single?ima=0000\">5thシングル「君しか勝たん」詳細はこちら</a><a href=\"http://www.joqr.co.jp/reco/\"><br /></a></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00840",
+      "title": "5月13日(木)19:00〜日本テレビ「THE突破ファイル」に河田陽菜と渡邉美穂が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00840?ima=0000",
+      "pubdate": "2021/05/12 15:00:00",
+      "tags": [
+        "13",
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "5月13日(木)19:00〜日本テレビ「THE突破ファイル」に河田陽菜と渡邉美穂が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/toppa/\">「THE突破ファイル」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00839",
+      "title": "5thシングル「君しか勝たん」Loppi・HMV予約者限定先着特典・生写真の絵柄公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00839?ima=0000",
+      "pubdate": "2021/05/11 16:00:00",
+      "thumbnail": "https://cdn.hinatazaka46.com/images/14/917/e47c260b6c5d4935b3d67d9733e31.jpg",
+      "content": "<p><span><span>5</span>月<span>26</span>日<span>(</span>水<span>)発売の</span><span>5th</span>シングル「君しか勝たん」を全国のローソン・ミニストップ店頭<span>Loppi</span>端末、もしくは<span>HMV(</span>店舗・<span>HMV&BOOKS online)</span>でご予約頂いた方への限定特典である、生写真の参加メンバー絵柄が決定いたしました。</span></p><p><span>※数量限定ですのでご注意ください。</span></p><p><span>&nbsp;</span></p><p><span>■Type-A</span></p><p><span>・小坂菜緒</span></p><p><span>・影山優佳、山口陽世</span></p><p><span>・佐々木久美、松田好花&nbsp;<br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_A1_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_A2_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_A3_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><br /><br /></span></p><p><span>■Type-B</span></p><p><span>・河田陽菜</span></p><p><span>・齊藤京子、東村芽依</span></p><p><span>・富田鈴花、髙橋未来虹</span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_B1_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_B2_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_B3_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><br /><br />■<span>Type-C</span></span></p><p><span>・金村美玖</span></p><p><span>・佐々木美玲、高本彩花</span></p><p><span>・高瀬愛奈、宮田愛萌、森本茉莉<br /></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_C1_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_C2_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_C3_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><br /><br />■<span>Type-D</span></span></p><p><span>・丹生明里</span></p><p><span>・潮紗理菜、渡邉美穂</span></p><p><span>・濱岸ひより、上村ひなの</span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_D1_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_D3_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /></span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_D2_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><br /><br /><br /></span></p><p><span>■通常</span></p><p><span>・加藤史帆</span></p><p><span>・集合アー写</span></p><p><span><img src=\"https://cdn.hinatazaka46.com/files/14/_fix_hinata_5th_Photocard_T1_0512sample.jpg\" alt=\"\" width=\"1186\" height=\"1751\" /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/fix_hinata_5th_Photocard_T2_0512sample.jpg\" alt=\"\" width=\"1751\" height=\"1186\" /><br /><br /></span></p><p><span>&nbsp;</span></p><p><span>全国のローソン・ミニストップ店頭<span>Loppi</span>端末でのお申し込みはコチラ</span></p><p><span><a href=\"https://www.lawson.co.jp/campaign/lop_hinata5th/\">https://www.lawson.co.jp/campaign/lop_hinata5th/<br /><br /></a></span></p><p><span>HMV</span><span>（店舗・オンライン）でのお申込み詳細はコチラ</span></p><p><span><a href=\"https://www.hmv.co.jp/news/article/2103251023/\">https://www.hmv.co.jp/news/article/2103251023/<br /><br /></a></span></p><p><span>※内容は一部変更になる可能性がございます。</span><span>予めご了承ください。</span></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00838",
+      "title": "5月14日(金)21:30～「どうする？どうする？どうする？」「世界にはThank you！が溢れている」「Right？」Music VideoをYouTubeにてプレミア公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00838?ima=0000",
+      "pubdate": "2021/05/10 22:00:00",
+      "thumbnail": null,
+      "content": "5月14日(金)21:30～「どうする？どうする？どうする？」「世界にはThank you！が溢れている」「Right？」Music VideoをYouTubeにて順番にプレミア公開致します。<br /><br />21:30～「Right？」<br />22:00～「世界にはThank you！が溢れている」<br />22:30～「どうする？どうする？どうする？」<br /><br />ぜひご覧ください。<br /><br /><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\">日向坂46 OFFICIAL YouTube CHANNELはこちら<br /><br /></a><a href=\"https://www.hinatazaka46.com/s/official/page/5th_single?ima=0000\">5thシングル「君しか勝たん」詳細はこちら</a><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\"><br /></a>"
+    },
+    {
+      "category": "media",
+      "code": "M00837",
+      "title": "5月8日(土)、9日(日)23:55～日本テレビ「Going! Sports&News」に二日連続で渡邉美穂がVTR出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00837?ima=0000",
+      "pubdate": "2021/05/07 19:00:00",
+      "tags": [
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "5月8日(土)、9日(日)23:55～日本テレビ「Going! Sports&News」に二日連続で渡邉美穂がVTR出演致します。<br />ぜひご覧ください。<br /><br />※生放送のため、内容に変更のある場合がございます。<br /><br /><a href=\"https://www.ntv.co.jp/going/\">日本テレビ「Going! Sports&News」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00836",
+      "title": "5/24(月)26:50～テレビ東京「プレミアMelodiX!」への出演が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00836?ima=0000",
+      "pubdate": "2021/05/07 18:00:00",
+      "thumbnail": null,
+      "content": "<span lang=\"EN-US\">5/24(</span><span>月<span lang=\"EN-US\">)26:</span><span lang=\"EN-US\">50</span>～テレビ東京「プレミアMelodiX!」への出演が決定致しました。<br />ぜひご覧ください。<br /><br /></span><div><span><a href=\"https://www.tv-tokyo.co.jp/melodix_premium/\">テレビ東京「プレミアMelodiX!」オフィシャルサイトはこちら</a></span></div>"
+    },
+    {
+      "category": "media",
+      "code": "M00835",
+      "title": "DAZN「Atsuto Uchida's FOOTBALL TIME」♯30に影山優佳が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00835?ima=0000",
+      "pubdate": "2021/05/07 00:00:00",
+      "tags": [
+        "4"
+      ],
+      "thumbnail": null,
+      "content": "配信中のDAZN「Atsuto Uchida's FOOTBALL TIME」♯30に影山優佳が出演しております。<br />ぜひチェックしてみて下さい。<br /><br /><a href=\"https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/atsuto-uchidas-football-time%E4%BB%8A%E5%A4%8F%E3%81%AB%E7%8F%BE%E5%BD%B9%E3%82%92%E5%BC%95%E9%80%80%E3%81%97%E3%81%9F%E5%86%85%E7%94%B0%E7%AF%A4%E4%BA%BA%E6%B0%8F%E3%81%AE%E5%88%9D%E3%81%AE%E5%86%A0%E7%95%AA%E7%B5%84%E3%81%8C10%E6%9C%881%E6%97%A5%E3%81%8B%E3%82%89%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%B8/g8v4es6x7n69158n07e2p5286\">DAZN「Atsuto Uchida's FOOTBALL TIME」詳細はこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00834",
+      "title": "小坂菜緒 1st写真集タイトル＆表紙決定！！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00834?ima=0000",
+      "pubdate": "2021/05/06 16:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "2021年6月29日（火）発売の、小坂菜緒1st写真集のタイトルが『君は誰？』に決定致しました！ <br /><br />また、計4種の表紙も決定致しました。 <br />是非チェックしてください！<br /> <br /><div style=\"text-align: center;\">通常版</div><img src=\"https://cdn.hinatazaka46.com/files/14/_%E9%80%9A%E5%B8%B8%E7%89%88_1200.jpg\" alt=\"\" width=\"933\" height=\"1200\" /><br /><div style=\"text-align: center;\"><br />Loppi・HMV限定版</div><img src=\"https://cdn.hinatazaka46.com/files/14/HMV_1200.jpg\" alt=\"\" width=\"933\" height=\"1200\" /> <br /><div style=\"text-align: center;\"><br />楽天ブックス限定版</div><img src=\"https://cdn.hinatazaka46.com/files/14/_%E6%A5%BD%E5%A4%A9_1200.jpg\" alt=\"\" width=\"933\" height=\"1200\" /> <br /><div style=\"text-align: center;\"><br />紀伊國屋書店限定版</div><img src=\"https://cdn.hinatazaka46.com/files/14/_%E7%B4%80%E4%BC%8A%E5%9C%8B%E5%B1%8B_1200.jpg\" alt=\"\" width=\"933\" height=\"1200\" /><br /><span style=\"font-size: 11pt;\">撮影/藤原宏</span><br /><br /><br /><p>【写真集詳細】</p><p>小坂菜緒（日向坂46）1st写真集『君は誰？』</p><p>発売予定日：2021年6月29日（火）</p><p>定価：2,200円(税込)　</p><p>発売：集英社</p><p><span>特典：メッセージ付きポストカード6種類中1枚封入</span></p><p>※通常版に加え、表紙の異なる【Loppi・ＨMV限定版】【楽天ブックス限定版】、【紀伊国屋書店限定版（WEB、一部店舗） 】も販売。<br /><br /></p><p>書店限定ポストカード8種も！<br />Loppi・HMV（通常版のみ）、紀伊國屋書店（通常版のみ）、タワーレコード、TSUTAYA、丸善ジュンク堂書店、コーチャンフォー、星野書店、セブンネットで購入すると、書店限定のポストカードがついてきます。</p><p><br />【日向坂46 小坂菜緒 1st 写真集限定アカウント 】&nbsp;<br />写真集に関する情報を随時配信していきます！</p><p>・Twitter&Instagram　<a href=\"https://twitter.com/kosakanatops\">＠kosakanatops</a><br />・STchannel　<a href=\"https://st-channel.jp/kosakanatops\">https://st-channel.jp/kosakanatops</a></p><p>&nbsp;</p><p>【書店予約について】<br />・<a href=\"https://www.amazon.co.jp/dp/408790041X\">Amazonでのご予約はこちら</a><br /><br />※通常版に加え、以下書店では限定カバーの先行予約を受け付け中です。<br />・HMV&BOOKS online<br /><a href=\"https://www.hmv.co.jp/product/detail/11791316\">『&nbsp;Loppi・HMV 限定カバー版』のご予約はこちら</a><br /><a href=\"https://www.hmv.co.jp/product/detail/11791085\">『通常版』のご予約はこちら</a><br /><br />・楽天ブックス<br /><a href=\"http://books.rakuten.co.jp/rb/16714182/\">『楽天ブックス限定カバー版』のご予約はこちら</a><br /><a href=\"http://books.rakuten.co.jp/rb/16714117/\">『通常版』のご予約はこちら</a><br /><br />・紀伊國屋書店<br /><a href=\"https://www.kinokuniya.co.jp/f/dsg-01-9784087900415\">『紀伊國屋書店限定カバー版』のご予約はこちら</a><br />※限定カバー版は、ウェブストア、新宿本店、梅田本店、福岡本店、札幌本店のみでのお取り扱いとなります。</p>"
+    },
+    {
+      "category": "media",
+      "code": "M00833",
+      "title": "5thシングル「君しか勝たん」リリースを記念して、過去にリリースされた5本のMusic Videoをフルサイズ公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00833?ima=0000",
+      "pubdate": "2021/05/05 12:00:00",
+      "thumbnail": null,
+      "content": "<p>5thシングル「君しか勝たん」リリースを記念して、過去にリリースされた下記5本のMusic Videoをフルサイズ公開致しました。<br /><br />当時より応援して下さっている方も、新たに\"おひさま\"になられた方も、ぜひご覧ください。</p><p><span>&nbsp;</span></p><p><span>■</span><span>JOYFUL LOVE</span></p><p><span>■ときめき草</span></p><p><span>■キツネ</span></p><p><span>■ホントの時間</span></p><p><span>■青春の馬</span></p><br /><a href=\"https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA\">日向坂46 OFFICIAL YouTube CHANNELはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M00832",
+      "title": "5月11日(火)23:45~文化放送「レコメン！」にて5thシングル収録曲「嘆きのDelete」を初解禁！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00832?ima=0000",
+      "pubdate": "2021/05/05 00:00:00",
+      "thumbnail": null,
+      "content": "<p><span>5月11日(火)23:45~文化放送「レコメン！」にて5thシングル収録曲「嘆きのDelete」を初解禁致します。</span></p><p><span>ぜひお聴きください。</span></p><p><span>&nbsp;</span></p><p><a href=\"http://www.joqr.co.jp/reco/\">文化放送「レコメン！」オフィシャルサイトはこちら</a></p>"
+    },
+    {
+      "category": "media",
+      "code": "M00831",
+      "title": "5月2日(日)21:54〜テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」に渡邉美穂が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M00831?ima=0000",
+      "pubdate": "2021/05/02 16:35:00",
+      "tags": [
+        "20"
+      ],
+      "thumbnail": null,
+      "content": "5月2日(日)21:54〜テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」に渡邉美穂が出演致します。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee！そうだ！今からお前んチでゲームしない？」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "release",
+      "code": "R00086",
+      "title": "5thシングル「君しか勝たん」アーティスト写真が公開！オフィシャルサイトのデザインもリニューアル！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00086?ima=0000",
+      "pubdate": "2021/05/01 12:00:00",
+      "thumbnail": "https://cdn.hinatazaka46.com/images/14/9f2/d798473055aa54ed7fe8b730c956f.jpg",
+      "content": "5月26日(水)リリース 5thシングル「君しか勝たん」の最新アーティスト写真を公開致しました。<br />また、オフィシャルサイトのデザインもリニューアルしております。<br />ぜひご覧ください。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/090A2533_syugo_gosei_3_compressed3.jpg\" alt=\"\" width=\"1200\" height=\"800\" /><br /><br /><a href=\"https://www.hinatazaka46.com/s/official/page/5th_single?ima=0000\">5thシングル「君しか勝たん」詳細はこちら<br /><br /><br /></a>"
+    }
+  ],
+  "count": "72"
 }
