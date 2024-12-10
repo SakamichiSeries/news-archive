@@ -3,7 +3,7 @@ import NewsList from "./components/NewsList";
 import NewsDetail from "./components/NewsDetail";
 import "./components/ResponsiveLayout.css";
 
-interface NewsItem {
+export interface NewsItem {
   category: string;
   code: string;
   title: string;
