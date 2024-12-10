@@ -1,0 +1,30 @@
+.responsive-layout {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+  }
+  
+  .news-list {
+    flex: 1;
+    overflow-y: auto;
+    border-right: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .news-detail {
+    flex: 2;
+    padding: 10px;
+    overflow-y: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .responsive-layout {
+      flex-direction: column;
+    }
+  
+    .news-list {
+      border-right: none;
+      border-bottom: 1px solid #ccc;
+    }
+  }
+  
