@@ -9,9 +9,17 @@ interface NewsListProps {
 const NewsList: React.FC<NewsListProps> = ({ newsList, onSelect }) => {
   return (
     <div>
-      {newsList.map((newsItem) => (
-        <div key={newsItem.code} onClick={() => onSelect(newsItem)}>
-          {newsItem.title}
+      {newsList.map((news) => (
+        <div
+          key={news.code}
+          className="news-item"
+          onClick={() => onSelect(news)}
+          id={news.code}
+
+        >
+          <div className="news-date">{new Date(news.pubdate).toLocaleDateString()}</div>
+          <div className="news-title">{news.title}</div>
+          
         </div>
       ))}
     </div>
