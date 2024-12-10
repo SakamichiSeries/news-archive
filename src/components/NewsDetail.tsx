@@ -18,16 +18,18 @@ interface NewsDetailProps {
 
 const NewsDetail: React.FC<NewsDetailProps> = ({ news }) => {
   if (!news) {
-    return <div className="news-detail">Select a news item to view details</div>;
+    return <div className="news-detail">请选择一条新闻查看详情</div>;
   }
 
   return (
     <div className="news-detail">
-      <h3>{news.title}</h3>
-      <p dangerouslySetInnerHTML={{ __html: news.content }}></p>
-      <a href={news.link} target="_blank" rel="noopener noreferrer">
-        Read more
-      </a>
+      <h1>{news.title}</h1>
+      <p className="news-date">{news.pubdate}</p> {/* 显示发布日期 */}
+      <div className="news-caption">{news.caption}</div>
+      {/* 使用 dangerouslySetInnerHTML 渲染 HTML 内容 */}
+      <div className="news-content" dangerouslySetInnerHTML={{ __html: news.content }} />
+      {news.thumbnail && <img src={news.thumbnail} alt={news.title} />}
+      <a href={news.link} target="_blank" rel="noopener noreferrer">阅读全文</a>
     </div>
   );
 };
