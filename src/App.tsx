@@ -61,7 +61,7 @@ const App: React.FC = () => {
         .then((response) => response.json())
         .then((data) => {
           setNewsList(data.news);
-          const news = data.news.find((newsItem) => newsItem.code === code);
+          const news = data.news.find((newsItem: NewsItem) => newsItem.code === code);
           setSelectedNews(news || null);
         })
         .catch((error) => console.error("Error fetching JSON:", error));
