@@ -32,7 +32,7 @@ jobs:
     
     - name: Commit changes
       run: |
-            git remote set-url origin https://SakamichiSeries:${TOKEN_GITHUB}@github.com/SakamichiSeries/news-archive.git
+            git remote set-url origin https://SakamichiSeries:${PAT}@github.com/SakamichiSeries/news-archive.git
             git config --global user.email "example@example.com"    
             git config --global user.name "GitHub Actions"
             git add .
@@ -41,5 +41,5 @@ jobs:
             git commit -m "Update data" || echo "No changes to commit"
             git push
       env:
-        TOKEN_GITHUB: ${{ secrets.TOKEN_GITHUB }}
+        PAT: ${{ secrets.PAT }}
 
