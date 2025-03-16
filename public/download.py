@@ -8,7 +8,7 @@ m = datetime.datetime.now().month
 try:
     print(f"{y}{m:02d}")
     url = f"https://www.nogizaka46.com/s/s/api/json/news?dy={y}{m:02d}"
-    with open(f"nogizaka46-{y}{m:02d}.json", "w") as f:
+    with open(f"Nogizaka46-{y}{m:02d}.json", "w") as f:
         print(url)
         temp = requests.get(url).json()
         for entry in temp["news"]:
@@ -19,7 +19,7 @@ try:
 
     print(f"{y}{m:02d}")
     url = f"https://www.keyakizaka46.com/s/k46o/api/json/news?dy={y}{m:02d}"
-    with open(f"keyakizaka46-{y}{m:02d}.json", "w") as f:
+    with open(f"Keyakizaka46-{y}{m:02d}.json", "w") as f:
         print(url)
         temp = requests.get(url).json()
         for entry in temp["news"]:
@@ -30,7 +30,7 @@ try:
 
     print(f"{y}{m:02d}")
     url = f"https://www.sakurazaka46.com/s/s46/api/json/news?dy={y}{m:02d}"
-    with open(f"sakurazaka46-{y}{m:02d}.json", "w") as f:
+    with open(f"Sakurazaka46-{y}{m:02d}.json", "w") as f:
         print(url)
         temp = requests.get(url).json()
         for entry in temp["news"]:
@@ -41,7 +41,7 @@ try:
 
     print(f"{y}{m:02d}")
     url = f"https://www.hinatazaka46.com/s/official/api/json/news?dy={y}{m:02d}"
-    with open(f"hinatazaka46-{y}{m:02d}.json", "w") as f:
+    with open(f"Hinatazaka46-{y}{m:02d}.json", "w") as f:
         print(url)
         temp = requests.get(url).json()
         for entry in temp["news"]:
