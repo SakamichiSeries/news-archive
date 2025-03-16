@@ -69,7 +69,7 @@ const App: React.FC = () => {
         setYear(year);
         setMonth(month);
         console.log(year, month)
-        const url = `${groupFromUrl.toLowerCase()}-${year}${yearMonth.slice(4)}.json`;
+        const url = `${groupFromUrl}-${year}${yearMonth.slice(4)}.json`;
         fetch(url)
           .then((response) => response.json())
           .then((data) => {
