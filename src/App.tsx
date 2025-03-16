@@ -55,7 +55,7 @@ const App: React.FC = () => {
       setGroup(groupFromUrl.charAt(0).toUpperCase() + groupFromUrl.slice(1).toLowerCase()); // 确保首字母大写
       setYear(year);
       setMonth(month);
-
+      console.log(year,month)
       const url = `${groupFromUrl.toLowerCase()}-${year}${yearMonth.slice(4)}.json`;
       fetch(url)
         .then((response) => response.json())
@@ -84,12 +84,19 @@ const App: React.FC = () => {
       .then((response) => response.json())
       .then((data) => {
         setNewsList(data.news);
-        setSelectedNews(data.news[0]);
       })
       .catch((error) => console.error("Error fetching JSON:", error));
 
     // 更新 URL 中的 hash
-    window.location.hash = `${group.toLowerCase()}-${year}${String(month).padStart(2, "0")}`;
+    const hash = window.location.hash.substring(1);
+    const parts = hash.split("-");
+    if (parts.length === 3) {
+      window.location.hash = `${group.toLowerCase()}-${year}${String(month).padStart(2, "0")}-${parts[2]}`;
+    }
+    else {
+      window.location.hash = `${group.toLowerCase()}-${year}${String(month).padStart(2, "0")}`;
+    }
+
   }, [group, year, month]); // 当 group, year, month 改变时重新加载数据
 
   // 处理点击新闻
