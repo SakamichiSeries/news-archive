@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M01640",
+      "title": "4月4日(金)12時～動画配信サービス「Lemino」にて櫻坂46「2nd TOUR 2022 \"As you know?」広島公演の独占配信決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01640",
+      "pubdate": "2025/04/03 12:00:00",
+      "thumbnail": null,
+      "content": "4月4日(金)12時～動画配信サービス「Lemino」にて櫻坂46「2nd TOUR 2022 \"As you know?」広島公演の独占配信決定いたしました。<br /><br />ぜひチェックしてみてください。<br /><br />＜配信概要＞<br />■タイトル<br /><span>櫻坂<span lang=\"EN-US\">46</span>ライブアーカイブ<span lang=\"EN-US\"> Vol.2 2nd TOUR 2022 &ldquo;As you know?&rdquo; -</span>広島公演<span lang=\"EN-US\">-<br /></span></span><br />■配信日時<br /><span lang=\"EN-US\">4</span><span>月<span lang=\"EN-US\">4</span>日<span lang=\"EN-US\">(</span>金<span lang=\"EN-US\">)12:00</span>～<span lang=\"EN-US\">4</span>月<span lang=\"EN-US\">11</span>日<span lang=\"EN-US\">(</span>金<span lang=\"EN-US\">) </span><span lang=\"EN-US\">11:59<br /></span></span><br />■視聴可能プラン<br /><span>Lemino</span>プレミアム<span>(</span>月額<span>990</span>円<span>(</span>税込<span>) </span>、初回初月無料<span>)</span>もしくは櫻坂<span>46</span>パック<span>(</span>月額<span>200</span>円<span>(</span>税込<span>))</span>へご入会の方はご覧いただけます。<br /><br />■特設ページ：<a href=\"https://lemino.docomo.ne.jp/ft/0000045/\">https://lemino.docomo.ne.jp/ft/0000045/</a><br /><br /><img src=\"https://sakurazaka46.com/files/14/resize_sakura.png\" alt=\"\" width=\"1920\" height=\"1080\" />"
+    },
+    {
+      "category": "media",
       "code": "M01642",
       "title": "4月4日(金)21:30～配信開始のABEMA「しくじり先生 俺みたいになるな!!」に井上梨名が出演！",
       "caption": "",
@@ -40,5 +50,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "3"
+  "count": "4"
 }
