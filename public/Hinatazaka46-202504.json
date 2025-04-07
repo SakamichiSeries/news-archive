@@ -1,6 +1,26 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02408",
+      "title": "高瀬愛奈が単独パーソナリティを務める初冠ラジオ特番の放送が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02408",
+      "pubdate": "2025/04/07 12:00:00",
+      "thumbnail": null,
+      "content": "高瀬愛奈がグループ卒業目前の心境をトークする『日向坂46・高瀬愛奈 卒業記念！「まなふぃのふぃ～するラジオ」』の放送が決定いたしました！<br />単独でのラジオパーソナリティを務めるのは、今回が初となります。<br />是非お聴きください！<br /><br />【ラジオ特番】<br />■番組名<br />文化放送『日向坂46・高瀬愛奈 卒業記念！「まなふぃのふぃ～するラジオ」』<br /><br />■放送日時<br />4月29日(火・祝) 12:00～13:00<br /><br />■番組公式X<br /><a href=\"https://x.com/hinata_joqr\">@hinata_joqr</a>"
+    },
+    {
+      "category": "other",
+      "code": "O100159",
+      "title": "髙橋未来虹　日向坂46・キャプテン就任のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100159",
+      "pubdate": "2025/04/07 12:00:00",
+      "thumbnail": null,
+      "content": "4月6日(日)開催「6回目のひな誕祭」内で発表がありました通り、日向坂46 キャプテン佐々木久美の卒業に伴い、日向坂46・新キャプテンに髙橋未来虹が就任することが決定いたしました。 <br /><br />今後とも、日向坂46の応援をどうぞよろしくお願いいたします。"
+    },
+    {
       "category": "event",
       "code": "E00677",
       "title": "BRAND NEW LIVE 2025 「OVER THE RAINBOW」開催決定！ ファンクラブ抽選先行・Leminoスペシャルシート先行受付が 本日21:00よりスタート！",
@@ -216,5 +236,5 @@
       "content": "「6回目のひな誕祭」の開催を記念して、横浜赤レンガ倉庫館内対象店舗でお食事をした方を対象に、日向坂46オリジナルポストカードをプレゼント！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/0331_6th_hinatansai_akaren_poster_rgb.jpg\" alt=\"\" width=\"3538\" height=\"5000\" /><br /><br />■キャンペーン内容<br />横浜赤レンガ倉庫 1号館・2号館レストラン・カフェにて対象メニューをお買上げのお客様へ、横浜赤レンガ倉庫&times;日向坂46限定ノベルティ（オリジナルポストカード全3種）を1会計につき1枚プレゼントいたします。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/postcard3.jpg\" alt=\"\" width=\"2089\" height=\"460\" /><br /><br />※ポストカードはランダムでのお渡しとなります。<br />※デザインをお選びいただくことはできませんのでご了承ください。<br />※ノベルティはなくなり次第終了となりますのでご了承ください。<br /><br /><br />■開催場所<br />横浜赤レンガ倉庫1号館・2号館レストラン・カフェ17店舗<br /><br />■開催期間<br />2025年4月4日(金)～4月6日(日)<br /><br />▼対象店舗は下記サイトもあわせてご確認ください。<br /><a href=\"https://www.yokohama-akarenga.jp/brickjournal/detail/137\">日向坂46 オリジナルポストカードプレゼントキャンペーン｜横浜赤レンガ倉庫</a>"
     }
   ],
-  "count": "20"
+  "count": "22"
 }
