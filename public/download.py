@@ -17,6 +17,8 @@ try:
                 f"https://www.nogizaka46.com/s/n46/news/detail/{entry['code']}"
             )
             entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
+            if "tags" in entry:
+                entry["tags"] = sorted(entry["tags"])
         json.dump(temp, f, ensure_ascii=False, indent=2)
 
     print(f"{y}{m:02d}")
@@ -29,6 +31,8 @@ try:
                 f"https://www.keyakizaka46.com/s/k46o/news/detail/{entry['code']}"
             )
             entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
+            if "tags" in entry:
+                entry["tags"] = sorted(entry["tags"])
         json.dump(temp, f, ensure_ascii=False, indent=2)
 
     print(f"{y}{m:02d}")
@@ -41,6 +45,8 @@ try:
                 f"https://sakurazaka46.com/s/s46/news/detail/{entry['code']}"
             )
             entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
+            if "tags" in entry:
+                entry["tags"] = sorted(entry["tags"])
         json.dump(temp, f, ensure_ascii=False, indent=2)
 
     print(f"{y}{m:02d}")
@@ -53,6 +59,8 @@ try:
                 f"https://www.hinatazaka46.com/s/official/news/detail/{entry['code']}"
             )
             entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
+            if "tags" in entry:
+                entry["tags"] = sorted(entry["tags"])
         json.dump(temp, f, ensure_ascii=False, indent=2)
 
 except Exception as e:
