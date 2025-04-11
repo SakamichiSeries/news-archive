@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02413",
+      "title": "4月12日(土)22:00～テレビ朝日「THE世代感」に松田好花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02413",
+      "pubdate": "2025/04/11 17:00:00",
+      "tags": [
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "<span>4月12日(土)22:00～テレビ朝日「THE世代感」に松田好花が出演いたします。</span><br /><span>ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ninchido/\">テレビ朝日「THE世代感」公式ホームページはコチラ</a><br /></span>"
+    },
+    {
       "category": "event",
       "code": "E00679",
       "title": "5月3日(土)開催「Rakuten GirlsAward 2025 SPRING/SUMMER」に金村美玖・小坂菜緒の出演が決定！",
@@ -337,5 +350,5 @@
       "content": "「6回目のひな誕祭」の開催を記念して、横浜赤レンガ倉庫館内対象店舗でお食事をした方を対象に、日向坂46オリジナルポストカードをプレゼント！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/0331_6th_hinatansai_akaren_poster_rgb.jpg\" alt=\"\" width=\"3538\" height=\"5000\" /><br /><br />■キャンペーン内容<br />横浜赤レンガ倉庫 1号館・2号館レストラン・カフェにて対象メニューをお買上げのお客様へ、横浜赤レンガ倉庫&times;日向坂46限定ノベルティ（オリジナルポストカード全3種）を1会計につき1枚プレゼントいたします。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/postcard3.jpg\" alt=\"\" width=\"2089\" height=\"460\" /><br /><br />※ポストカードはランダムでのお渡しとなります。<br />※デザインをお選びいただくことはできませんのでご了承ください。<br />※ノベルティはなくなり次第終了となりますのでご了承ください。<br /><br /><br />■開催場所<br />横浜赤レンガ倉庫1号館・2号館レストラン・カフェ17店舗<br /><br />■開催期間<br />2025年4月4日(金)～4月6日(日)<br /><br />▼対象店舗は下記サイトもあわせてご確認ください。<br /><a href=\"https://www.yokohama-akarenga.jp/brickjournal/detail/137\">日向坂46 オリジナルポストカードプレゼントキャンペーン｜横浜赤レンガ倉庫</a>"
     }
   ],
-  "count": "30"
+  "count": "31"
 }
