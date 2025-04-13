@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00440",
+      "title": "『Sakurazaka46 Remixes』クロスフェード公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00440",
+      "pubdate": "2025/04/13 18:00:00",
+      "thumbnail": null,
+      "content": "2nd Album『Addiction』収録にされる『Sakurazaka46 Remixes』のクロスフェードが公開！<br />海外で活躍する6人のDJたちによるまったく新しい解釈の&ldquo;櫻坂46&rdquo;をお楽しみください！<br /><br />■『Sakurazaka46 Remixes』クロスフェード<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/frdjKbvxxqE\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br />&lt;Track list&gt;<br />1.静寂の暴力 -NURKO Remix-<br />2.承認欲求 -Ninajirachi Remix-<br />3.何歳の頃に戻りたいのか？ -Raiden Remix-<br />4.自業自得 -devin Remix-<br />5.I want tomorrow to come -Naeleck Remix-<br />6.UDAGAWA GENERATION -TSAR Remix-<br /><br />■「承認欲求 -Ninajirachi Remix-」Streaming & Download<br /><a href=\"https://sakurazaka46.lnk.to/Shoninyokkyu_Remix\">https://sakurazaka46.lnk.to/Shoninyokkyu_Remix</a>"
+    },
+    {
       "category": "event",
       "code": "E00495",
       "title": "Sakurazaka46 Announces Second Round of Overseas Fan Ticket Sales for 5th TOUR 2025 \"Addiction\"! Entry starts on Sunday, April 13 at noon (JST)!",
@@ -200,5 +210,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "18"
+  "count": "19"
 }
