@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01647",
+      "title": "4月28日(月)19:00～TBS系「CDTVライブ！ライブ！」に出演決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01647",
+      "pubdate": "2025/04/14 21:00:00",
+      "thumbnail": null,
+      "content": "<span>4月28日(月)19:00～TBS系「CDTVライブ！ライブ！」に出演が決定しました！</span><br /><span>是非ご覧ください！</span><br /><br /><a href=\"https://www.tbs.co.jp/cdtv_livelive/\">TBS系「CDTVライブ！ライブ！」公式HPはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00496",
       "title": "櫻坂46 「5th TOUR 2025 “Addiction”」 祝花・プレゼント」に関しまして",
@@ -230,5 +240,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "21"
+  "count": "22"
 }
