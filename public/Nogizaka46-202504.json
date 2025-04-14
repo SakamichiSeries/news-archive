@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "web",
+      "code": "101003",
+      "title": "【のぎ動画】「初披露の会」直後の6期生ソロインタビューを配信スタート！",
+      "caption": "",
+      "link": "https://www.nogizaka46.com/s/n46/news/detail/101003",
+      "pubdate": "2025/04/14 22:00:00",
+      "thumbnail": null,
+      "content": "本日4月14日(月)より「のぎ動画」にて「6期生インタビュー」の配信がスタートしました！<br /><br />初披露の会を終えたばかりの6期生にのぎ動画がインタビュー。<br />乃木坂46としてステージに立った感想や、のぎ動画でやってみたいこと、ファンの皆様へのメッセージなどを語っています。<br /><br />初回のメンバーは瀬戸口心月。<br />明日以降もSHOWROOM「のぎおび」配信終了後に、のぎおびを担当した6期生のインタビューを順次公開予定です！<br /><br />ぜひチェックしてみてください！<br /><br />▼【6期生】瀬戸口心月 インタビュー<br /><a href=\"https://nogidoga.com/episodes/1041587680485310466\" target=\"_blank\">https://nogidoga.com/episodes/1041587680485310466</a><br /><br />▼のぎ動画 公式X<br /><a href=\"https://x.com/nogidoga46\" target=\"_blank\">https://x.com/nogidoga46</a><br /><br /><img src=\"https://www.nogizaka46.com/files/46/news/101003_1.jpg\" alt=\"\" width=\"1280\" height=\"720\" />"
+    },
+    {
       "category": "release",
       "code": "101001",
       "title": "筒井あやめ1st写真集「感情の隙間」の書店別特典ポスター＆ポストカードの詳細決定！",
@@ -319,5 +329,5 @@
       "content": "2025年4月4日(金)～6日(日)に初開催される、新しい都市型フェス「CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2025」の模様を、各日YouTubeチャンネル「THE FIRST TAKE」から独占生配信することが決定しました。<br />ぜひチェックしてみてください！<br /><br />生配信日：4月4日(金)～4月6日(日)<br />配信チャンネル：YouTubeチャンネル「THE FIRST TAKE」<br />【CENTRAL STAGE】　<br /><a href=\"https://youtube.com/live/APAKe23FyWk\" target=\"_blank\">https://youtube.com/live/APAKe23FyWk</a><br />※乃木坂46の生配信は一部のみの配信になります。"
     }
   ],
-  "count": "30"
+  "count": "31"
 }
