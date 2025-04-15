@@ -3,66 +3,59 @@ import json
 import datetime
 import re
 
+
+def sort_key(x):
+    try:
+        return (0, int(x))  # 可以转换为int的，优先级高，按int值排序
+    except ValueError:
+        return (1, x)  # 不能转换为int的，按字符串排序
+
+
 y = datetime.datetime.now().year
 m = datetime.datetime.now().month
+for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
+    match group:
+        case "Nogizaka46":
+            start = 2012
+        case "Keyakizaka46":
+            start = 2015
+        case "Hinatazaka46":
+            start = 2019
+        case "Sakurazaka46":
+            start = 2020
 
-try:
-    print(f"{y}{m:02d}")
-    url = f"https://www.nogizaka46.com/s/s/api/json/news?dy={y}{m:02d}"
-    with open(f"Nogizaka46-{y}{m:02d}.json", "w") as f:
-        print(url)
-        temp = requests.get(url).json()
-        for entry in temp["news"]:
-            entry["link"] = (
-                f"https://www.nogizaka46.com/s/n46/news/detail/{entry['code']}"
-            )
-            entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
-            if "tags" in entry:
-                entry["tags"] = sorted(entry["tags"])
-        json.dump(temp, f, ensure_ascii=False, indent=2)
+    for y in range(start, y):
+        for m in range(1, 13):
+            try:
+                print(f"{y}{m:02d}")
+                url = f"https://www.{group}.com/s/-/api/json/news?dy={y}{m:02d}"
+                with open(f"{group}-{y}{m:02d}.json", "w") as f:
+                    print(url)
+                    temp = requests.get(url).json()
+                    for entry in temp["news"]:
+                        match group:
+                            case "Nogizaka46":
+                                entry["link"] = (
+                                    f"https://www.nogizaka46.com/s/n46/news/detail/{entry['code']}"
+                                )
+                            case "Keyakizaka46":
+                                entry["link"] = (
+                                    f"https://www.keyakizaka46.com/s/k46o/news/detail/{entry['code']}"
+                                )
+                            case "Hinatazaka46":
+                                entry["link"] = (
+                                    f"https://www.hinatazaka46.com/s/official/news/detail/{entry['code']}"
+                                )
+                            case "Sakurazaka46":
+                                entry["link"] = (
+                                    f"https://sakurazaka46.com/s/s46/news/detail/{entry['code']}"
+                                )
 
-    print(f"{y}{m:02d}")
-    url = f"https://www.keyakizaka46.com/s/k46o/api/json/news?dy={y}{m:02d}"
-    with open(f"Keyakizaka46-{y}{m:02d}.json", "w") as f:
-        print(url)
-        temp = requests.get(url).json()
-        for entry in temp["news"]:
-            entry["link"] = (
-                f"https://www.keyakizaka46.com/s/k46o/news/detail/{entry['code']}"
-            )
-            entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
-            if "tags" in entry:
-                entry["tags"] = sorted(entry["tags"])
-        json.dump(temp, f, ensure_ascii=False, indent=2)
+                        entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
+                        if "tags" in entry:
+                            entry["tags"] = sorted(entry["tags"], key=sort_key)
+                    json.dump(temp, f, ensure_ascii=False, indent=2)
 
-    print(f"{y}{m:02d}")
-    url = f"https://www.sakurazaka46.com/s/s46/api/json/news?dy={y}{m:02d}"
-    with open(f"Sakurazaka46-{y}{m:02d}.json", "w") as f:
-        print(url)
-        temp = requests.get(url).json()
-        for entry in temp["news"]:
-            entry["link"] = (
-                f"https://sakurazaka46.com/s/s46/news/detail/{entry['code']}"
-            )
-            entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
-            if "tags" in entry:
-                entry["tags"] = sorted(entry["tags"])
-        json.dump(temp, f, ensure_ascii=False, indent=2)
-
-    print(f"{y}{m:02d}")
-    url = f"https://www.hinatazaka46.com/s/official/api/json/news?dy={y}{m:02d}"
-    with open(f"Hinatazaka46-{y}{m:02d}.json", "w") as f:
-        print(url)
-        temp = requests.get(url).json()
-        for entry in temp["news"]:
-            entry["link"] = (
-                f"https://www.hinatazaka46.com/s/official/news/detail/{entry['code']}"
-            )
-            entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
-            if "tags" in entry:
-                entry["tags"] = sorted(entry["tags"])
-        json.dump(temp, f, ensure_ascii=False, indent=2)
-
-except Exception as e:
-    print(e)
-    pass
+            except Exception as e:
+                print(e)
+                pass
