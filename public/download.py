@@ -30,9 +30,9 @@ for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
                 print(f"{y}{m:02d}")
                 match group:
                     case "Nogizaka46":
-                        url = f"http://n46llc.com/s/n46/api/json/news?dy={y}{m:02d}"
+                        url = f"http://mobile-ssl.com/s/n46/api/json/news?dy={y}{m:02d}"
                     case "Keyakizaka46":
-                        url = f"http://n46llc.com/s/k46o/api/json/news?dy={y}{m:02d}"
+                        url = f"http://mobile-ssl.com/s/k46o/api/json/news?dy={y}{m:02d}"
                     case "Hinatazaka46":
                         url = f"http://mobile-ssl.com/s/official/api/json/news?dy={y}{m:02d}"
                     case "Sakurazaka46":
