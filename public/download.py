@@ -28,7 +28,16 @@ for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
         for m in range(1, 13):
             try:
                 print(f"{y}{m:02d}")
-                url = f"https://www.{group}.com/s/-/api/json/news?dy={y}{m:02d}"
+                match group:
+                    case "Nogizaka46":
+                        url = f"https://{group}.com/s/n46/api/json/news?dy={y}{m:02d}"
+                    case "Keyakizaka46":
+                        url = f"https://{group}.com/s/k46o/api/json/news?dy={y}{m:02d}"
+                    case "Hinatazaka46":
+                        url = f"https://{group}.com/s/official/api/json/news?dy={y}{m:02d}"
+                    case "Sakurazaka46":
+                        url = f"https://{group}.com/s/s46/api/json/news?dy={y}{m:02d}"
+
                 with open(f"{group}-{y}{m:02d}.json", "w") as f:
                     print(url)
                     temp = requests.get(url).json()
