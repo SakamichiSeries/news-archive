@@ -68,8 +68,6 @@ for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
                         if "tags" in entry:
                             entry["tags"] = sorted(entry["tags"], key=sort_key)
                     json.dump(temp, f, ensure_ascii=False, indent=2)
-                    if not scrape_all:
-                        exit(0)
 
             except Exception as e:
                 print(e)
