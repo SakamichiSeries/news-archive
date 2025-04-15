@@ -24,7 +24,7 @@ for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
         case "Sakurazaka46":
             start = 2020
 
-    for y in range(2025, current_y + 1):
+    for y in range(start, current_y + 1):
         for m in range(1, 13):
             try:
                 print(f"{y}{m:02d}")
