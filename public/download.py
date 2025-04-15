@@ -2,6 +2,7 @@ import requests
 import json
 import datetime
 import re
+import random
 
 
 def sort_key(x):
@@ -10,6 +11,8 @@ def sort_key(x):
     except ValueError:
         return (1, x)  # 不能转换为int的，按字符串排序
 
+
+scrape_all = False if random.randint(0, 1031) > 46 else True
 
 y = current_y = datetime.datetime.now().year
 m = current_m = datetime.datetime.now().month
@@ -24,8 +27,8 @@ for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
         case "Sakurazaka46":
             start = 2020
 
-    for y in range(2024, current_y + 1):
-        for m in range(1, 13):
+    for y in range(current_y, start - 1, -1):
+        for m in range(current_m if y == current_y else 12, 0, -1):
             try:
                 print(f"{y}{m:02d}")
                 match group:
@@ -65,6 +68,8 @@ for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
                         if "tags" in entry:
                             entry["tags"] = sorted(entry["tags"], key=sort_key)
                     json.dump(temp, f, ensure_ascii=False, indent=2)
+                    if not scrape_all:
+                        exit(0)
 
             except Exception as e:
                 print(e)
