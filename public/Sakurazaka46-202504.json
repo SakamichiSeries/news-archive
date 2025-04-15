@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100035",
+      "title": "櫻坂46に四期生9名の加入が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100035",
+      "pubdate": "2025/04/15 12:00:00",
+      "thumbnail": null,
+      "content": "櫻坂46に四期生9名の加入が決定しました！<br /><br />2024年8月から始まった、櫻坂46 新メンバーオーディションに合格した9名の新メンバーを発表いたします。<br /><br />本日4月15日(水)正午に、YouTubeチャンネル「櫻坂チャンネル」にて、初解禁となる櫻坂46 四期生 ティザームービーを公開いたしました。<br /><br />明日4月16日(水)からは、毎日正午に1名ずつ、四期生メンバーを発表いたします。<br />こちらの発表も、YouTubeチャンネル「櫻坂チャンネル」にて行います。<br /><br />櫻坂46 四期生に、ぜひご注目ください！<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/vAPwbzBP810?si=H8-y29x8gyB5LX8G\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />■櫻坂46 四期生 お披露目特設サイト<br /><a href=\"https://sakurazaka46.com/4th_generation\">https://sakurazaka46.com/4th_generation<br /><img src=\"https://sakurazaka46.com/files/14/4th_Members_KV_0415.jpg\" alt=\"\" width=\"1920\" height=\"1080\" /></a>"
+    },
+    {
       "category": "media",
       "code": "M01647",
       "title": "4月28日(月)19:00～TBS系「CDTVライブ！ライブ！」に出演決定！",
@@ -240,5 +250,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "22"
+  "count": "23"
 }
