@@ -24,19 +24,20 @@ for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
         case "Sakurazaka46":
             start = 2020
 
-    for y in range(start, current_y + 1):
+    for y in range(2024, current_y + 1):
         for m in range(1, 13):
             try:
                 print(f"{y}{m:02d}")
                 match group:
                     case "Nogizaka46":
-                        url = f"http://www.{group}.com/s/n46/api/json/news?dy={y}{m:02d}"
+                        code = f"n46"
                     case "Keyakizaka46":
-                        url = f"http://www.{group}.com/s/k46o/api/json/news?dy={y}{m:02d}"
+                        code = f"k46o"
                     case "Hinatazaka46":
-                        url = f"http://www.{group}.com/s/official/api/json/news?dy={y}{m:02d}"
+                        code = f"official"
                     case "Sakurazaka46":
-                        url = f"http://www.{group}.com/s/s46/api/json/news?dy={y}{m:02d}"
+                        code = f"s46"
+                url = f"http://mobile-ssl.com/s/{code}/api/json/news?dy={y}{m:02d}"
 
                 with open(f"{group}-{y}{m:02d}.json", "w") as f:
                     print(url)
