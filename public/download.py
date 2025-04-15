@@ -11,8 +11,8 @@ def sort_key(x):
         return (1, x)  # 不能转换为int的，按字符串排序
 
 
-y = datetime.datetime.now().year
-m = datetime.datetime.now().month
+y = current_y = datetime.datetime.now().year
+m = current_m = datetime.datetime.now().month
 for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
     match group:
         case "Nogizaka46":
@@ -24,17 +24,19 @@ for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
         case "Sakurazaka46":
             start = 2020
 
-    for y in range(start, y):
+    for y in range(start, current_y):
         for m in range(1, 13):
             try:
                 print(f"{y}{m:02d}")
                 match group:
                     case "Nogizaka46":
-                        url = f"https://{group}.com/s/n46/api/json/news?dy={y}{m:02d}"
+                        url = (
+                            f"https://www.{group}.com/s/n46/api/json/news?dy={y}{m:02d}"
+                        )
                     case "Keyakizaka46":
-                        url = f"https://{group}.com/s/k46o/api/json/news?dy={y}{m:02d}"
+                        url = f"https://www.{group}.com/s/k46o/api/json/news?dy={y}{m:02d}"
                     case "Hinatazaka46":
-                        url = f"https://{group}.com/s/official/api/json/news?dy={y}{m:02d}"
+                        url = f"https://www.{group}.com/s/official/api/json/news?dy={y}{m:02d}"
                     case "Sakurazaka46":
                         url = f"https://{group}.com/s/s46/api/json/news?dy={y}{m:02d}"
 
