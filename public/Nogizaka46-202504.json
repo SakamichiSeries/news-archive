@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "live",
+      "code": "101005",
+      "title": "5月3日(土)の「Rakuten GirlsAward 2025 SPRING/SUMMER」に乃木坂46が出演！",
+      "caption": "",
+      "link": "https://www.nogizaka46.com/s/n46/news/detail/101005",
+      "pubdate": "2025/04/16 17:00:00",
+      "thumbnail": null,
+      "content": "5月3日(土)に国立代々木競技場第一体育館にて開催される「Rakuten GirlsAward 2025 SPRING/SUMMER」に乃木坂46の出演が決定いたしました！<br />乃木坂46はアーティストライブのトップバッターとして出演いたします。<br /><br />さらに、井上和、梅澤美波、遠藤さくら、金川紗耶、筒井あやめはモデルとしても出演いたします。<br /><br />出演者やチケットなどの詳細は、「Rakuten GirlsAward 2025 SPRING/SUMMER」の公式サイト（<a href=\"https://girls-award.com/\" target=\"_blank\">https://girls-award.com/</a>）をご覧ください。<br /><br /><br />■Rakuten GirlsAward 2025 SPRING/SUMMER<br />日時：2025年5月3日（土）開場13:00／開演14:30（予定）<br />会場：国立代々木競技場第一体育館（住所：東京都渋谷区神南2丁目1-1）<br />イベント公式サイト：<a href=\"https://girls-award.com/\" target=\"_blank\">https://girls-award.com/</a>"
+    },
+    {
       "category": "web",
       "code": "101004",
       "title": "【のぎ動画】久保チャンネル #112 配信開始！",
@@ -339,5 +349,5 @@
       "content": "2025年4月4日(金)～6日(日)に初開催される、新しい都市型フェス「CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2025」の模様を、各日YouTubeチャンネル「THE FIRST TAKE」から独占生配信することが決定しました。<br />ぜひチェックしてみてください！<br /><br />生配信日：4月4日(金)～4月6日(日)<br />配信チャンネル：YouTubeチャンネル「THE FIRST TAKE」<br />【CENTRAL STAGE】　<br /><a href=\"https://youtube.com/live/APAKe23FyWk\" target=\"_blank\">https://youtube.com/live/APAKe23FyWk</a><br />※乃木坂46の生配信は一部のみの配信になります。"
     }
   ],
-  "count": "32"
+  "count": "33"
 }
