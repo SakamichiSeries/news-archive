@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01649",
+      "title": "4月17日(木)20:15〜NHK総合「ひむバス!」に森田ひかるがナレーターとして出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01649",
+      "pubdate": "2025/04/16 14:00:00",
+      "tags": [
+        "50"
+      ],
+      "thumbnail": null,
+      "content": "4月17日(木)20:15〜NHK総合「ひむバス!」に森田ひかるがナレーターとして出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.nhk.jp/p/ts/216VW21KVR/\">NHK総合「ひむバス!」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100036",
       "title": "『櫻坂46 四期生 Vlog「松本 和子」』を公開！",
@@ -309,5 +322,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "28"
+  "count": "29"
 }
