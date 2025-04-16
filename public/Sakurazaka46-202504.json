@@ -1,6 +1,29 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100036",
+      "title": "『櫻坂46 四期生 Vlog「松本 和子」』を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100036",
+      "pubdate": "2025/04/16 12:00:00",
+      "thumbnail": null,
+      "content": "本日より、櫻坂46 四期生の発表がスタートいたしました！<br /><br />1人目は松本 和子(まつもと わこ) を、YouTubeチャンネル「櫻坂チャンネル」にて発表いたしました。<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/hW5o1d75OeE?si=OfAz5QjLwValfXwQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />明日4月17日(木)以降も、毎日正午に1日人ずつメンバーを発表いたします！お見逃しなく！<br /><br />■櫻坂46 四期生 お披露目特設サイト<br /><a href=\"https://sakurazaka46.com/4th_generation\">https://sakurazaka46.com/4th_generation</a><br /><br />■櫻坂46 四期生 ティザームービー<br /><a href=\"https://youtu.be/vAPwbzBP810\">https://youtu.be/vAPwbzBP810</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01648",
+      "title": "メガネブランド「Zoff」がサングラスの新たな魅力を提案する新WEBサイト「Eye Performance Inspiration from sunglasses」に山﨑天が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01648",
+      "pubdate": "2025/04/16 11:45:00",
+      "tags": [
+        "51"
+      ],
+      "thumbnail": null,
+      "content": "メガネブランド「Zoff」がサングラスの新たな魅力を提案する新WEBサイト「Eye Performance Inspiration from sunglasses」に山﨑天が出演しております。<br />ぜひご覧ください。<br /><br />オフィシャルサイトおよび「Zoff」公式YouTubeにて公開しています。<br /><br />「Eye Performance Inspiration from sunglasses」オフィシャルサイトは<a href=\" https://www.zoff.co.jp/shop/contents/eye_performance.aspx\">コチラ</a><br />「Zoff」公式YouTubeは<a href=\"https://youtu.be/pZSNwp9rsb4\">コチラ</a>"
+    },
+    {
       "category": "shakehands",
       "code": "S00191",
       "title": "2nd Album『Addiction』発売記念 オンラインミート＆グリート（個別トーク会）第4次～第6次応募受付決定！",
@@ -286,5 +309,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "26"
+  "count": "28"
 }
