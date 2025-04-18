@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100039",
+      "title": "『櫻坂46 四期生 Vlog「佐藤 愛桜」』を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100039",
+      "pubdate": "2025/04/18 12:00:00",
+      "thumbnail": null,
+      "content": "本日より、櫻坂46 四期生の発表がスタートいたしました！<br /><br />3人目は佐藤 愛桜(さとう ねお) を、YouTubeチャンネル「櫻坂チャンネル」にて発表いたしました。<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/azjaf59aJy8?si=K7kc-8pERaB-UtTM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />明日4月19日(土)以降も、毎日正午に1日人ずつメンバーを発表いたします！お見逃しなく！<br /><br />■櫻坂46 四期生 お披露目特設サイト<br /><a href=\"https://sakurazaka46.com/4th_generation\">https://sakurazaka46.com/4th_generation</a><br /><br />■櫻坂46 四期生 ティザームービー<br /><a href=\"https://youtu.be/vAPwbzBP810\">https://youtu.be/vAPwbzBP810</a>"
+    },
+    {
       "category": "release",
       "code": "R00443",
       "title": "2nd Albumに収録の新曲「Addiction」リリース記念・LINE MUSICプレゼントキャンペーン実施決定！",
@@ -392,5 +402,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "36"
+  "count": "37"
 }
