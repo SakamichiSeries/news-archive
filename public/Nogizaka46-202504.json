@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "web",
+      "code": "101008",
+      "title": "【のぎ動画】がんばれ乃木坂#2 「パントマイムに挑戦したい！」配信開始！",
+      "caption": "",
+      "link": "https://www.nogizaka46.com/s/n46/news/detail/101008",
+      "pubdate": "2025/04/18 20:30:00",
+      "thumbnail": null,
+      "content": "本日4月18日(金)より「のぎ動画」にて「がんばれ乃木坂#2 パントマイムに挑戦したい！」を公開いたしました！<br /><br />メンバーの「挑戦したい」をサポートする新コンテンツがスタート！<br /><br />第2回は弓木奈於がパントマイムに挑戦！<br />本番はなんと3日後。基礎から練習し、乃木坂46の楽曲を使用してストーリー仕立てでお送りします。<br /><br />練習の成果は無事に発揮できるのでしょうか...！？<br /><br />ぜひチェックしてみてください！<br /><br />出演者【弓木奈於】<br />観覧者【菅原咲月、田村真佑、冨里奈央、吉田綾乃クリスティー】<br />ナレーション【賀喜遥香】<br /><br /><br />▼がんばれ乃木坂 #2 パントマイムに挑戦したい！<br /><a href=\"https://nogidoga.com/episodes/1042657236066762754\" target=\"_blank\">https://nogidoga.com/episodes/1042657236066762754</a><br /><br />▼のぎ動画 公式X<br /><a href=\"https://x.com/nogidoga46\" target=\"_blank\">https://x.com/nogidoga46</a><br /><br /><img src=\"https://www.nogizaka46.com/files/46/news/101008_1.png\" alt=\"\" width=\"1280\" height=\"720\" />"
+    },
+    {
       "category": "live",
       "code": "101007",
       "title": "【振替受付のご案内】中村麗乃 個別握手会参加券及びオンラインミート&グリート(個別トーク会)参加権利　振替イベント追加のご案内",
@@ -369,5 +379,5 @@
       "content": "2025年4月4日(金)～6日(日)に初開催される、新しい都市型フェス「CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2025」の模様を、各日YouTubeチャンネル「THE FIRST TAKE」から独占生配信することが決定しました。<br />ぜひチェックしてみてください！<br /><br />生配信日：4月4日(金)～4月6日(日)<br />配信チャンネル：YouTubeチャンネル「THE FIRST TAKE」<br />【CENTRAL STAGE】　<br /><a href=\"https://youtube.com/live/APAKe23FyWk\" target=\"_blank\">https://youtube.com/live/APAKe23FyWk</a><br />※乃木坂46の生配信は一部のみの配信になります。"
     }
   ],
-  "count": "35"
+  "count": "36"
 }
