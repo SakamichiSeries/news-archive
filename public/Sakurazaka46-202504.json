@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00445",
+      "title": "2nd Album『Addiction』クロスフェード公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00445",
+      "pubdate": "2025/04/18 18:00:00",
+      "thumbnail": null,
+      "content": "2nd Album『Addiction』のクロスフェードが公開されました！<br /><div>発売をお楽しみに！<br /><br />■『Addiction』クロスフェード<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/x2KZGj-4fWE\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />■「Addiction」Streaming & Download<br /><a href=\"https://sakurazaka46.lnk.to/Addiction\">https://sakurazaka46.lnk.to/Addiction</a></div>"
+    },
+    {
       "category": "media",
       "code": "M01651",
       "title": "4月20日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に田村保乃が出演！",
@@ -425,5 +435,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "39"
+  "count": "40"
 }
