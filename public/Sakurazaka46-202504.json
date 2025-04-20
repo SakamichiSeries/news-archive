@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "other",
+      "code": "O100041",
+      "title": "『櫻坂46 四期生 Vlog「目黒 陽色」』を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100041",
+      "pubdate": "2025/04/20 12:00:00",
+      "thumbnail": null,
+      "content": "櫻坂46 四期生9名の加入が決定！<br /><br />5人目は目黒 陽色(めぐろ ひいろ) を、YouTubeチャンネル「櫻坂チャンネル」にて発表いたしました。<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/xlzKm1J2ACA?si=jy5P22QFYaX5AGbx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />明日4月21日(月)以降も、毎日正午に1日人ずつメンバーを発表いたします！お見逃しなく！<br /><br />■櫻坂46 四期生 お披露目特設サイト<br /><a href=\"https://sakurazaka46.com/4th_generation\">https://sakurazaka46.com/4th_generation</a><br /><br />■櫻坂46 四期生 ティザームービー<br /><a href=\"https://youtu.be/vAPwbzBP810\">https://youtu.be/vAPwbzBP810</a>"
+    },
+    {
+      "category": "other",
       "code": "O100040",
       "title": "『櫻坂46 四期生 Vlog「中川 智尋」』を公開！",
       "caption": "",
@@ -445,5 +455,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "41"
+  "count": "42"
 }
