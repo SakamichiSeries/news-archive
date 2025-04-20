@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01652",
+      "title": "「MAQUIA」6月号（4月22日(火)発売）に守屋麗奈が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01652",
+      "pubdate": "2025/04/20 13:00:00",
+      "tags": [
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "<span>「MAQUIA」6月号（4月22日(火)発売）に守屋麗奈が登場いたします。</span><br /><span>ぜひチェックしてみてください。</span><br /><br /><a href=\"https://maquia.hpplus.jp/\">「MAQUIA」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100041",
       "title": "『櫻坂46 四期生 Vlog「目黒 陽色」』を公開！",
@@ -455,5 +468,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "42"
+  "count": "43"
 }
