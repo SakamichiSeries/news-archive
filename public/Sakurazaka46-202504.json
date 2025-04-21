@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01650",
+      "title": "「ViVi」6月号（4月23日(水)発売）の表紙に藤吉夏鈴・山﨑天が、中面に三期生が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01650",
+      "pubdate": "2025/04/21 13:00:00",
+      "tags": [
+        "47",
+        "51",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69"
+      ],
+      "thumbnail": null,
+      "content": "「ViVi」6月号（4月23日(水)発売）の<span>表紙</span>に藤吉夏鈴・山﨑天が、中面に三期生が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.vivi.tv/\">「ViVi」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100042",
       "title": "『櫻坂46 四期生 Vlog「浅井 恋乃未」』を公開！",
@@ -478,5 +503,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "44"
+  "count": "45"
 }
