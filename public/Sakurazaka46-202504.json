@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01657",
+      "title": "日刊スポーツ「坂道の火曜日」（4月22日(火)発刊）に田村保乃が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01657",
+      "pubdate": "2025/04/22 10:00:00",
+      "tags": [
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "<span>日刊スポーツ「坂道の火曜日」（4月22日(火)発刊）に田村保乃が登場いたします。</span><br /><span>ぜひチェックしてみてください。</span><br /><br /><a href=\"https://twitter.com/sakamichinikkan\">日刊スポーツ「坂道の火曜日」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01653",
       "title": "4月21日(月)19:00～TBS「プロフェッショナルランキング」に松田里奈がVTR出演！",
       "caption": "",
@@ -516,5 +529,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "46"
+  "count": "47"
 }
