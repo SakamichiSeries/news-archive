@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "web",
+      "code": "101015",
+      "title": "「乃木坂配信中」にて「池田瑛紗が弾丸香港アート旅いってみた！」を公開！",
+      "caption": "",
+      "link": "https://www.nogizaka46.com/s/n46/news/detail/101015",
+      "pubdate": "2025/04/23 22:00:00",
+      "thumbnail": null,
+      "content": "公式YouTubeチャンネル「乃木坂配信中」にて<br />・池田瑛紗が弾丸香港アート旅いってみた！<br />を公開いたしました！<br /><br />池田瑛紗がアジア最大級のアートフェアであるアート・バーゼル香港へ見学に行ってきました！<br /><br />そして、今回の香港は一泊二日旅♪<br />ストリートアートやグルメにお土産など、香港を堪能している様子を、ぜひご覧ください！<br /><br />動画はこちら！<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Bb-dP_jqrSc?si=6ndzIBYXJJ5PrWGb\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><a href=\"https://youtu.be/Bb-dP_jqrSc\" target=\"_blank\">https://youtu.be/Bb-dP_jqrSc</a><br /><br />チャンネル登録もよろしくお願いします！<br /><a href=\"https://www.youtube.com/c/nogizakahaishinchu\" target=\"_blank\">https://www.youtube.com/c/nogizakahaishinchu</a>"
+    },
+    {
       "category": "live",
       "code": "101016",
       "title": "五百城茉央が5月3日(土)のヴィッセル神戸vs.ファジアーノ岡山戦に出演決定！",
@@ -452,5 +462,5 @@
       "content": "2025年4月4日(金)～6日(日)に初開催される、新しい都市型フェス「CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2025」の模様を、各日YouTubeチャンネル「THE FIRST TAKE」から独占生配信することが決定しました。<br />ぜひチェックしてみてください！<br /><br />生配信日：4月4日(金)～4月6日(日)<br />配信チャンネル：YouTubeチャンネル「THE FIRST TAKE」<br />【CENTRAL STAGE】　<br /><a href=\"https://youtube.com/live/APAKe23FyWk\" target=\"_blank\">https://youtube.com/live/APAKe23FyWk</a><br />※乃木坂46の生配信は一部のみの配信になります。"
     }
   ],
-  "count": "43"
+  "count": "44"
 }
