@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01655",
+      "title": "4月25日(金)24:45～テレビ朝日「しくじり先生 俺みたいになるな!!」に大園玲が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01655",
+      "pubdate": "2025/04/23 13:00:00",
+      "tags": [
+        "54"
+      ],
+      "thumbnail": null,
+      "content": "4月25日(金)24:45～テレビ朝日「しくじり先生 俺みたいになるな!!」に大園玲が出演が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/shikujiri/\">テレビ朝日「しくじり先生 俺みたいになるな!!」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100045",
       "title": "『櫻坂46 四期生 Vlog「勝又 春』を公開！",
@@ -586,5 +599,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "52"
+  "count": "53"
 }
