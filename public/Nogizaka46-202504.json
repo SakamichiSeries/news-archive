@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "live",
+      "code": "101016",
+      "title": "五百城茉央が5月3日(土)のヴィッセル神戸vs.ファジアーノ岡山戦に出演決定！",
+      "caption": "",
+      "link": "https://www.nogizaka46.com/s/n46/news/detail/101016",
+      "pubdate": "2025/04/23 18:00:00",
+      "thumbnail": null,
+      "content": "2025年5月3日(土)に開催される明治安田J1リーグ第14節ヴィッセル神戸vs.ファジアーノ岡山（15:00キックオフ／ノエビアスタジアム神戸）に、昨シーズンに続き、神戸市出身の五百城茉央が出演いたします！<br /><br />当日は五百城と一緒にチームを応援しましょう！<br /><br />▼詳細はこちら<br /><a href=\"https://www.vissel-kobe.co.jp/news/article/24652.html\" target=\"_blank\">https://www.vissel-kobe.co.jp/news/article/24652.html</a>"
+    },
+    {
       "category": "meetandgreet",
       "code": "101013",
       "title": "38thシングル「ネーブルオレンジ」発売記念オンライン ミート＆グリート（個別トーク会）第10次～第12次応募受付決定！",
@@ -442,5 +452,5 @@
       "content": "2025年4月4日(金)～6日(日)に初開催される、新しい都市型フェス「CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2025」の模様を、各日YouTubeチャンネル「THE FIRST TAKE」から独占生配信することが決定しました。<br />ぜひチェックしてみてください！<br /><br />生配信日：4月4日(金)～4月6日(日)<br />配信チャンネル：YouTubeチャンネル「THE FIRST TAKE」<br />【CENTRAL STAGE】　<br /><a href=\"https://youtube.com/live/APAKe23FyWk\" target=\"_blank\">https://youtube.com/live/APAKe23FyWk</a><br />※乃木坂46の生配信は一部のみの配信になります。"
     }
   ],
-  "count": "42"
+  "count": "43"
 }
