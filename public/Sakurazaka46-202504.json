@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01662",
+      "title": "4月25日(金)8:20頃～ interfm「MUSIClock ＋」に大園玲・田村保乃がコメント出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01662",
+      "pubdate": "2025/04/24 21:00:00",
+      "tags": [
+        "50",
+        "69"
+      ],
+      "thumbnail": null,
+      "content": "4月25日(金)8:20頃～　interfm「MUSIClock ＋」に大園玲・田村保乃がコメント出演いたします。<br />是非お聴きください！<br /><br /><a href=\"https://www.interfm.co.jp/musiclock\">interfm「MUSIClock ＋」詳細はコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00502",
       "title": "櫻坂46 「5th TOUR 2025 “Addiction”」 福岡公演、 公式チケット・トレードが4/25(金) 18:00よりスタート！",
@@ -679,5 +693,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "61"
+  "count": "62"
 }
