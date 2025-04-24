@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100046",
+      "title": "『櫻坂46 四期生 Vlog「山川 宇衣』を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100046",
+      "pubdate": "2025/04/24 12:00:00",
+      "thumbnail": null,
+      "content": "櫻坂46 四期生9名の加入が決定！<br /><br />9人目は山川 宇衣(やまかわ うい) を、YouTubeチャンネル「櫻坂チャンネル」にて発表いたしました。<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/mPUN1Jh1XY0?si=fSPi703jWkX9GUkT\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />櫻坂46に、新たに加入した四期生9名に、ぜひご注目いただきたい。<br /><br />■櫻坂46 四期生 お披露目特設サイト<br /><a href=\"https://sakurazaka46.com/4th_generation\">https://sakurazaka46.com/4th_generation</a><br /><br />■櫻坂46 四期生 ティザームービー<br /><a href=\"https://youtu.be/vAPwbzBP810\">https://youtu.be/vAPwbzBP810</a>"
+    },
+    {
       "category": "release",
       "code": "R00447",
       "title": "2nd Album『Addiction』発売記念・パネル展示決定！",
@@ -659,5 +669,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "59"
+  "count": "60"
 }
