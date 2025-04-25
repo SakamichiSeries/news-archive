@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00149",
+      "title": "「5th TOUR 2025“Addiction”」の開催を記念して、キッチンカーがライブに合わせて登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/G00149",
+      "pubdate": "2025/04/25 14:00:00",
+      "thumbnail": null,
+      "content": "「5th TOUR 2025&ldquo;Addiction&rdquo;」の開催を記念して、<br />ドリンク・チュロス・オリジナルグッズを販売するキッチンカーがライブに合わせて登場！<br /><br />愛知公演：ポートメッセなごや 第1展示館　場外（D-2外）<br />■4月26日(土)　10:00 ～ 終演後30分程度<br />■4月27日(日)　10:00 ～ 終演後30分程度<br /><br />福岡公演：マリンメッセ福岡A館<br />■5月2日(金)　10:00 ～ 終演後30分程度<br />■5月3日(土・祝)　10:00 ～ 終演後30分程度<br /><br />広島公演：広島グリーンアリーナ<br />■5月17日(土)　10:00 ～ 終演後30分程度<br />■5月18日(日)　10:00 ～ 終演後30分程度<br /><br />※終演後販売は列が途切れ次第、終了いたします。<br />※東京ドーム・京セラドーム大阪については追ってお知らせいたします。<br /><br />ドリンク・チュロスや、オリジナルグッズを販売いたします。<br /><br />＜お会計方法＞<br />クレジットカード・QUICPay・PayPay・d払い・auPAY・楽天ペイ<br />現金・交通系ICはご利用いただけません。<br /><br />※キッチンカーはご予約なしでご利用頂けます。<br /><br /><img src=\"https://sakurazaka46.com/files/14/foodkc.jpg\" alt=\"\" width=\"3551\" height=\"5000\" /><br /><img src=\"https://sakurazaka46.com/files/14/goodskc.jpg\" alt=\"\" width=\"3551\" height=\"5000\" /><br /><br /><br />お客様のご来店を心よりお待ちしております。<br /><br />▼特設サイト<br /><a href=\"https://www.spacetimes.co.jp/sakurazaka46_cafe2025/\">https://www.spacetimes.co.jp/sakurazaka46_cafe2025/</a>"
+    },
+    {
       "category": "media",
       "code": "M01656",
       "title": "4月27日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に田村保乃が出演！",
@@ -726,5 +736,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "65"
+  "count": "66"
 }
