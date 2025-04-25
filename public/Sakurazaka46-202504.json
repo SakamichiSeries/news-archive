@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01663",
+      "title": "4月26日(土)、27日(日)日刊スポーツ特別号「田村保乃×サントリー クラフトボス 世界のTEA」を愛知公演の会場限定で配布決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01663",
+      "pubdate": "2025/04/25 20:00:00",
+      "tags": [
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "「5th TOUR 2025&ldquo;Addiction&rdquo;」開催を記念して、日刊スポーツ特別号「田村保乃&times;サントリー クラフトボス 世界のTEA」を愛知公演の会場限定で配布が決定いたしました。<br /><br />配布時間：4月26日(土)、27日(日)13時～開演まで<br />配布場所：「日刊スポーツ」ブース<br />※各日なくなり次第配布終了<br />※お1人様1枚とさせていただきます<br /><br /><a href=\"https://twitter.com/sakamichinikkan\">日刊スポーツ「坂道の火曜日」公式Xはコチラ</a>"
+    },
+    {
       "category": "goods",
       "code": "G00149",
       "title": "「5th TOUR 2025“Addiction”」の開催を記念して、キッチンカーがライブに合わせて登場！",
@@ -769,5 +782,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "66"
+  "count": "67"
 }
