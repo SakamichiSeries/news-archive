@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00448",
+      "title": "「Addiction」MUSIC VIDEO公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00448",
+      "pubdate": "2025/04/27 21:00:00",
+      "tags": [
+        "2nd_album"
+      ],
+      "thumbnail": null,
+      "content": "<span>2nd Album収録の新曲「Addiction」のMUSIC VIDEOを公開しました！</span><span>是非ご覧ください！</span><br /><br /><span>■櫻坂46『Addiction』MUSIC VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/ReuFa_D1Vok\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
+    },
+    {
       "category": "media",
       "code": "M01663",
       "title": "4月26日(土)、27日(日)日刊スポーツ特別号「田村保乃×サントリー クラフトボス 世界のTEA」を愛知公演の会場限定で配布決定！",
@@ -782,5 +795,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "67"
+  "count": "68"
 }
