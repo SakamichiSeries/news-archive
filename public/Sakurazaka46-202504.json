@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01661",
+      "title": "4月30日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に遠藤理子が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01661",
+      "pubdate": "2025/04/28 13:00:00",
+      "tags": [
+        "60"
+      ],
+      "thumbnail": null,
+      "content": "4月30日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に遠藤理子が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.asahi.co.jp/yodan/\">朝日放送テレビ「これ余談なんですけど・・・」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01660",
       "title": "「blt graph.」vol.111（4月30日(水)発売）に谷口愛季が登場！",
       "caption": "",
@@ -20,6 +33,10 @@
       "caption": "",
       "link": "https://sakurazaka46.com/s/s46/news/detail/M01665",
       "pubdate": "2025/04/28 11:30:00",
+      "tags": [
+        "56",
+        "62"
+      ],
       "thumbnail": null,
       "content": "FM AICHIにて毎週土曜12:30から放送されている「Menicon Music Contact」の2025年5月度マンスリー・アーティストに幸阪茉里乃と小島凪紗の出演が決定いたしました！<br />ぜひお聴きください！<br /><br /><a href=\"https://x.com/menicon807\">FM AICHI「Menicon Music Contact」公式Xはコチラ</a>"
     },
@@ -818,5 +835,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "70"
+  "count": "71"
 }
