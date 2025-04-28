@@ -16,6 +16,7 @@ export interface NewsItem {
 }
 
 const App: React.FC = () => {
+  const [menuOpen, setMenuOpen] = useState(true);
   const [newsList, setNewsList] = useState<NewsItem[]>([]);
   const [selectedNews, setSelectedNews] = useState<NewsItem | null>(null);
 
@@ -108,47 +109,58 @@ const App: React.FC = () => {
   // 处理点击新闻
   const handleSelectNews = (news: NewsItem) => {
     setSelectedNews(news);
+    setMenuOpen(!menuOpen)
     window.location.hash = `${group}-${year}${String(month).padStart(2, "0")}-${news.code}`; // 更新 URL 中的 hash
   };
 
   return (
     <div className="responsive-layout">
-      <div className="sidebar">
-        <div className="sticky-filters">
-          <div className="group-selector">
-            <select
-              value={group}
-              onChange={(e) => setGroup(e.target.value)}
-              className="group-dropdown"
-            >
-              {Object.entries(groupMap).map(([letter, groupName]) => (
-                <option key={letter} value={groupName}>
-                  {groupName}
-                </option>
-              ))}
-            </select>
-          </div>
-          <div className="filters">
-            <select value={year} onChange={(e) => setYear(parseInt(e.target.value))}>
-              {Array.from({ length: new Date().getFullYear() - 2010 + 1 }, (_, i) => 2010 + i)
-                .map((yr) => (
-                  <option key={yr} value={yr}>
-                    {yr}
+      <button className={`menu-toggle ${menuOpen ? "menu-open" : ""}`} onClick={() => setMenuOpen(!menuOpen)}>
+        ☰
+      </button>
+      <div className={`mobile-title ${menuOpen ? "menu-open" : ""}`}>
+        {group}<br></br>{year}年{month}月
+      </div>
+      <div className={`sidebar ${menuOpen ? "menu-open" : ""}`}>
+        <div className="sticky-filters-container">
+          <div className="sticky-filters">
+            <div className="group-selector">
+              <select
+                value={group}
+                onChange={(e) => setGroup(e.target.value)}
+                className="group-dropdown"
+              >
+                {Object.entries(groupMap).map(([letter, groupName]) => (
+                  <option key={letter} value={groupName}>
+                    {groupName}
                   </option>
                 ))}
-            </select>
-            <select value={month} onChange={(e) => setMonth(parseInt(e.target.value))}>
-              {Array.from({ length: 12 }, (_, i) => i + 1).map((m) => (
-                <option key={m} value={m}>
-                  {m}月
-                </option>
-              ))}
-            </select>
+              </select>
+            </div>
+            <div className="filters">
+              <select value={year} onChange={(e) => setYear(parseInt(e.target.value))}>
+                {Array.from({ length: new Date().getFullYear() - 2010 + 1 }, (_, i) => 2010 + i)
+                  .map((yr) => (
+                    <option key={yr} value={yr}>
+                      {yr}年
+                    </option>
+                  ))}
+              </select>
+              <select value={month} onChange={(e) => setMonth(parseInt(e.target.value))}>
+                {Array.from({ length: 12 }, (_, i) => i + 1).map((m) => (
+                  <option key={m} value={m}>
+                    {m}月
+                  </option>
+                ))}
+              </select>
+            </div>
           </div>
         </div>
-        <NewsList newsList={newsList} onSelect={handleSelectNews} />
+        <div className="news-list">
+          <NewsList newsList={newsList} onSelect={handleSelectNews} />
+        </div>
       </div>
-      <div className="detail">
+      <div className={`detail ${menuOpen ? "menu-open" : ""}`}>
         <NewsDetail news={selectedNews} />
       </div>
     </div>
