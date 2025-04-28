@@ -1,6 +1,29 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01660",
+      "title": "「blt graph.」vol.111（4月30日(水)発売）に谷口愛季が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01660",
+      "pubdate": "2025/04/28 12:00:00",
+      "tags": [
+        "63"
+      ],
+      "thumbnail": null,
+      "content": "「blt graph.」vol.111（4月30日(水)発売）に谷口愛季が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://bltweb.jp/\">「blt graph.」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01665",
+      "title": "FM AICHI「Menicon Music Contact」の5月のマンスリー・アーティストに幸阪茉里乃・小島凪紗が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01665",
+      "pubdate": "2025/04/28 11:30:00",
+      "thumbnail": null,
+      "content": "FM AICHIにて毎週土曜12:30から放送されている「Menicon Music Contact」の2025年5月度マンスリー・アーティストに幸阪茉里乃と小島凪紗の出演が決定いたしました！<br />ぜひお聴きください！<br /><br /><a href=\"https://x.com/menicon807\">FM AICHI「Menicon Music Contact」公式Xはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00448",
       "title": "「Addiction」MUSIC VIDEO公開！",
@@ -795,5 +818,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "68"
+  "count": "70"
 }
