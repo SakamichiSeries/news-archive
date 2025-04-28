@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "101020",
+      "title": "6期生×メディアとのコラボレーション企画実施！",
+      "caption": "",
+      "link": "https://www.nogizaka46.com/s/n46/news/detail/101020",
+      "pubdate": "2025/04/28 15:00:00",
+      "thumbnail": null,
+      "content": "乃木坂46 6期生とメディアとのコラボレーション特別企画を実施いたします。<br />下記の参加メディアにて、6期生の中から特別賞として選ばれたメンバーが、各メディアに登場いたします。<br />ぜひ、チェックしてみてください！<br /><br /><br />＜参加メディア＞<br />anan（マガジンハウス）<br />andGIRL（DONUTS）<br />ar（主婦と生活社）<br />bis（光文社）<br />CanCam（小学館）<br />MEN'S NON-NO（集英社）<br />MORE（集英社）<br />non-no（集英社）<br />Ray（DONUTS）<br />Seventeen（集英社）<br />sweet（宝島社）<br />ViVi（講談社）<br />美人百花（角川春樹事務所）<br />B.L.T.（東京ニュース通信社）<br />BOMB（ワン・パブリッシング）<br />BRODY（白夜書房）<br />BUBKA（白夜書房）<br />EX大衆（双葉社）<br />FLASH（光文社）<br />FRIDAY（講談社）<br />アップトゥボーイ（ワニブックス）<br />坂道の火曜日（日刊スポーツ）<br />週刊プレイボーイ（集英社）<br />少年サンデー（小学館）<br />少年チャンピオン（秋田書店）<br />少年マガジン（講談社）<br />ヤングジャンプ（集英社）<br />ヤングマガジン（講談社）<br /><br />※特別賞メンバーについては、各メディアの掲載をお待ちください。"
+    },
+    {
       "category": "live",
       "code": "101019",
       "title": "「13th YEAR BIRTHDAY LIVE」4月29日(火・祝)12:00～より会場チケット一般発売スタート！",
@@ -518,5 +528,5 @@
       "content": "2025年4月4日(金)～6日(日)に初開催される、新しい都市型フェス「CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2025」の模様を、各日YouTubeチャンネル「THE FIRST TAKE」から独占生配信することが決定しました。<br />ぜひチェックしてみてください！<br /><br />生配信日：4月4日(金)～4月6日(日)<br />配信チャンネル：YouTubeチャンネル「THE FIRST TAKE」<br />【CENTRAL STAGE】　<br /><a href=\"https://youtube.com/live/APAKe23FyWk\" target=\"_blank\">https://youtube.com/live/APAKe23FyWk</a><br />※乃木坂46の生配信は一部のみの配信になります。"
     }
   ],
-  "count": "49"
+  "count": "50"
 }
