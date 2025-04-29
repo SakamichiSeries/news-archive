@@ -30,7 +30,7 @@ const NewsDetail: React.FC<NewsDetailProps> = ({ news }) => {
       <div className="news-content" dangerouslySetInnerHTML={{ __html: news.content }} />
       {news.thumbnail && <img src={news.thumbnail} alt={news.title} />}
       <br></br><br></br><br></br>
-      <a href={news.link} target="_blank" rel="noopener noreferrer">全文を読む</a>
+      <a href={news.link} target="_blank" rel="noopener noreferrer">公式サイトで開く</a>
       <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
     </div>
   );

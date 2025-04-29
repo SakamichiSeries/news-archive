@@ -26,6 +26,12 @@ const App: React.FC = () => {
     S: "Sakurazaka46",
     H: "Hinatazaka46",
   };
+  const kanji: { [key: string]: string } = {
+    Nogizaka46: "乃木坂46",
+    Keyakizaka46: "欅坂46",
+    Sakurazaka46: "櫻坂46",
+    Hinatazaka46: "日向坂46",
+  };
 
   let init_year = 0
   let init_month = 0
@@ -120,7 +126,7 @@ const App: React.FC = () => {
         ☰
       </button>
       <div className={`mobile-title ${menuOpen ? "menu-open" : ""}`}>
-        {group}<br></br>{year}年{month}月
+        {kanji[group]}<br></br>{year}年{month}月
       </div>
       <div className={`sidebar ${menuOpen ? "menu-open" : ""}`}>
         <div className="sticky-filters-container">
@@ -133,7 +139,7 @@ const App: React.FC = () => {
               >
                 {Object.entries(groupMap).map(([letter, groupName]) => (
                   <option key={letter} value={groupName}>
-                    {groupName}
+                    {kanji[groupName]}
                   </option>
                 ))}
               </select>

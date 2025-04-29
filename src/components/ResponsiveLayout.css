@@ -1,5 +1,7 @@
-body, html {
-  height: 100dvh; /* 动态视窗高度，自动适应地址栏显示/隐藏 */
+body,
+html {
+  height: 100dvh;
+  /* 动态视窗高度，自动适应地址栏显示/隐藏 */
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -232,5 +234,9 @@ body {
     width: 100vw;
     margin-top: 120px;
 
+  }
+
+  .list-mobile-extra-space {
+    margin-bottom: 120px;
   }
 }

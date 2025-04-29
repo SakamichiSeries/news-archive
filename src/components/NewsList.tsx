@@ -22,6 +22,7 @@ const NewsList: React.FC<NewsListProps> = ({ newsList, onSelect }) => {
           
         </div>
       ))}
+      <div className="list-mobile-extra-space"></div>
     </div>
   );
 };
