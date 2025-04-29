@@ -18,7 +18,7 @@ interface NewsDetailProps {
 
 const NewsDetail: React.FC<NewsDetailProps> = ({ news }) => {
   if (!news) {
-    return <div className="news-detail">ニュースを一つ選んで詳細を確認してください。</div>;
+    return <div className="news-detail">ニュースを一つ選んで見てください。</div>;
   }
 
   return (
@@ -29,7 +29,9 @@ const NewsDetail: React.FC<NewsDetailProps> = ({ news }) => {
       {/* 使用 dangerouslySetInnerHTML 渲染 HTML 内容 */}
       <div className="news-content" dangerouslySetInnerHTML={{ __html: news.content }} />
       {news.thumbnail && <img src={news.thumbnail} alt={news.title} />}
+      <br></br><br></br><br></br>
       <a href={news.link} target="_blank" rel="noopener noreferrer">全文を読む</a>
+      <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
     </div>
   );
 };

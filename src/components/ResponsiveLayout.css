@@ -1,7 +1,15 @@
+body, html {
+  height: 100dvh; /* 动态视窗高度，自动适应地址栏显示/隐藏 */
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
 /* 栅格布局 */
 .responsive-layout {
   display: flex;
-  height: 100vh;
+  height: 100%;
+  overflow-y: auto;
   width: 100%;
 }
 
@@ -159,8 +167,10 @@ body {
   position: fixed;
   right: 16px;
   top: 12px;
+  margin-top: 36px;
+  padding-top: 0;
+  padding-bottom: 0;
   background: none;
-  padding-left: auto;
   border-radius: 5px;
   font-size: 32px;
   color: #213547;
@@ -190,6 +200,9 @@ body {
 
   .menu-toggle {
     display: block;
+    outline: none !important;
+    box-shadow: none !important;
+    border: none !important;
   }
 
   .sidebar {

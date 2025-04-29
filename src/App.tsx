@@ -79,6 +79,7 @@ const App: React.FC = () => {
             setSelectedNews(news || null);
           })
           .catch((error) => console.error("Error fetching JSON:", error));
+        setMenuOpen(!menuOpen)
       }
     }
   }, []); // 页面首次加载时
