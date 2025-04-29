@@ -29,9 +29,9 @@ const NewsDetail: React.FC<NewsDetailProps> = ({ news }) => {
       {/* 使用 dangerouslySetInnerHTML 渲染 HTML 内容 */}
       <div className="news-content" dangerouslySetInnerHTML={{ __html: news.content }} />
       {news.thumbnail && <img src={news.thumbnail} alt={news.title} />}
-      <br></br><br></br><br></br>
+      <div className="mobile-extra-space"></div>
       <a href={news.link} target="_blank" rel="noopener noreferrer">公式サイトで開く</a>
-      <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+      <div className="mobile-extra-space"></div>
     </div>
   );
 };
