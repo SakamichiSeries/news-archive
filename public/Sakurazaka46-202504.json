@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01666",
+      "title": "4月30日(水)8:00～TBS「ラヴィット！」に守屋麗奈が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01666",
+      "pubdate": "2025/04/29 12:00:00",
+      "tags": [
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "4月30日(水)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br /><span>※水曜ラヴィット！ファミリーの小島凪紗も出演いたします。</span><br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01664",
       "title": "5月5日(月)18:30～TBS系「CDTVライブ！ライブ！」に出演決定！",
       "caption": "",
@@ -878,5 +891,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "75"
+  "count": "76"
 }
