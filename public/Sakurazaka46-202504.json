@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01669",
+      "title": "5月2日(金)21:30～配信開始のABEMA「しくじり先生 俺みたいになるな!!」に大園玲が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01669",
+      "pubdate": "2025/04/30 14:00:00",
+      "tags": [
+        "54"
+      ],
+      "thumbnail": null,
+      "content": "5月2日(金)21:30～配信開始のABEMA「しくじり先生 俺みたいになるな!!」に大園玲が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/shikujiri/\">「しくじり先生 俺みたいになるな!!」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00449",
       "title": "2nd Album『Addiction』配信開始！",
@@ -915,5 +928,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "78"
+  "count": "79"
 }
