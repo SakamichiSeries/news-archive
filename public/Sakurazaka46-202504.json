@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00449",
+      "title": "2nd Album『Addiction』配信開始！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00449",
+      "pubdate": "2025/04/30 12:00:00",
+      "thumbnail": null,
+      "content": "<span>2nd Album『Addiction』の<span>ストリーミング＆ダウンロードがスタートし</span>ました！<br /></span><span>是非チェックしてください！<br /><br /><a href=\"https://sakurazaka46.lnk.to/Addiction_complete\"><strong>■『Addiction』各種<span>ストリーミング＆ダウンロード</span>はコチラ</strong></a><br /><br /><img src=\"https://sakurazaka46.com/files/14/S46%20Release/2ndAL%20Addiction/_250325_sakura_%E9%85%8D%E4%BF%A1%E7%94%A8%E3%82%B8%E3%83%A3%E3%82%B1%E5%86%99.jpg\" alt=\"\" width=\"800\" height=\"800\" /><br /></span>"
+    },
+    {
       "category": "media",
       "code": "M01668",
       "title": "「櫻坂チャンネル」にて「【てんカメ動画】鬼才 山﨑天が守屋麗奈をデートで可愛くプロデュース♡」を公開！",
@@ -905,5 +915,5 @@
       "content": "「櫻坂チャンネル」にて「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/arDk7D5_rRE\">櫻坂チャンネル「【Vlog】中嶋優月のアイドル&大学生の1日 東京&harr;福岡【大学生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/arDk7D5_rRE?si=S2xRFXj0l_hmCmiO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "77"
+  "count": "78"
 }
