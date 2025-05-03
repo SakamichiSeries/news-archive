@@ -2,6 +2,22 @@
   "news": [
     {
       "category": "media",
+      "code": "M01673",
+      "title": "5月4日(月)11:00～UNI'S ON AIR公式YouTubeチャンネルにてプレミア公開の「UNI'S ON AIR Véautリリース直前特番！」に田村保乃、山﨑天、村井優、村山美羽が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01673",
+      "pubdate": "2025/05/03 19:56:27",
+      "tags": [
+        "46",
+        "51",
+        "67",
+        "68"
+      ],
+      "thumbnail": null,
+      "content": "5月4日(月)11:00～UNI'S ON AIR公式YouTubeチャンネルにてプレミア公開の「UNI'S ON AIR V&eacute;autリリース直前特番！」に田村保乃、山﨑天、村井優、村山美羽が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/qk5L5ZtYpD0\">UNI'S ON AIR公式YouTubeチャンネル「UNI'S ON AIR V&eacute;autリリース直前特番！」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/qk5L5ZtYpD0?si=Jizy7ex1wxAe5u88\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M01671",
       "title": "2nd Album収録の新曲「Addiction」のSpotify Canvasシェアキャンペーンの実施が決定！",
       "caption": "",
@@ -31,5 +47,5 @@
       "content": "櫻坂46 四期生の撮り下ろし写真と手書きプロフィールを、本日5月1日(木)から毎日正午に公開いたします！<br /><br />5月1日(月)～5日(月)までの5日間、四期生 お披露目特設サイトにて公開します。<br /><br />■公開スケジュール<br />5月1日(木)：松本和子、稲熊ひな<br />5月2日(金)：佐藤愛桜、中川智尋<br />5月3日(土)：目黒陽色、浅井恋乃未<br />5月4日(日)：山田桃実、勝又春<br />5月5日(月)：山川宇衣<br /><br />■櫻坂46 四期生 お披露目特設サイト<br /><a href=\"https://sakurazaka46.com/4th_generation\">https://sakurazaka46.com/4th_generation<br /><img src=\"https://sakurazaka46.com/files/14/SKZ_4th_bunner_19201080_0424.jpg\" alt=\"\" width=\"1920\" height=\"1080\" /><br /></a>"
     }
   ],
-  "count": "3"
+  "count": "4"
 }
