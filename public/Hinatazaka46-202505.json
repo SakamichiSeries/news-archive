@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100172",
+      "title": "高瀬愛奈のプロフィールページとブログのクローズに関しまして",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100172",
+      "pubdate": "2025/05/05 15:00:00",
+      "thumbnail": null,
+      "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />高瀬愛奈のプロフィールページとブログを、2025年5月31日(土) 正午にクローズさせていただくこととなりました。<br /><br />5月31日(土) 正午までは、以下のURLよりご覧頂くことが出来ます。<br /><br /><a href=\"https://www.hinatazaka46.com/s/official/artist/9\">https://www.hinatazaka46.com/s/official/artist/9</a><br /><br />今まであたたかいご声援をいただき、ありがとうございました。<br /><br />今後とも日向坂46をよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
+    },
+    {
       "category": "release",
       "code": "R00403",
       "title": "14thシングル『Love yourself!』CDショップチェーン別先着特典絵柄決定!!",
@@ -74,5 +84,5 @@
       "content": "日向坂46 五期生のサイリウムカラーが決定いたしました！<br /><br />大田美月 サクラピンク&times;ピンク<br />大野愛実 レッド&times;レッド<br />片山紗希 パステルブルー&times;パステルブルー<br />蔵盛妃那乃 サクラピンク&times;レッド<br />坂井新奈 ホワイト&times;ホワイト<br />佐藤優羽 エメラルドグリーン&times;エメラルドグリーン<br />下田衣珠季 パステルブルー&times;エメラルドグリーン<br />高井俐香 パープル&times;イエロー<br />鶴崎仁香 イエロー&times;オレンジ<br />松尾桜 サクラピンク&times;ホワイト<br /><br />日向坂46 五期生「おもてなし会」特設サイトは<a href=\"https://www.hinatazaka46.com/s/official/page/5th_omotenashi\">コチラ</a>"
     }
   ],
-  "count": "7"
+  "count": "8"
 }
