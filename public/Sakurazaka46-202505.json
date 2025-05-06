@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100050",
+      "title": "５月12日(月)19:00～四期生ドキュメンタリー『櫻坂46 四期生物語 ーいま、わたしたちに、できることー』を配信開始！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100050",
+      "pubdate": "2025/05/06 12:00:00",
+      "thumbnail": null,
+      "content": "<p>５月12日(月)19:00～「櫻坂チャンネル」にて四期生ドキュメンタリー『櫻坂46 四期生物語 ーいま、わたしたちに、できることー』を配信いたします。また、配信に先駆けてティザームービーを公開いたしました。<br /><br />櫻坂46に、新たに加入した四期生9名に、ぜひご注目ください。<br /><br /><a href=\"https://www.youtube.com/watch?v=jXgI0QqMP-Q\">「四期生ドキュメンタリー『櫻坂46 四期生物語 ーいま、わたしたちに、できることー』ティザームービー」はコチラ<br /></a></p><p><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/jXgI0QqMP-Q?si=212npNfyiwWmyNpw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>"
+    },
+    {
       "category": "media",
       "code": "M01672",
       "title": "日刊スポーツ「坂道の火曜日」（5月6日(火)発刊）に小島凪紗が登場！",
@@ -70,5 +80,5 @@
       "content": "櫻坂46 四期生の撮り下ろし写真と手書きプロフィールを、本日5月1日(木)から毎日正午に公開いたします！<br /><br />5月1日(月)～5日(月)までの5日間、四期生 お披露目特設サイトにて公開します。<br /><br />■公開スケジュール<br />5月1日(木)：松本和子、稲熊ひな<br />5月2日(金)：佐藤愛桜、中川智尋<br />5月3日(土)：目黒陽色、浅井恋乃未<br />5月4日(日)：山田桃実、勝又春<br />5月5日(月)：山川宇衣<br /><br />■櫻坂46 四期生 お披露目特設サイト<br /><a href=\"https://sakurazaka46.com/4th_generation\">https://sakurazaka46.com/4th_generation<br /><img src=\"https://sakurazaka46.com/files/14/SKZ_4th_bunner_19201080_0424.jpg\" alt=\"\" width=\"1920\" height=\"1080\" /><br /></a>"
     }
   ],
-  "count": "6"
+  "count": "7"
 }
