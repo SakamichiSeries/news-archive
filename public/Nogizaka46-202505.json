@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "radio",
+      "code": "101036",
+      "title": "岡本姫奈が、東海ラジオの新番組「乃木坂46　岡本姫奈のおかひな時間」にレギュラー出演決定！",
+      "caption": "",
+      "link": "https://www.nogizaka46.com/s/n46/news/detail/101036",
+      "pubdate": "2025/05/07 12:00:00",
+      "thumbnail": null,
+      "content": "岡本姫奈が、2025年5月10日（土）より、東海ラジオで新番組「乃木坂46　岡本姫奈のおかひな時間」にレギュラー出演することが決定いたしました。<br />放送は、毎週土曜日のAM11:30〜12:00です。<br /><br />ぜひ、お聴きください！<br /><br /><br />■東海ラジオ「乃木坂46　岡本姫奈のおかひな時間」<br />放送日：毎週土曜日　AM11:30〜12:00<br />放送局：東海ラジオ<br />出演者：岡本姫奈"
+    },
+    {
       "category": "live",
       "code": "101034",
       "title": "「13th YEAR BIRTHDAY LIVE」配信チケット販売スタート！",
@@ -100,5 +110,5 @@
       "content": "2025年5月17日(土)、18日(日)に開催する「乃木坂46 13th YEAR BIRTHDAY LIVE」のオンライン配信が決定いたしました！<br />5月6日(火)正午12時より、配信チケットの販売がスタートいたします。<br /><br />リピート配信もございますので、会場にお越しなる方も、当日都合が合わない方も、ぜひ配信でライブをお楽しみください！<br />詳細は後日お知らせいたしますので、ぜひお見逃しなく！<br /><br /><strong>■乃木坂46 13th YEAR BIRTHDAY LIVE</strong><br />【日程・時間】<br /><strong>&lt;生配信&gt;</strong><br /><strong>DAY-1 5月17日(土) 配信開始16:30/開演17:30</strong><br /><strong>DAY-2 5月18日(日) 配信開始16:30/開演17:30</strong><br /><br /><strong>&lt;リピート配信&gt; (1回のみ)</strong><br /><strong>DAY-1 5月24日(土) 配信開始18:00/開演19:00</strong><br /><strong>DAY-2 5月25日(日) 配信開始18:00/開演19:00</strong><br /><br />＜出演＞<br /><strong>乃木坂46</strong><br />※中村麗乃はスケジュールの都合により休演いたします。<br />※出演者は予告なく変更になる場合がございますので、予めご了承ください。<br /><br />【料金】<br /><strong>■一般視聴チケット：4,600円(税込)</strong><br /><strong>発売期間：5月6日(火)12:00～各日リピート配信の開演時間まで</strong><br />配信プラットフォームの詳細や券売ページのご案内は、発売時にお知らせいたします。<br /><br /><br />▼13th YEAR BIRTHDAY LIVE 特設サイト<br /><a href=\"https://www.nogizaka46.com/s/n46/page/13th_birthday_live\" target=\"_blank\">https://www.nogizaka46.com/s/n46/page/13th_birthday_live</a><br /><br /><img src=\"https://www.nogizaka46.com/files/46/news/101023_1.jpg\" alt=\"\" width=\"1444\" height=\"812\" />"
     }
   ],
-  "count": "9"
+  "count": "10"
 }
