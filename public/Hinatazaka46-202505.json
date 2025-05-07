@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02426",
+      "title": "5月17日(土)23:00～NHK総合「Venue101」に出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02426",
+      "pubdate": "2025/05/07 17:30:00",
+      "thumbnail": null,
+      "content": "5月17日(土)23:00～NHK総合「Venue101」に出演が決定しました！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.nhk.jp/p/venue101/ts/WX1N9WR8GY/\" target=\"_blank\">NHK「Venue101」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00406",
       "title": "14thシングル『Love yourself!』リリース記念・LINE MUSICプレゼントキャンペーン実施決定！",
@@ -104,5 +114,5 @@
       "content": "日向坂46 五期生のサイリウムカラーが決定いたしました！<br /><br />大田美月 サクラピンク&times;ピンク<br />大野愛実 レッド&times;レッド<br />片山紗希 パステルブルー&times;パステルブルー<br />蔵盛妃那乃 サクラピンク&times;レッド<br />坂井新奈 ホワイト&times;ホワイト<br />佐藤優羽 エメラルドグリーン&times;エメラルドグリーン<br />下田衣珠季 パステルブルー&times;エメラルドグリーン<br />高井俐香 パープル&times;イエロー<br />鶴崎仁香 イエロー&times;オレンジ<br />松尾桜 サクラピンク&times;ホワイト<br /><br />日向坂46 五期生「おもてなし会」特設サイトは<a href=\"https://www.hinatazaka46.com/s/official/page/5th_omotenashi\">コチラ</a>"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
