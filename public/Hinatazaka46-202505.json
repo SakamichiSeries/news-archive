@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100173",
+      "title": "「日向坂ちゃんねる」にて「【日向坂バレー部】『来たれ！初のバレーボールイベント』」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100173",
+      "pubdate": "2025/05/11 21:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【日向坂バレー部】『来たれ！初のバレーボールイベント』」を公開いたしました！<br /><br />「2024-25 大同生命SV.LEAGUE WOMEN CHAMPIONSHIP Finals GAME1」に、日向坂バレー部から、河田陽菜・小坂菜緒・髙橋未来虹の3名がイベント出演してきました！<br /><br />元バレーボール日本代表・迫田さおりさんにご指導いただき、公開練習を行いました！<br /><br />イベントの様子や楽屋トークをぜひご覧ください♪<br /><br /><a href=\"https://youtu.be/47XTmSdRnRA\">https://youtu.be/47XTmSdRnRA<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/47XTmSdRnRA\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "event",
       "code": "E00694",
       "title": "「五期生おもてなし会」・「BRAND NEW LIVE」国立代々木競技場第一体育館 公演入場に関する注意事項",
@@ -170,5 +180,5 @@
       "content": "日向坂46 五期生のサイリウムカラーが決定いたしました！<br /><br />大田美月 サクラピンク&times;ピンク<br />大野愛実 レッド&times;レッド<br />片山紗希 パステルブルー&times;パステルブルー<br />蔵盛妃那乃 サクラピンク&times;レッド<br />坂井新奈 ホワイト&times;ホワイト<br />佐藤優羽 エメラルドグリーン&times;エメラルドグリーン<br />下田衣珠季 パステルブルー&times;エメラルドグリーン<br />高井俐香 パープル&times;イエロー<br />鶴崎仁香 イエロー&times;オレンジ<br />松尾桜 サクラピンク&times;ホワイト<br /><br />日向坂46 五期生「おもてなし会」特設サイトは<a href=\"https://www.hinatazaka46.com/s/official/page/5th_omotenashi\">コチラ</a>"
     }
   ],
-  "count": "16"
+  "count": "17"
 }
