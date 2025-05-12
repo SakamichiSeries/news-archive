@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "shakehands",
+      "code": "S00192",
+      "title": "「四期生ドキュメンタリー『櫻坂46 四期生物語 ーいま、わたしたちに、できることー』Episode 01」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/S00192",
+      "pubdate": "2025/05/12 19:00:00",
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「四期生ドキュメンタリー『櫻坂46 四期生物語 ーいま、わたしたちに、できることー』Episode 01」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/FhanHuEsLq0\">櫻坂チャンネル「四期生ドキュメンタリー『櫻坂46 四期生物語 ーいま、わたしたちに、できることー』Episode 01」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/FhanHuEsLq0?si=Nm-JyjudtIstCR5d\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "event",
       "code": "E00505",
       "title": "櫻坂46四期生「First Showcase」、オフィシャル先行が5/10(土)12:00よりスタート！",
@@ -159,5 +169,5 @@
       "content": "櫻坂46 四期生の撮り下ろし写真と手書きプロフィールを、本日5月1日(木)から毎日正午に公開いたします！<br /><br />5月1日(月)～5日(月)までの5日間、四期生 お披露目特設サイトにて公開します。<br /><br />■公開スケジュール<br />5月1日(木)：松本和子、稲熊ひな<br />5月2日(金)：佐藤愛桜、中川智尋<br />5月3日(土)：目黒陽色、浅井恋乃未<br />5月4日(日)：山田桃実、勝又春<br />5月5日(月)：山川宇衣<br /><br />■櫻坂46 四期生 お披露目特設サイト<br /><a href=\"https://sakurazaka46.com/4th_generation\">https://sakurazaka46.com/4th_generation<br /><img src=\"https://sakurazaka46.com/files/14/SKZ_4th_bunner_19201080_0424.jpg\" alt=\"\" width=\"1920\" height=\"1080\" /><br /></a>"
     }
   ],
-  "count": "13"
+  "count": "14"
 }
