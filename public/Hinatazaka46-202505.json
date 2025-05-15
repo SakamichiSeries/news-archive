@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "release",
+      "code": "R00404",
+      "title": "14thシングル『Love yourself!』発売記念・パネル展示決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00404",
+      "pubdate": "2025/05/15 10:00:00",
+      "thumbnail": null,
+      "content": "5月21日(水)発売、14thシングル『Love yourself!』の発売を記念して、全国のCD SHOPでパネル展示を行うことが決定いたしました！<br />是非お近くのCDショップ・量販店に足を運んでみてください！<br /><br />■パネル展示実施店舗は<a href=\"https://www.sonymusic.co.jp/Music/Info/hinatazaka46/shoplist/250521-2/\">コチラ</a><br /><br />《開催期間》<br />2025年5月20日(火)以降掲出開始<br />※店舗によって掲出開始日が異なります。必ず各店舗の情報をご確認ください。<br />※予告なく、店舗内での展示場所や開催期日の変更がある場合がございます。あらかじめご了承ください。<br />※店舗によって展示点数が異なります。あらかじめご了承ください。"
+    },
+    {
+      "category": "release",
       "code": "R00412",
       "title": "14thシングル『Love yourself!』発売記念・各CDショップチェーンにてコラボレーション展開決定！",
       "caption": "",
@@ -240,5 +250,5 @@
       "content": "日向坂46 五期生のサイリウムカラーが決定いたしました！<br /><br />大田美月 サクラピンク&times;ピンク<br />大野愛実 レッド&times;レッド<br />片山紗希 パステルブルー&times;パステルブルー<br />蔵盛妃那乃 サクラピンク&times;レッド<br />坂井新奈 ホワイト&times;ホワイト<br />佐藤優羽 エメラルドグリーン&times;エメラルドグリーン<br />下田衣珠季 パステルブルー&times;エメラルドグリーン<br />高井俐香 パープル&times;イエロー<br />鶴崎仁香 イエロー&times;オレンジ<br />松尾桜 サクラピンク&times;ホワイト<br /><br />日向坂46 五期生「おもてなし会」特設サイトは<a href=\"https://www.hinatazaka46.com/s/official/page/5th_omotenashi\">コチラ</a>"
     }
   ],
-  "count": "23"
+  "count": "24"
 }
