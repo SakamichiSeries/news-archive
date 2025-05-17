@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100174",
+      "title": "「日向坂ちゃんねる」にて「【メイクポーチの中身】日向坂46の愛用コスメ紹介してみた！」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100174",
+      "pubdate": "2025/05/17 21:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【メイクポーチの中身】日向坂46の愛用コスメ紹介してみた！」を公開いたしました！<br /><br />二期生・河田陽菜と四期生・藤嶌果歩が、愛用しているメイクポーチの中身を紹介！<br /><br />メイクのこだわりポイントも解説しました！<br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/l2GoUCpicq4\">https://youtu.be/l2GoUCpicq4</a><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/l2GoUCpicq4\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "event",
       "code": "E00696",
       "title": " BRAND NEW LIVE 2025 「OVER THE RAINBOW」一般発売が5月17日(土)12:00よりスタート！",
@@ -310,5 +320,5 @@
       "content": "日向坂46 五期生のサイリウムカラーが決定いたしました！<br /><br />大田美月 サクラピンク&times;ピンク<br />大野愛実 レッド&times;レッド<br />片山紗希 パステルブルー&times;パステルブルー<br />蔵盛妃那乃 サクラピンク&times;レッド<br />坂井新奈 ホワイト&times;ホワイト<br />佐藤優羽 エメラルドグリーン&times;エメラルドグリーン<br />下田衣珠季 パステルブルー&times;エメラルドグリーン<br />高井俐香 パープル&times;イエロー<br />鶴崎仁香 イエロー&times;オレンジ<br />松尾桜 サクラピンク&times;ホワイト<br /><br />日向坂46 五期生「おもてなし会」特設サイトは<a href=\"https://www.hinatazaka46.com/s/official/page/5th_omotenashi\">コチラ</a>"
     }
   ],
-  "count": "30"
+  "count": "31"
 }
