@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "live",
+      "code": "101073",
+      "title": "「13th YEAR BIRTHDAY LIVE」DAY2公演ご来場の皆様へ「早期入場のご協力のお願い」",
+      "caption": "",
+      "link": "https://www.nogizaka46.com/s/n46/news/detail/101073",
+      "pubdate": "2025/05/18 12:00:00",
+      "tags": [
+        "100013"
+      ],
+      "thumbnail": null,
+      "content": "昨日は「乃木坂46 13th YEAR BIRTHDAY LIVE」DAY1公演に多くのお客様がご来場くださり、誠にありがとうございました。<br />本日5月18日(日)に開催するDAY2公演へご来場予定の皆様へ、スムーズなご入場のお願いです。<br /><br />DAY1公演では、開演直前に多くのお客様が集中し、入口付近が大変混雑いたしました。<br />その影響で、入場ゲートからお席までのご案内に20分以上かかるケースも発生しております。<br /><br />本公演は、演出の都合により定刻での開演を予定しております。<br />開演前後を問わず、ご入場やお席へのご案内を一時的に制限させていただく場合がございます。<br /><br />つきましては、開演の1時間以上前を目安に、早めのご来場・ご入場をお願いいたします。<br />混雑緩和と円滑な運営へのご理解・ご協力を、何卒よろしくお願いいたします。"
+    },
+    {
       "category": "web",
       "code": "101070",
       "title": "6期生ドキュメンタリー最終話「初披露の会」後編 公開！さらにバスラ当日に6期生による「乃木坂46分TV」YouTube生配信も決定！",
@@ -492,5 +505,5 @@
       "content": "2025年5月17日(土)、18日(日)に開催する「乃木坂46 13th YEAR BIRTHDAY LIVE」のオンライン配信が決定いたしました！<br />5月6日(火)正午12時より、配信チケットの販売がスタートいたします。<br /><br />リピート配信もございますので、会場にお越しなる方も、当日都合が合わない方も、ぜひ配信でライブをお楽しみください！<br />詳細は後日お知らせいたしますので、ぜひお見逃しなく！<br /><br /><strong>■乃木坂46 13th YEAR BIRTHDAY LIVE</strong><br />【日程・時間】<br /><strong>&lt;生配信&gt;</strong><br /><strong>DAY-1 5月17日(土) 配信開始16:30/開演17:30</strong><br /><strong>DAY-2 5月18日(日) 配信開始16:30/開演17:30</strong><br /><br /><strong>&lt;リピート配信&gt; (1回のみ)</strong><br /><strong>DAY-1 5月24日(土) 配信開始18:00/開演19:00</strong><br /><strong>DAY-2 5月25日(日) 配信開始18:00/開演19:00</strong><br /><br />＜出演＞<br /><strong>乃木坂46</strong><br />※中村麗乃はスケジュールの都合により休演いたします。<br />※出演者は予告なく変更になる場合がございますので、予めご了承ください。<br /><br />【料金】<br /><strong>■一般視聴チケット：4,600円(税込)</strong><br /><strong>発売期間：5月6日(火)12:00～各日リピート配信の開演時間まで</strong><br />配信プラットフォームの詳細や券売ページのご案内は、発売時にお知らせいたします。<br /><br /><br />▼13th YEAR BIRTHDAY LIVE 特設サイト<br /><a href=\"https://www.nogizaka46.com/s/n46/page/13th_birthday_live\" target=\"_blank\">https://www.nogizaka46.com/s/n46/page/13th_birthday_live</a><br /><br /><img src=\"https://www.nogizaka46.com/files/46/news/101023_1.jpg\" alt=\"\" width=\"1444\" height=\"812\" />"
     }
   ],
-  "count": "44"
+  "count": "45"
 }
