@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02430",
+      "title": "「東京カレンダー」7月号（5月21日(水)発売）に小坂菜緒が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02430",
+      "pubdate": "2025/05/19 09:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "「東京カレンダー」7月号（5月21日(水)発売）に小坂菜緒が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://tokyo-calendar.jp/\">「東京カレンダー」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00415",
       "title": "14thシングル『Love yourself!』発売記念・SHIBUYA TSUTAYA特別展示＆<スペシャルソロフライヤー>の配布が決定！",
@@ -340,5 +353,5 @@
       "content": "日向坂46 五期生のサイリウムカラーが決定いたしました！<br /><br />大田美月 サクラピンク&times;ピンク<br />大野愛実 レッド&times;レッド<br />片山紗希 パステルブルー&times;パステルブルー<br />蔵盛妃那乃 サクラピンク&times;レッド<br />坂井新奈 ホワイト&times;ホワイト<br />佐藤優羽 エメラルドグリーン&times;エメラルドグリーン<br />下田衣珠季 パステルブルー&times;エメラルドグリーン<br />高井俐香 パープル&times;イエロー<br />鶴崎仁香 イエロー&times;オレンジ<br />松尾桜 サクラピンク&times;ホワイト<br /><br />日向坂46 五期生「おもてなし会」特設サイトは<a href=\"https://www.hinatazaka46.com/s/official/page/5th_omotenashi\">コチラ</a>"
     }
   ],
-  "count": "33"
+  "count": "34"
 }
