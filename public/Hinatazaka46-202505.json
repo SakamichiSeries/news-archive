@@ -1,6 +1,36 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02435",
+      "title": "5月20日(火)13:00～放送のMRTラジオ「GO!GO!ワイド」に金村美玖、髙橋未来虹、渡辺莉奈がコメント出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02435",
+      "pubdate": "2025/05/19 21:30:00",
+      "tags": [
+        "12",
+        "22",
+        "36"
+      ],
+      "thumbnail": null,
+      "content": "5月20日(火)13:00～放送のMRTラジオ「GO!GO!ワイド」に金村美玖、髙橋未来虹、渡辺莉奈がコメント出演いたします。<br />ぜひお聴きください。<br /><a href=\"https://mrt.jp/radio/gogowide/\" target=\"_blank\"><br /></a>※内容が変更になる可能性がございます<br /><br /><a href=\"https://mrt.jp/radio/gogowide/\" target=\"_blank\">MRTラジオ「GO!GO!ワイド」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02434",
+      "title": "5月20日(火)16:50～放送のMRT宮崎放送「Check！」に金村美玖、髙橋未来虹、渡辺莉奈がVTR出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02434",
+      "pubdate": "2025/05/19 21:30:00",
+      "tags": [
+        "12",
+        "22",
+        "36"
+      ],
+      "thumbnail": null,
+      "content": "5月20日(火)16:50～放送のMRT宮崎放送「Check！」に金村美玖、髙橋未来虹、渡辺莉奈がVTR出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://mrt.jp/television/check/\" target=\"_blank\">MRT宮崎放送「Check！」公式ホームページはコチラ</a><br /><br />※放送内容は変更になる可能性がございます"
+    },
+    {
       "category": "event",
       "code": "E00701",
       "title": "日向坂46 BRAND NEW LIVE 2025 「OVER THE RAINBOW」公式チケット・トレードが5月20日(火)18:00よりスタート！",
@@ -383,5 +413,5 @@
       "content": "日向坂46 五期生のサイリウムカラーが決定いたしました！<br /><br />大田美月 サクラピンク&times;ピンク<br />大野愛実 レッド&times;レッド<br />片山紗希 パステルブルー&times;パステルブルー<br />蔵盛妃那乃 サクラピンク&times;レッド<br />坂井新奈 ホワイト&times;ホワイト<br />佐藤優羽 エメラルドグリーン&times;エメラルドグリーン<br />下田衣珠季 パステルブルー&times;エメラルドグリーン<br />高井俐香 パープル&times;イエロー<br />鶴崎仁香 イエロー&times;オレンジ<br />松尾桜 サクラピンク&times;ホワイト<br /><br />日向坂46 五期生「おもてなし会」特設サイトは<a href=\"https://www.hinatazaka46.com/s/official/page/5th_omotenashi\">コチラ</a>"
     }
   ],
-  "count": "37"
+  "count": "39"
 }
