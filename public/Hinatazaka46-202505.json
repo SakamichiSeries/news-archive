@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00419",
+      "title": "14thシングル『Love yourself! (Special Edition)』の配信がスタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00419",
+      "pubdate": "2025/05/21 00:00:01",
+      "thumbnail": null,
+      "content": "14thシングル『Love yourself!』の全5形態・全7曲をコンパイルしたSpecial Editionが各種サービスでのダウンロード＆ストリーミング配信を開始しました！<br /><br />ぜひチェックしてください！<br /><br /><span>■『Love yourself! (Special Edition)」各種ダウンロード＆ストリーミングは</span><a href=\"https://hinatazaka46.lnk.to/Loveyourself_SE\">コチラ</a><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20Release/14th%20Love%20yourself%21/250423_hnt46_14th_haishin.jpg\" alt=\"\" width=\"500\" /><br /></a>"
+    },
+    {
+      "category": "media",
+      "code": "M02437",
+      "title": "「Ray」8月号(6月23日(月)発売)の表紙・巻頭に五期生が初登場!",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02437",
+      "pubdate": "2025/05/21 00:00:00",
+      "tags": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "<p><span>「Ray」8月号の表紙・巻頭に五期生が初登場！</span><br />どうぞお楽しみに！</p><p><a href=\"https://ray-web.jp/\">「Ray」の公式サイトはこちら</a><br /><br /><br /><br /><br /><br /><br /></p>"
+    },
+    {
       "category": "goods",
       "code": "G00175",
       "title": "日向坂46 五期生「おもてなし会」、BRAND NEW LIVE 2025 「OVER THE RAINBOW」オフィシャルグッズ会場販売のお知らせ",
@@ -508,5 +540,5 @@
       "content": "日向坂46 五期生のサイリウムカラーが決定いたしました！<br /><br />大田美月 サクラピンク&times;ピンク<br />大野愛実 レッド&times;レッド<br />片山紗希 パステルブルー&times;パステルブルー<br />蔵盛妃那乃 サクラピンク&times;レッド<br />坂井新奈 ホワイト&times;ホワイト<br />佐藤優羽 エメラルドグリーン&times;エメラルドグリーン<br />下田衣珠季 パステルブルー&times;エメラルドグリーン<br />高井俐香 パープル&times;イエロー<br />鶴崎仁香 イエロー&times;オレンジ<br />松尾桜 サクラピンク&times;ホワイト<br /><br />日向坂46 五期生「おもてなし会」特設サイトは<a href=\"https://www.hinatazaka46.com/s/official/page/5th_omotenashi\">コチラ</a>"
     }
   ],
-  "count": "47"
+  "count": "49"
 }
