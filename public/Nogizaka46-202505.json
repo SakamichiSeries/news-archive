@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "101078",
+      "title": "佐藤楓のブログクローズに関しまして",
+      "caption": "",
+      "link": "https://www.nogizaka46.com/s/n46/news/detail/101078",
+      "pubdate": "2025/05/20 18:30:00",
+      "thumbnail": null,
+      "content": "いつも乃木坂46を応援していただき、ありがとうございます。<br /><br />佐藤楓の個人ブログ、ならびに3期生リレーブログにおける佐藤楓の記事について、2025年5月30日(金)の正午を目処に作業を行い、クローズさせていただくことになりました。<br /><br />今まであたたかいご声援をいただき、誠にありがとうございました。<br /><br />今後とも、乃木坂46をよろしくお願いいたします。"
+    },
+    {
       "category": "tv",
       "code": "101072",
       "title": "久保史緒里が7/6スタートのWOWOW ドラマ「連続ドラマW　怪物」に出演決定！",
@@ -571,5 +581,5 @@
       "content": "2025年5月17日(土)、18日(日)に開催する「乃木坂46 13th YEAR BIRTHDAY LIVE」のオンライン配信が決定いたしました！<br />5月6日(火)正午12時より、配信チケットの販売がスタートいたします。<br /><br />リピート配信もございますので、会場にお越しなる方も、当日都合が合わない方も、ぜひ配信でライブをお楽しみください！<br />詳細は後日お知らせいたしますので、ぜひお見逃しなく！<br /><br /><strong>■乃木坂46 13th YEAR BIRTHDAY LIVE</strong><br />【日程・時間】<br /><strong>&lt;生配信&gt;</strong><br /><strong>DAY-1 5月17日(土) 配信開始16:30/開演17:30</strong><br /><strong>DAY-2 5月18日(日) 配信開始16:30/開演17:30</strong><br /><br /><strong>&lt;リピート配信&gt; (1回のみ)</strong><br /><strong>DAY-1 5月24日(土) 配信開始18:00/開演19:00</strong><br /><strong>DAY-2 5月25日(日) 配信開始18:00/開演19:00</strong><br /><br />＜出演＞<br /><strong>乃木坂46</strong><br />※中村麗乃はスケジュールの都合により休演いたします。<br />※出演者は予告なく変更になる場合がございますので、予めご了承ください。<br /><br />【料金】<br /><strong>■一般視聴チケット：4,600円(税込)</strong><br /><strong>発売期間：5月6日(火)12:00～各日リピート配信の開演時間まで</strong><br />配信プラットフォームの詳細や券売ページのご案内は、発売時にお知らせいたします。<br /><br /><br />▼13th YEAR BIRTHDAY LIVE 特設サイト<br /><a href=\"https://www.nogizaka46.com/s/n46/page/13th_birthday_live\" target=\"_blank\">https://www.nogizaka46.com/s/n46/page/13th_birthday_live</a><br /><br /><img src=\"https://www.nogizaka46.com/files/46/news/101023_1.jpg\" alt=\"\" width=\"1444\" height=\"812\" />"
     }
   ],
-  "count": "51"
+  "count": "52"
 }
