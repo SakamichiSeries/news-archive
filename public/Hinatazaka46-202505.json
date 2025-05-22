@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02439",
+      "title": "Webメディア「Real Sound」に松田好花・森本茉莉の撮り下ろし写真とインタビューが掲載！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02439",
+      "pubdate": "2025/05/22 19:00:00",
+      "tags": [
+        "18",
+        "23"
+      ],
+      "thumbnail": null,
+      "content": "Webメディア「Real Sound」に松田好花・森本茉莉の撮り下ろし写真とインタビューが掲載されています。<br />ぜひご覧ください。<br /><br /><a href=\"https://realsound.jp/2025/05/post-2026257.html &lrm;\" target=\"_blank\">「Real Sound」インタビューページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00695",
       "title": "「日向坂46 四期生ライブ　Presented by 新・日向坂ミュージックパレード」ファンクラブ会員2次先行受付が5月22日(木)12:00～スタート！",
@@ -576,5 +590,5 @@
       "content": "日向坂46 五期生のサイリウムカラーが決定いたしました！<br /><br />大田美月 サクラピンク&times;ピンク<br />大野愛実 レッド&times;レッド<br />片山紗希 パステルブルー&times;パステルブルー<br />蔵盛妃那乃 サクラピンク&times;レッド<br />坂井新奈 ホワイト&times;ホワイト<br />佐藤優羽 エメラルドグリーン&times;エメラルドグリーン<br />下田衣珠季 パステルブルー&times;エメラルドグリーン<br />高井俐香 パープル&times;イエロー<br />鶴崎仁香 イエロー&times;オレンジ<br />松尾桜 サクラピンク&times;ホワイト<br /><br />日向坂46 五期生「おもてなし会」特設サイトは<a href=\"https://www.hinatazaka46.com/s/official/page/5th_omotenashi\">コチラ</a>"
     }
   ],
-  "count": "52"
+  "count": "53"
 }
