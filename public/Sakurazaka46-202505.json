@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01682",
+      "title": "「MARQUEE」Vol.158（5月27日(火)発売）の表紙・巻頭に武元唯衣が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01682",
+      "pubdate": "2025/05/25 12:00:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "「MARQUEE」Vol.158（5月27日(火)発売）の表紙・巻頭に武元唯衣が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"http://marquee-mag.com/\">「MARQUEE」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "shakehands",
       "code": "S00195",
       "title": "【詳細のお知らせ】購入者応募抽選スペシャルイベント！2nd Album『Addiction』発売記念　リアルミート＆グリート（個別トーク会）会場：幕張メッセ",
@@ -324,5 +337,5 @@
       "content": "櫻坂46 四期生の撮り下ろし写真と手書きプロフィールを、本日5月1日(木)から毎日正午に公開いたします！<br /><br />5月1日(月)～5日(月)までの5日間、四期生 お披露目特設サイトにて公開します。<br /><br />■公開スケジュール<br />5月1日(木)：松本和子、稲熊ひな<br />5月2日(金)：佐藤愛桜、中川智尋<br />5月3日(土)：目黒陽色、浅井恋乃未<br />5月4日(日)：山田桃実、勝又春<br />5月5日(月)：山川宇衣<br /><br />■櫻坂46 四期生 お披露目特設サイト<br /><a href=\"https://sakurazaka46.com/4th_generation\">https://sakurazaka46.com/4th_generation<br /><img src=\"https://sakurazaka46.com/files/14/SKZ_4th_bunner_19201080_0424.jpg\" alt=\"\" width=\"1920\" height=\"1080\" /><br /></a>"
     }
   ],
-  "count": "28"
+  "count": "29"
 }
