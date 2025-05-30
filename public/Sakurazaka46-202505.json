@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01685",
+      "title": "「スポーツ報知」（5月30日(金)発刊）に武元唯衣が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01685",
+      "pubdate": "2025/05/30 12:00:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "「スポーツ報知」（5月30日(金)発刊）に武元唯衣が登場しております。<br /><p style=\"-qt-block-indent: 0; text-indent: 0px; margin: 0px;\">ぜひチェックしてみてください。<br /><br /><a href=\" https://x.com/SportsHochi\" target=\"_blank\">「スポーツ報知」公式Xはコチラ</a></p><p style=\"-qt-paragraph-type: empty; -qt-block-indent: 0; text-indent: 0px; margin: 0px;\"><br /><br /></p>"
+    },
+    {
       "category": "release",
       "code": "M01687",
       "title": "12thシングル表題曲「Make or Break」Spotifyシェアキャンペーンの実施が決定！",
@@ -454,5 +467,5 @@
       "content": "櫻坂46 四期生の撮り下ろし写真と手書きプロフィールを、本日5月1日(木)から毎日正午に公開いたします！<br /><br />5月1日(月)～5日(月)までの5日間、四期生 お披露目特設サイトにて公開します。<br /><br />■公開スケジュール<br />5月1日(木)：松本和子、稲熊ひな<br />5月2日(金)：佐藤愛桜、中川智尋<br />5月3日(土)：目黒陽色、浅井恋乃未<br />5月4日(日)：山田桃実、勝又春<br />5月5日(月)：山川宇衣<br /><br />■櫻坂46 四期生 お披露目特設サイト<br /><a href=\"https://sakurazaka46.com/4th_generation\">https://sakurazaka46.com/4th_generation<br /><img src=\"https://sakurazaka46.com/files/14/SKZ_4th_bunner_19201080_0424.jpg\" alt=\"\" width=\"1920\" height=\"1080\" /><br /></a>"
     }
   ],
-  "count": "40"
+  "count": "41"
 }
