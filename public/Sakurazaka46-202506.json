@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01690",
+      "title": "「四期生ドキュメンタリー『櫻坂46 四期生物語 ーいま、わたしたちに、できることー』Episode 06」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01690",
+      "pubdate": "2025/06/02 19:00:00",
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「四期生ドキュメンタリー『櫻坂46 四期生物語 ーいま、わたしたちに、できることー』Episode 06」を公開いたしました。<br /><br />はじめて先輩たち全員と対面する日がきた。<br />憧れだった櫻坂46。<br />今はもう、その一員。<br /><br /><a href=\"https://youtu.be/OqLNVfThOY0\">櫻坂チャンネル「四期生ドキュメンタリー『櫻坂46 四期生物語 ーいま、わたしたちに、できることー』Episode 06」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/OqLNVfThOY0?si=vJvWR8IsOP781RU5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "release",
       "code": "R00459",
       "title": "12thシングル『Make or Break』ジャケットアートワーク公開！",
@@ -31,5 +41,5 @@
       "content": "<span>本日6月1日(日) に開催いたします2nd Album『Addiction』発売記念 リアルミート＆グリート（個別トーク会）（会場：幕張メッセ）に関しまして、遠藤光莉は体調不良のため1部~5部、リアルサイン会を欠席させて頂くこととなりました。<br /></span><span>イベントを楽しみにされていたお客様には、大変深くお詫び申し上げます。</span><br /><br /><span>欠席いたします分に関しまして、追って振替使用のご案内をさせていただきます。</span><br /><span>皆さまのご理解を賜わります様、よろしくお願い申し上げます。</span><br /><br /><span>【お問い合わせ先】</span><br /><span>イベントに関するお問い合わせ</span><br /><a href=\"https://www.fortunemusic.app/contact/index.html\">https://www.fortunemusic.app/contact/index.html</a>"
     }
   ],
-  "count": "3"
+  "count": "4"
 }
