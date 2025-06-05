@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00705",
+      "title": "「日向坂46 四期生ライブ　Presented by 新・日向坂ミュージックパレード」一般発売（先着）が6月14日(土)12:00～スタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00705",
+      "pubdate": "2025/06/05 10:00:00",
+      "thumbnail": null,
+      "content": "「日向坂46 四期生ライブ　Presented by 新・日向坂ミュージックパレード」<br />一般発売（先着）が6月14日(土)12:00～スタートいたします。<br />皆さまのお申込みお待ちしております！<br /><br />【公演概要】<br />■公演タイトル<br />日向坂46 四期生ライブ　Presented by 新・日向坂ミュージックパレード<br /><br />■出演<br />日向坂46（四期生）<br />MEMBER：石塚瑶季、小西夏菜実、清水理央、正源司陽子、竹内希来里、平尾帆夏、平岡海月、藤嶌果歩、宮地すみれ、山下葉留花、渡辺莉奈<br /><br />※出演者は予告なく変更となる場合がございます。<br /><br />■日程<br />7月29日(火) 開場 17:00／開演 18:30（予定）<br />7月30日(水) 開場 17:00／開演 18:30（予定）<br />7月31日(木) 開場 17:00／開演 18:30（予定）<br /><br />■会場<br />神奈川・ぴあアリーナMM<br />(神奈川県横浜市西区みなとみらい3-2-2)<br /><br />■チケット料金<br />全席指定：9,900円 (税込)<br /><br />■ローソンチケット一般発売(先着)<br />【受付期間】6月14日(土) 12:00～<br /><a href=\"https://l-tike.com/4th-special/\">https://l-tike.com/4th-special/</a><br /><br />■イベント公式サイト<br /><a href=\"https://hinapare-live.jp/4th-special\">https://hinapare-live.jp/4th-special</a><br /><br />【公演に関するお問合せ先】<br />ソーゴー東京　03-3405-9999<br />（月～土 12:00～13:00/16:00～19:00 ※日曜・祝日を除く）<br /><a href=\"http://www.sogotokyo.com/\">http://www.sogotokyo.com/</a>"
+    },
+    {
+      "category": "event",
       "code": "E00707",
       "title": "「CHAGU CHAGU ROCK FESTIVAL 2025」小坂菜緒、富田鈴花、平尾帆夏 欠席のお知らせ",
       "caption": "",
@@ -61,5 +71,5 @@
       "content": "日向坂46 OFFICIAL YouTube CHANNELにて、<span>5月28日(水)・29日(木)に国立代々木競技場第一体育館にて開催された</span><span>BRAND NEW LIVE 2025「OVER THE RAINBOW」</span>にて披露された、14thシングル「Love yourself!」のライブ映像を公開いたしました！<br />ぜひご覧ください。<br /><br />■公開日時<br />2025年6月30日(月)23:59まで<br /><br />■タイトル<br />【期間限定公開】日向坂46『Love yourself!』（Live from BRAND NEW LIVE 2025 「OVER THE RAINBOW」＠国立代々木競技場第一体育館）<br /><br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/dUoR5eaBBCQ\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "6"
+  "count": "7"
 }
