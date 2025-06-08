@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00465",
+      "title": "12thシングル『Make or Break』のMUSIC VIDEOが6月10日(火)22:00よりYouTubeにて公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00465",
+      "pubdate": "2025/06/08 20:00:00",
+      "thumbnail": null,
+      "content": "<span>12thシングル『Make or Break』のMUSIC VIDEO公開が決定！</span><span>櫻坂46 Official YouTubeチャンネルにてプレミア公開ページをオープンいたしました！<br />公開は6月10日(火)22:00からとなります。お楽しみに！</span><br /><br /><span>■櫻坂46『Make or Break』MUSIC VIDEO　※6月10日(火)22:00公開<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/nTxTTZ0QLrI\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
+    },
+    {
       "category": "goods",
       "code": "G00153",
       "title": "櫻坂46 四期生「First Showcase」オフィシャルグッズ会場販売のお知らせ",
@@ -218,5 +228,5 @@
       "content": "<span>本日6月1日(日) に開催いたします2nd Album『Addiction』発売記念 リアルミート＆グリート（個別トーク会）（会場：幕張メッセ）に関しまして、遠藤光莉は体調不良のため1部~5部、リアルサイン会を欠席させて頂くこととなりました。<br /></span><span>イベントを楽しみにされていたお客様には、大変深くお詫び申し上げます。</span><br /><br /><span>欠席いたします分に関しまして、追って振替使用のご案内をさせていただきます。</span><br /><span>皆さまのご理解を賜わります様、よろしくお願い申し上げます。</span><br /><br /><span>【お問い合わせ先】</span><br /><span>イベントに関するお問い合わせ</span><br /><a href=\"https://www.fortunemusic.app/contact/index.html\">https://www.fortunemusic.app/contact/index.html</a>"
     }
   ],
-  "count": "20"
+  "count": "21"
 }
