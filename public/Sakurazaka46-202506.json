@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00154",
+      "title": "櫻坂46 四期生「First Showcase」にて縁日ブースとガチャガチャの出店が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/G00154",
+      "pubdate": "2025/06/09 19:00:00",
+      "thumbnail": null,
+      "content": "櫻坂46 四期生「First Showcase」にて縁日ブースとガチャガチャの出店が決定いたしました。<br />たくさん遊んでイベントで思い切り盛り上がりましょう！！<br /><br />【当日販売時間】<br />会場：有明アリーナ<br />■6月11日(水) 15:00 ～ 20:00<br />■6月12日(木) 10:00 ～ 19:00<br /><br />※終演後販売はございません。<br />※景品なくなり次第終了となります。<br /><br />★縁日ブース<br /><img src=\"https://sakurazaka46.com/files/14/S__132898825_0.jpg\" alt=\"\" width=\"1684\" height=\"2384\" /><br /><br />★ガチャガチャ<br /><img src=\"https://sakurazaka46.com/files/14/8C3EE57D-2747-4432-B997-74846907BBEB_0.jpg\" alt=\"\" width=\"3508\" height=\"4967\" />"
+    },
+    {
       "category": "event",
       "code": "E00516",
       "title": "櫻坂46 「5th TOUR 2025 “Addiction”」の最終先行が6/10(火)12:00よりスタート。先行予定枚数が終了した公演を除き、7/24(木)、7/25(金)東京公演分を受付！",
@@ -238,5 +248,5 @@
       "content": "<span>本日6月1日(日) に開催いたします2nd Album『Addiction』発売記念 リアルミート＆グリート（個別トーク会）（会場：幕張メッセ）に関しまして、遠藤光莉は体調不良のため1部~5部、リアルサイン会を欠席させて頂くこととなりました。<br /></span><span>イベントを楽しみにされていたお客様には、大変深くお詫び申し上げます。</span><br /><br /><span>欠席いたします分に関しまして、追って振替使用のご案内をさせていただきます。</span><br /><span>皆さまのご理解を賜わります様、よろしくお願い申し上げます。</span><br /><br /><span>【お問い合わせ先】</span><br /><span>イベントに関するお問い合わせ</span><br /><a href=\"https://www.fortunemusic.app/contact/index.html\">https://www.fortunemusic.app/contact/index.html</a>"
     }
   ],
-  "count": "22"
+  "count": "23"
 }
