@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01696",
+      "title": "「櫻坂チャンネル」にて「【Vlog】海外ライブin台北！ライブの裏側&台北満喫の自由時間！」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01696",
+      "pubdate": "2025/06/09 22:00:00",
+      "tags": [
+        "46",
+        "47",
+        "48",
+        "50",
+        "51",
+        "54",
+        "58",
+        "59",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【Vlog】海外ライブin台北！ライブの裏側&台北満喫の自由時間！」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/Ux5Va4GuSIQ\">櫻坂チャンネル「【Vlog】海外ライブin台北！ライブの裏側&台北満喫の自由時間！」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/Ux5Va4GuSIQ?si=8yhoAuBkvLQNgPz_\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "goods",
       "code": "G00154",
       "title": "櫻坂46 四期生「First Showcase」にて縁日ブースとガチャガチャの出店が決定！",
@@ -248,5 +275,5 @@
       "content": "<span>本日6月1日(日) に開催いたします2nd Album『Addiction』発売記念 リアルミート＆グリート（個別トーク会）（会場：幕張メッセ）に関しまして、遠藤光莉は体調不良のため1部~5部、リアルサイン会を欠席させて頂くこととなりました。<br /></span><span>イベントを楽しみにされていたお客様には、大変深くお詫び申し上げます。</span><br /><br /><span>欠席いたします分に関しまして、追って振替使用のご案内をさせていただきます。</span><br /><span>皆さまのご理解を賜わります様、よろしくお願い申し上げます。</span><br /><br /><span>【お問い合わせ先】</span><br /><span>イベントに関するお問い合わせ</span><br /><a href=\"https://www.fortunemusic.app/contact/index.html\">https://www.fortunemusic.app/contact/index.html</a>"
     }
   ],
-  "count": "23"
+  "count": "24"
 }
