@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01698",
+      "title": "6月18日(水)14:00～e-radio「キャッチ！」に武元唯衣がリモート出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01698",
+      "pubdate": "2025/06/16 14:00:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "<span>6月18日(水)14:00～e-radio「キャッチ！」に武元唯衣がリモート出演致します。(16時台に出演予定）</span><br /><span>ぜひご覧ください！</span><br /><br /><a href=\"https://www.e-radio.co.jp/\">e-radio(エフエム滋賀)公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00468",
       "title": "12thシングル『Make or Break』 CD購入者スペシャル応募抽選企画決定！",
@@ -18,7 +31,7 @@
       "link": "https://sakurazaka46.com/s/s46/news/detail/R00467",
       "pubdate": "2025/06/15 18:00:00",
       "thumbnail": null,
-      "content": "<span><span>四期生による初の楽曲『死んだふり』</span>のMUSIC VIDEOの</span><span>プレミア公開ページをオープンいたしました！<br />公開は6月16日(月)22:00～となります。是非お楽しみに！</span><br /><br /><span>■櫻坂46『死んだふり』MUSIC VIDEO ※6月16日(月)22:00公開<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/Grx5AhU14QU\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
+      "content": "<span><span>四期生による初の楽曲『死んだふり』</span>のMUSIC VIDEOの</span><span>プレミア公開ページをオープンいたしました！<br />公開は6月16日(月)22:00～となります。是非お楽しみに！</span><br /><br /><span>■櫻坂46『死んだふり』MUSIC VIDEO ※6月16日(月)22:00公開<br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/WNH_ReRMt5k?si=Fb2RapnbswevP8Nt\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
     },
     {
       "category": "other",
@@ -385,5 +398,5 @@
       "content": "<span>本日6月1日(日) に開催いたします2nd Album『Addiction』発売記念 リアルミート＆グリート（個別トーク会）（会場：幕張メッセ）に関しまして、遠藤光莉は体調不良のため1部~5部、リアルサイン会を欠席させて頂くこととなりました。<br /></span><span>イベントを楽しみにされていたお客様には、大変深くお詫び申し上げます。</span><br /><br /><span>欠席いたします分に関しまして、追って振替使用のご案内をさせていただきます。</span><br /><span>皆さまのご理解を賜わります様、よろしくお願い申し上げます。</span><br /><br /><span>【お問い合わせ先】</span><br /><span>イベントに関するお問い合わせ</span><br /><a href=\"https://www.fortunemusic.app/contact/index.html\">https://www.fortunemusic.app/contact/index.html</a>"
     }
   ],
-  "count": "33"
+  "count": "34"
 }
