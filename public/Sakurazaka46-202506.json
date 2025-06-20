@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01702",
+      "title": "6月22日(日)19:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01702",
+      "pubdate": "2025/06/20 12:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "<span class=\"f130\">6</span><span>月</span><span class=\"f130\">22</span><span>日(日)</span>19:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00471",
       "title": "12thシングル『Make or Break』発売記念・各CDショップチェーンにてコラボレーション展開決定！",
@@ -464,5 +477,5 @@
       "content": "<span>本日6月1日(日) に開催いたします2nd Album『Addiction』発売記念 リアルミート＆グリート（個別トーク会）（会場：幕張メッセ）に関しまして、遠藤光莉は体調不良のため1部~5部、リアルサイン会を欠席させて頂くこととなりました。<br /></span><span>イベントを楽しみにされていたお客様には、大変深くお詫び申し上げます。</span><br /><br /><span>欠席いたします分に関しまして、追って振替使用のご案内をさせていただきます。</span><br /><span>皆さまのご理解を賜わります様、よろしくお願い申し上げます。</span><br /><br /><span>【お問い合わせ先】</span><br /><span>イベントに関するお問い合わせ</span><br /><a href=\"https://www.fortunemusic.app/contact/index.html\">https://www.fortunemusic.app/contact/index.html</a>"
     }
   ],
-  "count": "40"
+  "count": "41"
 }
