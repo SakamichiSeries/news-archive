@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01708",
+      "title": "6月25日(水)22:00〜TOKYO FM&JFN38局「SCHOOL OF LOCK!」に山﨑天・的野美青が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01708",
+      "pubdate": "2025/06/23 12:00:00",
+      "tags": [
+        "51",
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "<span>6月25日(水)22:00〜TOKYO FM&JFN38局「SCHOOL OF LOCK!」に山﨑天・的野美青が出演いたします。</span><br />ぜひお聴きください。<br /><br /><a href=\"https://www.tfm.co.jp/lock/index.html\">TOKYO FM「SCHOOL OF LOCK!」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00474",
       "title": "12thシングル『Make or Break』収録曲「港区パセリ」の先行配信が決定！",
@@ -534,5 +548,5 @@
       "content": "<span>本日6月1日(日) に開催いたします2nd Album『Addiction』発売記念 リアルミート＆グリート（個別トーク会）（会場：幕張メッセ）に関しまして、遠藤光莉は体調不良のため1部~5部、リアルサイン会を欠席させて頂くこととなりました。<br /></span><span>イベントを楽しみにされていたお客様には、大変深くお詫び申し上げます。</span><br /><br /><span>欠席いたします分に関しまして、追って振替使用のご案内をさせていただきます。</span><br /><span>皆さまのご理解を賜わります様、よろしくお願い申し上げます。</span><br /><br /><span>【お問い合わせ先】</span><br /><span>イベントに関するお問い合わせ</span><br /><a href=\"https://www.fortunemusic.app/contact/index.html\">https://www.fortunemusic.app/contact/index.html</a>"
     }
   ],
-  "count": "46"
+  "count": "47"
 }
