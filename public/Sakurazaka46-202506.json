@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00476",
+      "title": "12thシングル表題曲『Make or Breka -Dance Practice-』公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00476",
+      "pubdate": "2025/06/26 22:00:00",
+      "thumbnail": null,
+      "content": "<span>12thシングル表題曲「Make or Break」のダンスプラクティス動画を</span><span>櫻坂46 Official YouTubeチャンネルにて公開しました！是非ご覧ください！<br /><br />■櫻坂46『Make or Break -Dance Practice-』</span><span><br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/4a_y9XwzV0c\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
+    },
+    {
       "category": "goods",
       "code": "G00155",
       "title": "「櫻坂46 CAFE 2025」の開催が決定＆予約もスタート！",
@@ -714,5 +724,5 @@
       "content": "<span>本日6月1日(日) に開催いたします2nd Album『Addiction』発売記念 リアルミート＆グリート（個別トーク会）（会場：幕張メッセ）に関しまして、遠藤光莉は体調不良のため1部~5部、リアルサイン会を欠席させて頂くこととなりました。<br /></span><span>イベントを楽しみにされていたお客様には、大変深くお詫び申し上げます。</span><br /><br /><span>欠席いたします分に関しまして、追って振替使用のご案内をさせていただきます。</span><br /><span>皆さまのご理解を賜わります様、よろしくお願い申し上げます。</span><br /><br /><span>【お問い合わせ先】</span><br /><span>イベントに関するお問い合わせ</span><br /><a href=\"https://www.fortunemusic.app/contact/index.html\">https://www.fortunemusic.app/contact/index.html</a>"
     }
   ],
-  "count": "59"
+  "count": "60"
 }
