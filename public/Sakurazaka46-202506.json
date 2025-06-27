@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01718",
+      "title": "クランクイン！のインタビューに井上梨名、武元唯衣、石森璃花、的野美青が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01718",
+      "pubdate": "2025/06/27 20:30:00",
+      "tags": [
+        "43",
+        "45",
+        "59",
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "<span>クランクイン！のインタビューに井上梨名、武元唯衣、石森璃花、的野美青が登場！</span><br /><span>是非ご覧ください！<br /><br /><a href=\"https://www.crank-in.net/interview/169240/1\">インタビューページはコチラ</a></span>"
+    },
+    {
       "category": "event",
       "code": "E00519",
       "title": "櫻坂46 「12th Single BACKS LIVE!!」 祝花・プレゼントに関しまして",
@@ -787,5 +803,5 @@
       "content": "<span>本日6月1日(日) に開催いたします2nd Album『Addiction』発売記念 リアルミート＆グリート（個別トーク会）（会場：幕張メッセ）に関しまして、遠藤光莉は体調不良のため1部~5部、リアルサイン会を欠席させて頂くこととなりました。<br /></span><span>イベントを楽しみにされていたお客様には、大変深くお詫び申し上げます。</span><br /><br /><span>欠席いたします分に関しまして、追って振替使用のご案内をさせていただきます。</span><br /><span>皆さまのご理解を賜わります様、よろしくお願い申し上げます。</span><br /><br /><span>【お問い合わせ先】</span><br /><span>イベントに関するお問い合わせ</span><br /><a href=\"https://www.fortunemusic.app/contact/index.html\">https://www.fortunemusic.app/contact/index.html</a>"
     }
   ],
-  "count": "66"
+  "count": "67"
 }
