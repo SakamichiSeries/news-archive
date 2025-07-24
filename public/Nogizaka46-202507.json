@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "web",
+      "code": "101229",
+      "title": "【のぎ動画】「矢久保チャンネル ビヨンド 大阪編」 配信開始！",
+      "caption": "",
+      "link": "https://www.nogizaka46.com/s/n46/news/detail/101229",
+      "pubdate": "2025/07/24 18:30:00",
+      "thumbnail": null,
+      "content": "本日7月24日(木)より「のぎ動画」にて「矢久保チャンネル ビヨンド 大阪編」を公開いたしました！<br /><br />大好評の「矢久保チャンネル」が、今年も真夏の全国ツアー2025の盛り上げコンテンツとして帰ってきました！<br /><br />地方ごとに6期生のメンバーをゲストに迎え、ツアー中のケータリングを楽しく食べながら食レポに挑戦していきます。<br /><br />大阪でのライブということで、大阪府出身の増田三莉音、兵庫県出身の愛宕心響・海邉朱莉の関西出身メンバー3人を迎え、矢久保美緒と一緒に食レポに挑みます。<br /><br />ぜひチェックしてください！<br /><br />《出演》<br />MC：矢久保美緒 <br />ゲスト：愛宕心響、海邉朱莉、増田三莉音<br />カメラ：林瑠奈<br /><br /><br />▼矢久保チャンネル ビヨンド 大阪編<br /><a href=\"https://nogidoga.com/episodes/1077777852037857281\" target=\"_blank\">https://nogidoga.com/episodes/1077777852037857281</a><br /><br />▼のぎ動画 公式X<br /><a href=\"https://x.com/nogidoga46\" target=\"_blank\">https://x.com/nogidoga46</a><br /><br /><img src=\"https://www.nogizaka46.com/files/46/news/101229_1.png\" alt=\"\" width=\"1280\" height=\"720\" />"
+    },
+    {
       "category": "live",
       "code": "101222",
       "title": "「真夏の全国ツアー2025」宮城公演・福岡公演・香川公演　7月26日(土)12:00～より一般発売スタート！",
@@ -848,5 +858,5 @@
       "content": "7月30日(水)に発売する39thシングルの表題曲「Same numbers」のMusic Videoを、乃木坂46オフィシャルYouTubeチャンネルにて公開いたしました！<br /><br />■乃木坂46「Same numbers」Music Video<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/g70yImobLm4\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><a href=\"https://youtu.be/g70yImobLm4\" target=\"_blank\">https://youtu.be/g70yImobLm4</a><br /><br />Music Videoの監督を伊藤衆人氏に務めていただき、自分を、誰かを、受け止めようとするように、祈りを表現した踊りを体現する作品となっております<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/g70yImobLm4\" target=\"_blank\"><img src=\"https://www.nogizaka46.com/files/46/news/101154_1867565_1.jpg\" alt=\"\" width=\"1280\" height=\"720\" /></a><br /><br />■39thシングル「Same numbers」<br />発売日：2025年7月30日(水)<br />-Music Video-<br /><a href=\"https://youtu.be/g70yImobLm4\" target=\"_blank\">https://youtu.be/g70yImobLm4</a><br />-Streaming-<br /><a href=\"https://nogizaka46.lnk.to/Samenumbers\" target=\"_blank\">https://nogizaka46.lnk.to/Samenumbers</a><br />-Package-<br /><a href=\"https://nogizaka46.lnk.to/20250730_Samenumbers_PKG\" target=\"_blank\">https://nogizaka46.lnk.to/20250730_Samenumbers_PKG</a><br />-Special Site-<br /><a href=\"https://www.nogizaka46.com/s/n46/page/39th_single\" target=\"_blank\">https://www.nogizaka46.com/s/n46/page/39th_single</a>"
     }
   ],
-  "count": "72"
+  "count": "73"
 }
