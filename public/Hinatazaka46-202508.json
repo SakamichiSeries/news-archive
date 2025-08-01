@@ -1,4 +1,15 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "other",
+      "code": "O100195",
+      "title": "富田鈴花のプロフィールページとブログのクローズに関しまして",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100195",
+      "pubdate": "2025/08/01 13:00:00",
+      "thumbnail": null,
+      "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
+    }
+  ],
+  "count": "1"
 }

@@ -1,4 +1,18 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "media",
+      "code": "M01744",
+      "title": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01744",
+      "pubdate": "2025/08/01 12:00:00",
+      "tags": [
+        "64"
+      ],
+      "thumbnail": null,
+      "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    }
+  ],
+  "count": "1"
 }
