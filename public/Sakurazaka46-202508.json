@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01742",
+      "title": "8月4日(水)23:45～テレビ朝日「くりぃむナンタラ」に大沼晶保・武元唯衣が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01742",
+      "pubdate": "2025/08/02 12:00:00",
+      "tags": [
+        "45",
+        "55"
+      ],
+      "thumbnail": null,
+      "content": "8月4日(水)23:45～テレビ朝日「くりぃむナンタラ」に大沼晶保・武元唯衣が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/nantara/\">テレビ朝日「くりぃむナンタラ」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "shakehands",
       "code": "S00202",
       "title": "森田ひかる 8月2日(土)、8月3日(日)オンラインミート＆グリート(個別トーク会)」欠席のお知らせ",
@@ -24,5 +38,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "2"
+  "count": "3"
 }
