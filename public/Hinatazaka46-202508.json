@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100199",
+      "title": "「日向坂ちゃんねる」にて「関西人となんちゃって関西人?で大阪堪能全国ツアー祈願旅！【チームTAKAI】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100199",
+      "pubdate": "2025/08/06 21:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「関西人となんちゃって関西人?で大阪堪能全国ツアー祈願旅！【チームTAKAI】」を公開いたしました！<br /><br />「五期生祭りVoL.1」<br />4つ目の企画は、全国ツアー2025大阪キャンペーン！<br /><br />五期生・大野愛実、高井俐香が、ニ期生・松田好花と大阪でツアーキャンペーンを行ってきました！<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/F6NssJnYSXQ\">https://youtu.be/F6NssJnYSXQ</a><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/F6NssJnYSXQ\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "release",
       "code": "R00437",
       "title": "15thシングル『お願いバッハ！』発売記念  forTUNE meets オンラインミート＆グリート（個別トーク会）開催決定!!",
@@ -94,5 +104,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "9"
+  "count": "10"
 }
