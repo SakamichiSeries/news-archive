@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01748",
+      "title": "「櫻坂チャンネル」にて「【第2弾】村山美羽の一人焼き肉in不動前！食レポも上達しました！【しみず】」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01748",
+      "pubdate": "2025/08/07 21:00:00",
+      "tags": [
+        "68"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【第2弾】村山美羽の一人焼き肉in不動前！食レポも上達しました！【しみず】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/JXi2D8aMKVE?feature=shared\">櫻坂チャンネル「【第2弾】村山美羽の一人焼き肉in不動前！食レポも上達しました！【しみず】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/JXi2D8aMKVE?si=ldmyXs8XxpB4lfWX\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /><br />"
+    },
+    {
       "category": "event",
       "code": "E00531",
       "title": "9月6日(土)「第41回 マイナビ 東京ガールズコレクション 2025 AUTUMN/WINTER」に田村保乃・藤吉夏鈴・守屋麗奈・山﨑天の出演が決定！",
@@ -147,5 +160,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "12"
+  "count": "13"
 }
