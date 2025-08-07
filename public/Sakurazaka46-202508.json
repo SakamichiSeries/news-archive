@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01747",
+      "title": "「ar」9月号（8月8日(金)発売）に山川宇衣が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01747",
+      "pubdate": "2025/08/07 12:00:00",
+      "tags": [
+        "77"
+      ],
+      "thumbnail": null,
+      "content": "「ar」9月号（8月8日(金)発売）に山川宇衣が登場いたします。<br /><span>※森田ひかるの連載「ヒカルノメ」も掲載されています。<br />ぜひチェックしてみてください。</span><br /><br /><a href=\"https://ar-mag.jp/\">「ar」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01750",
       "title": "8月6日(水)24:45～テレビ朝日「ガリベンチャーV」内「ホリケンのみんなともだち」に増本綺良が出演！",
       "caption": "",
@@ -118,5 +131,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
