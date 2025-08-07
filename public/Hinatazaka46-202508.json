@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02488",
+      "title": "「BOMB」9月号（本日８月7日(木)発売）に大田美月が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02488",
+      "pubdate": "2025/08/07 15:30:00",
+      "tags": [
+        "37"
+      ],
+      "thumbnail": null,
+      "content": "「BOMB」9月号（本日８月7日(木)発売）に大田美月が登場しております。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://bombweb.jp/next/bomb/\">「BOMB」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02487",
       "title": "ソラシドエア×日向坂46のコラボレーションが今年も決定！",
       "caption": "",
@@ -114,5 +127,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "11"
+  "count": "12"
 }
