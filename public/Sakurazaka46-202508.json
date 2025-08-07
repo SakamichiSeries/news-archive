@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00531",
+      "title": "9月6日(土)「第41回 マイナビ 東京ガールズコレクション 2025 AUTUMN/WINTER」に田村保乃・藤吉夏鈴・守屋麗奈・山﨑天の出演が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00531",
+      "pubdate": "2025/08/07 14:00:00",
+      "tags": [
+        "46",
+        "47",
+        "51",
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "9月6日(土)「第41回 マイナビ 東京ガールズコレクション 2025 AUTUMN/WINTER」に田村保乃・藤吉夏鈴・守屋麗奈・山﨑天の出演が決定いたしました。<br /><br />開催日時：9月6日（土）開場12:00／開演14:00／終演21:00（予定）<br />会場：さいたまスーパーアリーナ<br /><br /><a href=\"https://tgc.girlswalker.com/25aw/\">「第41回 マイナビ 東京ガールズコレクション 2025 AUTUMN/WINTER」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "media",
       "code": "M01747",
       "title": "「ar」9月号（8月8日(金)発売）に山川宇衣が登場！",
@@ -131,5 +147,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "11"
+  "count": "12"
 }
