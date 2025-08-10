@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00440",
+      "title": "15thシングル表題曲「お願いバッハ！」のフォーメーションを公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00440",
+      "pubdate": "2025/08/11 03:00:00",
+      "thumbnail": null,
+      "content": "「日向坂で会いましょう」にて発表された、<br /><span>日向坂46&nbsp;</span>15thシングル表題曲「お願いバッハ！」のフォーメーションを公式サイトでも公開いたしました！<br />是非チェックしてみてください！<br /><br /><a href=\"https://www.hinatazaka46.com/s/official/diary/formation/list\">フォーメーションページはコチラ</a>"
+    },
+    {
       "category": "media",
       "code": "M02491",
       "title": "8月16日(土)放送、ニッポン放送「オールナイトニッポン0(ZERO)」のパーソナリティに正源司陽子が初挑戦！",
@@ -153,5 +163,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "14"
+  "count": "15"
 }
