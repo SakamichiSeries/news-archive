@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100200",
+      "title": "「日向坂ちゃんねる」にて「【鬼ミッションも余裕？】五期生冠番組発表会見に潜入したのワシやないかい！【日向坂になりましょう】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100200",
+      "pubdate": "2025/08/11 20:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【鬼ミッションも余裕？】五期生冠番組発表会見に潜入したのワシやないかい！【日向坂になりましょう】」を公開いたしました！<br /><br />「五期生祭りVoL.1」<br />5つ目の企画は、「日向坂になりましょう」発表会見に潜入！<br /><br />日向坂46四期生から五期生の冠番組へとリニューアルした、Lemino「日向坂になりましょう -五期生成長バラエティ-」<br /><br />そのリニューアル発表会見に、四期生の平岡海月・山下葉留花が潜入してきました！<br /><br />四期生からの\"鬼ミッション\"にも、果敢に挑戦する五期生をぜひご覧ください！<br /><br /><a href=\"https://youtu.be/O3jt_42tRHA\">https://youtu.be/O3jt_42tRHA</a><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/O3jt_42tRHA\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "release",
       "code": "R00439",
       "title": "15thシングル『お願いバッハ！』のアーティスト写真公開！",
@@ -173,5 +183,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "16"
+  "count": "17"
 }
