@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01759",
+      "title": "「櫻坂チャンネル」にて「【ぬいぐるみ病院】増本姉妹の大事な相棒「奈花」が入院！？無事に退院できるのか！」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01759",
+      "pubdate": "2025/08/13 21:00:00",
+      "tags": [
+        "57"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【ぬいぐるみ病院】増本姉妹の大事な相棒「奈花」が入院！？無事に退院できるのか！」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/u1xKkl17l08\">櫻坂チャンネル「【ぬいぐるみ病院】増本姉妹の大事な相棒「奈花」が入院！？無事に退院できるのか！」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/u1xKkl17l08?si=FPvXXV6Fkq-MsozA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /><br />"
+    },
+    {
       "category": "event",
       "code": "E00533",
       "title": "櫻坂46「5th TOUR 2025 “Addiction”」 京セラドーム大阪公演入場に関する注意事項",
@@ -232,5 +245,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "19"
+  "count": "20"
 }
