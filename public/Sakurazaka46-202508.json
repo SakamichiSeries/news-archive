@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01755",
+      "title": "8月14日(木)・21日(木)25:00～MBSラジオ「ゴチャ・まぜっ天国！」に大園玲が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01755",
+      "pubdate": "2025/08/13 12:00:00",
+      "tags": [
+        "54"
+      ],
+      "thumbnail": null,
+      "content": "<span>8月14日(木)・21日(木)25:00～MBSラジオ「ゴチャ・まぜっ天国！」に大園玲が出演<span>いたします。</span><br />武元唯衣の代打を務めます。<br /></span><span>ぜひお聴きください！<br /><br /><a href=\"https://www.mbs1179.com/gochaten/\" target=\"_blank\">MBSラジオ「ゴチャ・まぜっ天国!」公式サイトはコチラ</a></span>"
+    },
+    {
+      "category": "media",
       "code": "M01753",
       "title": "8月13日(水)8:00～TBS「ラヴィット！」に小島凪紗がVTR出演！",
       "caption": "",
@@ -209,5 +222,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "17"
+  "count": "18"
 }
