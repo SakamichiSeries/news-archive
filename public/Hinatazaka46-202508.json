@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02489",
+      "title": "8月15日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に平岡美月が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02489",
+      "pubdate": "2025/08/13 09:00:00",
+      "tags": [
+        "32"
+      ],
+      "thumbnail": null,
+      "content": "8月15日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に平岡美月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100200",
       "title": "「日向坂ちゃんねる」にて「【鬼ミッションも余裕？】五期生冠番組発表会見に潜入したのワシやないかい！【日向坂になりましょう】」を公開！",
@@ -183,5 +196,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "17"
+  "count": "18"
 }
