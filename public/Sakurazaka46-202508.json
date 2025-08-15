@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01754",
+      "title": "8月17日(日)19:00～テレビ朝日「ナニコレ珍百景」に井上梨名・守屋麗奈が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01754",
+      "pubdate": "2025/08/15 12:00:00",
+      "tags": [
+        "43",
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "8月17日(日)19:00～テレビ朝日「ナニコレ珍百景」に井上梨名・守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/nanikore/\">テレビ朝日「ナニコレ珍百景」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00487",
       "title": "LIVE Blu-ray&DVD『4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM』スペシャル応募抽選企画決定！",
@@ -275,5 +289,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "23"
+  "count": "24"
 }
