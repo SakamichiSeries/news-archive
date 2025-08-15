@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02493",
+      "title": "本日8月16日(土)21:00～フジテレビ系「ほんとにあった怖い話　夏の特別編2025」に金村美玖が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02493",
+      "pubdate": "2025/08/16 08:00:00",
+      "tags": [
+        "12"
+      ],
+      "thumbnail": null,
+      "content": "本日8月16日(土)21:00～フジテレビ系「ほんとにあった怖い話　夏の特別編2025」の<br /><span>『或る訳ありの部屋』</span>に金村美玖が出演いたします。<br /><br />ぜひご覧ください！<br /><a href=\"https://www.fujitv.co.jp/honkowa/\"><br /></a><a href=\"https://x.com/honkowa_fuji\">フジテレビ系「ほんとにあった怖い話」公式Xはコチラ</a><a href=\"https://www.fujitv.co.jp/honkowa/\"><br /></a>"
+    },
+    {
       "category": "event",
       "code": "E00723",
       "title": "ARENA TOUR 2025「MONSTER GROOVE」、ローソンチケット先行が8/16(土)12:00よりスタート！",
@@ -226,5 +239,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "21"
+  "count": "22"
 }
