@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100201",
+      "title": "「日向坂ちゃんねる」にて「【自由研究】生き物大好き大野愛実が虫採りに行ってみた！【石神井公園】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100201",
+      "pubdate": "2025/08/16 20:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「<span>【自由研究】生き物大好き大野愛実が虫採りに行ってみた！【石神井公園】</span>」を公開いたしました！<br /><br />「五期生祭りVoL.1」<br />6つ目の企画は、大野愛実の昆虫採集！<br /><br />我が家に迎えた生き物は数知れず。<br />生き物を愛する五期生・大野愛実が、虫採りに行ってきました！<br /><br />今回の目標はクワガタ、カブトムシ、ザリガニ！<br /><br />果たして、新たな家族を迎えることは出来るのか？！<br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/bCeKHUZP8Lo\">https://youtu.be/bCeKHUZP8Lo</a><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/bCeKHUZP8Lo\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02486",
       "title": "8月18日(月)19:00～日本テレビ「世界まる見え!テレビ特捜部」戦慄の瞬間2時間SPに金村美玖が出演！",
@@ -252,5 +262,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "23"
+  "count": "24"
 }
