@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00488",
+      "title": "8月18日(月)22時より『I want tomorrow to come ～4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM～』の1回限りYouTubeプレミア公開が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00488",
+      "pubdate": "2025/08/17 20:00:00",
+      "thumbnail": null,
+      "content": "全国ツアー「5th TOUR 2025 \"Addiction\"」のツアーファイナル京セラドーム大阪公演と、8月27日(水)のLIVE Blu-ray & DVD「4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM」リリースを記念して、<br />8月18(月)22:00より「I want tomorrow to come ~4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM~」を1回限りでYouTubeプレミア公開することが決定しました！<br /><br />4thアニラを象徴する圧倒的なパフォーマンスをお見逃しなく！<br /><br />■櫻坂46『I want tomorrow to come ～4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM～』<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/p31Mf2b_tKU\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M01756",
       "title": "8月19日(火)19:00～日本テレビ「ヒューマングルメンタリー オモウマい店」に大園玲・中嶋優月が出演！",
@@ -323,5 +333,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "27"
+  "count": "28"
 }
