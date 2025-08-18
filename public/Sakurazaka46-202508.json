@@ -1,6 +1,29 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01757",
+      "title": "「non-no」10月号（8月20日(水)発売）に中川智尋が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01757",
+      "pubdate": "2025/08/18 13:00:00",
+      "tags": [
+        "74"
+      ],
+      "thumbnail": null,
+      "content": "「non-no」10月号（8月20日(水)発売）に中川智尋が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://nonno.hpplus.jp/\">「non-no」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01758",
+      "title": " 「anan」No.2459（8月20日(水)発売）の表紙・巻頭に櫻坂46が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01758",
+      "pubdate": "2025/08/18 12:00:00",
+      "thumbnail": null,
+      "content": "「anan」No.2459（8月20日(水)発売）の表紙・巻頭に櫻坂46が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://ananweb.jp/\">「anan」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00488",
       "title": "8月18日(月)22時より『I want tomorrow to come ～4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM～』の1回限りYouTubeプレミア公開が決定！",
@@ -333,5 +356,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "28"
+  "count": "30"
 }
