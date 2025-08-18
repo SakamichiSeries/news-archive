@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02495",
+      "title": "「東京カレンダー」10月号（8月21日(木)発売）に正源司陽子が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02495",
+      "pubdate": "2025/08/18 14:30:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "「東京カレンダー」10月号（8月21日(木)発売）に正源司陽子が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://tokyo-calendar.jp/\">「東京カレンダー」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100201",
       "title": "「日向坂ちゃんねる」にて「【自由研究】生き物大好き大野愛実が虫採りに行ってみた！【石神井公園】」を公開！",
@@ -262,5 +275,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "24"
+  "count": "25"
 }
