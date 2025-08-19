@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00489",
+      "title": "8月26日(火)19:00より『4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM 発売記念リリースパーティー』の生配信が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00489",
+      "pubdate": "2025/08/19 20:00:00",
+      "thumbnail": null,
+      "content": "8月26日(火)19:00より、櫻坂46 OFFICIAL YouTube CHANNELにて、LIVE Blu-ray & DVD『4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM 発売記念リリースパーティー』の生配信が決定いたしました！<br /><br />今回も遠山大輔(グランジ)さん、金田哲(はんにゃ.)さんのお二人にご出演いただき、最新映像作品を熱く語ります！<br />ぜひご覧ください！<br />※メンバーの出演はございません。<br /><br />■<span>櫻坂46 LIVE Blu-ray & DVD『4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM』発売記念リリースパーティー<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/vxlxFZqP8DY\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
+    },
+    {
       "category": "media",
       "code": "M01761",
       "title": "8月21日(木)8:30～TBSラジオ「パンサー向井の#ふらっと」に松田里奈が生出演！",
@@ -382,5 +392,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "32"
+  "count": "33"
 }
