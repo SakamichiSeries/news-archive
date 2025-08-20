@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01764",
+      "title": "「MAQUIA」10月号（8月21日(木)発売）に守屋麗奈が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01764",
+      "pubdate": "2025/08/20 12:00:00",
+      "tags": [
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "<span>「MAQUIA」10月号（8月21日(木)発売）に守屋麗奈が登場いたします。</span><br /><span>ぜひチェックしてください。</span><br /><br /><a href=\"https://maquia.hpplus.jp/\">「MAQUIA」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00490",
       "title": "LIVE Blu-ray&DVD『4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM』発売記念・パネル展示決定！",
@@ -402,5 +415,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "34"
+  "count": "35"
 }
