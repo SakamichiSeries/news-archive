@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "release",
+      "code": "R00490",
+      "title": "LIVE Blu-ray&DVD『4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM』発売記念・パネル展示決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00490",
+      "pubdate": "2025/08/20 10:00:00",
+      "thumbnail": null,
+      "content": "<span>2025年8月27日</span><span>(水)発売、LIVE Blu-ray&DVD『4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM』</span>の発売を記念して、全国のCD SHOPでパネル展示を行うことが決定いたしました！<br />是非お近くのCDショップ・量販店に足を運んでみてください！<br /><br /><a href=\"https://www.sonymusic.co.jp/Music/Info/sakurazaka46/shoplist/250827-2/\">■パネル展示実施店舗はコチラ</a><br /><br />《開催期間》<br />2025年8月26日(火)以降掲出開始<br />※店舗によって掲出開始日が異なります。必ず各店舗の情報をご確認ください。<br />※予告なく、店舗内での展示場所や開催期日の変更がある場合がございます。あらかじめご了承ください。<br />※店舗によって展示点数が異なります。あらかじめご了承ください。"
+    },
+    {
+      "category": "release",
       "code": "R00489",
       "title": "8月26日(火)19:00より『4th YEAR ANNIVERSARY LIVE at ZOZO MARINE STADIUM 発売記念リリースパーティー』の生配信が決定！",
       "caption": "",
@@ -392,5 +402,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "33"
+  "count": "34"
 }
