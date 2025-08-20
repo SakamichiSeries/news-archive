@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02498",
+      "title": "「アップトゥボーイ」vol.354（8月22日(金)発売）の表紙・巻頭に大野愛実が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02498",
+      "pubdate": "2025/08/20 20:00:00",
+      "tags": [
+        "38"
+      ],
+      "thumbnail": null,
+      "content": "「アップトゥボーイ」vol.354（8月22日(金)発売）表紙・巻頭に大野愛実が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://x.com/wani_UTB\" target=\"_blank\">「アップトゥボーイ」公式Xはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00442",
       "title": "15thシングル『お願いバッハ！』　＠Loppi・HMV限定先着特典　印字メッセージ入り生写真のタイプ別参加メンバーが決定！",
@@ -309,5 +322,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "28"
+  "count": "29"
 }
