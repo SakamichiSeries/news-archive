@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00175",
+      "title": "「5th TOUR 2025 “Addiction”」大阪公演のキッチンカーが展開決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/G00175",
+      "pubdate": "2025/08/21 20:00:00",
+      "thumbnail": null,
+      "content": "「5th TOUR 2025&ldquo;Addiction&rdquo;」の開催を記念して、<br />ドリンク・チュロス・オリジナルグッズを販売するキッチンカーがライブに合わせて登場！<br /><br />大阪公演：イオンモール大阪ドームシティ　1F南入口付近 <br /><strong>■8月23日(土)　10:00 ～ 終演後30分程度</strong><br /><strong>■8月24日(日)　10:00 ～ 終演後30分程度</strong><br />※終演後販売は列が途切れ次第、終了いたします。 <br /><br />ドリンク・チュロスや、オリジナルグッズを販売いたします。<br /><br />＜お会計方法＞<br />クレジットカード・QUICPay・PayPay・d払い・auPAY・楽天ペイ<br />※現金・交通系ICはご利用いただけません。<br /><br />※キッチンカーはご予約なしでご利用頂けます。 <br /><br /><img src=\"https://sakurazaka46.com/files/14/foodkc.jpg\" alt=\"\" width=\"3551\" height=\"5000\" /><br /><img src=\"https://sakurazaka46.com/files/14/goodskc.jpg\" alt=\"\" width=\"3551\" height=\"5000\" /><br /><br /><br />皆様のご来店を心よりお待ちしております。<br /><br />▼特設サイト<br /><a href=\"https://www.spacetimes.co.jp/sakurazaka46_cafe2025/\">https://www.spacetimes.co.jp/sakurazaka46_cafe2025/</a>"
+    },
+    {
       "category": "media",
       "code": "M01760",
       "title": "8月23日(土)・24日(日)スポーツ報知「エリア特別一面新聞」を京セラドーム大阪会場周辺で特別販売決定！",
@@ -466,5 +476,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "39"
+  "count": "40"
 }
