@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00536",
+      "title": "9月13日(土)開催「Aniplex Online Fest 2025」に松田里奈と森田ひかるの出演が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00536",
+      "pubdate": "2025/08/22 18:01:00",
+      "tags": [
+        "48",
+        "50"
+      ],
+      "thumbnail": null,
+      "content": "9月13日(土)開催のアニプレックスが送るアニメ最新情報発信イベント「Aniplex Online Fest 2025」に「櫻坂46&times;ビルディバイド -ブライト-」応援大使の松田里奈と森田ひかるの出演が決定いたしました。当日はオンライン（YouTube）で無料開催予定。 新情報の発表をぜひお楽しみに！<br /><br /><img src=\"https://sakurazaka46.com/files/14/S__168263694_0.jpg\" alt=\"\" width=\"1066\" height=\"612\" /><br />&nbsp;<br />■Aniplex Online Fest 2025（アニプレックス オンライン フェス 2025）<br /><br />開催概要　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<br />・イベント日程：2025年9月13日（土）17:00開始予定　※日本時間<br />・視聴・参加方法：オンライン視聴のみ<br />・配信エリア：YouTubeにて世界配信を予定（一部の国と地域を除く）<br /><br />・配信先：<a href=\"https://youtube.com/live/WaWw_9fJcL8\">https://youtube.com/live/WaWw_9fJcL8</a><br />・イベント公式HP：<a href=\"https://aniplex-online-fest.com/\">https://aniplex-online-fest.com/</a><br />・アニプレックス公式SNS：<a href=\"https://x.com/aniplex_info\">https://x.com/aniplex_info</a><br /><br />※日程・内容は変更の可能性がございます。予めご了承ください。<br /><br /><br />"
+    },
+    {
       "category": "media",
       "code": "M01763",
       "title": "8月24日(日)24:00～TOKYO FM「澤本・権八のすぐにおわりますから。」に藤吉夏鈴が出演！",
@@ -533,5 +547,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "42"
+  "count": "43"
 }
