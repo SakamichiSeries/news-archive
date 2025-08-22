@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02500",
+      "title": "藤嶌果歩の冠特別番組 HTB「日向坂46 藤嶌果歩のほっかいど～なっつ！」が2025年10月放送決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02500",
+      "pubdate": "2025/08/22 21:00:00",
+      "thumbnail": null,
+      "content": "藤嶌果歩が地元北海道でいろんな&ldquo;！&rdquo;をお届けする、初冠特別番組の放送が決定いたしました！<br />放送日時などの詳細は追ってご案内します。<br /><br />■番組名：<br />「日向坂46 藤嶌果歩のほっかいど～なっつ！」 <br /><br />■放送日時：<br />2025年10月放送予定 （北海道ローカル） <br />TVer、HTB 公式YouTube にて見逃し配信予定 <br /><br />■出演者：<br />藤嶌果歩 <br />onちゃん（HTBマスコットキャラクター）"
+    },
+    {
+      "category": "media",
       "code": "M02498",
       "title": "「アップトゥボーイ」vol.354（8月22日(金)発売）の表紙・巻頭に大野愛実が登場！",
       "caption": "",
@@ -322,5 +332,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "29"
+  "count": "30"
 }
