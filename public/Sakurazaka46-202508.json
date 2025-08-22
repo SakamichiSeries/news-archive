@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01763",
+      "title": "8月24日(日)24:00～TOKYO FM「澤本・権八のすぐにおわりますから。」に藤吉夏鈴が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01763",
+      "pubdate": "2025/08/22 12:00:00",
+      "tags": [
+        "47"
+      ],
+      "thumbnail": null,
+      "content": "8月24日(日)24:00～TOKYO FM「澤本・権八のすぐにおわりますから。」に藤吉夏鈴が出演いたします。<br />ぜひお聴きください。<br /><br /><a href=\"https://x.com/suguowa\">TOKYO FM「澤本・権八のすぐにおわりますから。」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01768",
       "title": "「櫻坂チャンネル」にて「【櫻坂46 CAFE 2025】自分で考案したメニューを実食＆大園・的野も店員として潜入！【四期生も初登場】」を公開！",
       "caption": "",
@@ -520,5 +533,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "41"
+  "count": "42"
 }
