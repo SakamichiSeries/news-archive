@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100202",
+      "title": "「日向坂ちゃんねる」にて「【サシご飯】ひなの先輩はにぃたんに焼肉を食べさせたい！【月島】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100202",
+      "pubdate": "2025/08/23 21:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【サシご飯】ひなの先輩はにぃたんに焼肉を食べさせたい！【月島】」を公開いたしました！<br /><br />「五期生祭りVoL.1」<br />7つ目の企画は、サシご飯！<br /><br />五期生・坂井新奈が、三期生の上村ひなのに連れられて焼肉を食べてきました！<br /><br />最年少で加入した二人のトーク、ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/yMoe5vjp2wk\">https://youtu.be/yMoe5vjp2wk</a><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/yMoe5vjp2wk\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02496",
       "title": "8月25日(月)24:29～ 日本テレビ「THEパニックGP」に 上村ひなの が出演！",
@@ -345,5 +355,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "31"
+  "count": "32"
 }
