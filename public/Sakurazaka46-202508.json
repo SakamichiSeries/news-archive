@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01773",
+      "title": "「櫻坂チャンネル」にて「【アーカイブ】『5th TOUR 2025 “Addiction”』完走記念 緊急生配信」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01773",
+      "pubdate": "2025/08/24 23:23:39",
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【アーカイブ】『5th TOUR 2025 &ldquo;Addiction&rdquo;』完走記念 緊急生配信」を公開いたしました。<br />4月より始まった「5th TOUR 2025 &ldquo;Addiction&rdquo;」のファイナル 大阪公演直後の熱いメンバーが生出演しました！<br />ぜひご覧ください。<br /><br /><a href=\"https://youtube.com/live/cqtpJ4TnZxE?feature=share\">櫻坂チャンネル「【アーカイブ】『5th TOUR 2025 &ldquo;Addiction&rdquo;』完走記念 緊急生配信」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/cqtpJ4TnZxE?si=w_uCx0cFXFoX97bG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />「5th TOUR 2025 &ldquo;Addiction&rdquo;」大阪公演DAY2の配信チケットはコチラ<br /><a href=\"https://sakurazaka46.com/s/s46/page/nationaltour2025\">https://sakurazaka46.com/s/s46/page/nationaltour2025<br /></a><br />【日程・時間】 <br />リピート配信：8月31日（日） 開場(配信開始) 17:00 ／ 開演(ライブ開始) 18:00<br /><br /> 【料金】<br /><i>4,600</i>円(税込)"
+    },
+    {
       "category": "release",
       "code": "M01771",
       "title": "13th Single coming soon!",
@@ -587,5 +597,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "47"
+  "count": "48"
 }
