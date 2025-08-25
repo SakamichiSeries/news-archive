@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00538",
+      "title": "「バズリズム LIVE 2025」11月2日(日)公演に櫻坂46の出演が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00538",
+      "pubdate": "2025/08/25 18:00:00",
+      "thumbnail": null,
+      "content": "<span>11月<span lang=\"EN-US\">1</span>日(土)～3日(月)まで横浜アリーナにて開催される「バズリズム LIVE 2025」</span>に櫻坂46の出演が決定いたしました。<br />櫻坂46は11月2日(日)に出演いたします。皆様のご来場をお待ちしております！<br /><br />＜公演概要＞<br />タイトル：バズリズム LIVE 2025<br />日程：<span>2025</span>年<span>11</span>月<span>1</span>日（土）〜<span> 11</span>月<span>3</span>日（月・祝）<br />開場／開演時間：開場<span>16:00 / </span>開演<span>17:00</span>（予定） ※<span>3</span>公演共通<br />会場：横浜アリーナ <span>(</span>神奈川県横浜市港北区新横浜<span> 3-10)<br /></span>チケット:&yen;12,100(税込)<br />4アーティスト連続解禁先行(抽選)：8月21日(木)18:00〜8月31日(日)23:59<br /><br />MC:バカリズム<br />出演アーティスト(五十音順)<br />【11月1日(土)】DAY1<br />超特急・T.N.T・NiziU・muque・RIP SLYME・ONE N&rsquo; ONLY<br />【11月2日(日)】DAY2<br />原因は自分にある。・櫻坂46・syudou・HANA ・龍宮城&nbsp; &nbsp;and more<br />【11月3日(月・祝)】DAY3<br />Saucy Dog・sumika・マルシィ・UNISON SQUARE GARDEN・Lavt&nbsp; &nbsp;and more<br /><br />イベント公式サイト：<a href=\"https://buzzrhythm.live/\">https://buzzrhythm.live/</a><br />番組公式X：<a href=\"https://x.com/buzzrhythm_ntv\">@BUZZRHYTHM_NTV</a><br />Instagram：<a href=\"https://www.instagram.com/buzzrhythm\">https://www.instagram.com/buzzrhythm</a><br /><br />主催：日本テレビ／企画・制作：「バズリズム 02」／制作協力：ソーゴー東京<br /><br />"
+    },
+    {
       "category": "other",
       "code": "O100057",
       "title": "システムメンテナンス実施のお知らせ",
@@ -628,5 +638,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "50"
+  "count": "51"
 }
