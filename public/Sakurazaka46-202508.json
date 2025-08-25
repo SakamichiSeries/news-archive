@@ -1,6 +1,27 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01775",
+      "title": "8月26日(火)～9月3日(水) 四期生「リレーYouTubeソロ生配信」の配信時間が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01775",
+      "pubdate": "2025/08/25 21:00:00",
+      "tags": [
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78"
+      ],
+      "thumbnail": null,
+      "content": "8月26日(火)～9月3日(水) 四期生9名で毎日配信予定の四期生「リレーYouTubeソロ生配信」の配信予定時間が決定いたしました。2日目以降の配信メンバーに関しては前日の担当メンバーが発表いたします！<br /><br />DAY1：8月26日(火) 21:00頃～(中川智尋)<br />DAY2：8月27日(水) 21:00頃～<br />DAY3：8月28日(木) 19:00頃～<br />DAY4：8月29日(金) 20:00頃～<br />DAY5：8月30日(土) 20:00頃～<br />DAY6：8月31日(日) 20:00頃～<br />DAY7：9月1日(月) 20:00頃～<br />DAY8：9月2日(火) 20:00頃～<br />DAY9：9月3日(水) 21:00頃～<br /><br />※配信開始時間は状況により変更になる可能性もございます。<br /><br />また、初回8月26日(火)21:00頃〜のトップバッターは中川智尋が務めます。<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/GnybsUGtf8U?si=Hxlv2IkXq3zXEcsV\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /><br />"
+    },
+    {
       "category": "event",
       "code": "E00538",
       "title": "「バズリズム LIVE 2025」11月2日(日)公演に櫻坂46の出演が決定！",
@@ -638,5 +659,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "51"
+  "count": "52"
 }
