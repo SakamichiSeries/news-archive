@@ -2,6 +2,27 @@
   "news": [
     {
       "category": "media",
+      "code": "M01770",
+      "title": "8月26日(火)～9月3日(水) 四期生9名による「リレーYouTubeソロ生配信」が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01770",
+      "pubdate": "2025/08/25 13:00:00",
+      "tags": [
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78"
+      ],
+      "thumbnail": null,
+      "content": "<p>「櫻坂チャンネル」にて8月26日(火)～9月3日(水)の9日間毎日、四期生9名による「リレーYouTubeソロ生配信」が決定いたしました！<br /><br />初回、8月26日(火)21:00頃〜のトップバッターは中川智尋が務めます。<br />ぜひお楽しみに！<br /><br /><iframe width=\"731\" height=\"360\" src=\"https://www.youtube.com/embed/GnybsUGtf8U?si=sd4hbiAp4fxmzNH1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /><a href=\"https://youtube.com/shorts/c6tKVY5KvyQ?feature=shared\">「櫻坂46四期生9名によるリレーYouTubeソロ生配信決定！ドキドキのトップバッターをくじ引きで決める！」はコチ</a></p>"
+    },
+    {
+      "category": "media",
       "code": "M01773",
       "title": "「櫻坂チャンネル」にて「【アーカイブ】『5th TOUR 2025 “Addiction”』完走記念 緊急生配信」を公開！",
       "caption": "",
@@ -597,5 +618,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "48"
+  "count": "49"
 }
