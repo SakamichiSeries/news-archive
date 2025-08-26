@@ -1,6 +1,34 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02499",
+      "title": "「B.L.T. SUMMER CANDY 2025」（8月29日(金)発売）の中面に大野愛実、高井俐香が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02499",
+      "pubdate": "2025/08/26 09:00:00",
+      "tags": [
+        "38",
+        "44"
+      ],
+      "thumbnail": null,
+      "content": "「B.L.T. SUMMER CANDY 2025」（8月29日(金)発売）の中面に大野愛実、高井俐香が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://bltweb.jp\">「B.L.T.」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02494",
+      "title": "「B.L.T.」10月号（8月28日(木)発売）の表紙・巻頭に小坂菜緒、中面に大野愛実が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02494",
+      "pubdate": "2025/08/26 09:00:00",
+      "tags": [
+        "14",
+        "38"
+      ],
+      "thumbnail": null,
+      "content": "「B.L.T.」10月号（8月28日(木)発売）の表紙・巻頭に小坂菜緒、中面に大野愛実が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://bltweb.jp/\" target=\"_blank\">「B.L.T.」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00724",
       "title": "ARENA TOUR 2025「MONSTER GROOVE」 セキスイハイムスーパーアリーナ宮城公演 駐車券・シャトルバス券発売決定！",
@@ -398,5 +426,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "36"
+  "count": "38"
 }
