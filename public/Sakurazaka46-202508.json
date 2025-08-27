@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M01776",
+      "title": "「BUBKA」10月号（8月29日(金)発売）の表紙・巻頭に森田ひかるが、中面に稲熊ひなが登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01776",
+      "pubdate": "2025/08/27 13:00:00",
+      "tags": [
+        "50",
+        "71"
+      ],
+      "thumbnail": null,
+      "content": "「BUBKA」10月号（8月29日(金)発売）の表紙・巻頭に森田ひかるが、中面に稲熊ひなが登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://www.bubkaweb.com/\">「BUBKA」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01766",
       "title": "「B.L.T. SUMMER CANDY 2025」（8月29日(金)発売）に中川智尋・山田桃実が登場！",
       "caption": "",
@@ -700,5 +714,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "55"
+  "count": "56"
 }
