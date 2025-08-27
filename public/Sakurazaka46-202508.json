@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M01766",
+      "title": "「B.L.T. SUMMER CANDY 2025」（8月29日(金)発売）に中川智尋・山田桃実が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01766",
+      "pubdate": "2025/08/27 12:00:00",
+      "tags": [
+        "74",
+        "78"
+      ],
+      "thumbnail": null,
+      "content": "「B.L.T. SUMMER CANDY 2025」（8月29日(金)発売）に中川智尋・山田桃実が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://bltweb.jp/\">「B.L.T. SUMMER CANDY 2025」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01777",
       "title": "8月27日(水)21:00頃～配信の「リレーYouTubeソロ生配信」DAY2が山田桃実に決定！＆DAY1 中川智尋のアーカイブも公開！",
       "caption": "",
@@ -686,5 +700,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "54"
+  "count": "55"
 }
