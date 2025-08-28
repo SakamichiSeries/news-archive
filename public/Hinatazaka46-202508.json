@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02505",
+      "title": "本日8月28日(木)19:00～TBS系「プレバト!!」に金村美玖が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02505",
+      "pubdate": "2025/08/28 12:00:00",
+      "tags": [
+        "12"
+      ],
+      "thumbnail": null,
+      "content": "本日8月28日(木)19:00～TBS系「プレバト!!」に金村美玖が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.mbs.jp/p-battle/\">TBS系「プレバト!!」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00446",
       "title": "15thシングル『お願いバッハ！』CDショップチェーン別先着特典絵柄決定!!",
@@ -513,5 +526,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "46"
+  "count": "47"
 }
