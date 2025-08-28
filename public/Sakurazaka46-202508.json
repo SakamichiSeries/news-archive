@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M01780",
+      "title": "8月29日(金)20:00頃～配信の「リレーYouTubeソロ生配信」DAY4が勝又春に決定！＆DAY3 松本和子のアーカイブも公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01780",
+      "pubdate": "2025/08/28 20:35:59",
+      "tags": [
+        "72",
+        "75"
+      ],
+      "thumbnail": null,
+      "content": "8月28日(木)19:00頃～配信の「リレーYouTubeソロ生配信」DAY3が松本和子に決定いたしました。<br />また、DAY2 山田桃実のアーカイブも公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtube.com/live/yFXyLymXCnc?feature=share\">櫻坂チャンネル「【8月29日(金)20:00～】リレーYouTubeソロ生配信 DAY4 勝又春【櫻坂46四期生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/yFXyLymXCnc?si=-pL_cJzoDVk3MCVo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /><br /><a href=\"https://youtube.com/live/F-WB18bTL4g?feature=share\">櫻坂チャンネル「【アーカイブ】リレーYouTubeソロ生配信 DAY3 松本和子【櫻坂46四期生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/F-WB18bTL4g?si=uLED5uPYo0MlHdKv\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M01778",
       "title": "8月28日(木)19:00頃～配信の「リレーYouTubeソロ生配信」DAY3が松本和子に決定！＆DAY2 山田桃実のアーカイブも公開！",
       "caption": "",
@@ -728,5 +742,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "57"
+  "count": "58"
 }
