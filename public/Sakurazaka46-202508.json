@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M01782",
+      "title": "8月30日(土)20:00頃～配信の「リレーYouTubeソロ生配信」DAY5が浅井恋乃未に決定！＆DAY4 勝又春のアーカイブも公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01782",
+      "pubdate": "2025/08/29 20:35:47",
+      "tags": [
+        "70",
+        "72"
+      ],
+      "thumbnail": null,
+      "content": "8月30日(土)20:00頃～配信の「リレーYouTubeソロ生配信」DAY5が浅井恋乃未に決定いたしました。<br />また、DAY4 勝又春のアーカイブも公開いたしました。<br />ぜひご覧ください。<br /><div></div><div><a href=\"https://youtube.com/live/cj5C6iSSTww?feature=share\">櫻坂チャンネル「【8月30日(土)20:00～】リレーYouTubeソロ生配信 DAY5 浅井恋乃未【櫻坂46四期生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/cj5C6iSSTww?si=mek7wu6sQWqQk1iZ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /></div><br /><a href=\"https://youtube.com/live/yFXyLymXCnc?feature=share\">櫻坂チャンネル「【8月29日(金)20:00～】リレーYouTubeソロ生配信 DAY4 勝又春【櫻坂46四期生】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/yFXyLymXCnc?si=-pL_cJzoDVk3MCVo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M01781",
       "title": "アニプレックスYouTubeチャンネルにて公開の「ビルディバイド応援大使（松田里奈＆森田ひかる）が『鬼滅の刃 ヒノカミ血風譚2』を実況プレイ！ 」に松田里奈と森田ひかるが出演！",
       "caption": "",
@@ -769,5 +783,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "60"
+  "count": "61"
 }
