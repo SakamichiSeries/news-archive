@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01774",
+      "title": "8月31日(日)24:00～TOKYO FM「澤本・権八のすぐにおわりますから。」に藤吉夏鈴が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01774",
+      "pubdate": "2025/08/29 12:00:00",
+      "tags": [
+        "47"
+      ],
+      "thumbnail": null,
+      "content": "8月31日(日)24:00～TOKYO FM「澤本・権八のすぐにおわりますから。」に藤吉夏鈴が出演いたします。<br />ぜひお聴きください。<br /><br /><a href=\"https://x.com/suguowa\">TOKYO FM「澤本・権八のすぐにおわりますから。」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01780",
       "title": "8月29日(金)20:00頃～配信の「リレーYouTubeソロ生配信」DAY4が勝又春に決定！＆DAY3 松本和子のアーカイブも公開！",
       "caption": "",
@@ -742,5 +755,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "58"
+  "count": "59"
 }
