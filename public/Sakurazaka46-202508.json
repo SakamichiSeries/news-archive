@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "E00537",
+      "title": "「bis」秋号（9月1日(月)発売）に山川宇衣が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00537",
+      "pubdate": "2025/08/30 12:00:00",
+      "tags": [
+        "77"
+      ],
+      "thumbnail": null,
+      "content": "<span>「bis」秋号（9月1日(月)発売）に山川宇衣が登場いたします。</span><br /><span>ぜひチェックしてください。</span><br /><br /><a href=\"https://bisweb.jp/\">「bis」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01782",
       "title": "8月30日(土)20:00頃～配信の「リレーYouTubeソロ生配信」DAY5が浅井恋乃未に決定！＆DAY4 勝又春のアーカイブも公開！",
       "caption": "",
@@ -783,5 +796,5 @@
       "content": "8月4日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "61"
+  "count": "62"
 }
