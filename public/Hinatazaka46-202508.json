@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100205",
+      "title": "「日向坂ちゃんねる」にて「【同期対決】真剣勝負の4人麻雀！熱戦を制したのは！？【雀魂】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100205",
+      "pubdate": "2025/08/30 20:30:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【同期対決】真剣勝負の4人麻雀！熱戦を制したのは！？【雀魂】」を公開いたしました！<br /><br />「五期生祭りVoL.1」<br />ラスト8つ目の企画は、4人麻雀！<br /><br />麻雀好きの五期生、<br />大田美月、大野愛実、佐藤優羽、高井俐香が集結！<br /><br />雀魂で4人麻雀をしました！<br />熱戦を制したのは誰なのか！？<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/KN4BWm6sPCs\">https://youtu.be/KN4BWm6sPCs<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/KN4BWm6sPCs\" title=\"【同期対決】真剣勝負の4人麻雀！熱戦を制したのは！？【雀魂】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02507",
       "title": "小坂菜緒がWOWOW連続ドラマW-30「ストロボ・エッジ」に出演決定！",
@@ -546,5 +556,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "49"
+  "count": "50"
 }
