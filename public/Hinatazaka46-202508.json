@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02508",
+      "title": "「週刊少年サンデー」40号（9月3日(水)発売）の表紙・巻頭に松尾桜が初登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02508",
+      "pubdate": "2025/08/31 09:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年サンデー」40号（9月3日(水)発売）の表紙・巻頭に松尾桜が初登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://websunday.net/\" target=\"_blank\">「週刊少年サンデー」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100205",
       "title": "「日向坂ちゃんねる」にて「【同期対決】真剣勝負の4人麻雀！熱戦を制したのは！？【雀魂】」を公開！",
@@ -556,5 +569,5 @@
       "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />富田鈴花のプロフィールページとブログを2025年9月30日(火)12:00にクローズさせていただくこととなりました。<br /><br />8月31日(日)12:00以降、富田鈴花のプロフィールページはメンバー一覧ページには表示されなくなりますが、9月30日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/15\">https://www.hinatazaka46.com/s/official/artist/15</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "50"
+  "count": "51"
 }
