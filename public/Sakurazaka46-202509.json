@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M01786",
+      "title": "9月4日(木)21:00～日本テレビ系「秘密のケンミンSHOW極」に武元唯衣・小島凪紗が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01786",
+      "pubdate": "2025/09/02 13:00:00",
+      "tags": [
+        "45",
+        "62"
+      ],
+      "thumbnail": null,
+      "content": "9月4日(木)21:00～日本テレビ系「秘密のケンミンSHOW極」に武元唯衣・小島凪紗が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ytv.co.jp/kenmin_show/\">日本テレビ系「秘密のケンミンSHOW極」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01779",
       "title": "9月3日(水)8:00～TBS「ラヴィット！」に大園玲・松田里奈が生出演し、増本綺良・守屋麗奈がVTR出演！",
       "caption": "",
@@ -44,5 +58,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "3"
+  "count": "4"
 }
