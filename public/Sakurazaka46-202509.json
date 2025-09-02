@@ -2,6 +2,22 @@
   "news": [
     {
       "category": "media",
+      "code": "M01779",
+      "title": "9月3日(水)8:00～TBS「ラヴィット！」に大園玲・松田里奈が生出演し、増本綺良・守屋麗奈がVTR出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01779",
+      "pubdate": "2025/09/02 12:00:00",
+      "tags": [
+        "48",
+        "54",
+        "57",
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "9月3日(水)8:00～TBS「ラヴィット！」に大園玲・松田里奈が生出演し、増本綺良・守屋麗奈がVTR出演いたします。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01787",
       "title": "9月2日(火)20:00頃～配信の「リレーYouTubeソロ生配信」DAY8が稲熊ひなに決定！＆DAY7 佐藤愛桜のアーカイブも公開！",
       "caption": "",
@@ -28,5 +44,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "2"
+  "count": "3"
 }
