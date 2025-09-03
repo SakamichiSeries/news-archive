@@ -2,6 +2,39 @@
   "news": [
     {
       "category": "media",
+      "code": "M01791",
+      "title": "櫻坂46 四期生「リレーYouTubeソロ生配信」DAY9 山川宇衣のアーカイブを公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01791",
+      "pubdate": "2025/09/03 21:37:05",
+      "tags": [
+        "77"
+      ],
+      "thumbnail": null,
+      "content": "櫻坂46 四期生「リレーYouTubeソロ生配信」DAY9 山川宇衣のアーカイブを公開いたしました。<br />ぜひご覧ください。<br /><div><br /><a href=\"https://youtube.com/live/uu10pnHh4AE?feature=share\">櫻坂チャンネル「【アーカイブ】リレーYouTubeソロ生配信 DAY9 山川宇衣【櫻坂46四期生】」はコチラ</a></div><div><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/uu10pnHh4AE?si=FsJCy85AzENdgMSq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>"
+    },
+    {
+      "category": "event",
+      "code": "E00539",
+      "title": "11月28日(金)～11月30日(日)シンガポールにて開催される「Anime Festival Asia Singapore 2025」に櫻坂46の出演が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00539",
+      "pubdate": "2025/09/03 21:15:01",
+      "thumbnail": null,
+      "content": "11月28日(金)～11月30日(日)シンガポールにて開催される「Anime Festival Asia Singapore 2025」に櫻坂46の出演が決定いたしました！<br />櫻坂46は11月28日(金)に出演致します。<br />出演時間やチケットの販売情報などの詳細は随時発表されますので公式HPなどをご確認ください！<br /><br />&lt;公演概要&gt;<br />Anime Festival Asia Singapore 2025<br />【開催日時】11月28日(金)～11月30日(日)<br />※櫻坂46の出演は11月28日(金)<br />【会場】Suntec Singapore Convention & Exhibition Centere<br /><br />▼チケットのご購入はコチラ<br /><a href=\"https://ticketmaster.sg/\">https://ticketmaster.sg/</a><br /><br />▼「Anime Festival Asia Singapore 2025」公式ホームページはコチラ<br /><a href=\"https://animefestival.asia/afasg25/\">https://animefestival.asia/afasg25/</a><br /><br /><img src=\"https://sakurazaka46.com/files/14/AFASG25_SNS_ILA_phase2.jpg\" alt=\"\" width=\"1080\" height=\"1350\" />"
+    },
+    {
+      "category": "event",
+      "code": "E00540",
+      "title": "Sakurazaka46 will make an appearance at Anime Festival Asia Singapore 2025, held in Singapore from November 28th (Fri) to November 30th (Sun)!",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00540",
+      "pubdate": "2025/09/03 21:15:00",
+      "thumbnail": null,
+      "content": "<p>Sakurazaka46 will make an appearance at Anime Festival Asia Singapore 2025, held in Singapore from November 28th (Fri) to November 30th (Sun)!<br />Sakurazaka46 will perform on November 28th (Fri).<br />Details such as performance time and ticket sales will be announced on the official website, so please check there for the latest updates!<br /><br />Event details:<br />Anime Festival Asia Singapore 2025<br />Dates: November 28th (Fri) to November 30th (Sun)<br />*Sakurazaka46 will perform on November 28th (Fri)<br />Venue: Suntec Singapore Convention & Exhibition Centre<br /><br />▼Purchase tickets:<br /><a href=\"https://ticketmaster.sg/\">https://ticketmaster.sg/</a><br /><br />▼Anime Festival Asia Singapore 2025 Official Website:<br /><a href=\"https://animefestival.asia/afasg25/\">https://animefestival.asia/afasg25/<br /><br /><img src=\"https://sakurazaka46.com/files/14/AFASG25_SNS_ILA_phase2.jpg\" alt=\"\" width=\"1080\" height=\"1350\" /><br /></a></p>"
+    },
+    {
+      "category": "media",
       "code": "M01789",
       "title": "9月3日(火)21:00頃～配信の「リレーYouTubeソロ生配信」DAY9が山川宇衣に決定！＆DAY8 稲熊ひなのアーカイブも公開！",
       "caption": "",
@@ -72,5 +105,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "5"
+  "count": "8"
 }
