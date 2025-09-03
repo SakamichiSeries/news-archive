@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100206",
+      "title": "9月15日(月)15:00～公式ゲームアプリ「ひなこい」のリニューアルが決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100206",
+      "pubdate": "2025/09/03 19:00:00",
+      "thumbnail": null,
+      "content": "9月15日(月)15:00～公式ゲームアプリ「ひなこい」にて、大規模リニューアルの実施が決定いたしました。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_%E3%80%90%E3%81%B2%E3%81%AA%E3%81%93%E3%81%84%E3%80%91%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%ABKV.jpg\" alt=\"\" width=\"1920\" height=\"1080\" /><br /><br />■リニューアル概要<br /><strong>・新オープニングムービー配信！</strong><br /><iframe width=\"320\" height=\"180\" src=\"//www.youtube.com/embed/aMei619iwiY\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /><strong>・新しい物語の舞台は「海沿いの総合高校」</strong><br />これまでの世界観を一新し、海辺の町で繰り広げられる青春ストーリーがスタート！<br /><br /><strong>・新機能「学園会話」</strong><br />学園へ向かうとメンバーが話しかけてくれる「学園会話機能」が新登場！<br /><br /><strong>・イベント「海風にのれ！青春スタートダッシュ」</strong><br />すごろく形式のアプリ内イベントを開催。イベントではスペシャルムービー等豪華報酬が登場！<br /><br /><strong>・YouTube特番『抜き打ち！胸キュン♡テスト』を配信！</strong><br />【配信日時】2025年9月15日(月)20:00〜<br />【出演】金村美玖、上村ひなの、髙橋未来虹、正源司陽子<br />【配信チャンネル】ひなこいYouTubeチャンネル（<a href=\"https://www.youtube.com/@hinakoiofficial\">https://www.youtube.com/@hinakoiofficial</a>）<br /><br />その他にも「新学期ログインボーナス」や「あいことばキャンペーン」など盛りだくさん！<br /><br />詳しくは「ひなこい」公式サイトをご確認ください。<br /><br />公式サイト：<a href=\"https://hinakoi.jp/\">https://hinakoi.jp/</a><br />公式X：<a href=\"https://x.com/hinakoiofficial\">https://x.com/hinakoiofficial</a><br /><br />「ひなこい」配信プラットフォーム：<br />iOS版 App Store <br /><a href=\"https://apps.apple.com/jp/app/id1489909693\">https://apps.apple.com/jp/app/id1489909693</a><br />Android版 Google Play<br /><a href=\"https://play.google.com/store/apps/details?id=jp.co.tenantz.hinakoi\">https://play.google.com/store/apps/details?id=jp.co.tenantz.hinakoi</a>"
+    },
+    {
       "category": "release",
       "code": "R00451",
       "title": "15thシングル『お願いバッハ！』の発売を記念して、HMVにてコラボレーション展開決定！",
@@ -41,5 +51,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "4"
+  "count": "5"
 }
