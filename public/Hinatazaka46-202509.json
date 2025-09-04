@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00452",
+      "title": "15thシングル『お願いバッハ！』TYPE-B収録特典映像「ひなたの裏側～the other side of HINATA～＜五期生 おもてなし会編＞」ダイジェスト公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00452",
+      "pubdate": "2025/09/04 17:00:00",
+      "thumbnail": null,
+      "content": "5月21日(水)発売となる15thシングル『お願いバッハ！』TYPE-B収録特典映像「ひなたの裏側～the other side of HINATA～＜五期生 おもてなし会編＞」のダイジェストを、日向坂46 OFFICIAL YouTube CHANNELにて公開しました。<br />ぜひご覧ください！<br /><br />■日向坂46 15thシングル『お願いバッハ！』特典映像「ひなたの裏側～the other side of HINATA～＜五期生 おもてなし会編＞」ダイジェスト映像<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/yIDTF8wAEKw\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "other",
       "code": "O100206",
       "title": "9月15日(月)15:00～公式ゲームアプリ「ひなこい」のリニューアルが決定！",
@@ -51,5 +61,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "5"
+  "count": "6"
 }
