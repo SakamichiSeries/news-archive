@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01788",
+      "title": "9月6日(土)20:54～TBS「いくらかわかる金？」に松田里奈が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01788",
+      "pubdate": "2025/09/04 12:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "<span class=\"f130\">9</span><span>月</span><span class=\"f130\">6</span><span>日</span>(土)20:54～TBS「いくらかわかる金？」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/wakarukane_tbs/\">TBS「いくらかわかる金？」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01791",
       "title": "櫻坂46 四期生「リレーYouTubeソロ生配信」DAY9 山川宇衣のアーカイブを公開！",
       "caption": "",
@@ -105,5 +118,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "8"
+  "count": "9"
 }
