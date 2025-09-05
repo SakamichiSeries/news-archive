@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02512",
+      "title": "「andGIRL」2025年秋号（本日9月5日(金)発売）に松尾桜が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02512",
+      "pubdate": "2025/09/05 09:00:00",
+      "tags": [
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "<span class=\"s2\">本日9月5日(金)発売の「andGIRL」2025年秋号に松尾桜が登場しています！<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.andgirl.jp/\">「andGIRL」公式ホームページはコチラ</a></span>"
+    },
+    {
       "category": "release",
       "code": "R00452",
       "title": "15thシングル『お願いバッハ！』TYPE-B収録特典映像「ひなたの裏側～the other side of HINATA～＜五期生 おもてなし会編＞」ダイジェスト公開！",
@@ -61,5 +74,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "6"
+  "count": "7"
 }
