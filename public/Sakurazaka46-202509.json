@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M01792",
+      "title": "「櫻坂チャンネル」にて「【怪獣８号】森田と谷口がゲームとアニメを語りまくる！」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01792",
+      "pubdate": "2025/09/05 17:00:00",
+      "tags": [
+        "50",
+        "63"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【怪獣８号】森田と谷口がゲームとアニメを語りまくる！」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/oRaxJyEEjII\">櫻坂チャンネル「【怪獣８号】森田と谷口がゲームとアニメを語りまくる！」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/oRaxJyEEjII?si=jMCjMRgsEg-jU6AN\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M01788",
       "title": "9月6日(土)20:54～TBS「いくらかわかる金？」に松田里奈が出演！",
       "caption": "",
@@ -118,5 +132,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "9"
+  "count": "10"
 }
