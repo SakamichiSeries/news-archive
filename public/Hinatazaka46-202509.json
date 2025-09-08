@@ -1,6 +1,26 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00459",
+      "title": "15thシングル『お願いバッハ！』収録曲『空飛ぶ車』のフォーメーションを公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00459",
+      "pubdate": "2025/09/08 21:00:01",
+      "thumbnail": null,
+      "content": "<span>15thシングル『お願いバッハ！』に収録される五期生曲『空飛ぶ車』</span>のフォーメーションを公開いたしました！<br />ぜひチェックしてください！<br /><br />■フォーメーションページは<a href=\"https://www.hinatazaka46.com/s/official/diary/formation/list\">コチラ</a>"
+    },
+    {
+      "category": "release",
+      "code": "R00463",
+      "title": "15thシングル『お願いバッハ！』収録曲『空飛ぶ車』MUSIC VIDEO公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00463",
+      "pubdate": "2025/09/08 21:00:00",
+      "thumbnail": null,
+      "content": "<span>15thシングル『お願いバッハ！』収録曲『空飛ぶ車』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />是非ご覧ください！<br /><br />■日向坂46『空飛ぶ車』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/YyGPXrzvfYk\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
+    },
+    {
       "category": "media",
       "code": "M02511",
       "title": "「週刊少年マガジン」41号（9月10(水)発売）の表紙・巻頭に金村美玖が登場！",
@@ -187,5 +207,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "18"
+  "count": "20"
 }
