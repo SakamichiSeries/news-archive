@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02511",
+      "title": "「週刊少年マガジン」41号（9月10(水)発売）の表紙・巻頭に金村美玖が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02511",
+      "pubdate": "2025/09/08 09:00:00",
+      "tags": [
+        "12"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年マガジン」41号（9月10(水)発売）の表紙・巻頭に金村美玖が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://shonenmagazine.com/smaga/\" target=\"_blank\">「週刊少年マガジン」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00455",
       "title": "15thシングル「お願いバッハ！」TYPE-C,D収録の特典映像\"五期生 個人PV\"の予告編第三弾が公開！",
@@ -174,5 +187,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "17"
+  "count": "18"
 }
