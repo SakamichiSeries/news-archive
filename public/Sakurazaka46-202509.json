@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01790",
+      "title": "9月10日(水)8:00～TBS「ラヴィット！」に小島凪紗が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01790",
+      "pubdate": "2025/09/09 13:00:00",
+      "tags": [
+        "62"
+      ],
+      "thumbnail": null,
+      "content": "9月10日(水)8:00～TBS「ラヴィット！」に小島凪紗が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00541",
       "title": "『LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～』開催決定！",
@@ -142,5 +155,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "11"
+  "count": "12"
 }
