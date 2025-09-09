@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01793",
+      "title": "「週刊少年チャンピオン」41号（9月11日(木)発売）の表紙・巻頭に中川智尋が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01793",
+      "pubdate": "2025/09/09 14:00:00",
+      "tags": [
+        "74"
+      ],
+      "thumbnail": null,
+      "content": "<span>「週刊少年チャンピオン」41号（9月11日(木)発売）の表紙・巻頭に中川智尋が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://www.akitashoten.co.jp/w-champion\" target=\"_blank\">「週刊少年チャンピオン」公式ホームページはコチラ</a><br /><br /></span>"
+    },
+    {
+      "category": "media",
       "code": "M01790",
       "title": "9月10日(水)8:00～TBS「ラヴィット！」に小島凪紗が出演！",
       "caption": "",
@@ -155,5 +168,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "12"
+  "count": "13"
 }
