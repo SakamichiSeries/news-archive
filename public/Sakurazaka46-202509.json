@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01796",
+      "title": "「櫻坂チャンネル」にて「【みやざき大使】延岡市出身の松田里奈が故郷のみやざき大使を拝命！【帰省Vlog】」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01796",
+      "pubdate": "2025/09/09 20:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【みやざき大使】延岡市出身の松田里奈が故郷のみやざき大使を拝命！【帰省Vlog】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/_PDGeJEN1SM\">櫻坂チャンネル「【みやざき大使】延岡市出身の松田里奈が故郷のみやざき大使を拝命！【帰省Vlog】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/_PDGeJEN1SM?si=6koP9_Uy_sDUiR9r\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M01793",
       "title": "「週刊少年チャンピオン」41号（9月11日(木)発売）の表紙・巻頭に中川智尋が登場！",
       "caption": "",
@@ -168,5 +181,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "13"
+  "count": "14"
 }
