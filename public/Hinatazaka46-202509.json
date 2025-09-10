@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00731",
+      "title": "ARENA TOUR 2025「MONSTER GROOVE」のTOURキービジュアルが公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00731",
+      "pubdate": "2025/09/10 19:00:00",
+      "thumbnail": null,
+      "content": "全国6都市13公演をまわるARENA TOUR 2025「MONSTER GROOVE」の開催に際し、日向坂46初の『TOURキービジュアル』を作成いたしました。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/hinatazaka_liveKV_hinagata_250909_A.jpg\" alt=\"\" width=\"4915\" height=\"2434\" /><br /><br />この『TOURキービジュアル』は、&ldquo;Super Happy Aura&rdquo;（スーパーハッピーオーラ）をテーマに、日向坂46メンバーから溢れ出るハッピーオーラを可視化した&ldquo;満面の笑み&rdquo;が特徴的なビジュアルとなっています。<br /><br />また、キャッチコピーの「ヤなことぜんぶ、笑いとばせ」は、『LIVEを通じて、マイナスを吹っ飛ばして、プラスを超えて、ハッピーに変える。日向坂46がおもいっきり笑えば、その笑顔は伝染し、広がっていくはず。ぜんぶ忘れるぐらいに笑いとばして、少しでもハッピーな気持ちを持ち帰ってもらえたら。』という、想いを込めて制作いたしました。<br /><br />こちらの『TOURキービジュアル』を使用したフォトスポットが全国の各LIVE会場に設置され、TOURのラストを飾る、11月19日(水)～11月21日(金)の国立代々木競技場第一体育館では、フォトスポットに他会場とは異なる仕掛けを用意しています。<br /><br />ぜひ皆様、各会場に足をお運びください！<br /><br />【ARENA TOUR 2025「MONSTER GROOVE」特設サイト】<br /><a href=\"https://www.hinatazaka46.com/tour2025/\">https://www.hinatazaka46.com/tour2025/</a>"
+    },
+    {
       "category": "media",
       "code": "M02510",
       "title": "河田陽菜2nd写真集の発売が決定！",
@@ -277,5 +287,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "27"
+  "count": "28"
 }
