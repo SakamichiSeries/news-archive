@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01795",
+      "title": "9月11日(木)21:00～フジテレビ「この世界は1ダフル」に田村保乃が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01795",
+      "pubdate": "2025/09/10 12:00:00",
+      "tags": [
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "<span>9月11日(木)21:00～フジテレビ「この世界は1ダフル」に田村保乃が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/1derful/\" target=\"_blank\">フジテレビ「この世界は1ダフル」公式ホームページはコチラ</a><br /><br /></span>"
+    },
+    {
+      "category": "media",
       "code": "M01796",
       "title": "「櫻坂チャンネル」にて「【みやざき大使】延岡市出身の松田里奈が故郷のみやざき大使を拝命！【帰省Vlog】」を公開！",
       "caption": "",
@@ -181,5 +194,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "14"
+  "count": "15"
 }
