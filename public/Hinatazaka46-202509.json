@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100209",
+      "title": "「日向坂ちゃんねる」にて「【なおみく】金村が小坂を外に連れ出してみた！【山形編】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100209",
+      "pubdate": "2025/09/10 21:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【なおみく】金村が小坂を外に連れ出してみた！【山形編】」を公開いたしました！<br /><br />二期生・金村美玖が、同期の小坂菜緒を連れて山形旅へ！<br /><br />金村美玖がプランを計画！<br />二人で楽しいひとときを過ごしてきました。<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/dU9iZHV2NwA\">https://youtu.be/dU9iZHV2NwA</a><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/dU9iZHV2NwA\" title=\"【なおみく】金村が小坂を外に連れ出してみた！【山形編】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "event",
       "code": "E00731",
       "title": "ARENA TOUR 2025「MONSTER GROOVE」のTOURキービジュアルが公開！",
@@ -287,5 +297,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "28"
+  "count": "29"
 }
