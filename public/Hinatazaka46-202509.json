@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02514",
+      "title": "9月14日(日)16:55～日本テレビ「サンデーPUSHスポーツ」に石塚瑶季が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02514",
+      "pubdate": "2025/09/12 09:00:00",
+      "tags": [
+        "16"
+      ],
+      "thumbnail": null,
+      "content": "9月14日(日)16:55～日本テレビ「サンデーPUSHスポーツ」に石塚瑶季が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/push/\">日本テレビ「サンデーPUSHスポーツ」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00732",
       "title": "ARENA TOUR 2025「MONSTER GROOVE」宮城公演、公式チケット・トレードが9月12日(金)18:00よりスタート！",
@@ -337,5 +350,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "33"
+  "count": "34"
 }
