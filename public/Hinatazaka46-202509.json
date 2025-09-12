@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M02517",
+      "title": "9月18日(木)21:45〜NHK-FM「ミュージックライン」に金村美玖・正源司陽子が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02517",
+      "pubdate": "2025/09/12 18:00:00",
+      "tags": [
+        "12",
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "9月18日(木)21:45〜NHK-FM「ミュージックライン」に金村美玖・正源司陽子が出演いたします。<br />ぜひお聴きください！<br /><br /><a href=\"https://www.nhk.jp/p/ml/rs/Z9WGYY3GP5/\">NHK-FM「ミュージックライン」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02514",
       "title": "9月14日(日)16:55～日本テレビ「サンデーPUSHスポーツ」に石塚瑶季が出演！",
       "caption": "",
@@ -350,5 +364,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "34"
+  "count": "35"
 }
