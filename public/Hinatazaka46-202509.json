@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00734",
+      "title": "エフエム山陰 開局40周年記念 Special Radio Meeting～レトロな金曜日は、GO-！ひら砲らじお～ に平尾帆夏のゲスト出演が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00734",
+      "pubdate": "2025/09/13 09:00:00",
+      "tags": [
+        "31"
+      ],
+      "thumbnail": null,
+      "content": "エフエム山陰 開局40周年記念 Special Radio Meeting～レトロな金曜日は、GO-！ひら砲らじお～ に、平尾帆夏のゲスト出演が決定いたしました！<br /><br />■開催日時<br />2025年11⽉1⽇(土)<br />開場14:00 / 開始15:00<br /><br />■会場<br />島根県立産業交流館 くにびきメッセ多目的ホール<br /><br /><span>■料金<br /></span>全席指定：4,500円（番組特製ノベルティーステッカー付）<br /><br />▼詳細は特設ページをご覧ください<br /><a href=\"https://www.fm-sanin.co.jp/event/2025/18044\">https://www.fm-sanin.co.jp/event/2025/18044</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02519",
+      "title": "「Seventeen」2025年秋号(9月16日(火)発売)に大野愛実が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02519",
+      "pubdate": "2025/09/13 09:00:00",
+      "tags": [
+        "38"
+      ],
+      "thumbnail": null,
+      "content": "「Seventeen」2025年秋号(9月16日(火)発売)に大野愛実が登場！<br />是非ご覧ください。<br /><br /><a href=\"https://seventeen-web.jp/\">「Seventeen」の公式サイトはこちら</a><br /><br /><br />"
+    },
+    {
       "category": "release",
       "code": "R00465",
       "title": "15thシングル『お願いバッハ！』収録曲『言葉の限界』MUSIC VIDEO公開&先行配信が9月14日(日)0時に決定！",
@@ -394,5 +420,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "38"
+  "count": "40"
 }
