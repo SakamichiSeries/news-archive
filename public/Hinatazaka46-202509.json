@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02524",
+      "title": "金村美玖・河田陽菜が、TOKYO FM 『JA全農COUNTDOWN JAPAN』TOYOTA ARENA TOKYOの公開生放送にゲスト出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02524",
+      "pubdate": "2025/09/13 14:00:00",
+      "tags": [
+        "12",
+        "13"
+      ],
+      "thumbnail": null,
+      "content": "TOKYO FM『JA全農COUNTDOWN JAPAN』TOYOTA ARENA TOKYOの公開生放送に、金村美玖・河田陽菜のゲスト出演が決定いたしました！<br /><br />公開生放送は観覧無料、入場自由となります。ご希望の方は会場に直接お越しください！<br /><br />■番組名<br />TOKYO FM『JA全農 COUNTDOWN JAPAN』<br /><br />■放送日時・放送エリア<br />2025年10月4日(土) 13:00～13:55<br />TOKYO FMをはじめとするJFN全国38局<br /><br />■会場<br />TOYOTA ARENA TOKYO（東京都江東区青海1-3-1）<br /><br />■パーソナリティー（敬称略）<br />遠山大輔（グランジ）、潮紗理菜<br /><br />■番組HP<br /><a href=\"https://www.tfm.co.jp/countdownjapan/\">https://www.tfm.co.jp/countdownjapan/</a>"
+    },
+    {
       "category": "event",
       "code": "E00734",
       "title": "エフエム山陰 開局40周年記念 Special Radio Meeting～レトロな金曜日は、GO-！ひら砲らじお～ に平尾帆夏のゲスト出演が決定！",
@@ -420,5 +434,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "40"
+  "count": "41"
 }
