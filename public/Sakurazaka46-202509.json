@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01798",
+      "title": "10月5日(日)19:00～アニプレックスYouTubeチャンネルにて「【発売日解禁！】「櫻坂46×ビルディバイド -ブライト-」生配信特番！」の生配信が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01798",
+      "pubdate": "2025/09/13 19:43:54",
+      "tags": [
+        "48",
+        "50",
+        "59",
+        "62",
+        "63",
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "10月5日(日)19:00～アニプレックスYouTubeチャンネルにて生配信の「【発売日解禁！】「櫻坂46&times;ビルディバイド -ブライト-」生配信特番！」の生配信が決定し、応援大使の松田里奈、森田ひかる、石森璃花、小島凪紗、谷口愛季、的野美青が出演いたします。<br /><br />また、実際カードに使用される松田里奈と森田ひかるの画像も初公開！<br /><br /><img src=\"https://sakurazaka46.com/files/14/S__170147862_0%281%29.jpg\" alt=\"\" width=\"1504\" height=\"1039\" /><br /><br /><a href=\"https://www.youtube.com/live/yfvswSkKGmM\">アニプレックスYouTubeチャンネル「【発売日解禁！】「櫻坂46&times;ビルディバイド -ブライト-」生配信特番！」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/yfvswSkKGmM?si=ccxasi0kH79rUUkb\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "goods",
       "code": "G00176",
       "title": "櫻坂46生写真3種　通信販売受付開始のお知らせ",
@@ -250,5 +268,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "18"
+  "count": "19"
 }
