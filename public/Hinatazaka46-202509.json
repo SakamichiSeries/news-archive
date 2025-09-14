@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100210",
+      "title": "「日向坂ちゃんねる」にて「【克服企画】山下葉留花、辛い食べ物に挑戦しました【バラエティ修行】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100210",
+      "pubdate": "2025/09/14 21:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【克服企画】山下葉留花、辛い食べ物に挑戦しました【バラエティ修行】」を公開いたしました！<br /><br />四期生・山下葉留花が「辛い食べ物」の克服に挑戦！<br /><br />あまりの辛さに大絶叫！？<br />バラエティ修行中の山下葉留花をぜひご覧ください！<br /><br /><a href=\"https://youtu.be/5bGBVRqyzS8\">https://youtu.be/5bGBVRqyzS8<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/5bGBVRqyzS8\" title=\"【克服企画】山下葉留花、辛い食べ物に挑戦しました【バラエティ修行?】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "release",
       "code": "R00468",
       "title": "15thシングル『お願いバッハ！』収録曲「言葉の限界」MUSIC VIDEO公開&先行配信スタート！",
@@ -457,5 +467,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "43"
+  "count": "44"
 }
