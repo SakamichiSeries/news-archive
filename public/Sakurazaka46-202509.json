@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01797",
+      "title": "「週刊少年サンデー」42号（9月17日(水)発売）の表紙・巻頭に浅井恋乃未が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01797",
+      "pubdate": "2025/09/15 12:00:00",
+      "tags": [
+        "70"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年サンデー」42号（9月17日(水)発売）の表紙・巻頭に浅井恋乃未が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://websunday.net/\">「週刊少年サンデー」公式ホームページはコチラ</a><br /><br /><br /><br />"
+    },
+    {
+      "category": "media",
       "code": "M01798",
       "title": "10月5日(日)19:00～アニプレックスYouTubeチャンネルにて「【発売日解禁！】「櫻坂46×ビルディバイド -ブライト-」生配信特番！」の生配信が決定！",
       "caption": "",
@@ -268,5 +281,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "19"
+  "count": "20"
 }
