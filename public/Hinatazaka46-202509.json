@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02521",
+      "title": "「週刊少年マガジン」42号（9月17(水)発売）の表紙・巻頭に小坂菜緒が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02521",
+      "pubdate": "2025/09/15 09:00:00",
+      "tags": [
+        "12"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年マガジン」42号（9月17(水)発売）の表紙・巻頭に小坂菜緒が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://shonenmagazine.com/smaga/\" target=\"_blank\">「週刊少年マガジン」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100210",
       "title": "「日向坂ちゃんねる」にて「【克服企画】山下葉留花、辛い食べ物に挑戦しました【バラエティ修行】」を公開！",
@@ -467,5 +480,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "44"
+  "count": "45"
 }
