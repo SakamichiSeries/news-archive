@@ -2,6 +2,22 @@
   "news": [
     {
       "category": "release",
+      "code": "R00471",
+      "title": "DAM CHANNELに金村美玖・河田陽菜・上村ひなの・山下葉留花が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00471",
+      "pubdate": "2025/09/16 19:00:00",
+      "tags": [
+        "12",
+        "13",
+        "21",
+        "35"
+      ],
+      "thumbnail": null,
+      "content": "DAM CHANNELに金村美玖・河田陽菜・上村ひなの・山下葉留花が登場しております。<br /><span>※カラオケルームでの視聴期間：9月16日(火)順次～10月20日(土)<br /></span><br />是非ご覧ください！<br /><br /><a href=\"https://www.youtube.com/watch?v=V-tIEAmA4A0\">web限定動画はコチラ</a><br /><a href=\"https://www.clubdam.com/feature/popular/damchannel.html\">DAMチャンネルオフィシャルHPはコチラ</a>"
+    },
+    {
+      "category": "release",
       "code": "R00466",
       "title": "15thシングル『お願いバッハ！』発売記念 forTUNE meets オンラインミート＆グリート（個別トーク会）第7次～第9次応募受付決定!!",
       "caption": "",
@@ -536,5 +552,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "50"
+  "count": "51"
 }
