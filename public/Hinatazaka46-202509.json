@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02522",
+      "title": "「週刊少年チャンピオン」42号（9月18日(木)発売）の表紙・巻頭に渡辺莉奈が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02522",
+      "pubdate": "2025/09/16 09:00:00",
+      "tags": [
+        "36"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年チャンピオン」42号（9月18日(木)発売）の表紙・巻頭に渡辺莉奈が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.akitashoten.co.jp/w-champion\" target=\"_blank\">「週刊少年チャンピオン」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00469",
       "title": "9月17日(水)17:30～YouTube緊急生配信決定！「お願いバッハ！」スペシャルパフォーマンス！",
@@ -490,5 +503,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "46"
+  "count": "47"
 }
