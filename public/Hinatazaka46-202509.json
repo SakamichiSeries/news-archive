@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100211",
+      "title": "「日向坂ちゃんねる」にて「【コール動画】アリーナツアー2025、おひさま盛り上がっていくぞ〜！【愛はこっちのものだ 2025】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100211",
+      "pubdate": "2025/09/18 19:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【コール動画】アリーナツアー2025、おひさま盛り上がっていくぞ〜！【愛はこっちのものだ 2025】」を公開いたしました！<br /><br />河田陽菜、髙橋未来虹、藤嶌果歩、山下葉留花、片山紗希、下田衣珠季による「愛はこっちのものだ 2025」のコール動画！<br /><br />コールを覚えて、日向坂46 ARENA TOUR 2025「MONSTER GROOVE」を思いっきり楽しみましょう！<br /><br />ぜひご覧ください！<br /><a href=\"https://youtu.be/nPqbd4Tgzoo\">https://youtu.be/nPqbd4Tgzoo</a><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/nPqbd4Tgzoo\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "release",
       "code": "R00472",
       "title": "日向坂46 ARENA TOUR 2025「MONSTER GROOVE」公演限定！ 15th Single「お願いバッハ！」会場購入特典が決定！",
@@ -606,5 +616,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "56"
+  "count": "57"
 }
