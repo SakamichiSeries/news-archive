@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01803",
+      "title": "「櫻坂チャンネル」にて「【裏側】「5thツアー」で山﨑と谷口がカメラマンになってメンバーに密着！【地方編】」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01803",
+      "pubdate": "2025/09/19 21:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【裏側】「5thツアー」で山﨑と谷口がカメラマンになってメンバーに密着！【地方編】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/5i5Y-zRQVlg\">櫻坂チャンネル「【裏側】「5thツアー」で山﨑と谷口がカメラマンになってメンバーに密着！【地方編】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/5i5Y-zRQVlg?si=VrHWvBsyMD8DeCIy\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M01799",
       "title": "9月22日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演！",
       "caption": "",
@@ -294,5 +307,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "23"
+  "count": "24"
 }
