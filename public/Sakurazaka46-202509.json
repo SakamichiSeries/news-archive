@@ -1,6 +1,35 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01799",
+      "title": "9月22日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01799",
+      "pubdate": "2025/09/19 13:00:00",
+      "tags": [
+        "64"
+      ],
+      "thumbnail": null,
+      "content": "9月22日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01805",
+      "title": "「Ground Y × CHAINSAW MAN – THE MOVIE : REZE ARC Collaborate Collection」のビジュアルモデルに藤吉夏鈴・中嶋優月・的野美青・村山美羽が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01805",
+      "pubdate": "2025/09/19 12:05:00",
+      "tags": [
+        "47",
+        "64",
+        "65",
+        "68"
+      ],
+      "thumbnail": null,
+      "content": "「Ground Y &times; CHAINSAW MAN &ndash; THE MOVIE : REZE ARC Collaborate Collection」のビジュアルモデルに藤吉夏鈴・中嶋優月・的野美青・村山美羽が決定いたしました。<br /><br /><img src=\"https://sakurazaka46.com/files/14/_%E2%98%85Main_%E3%83%95%E3%82%9A%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9_logo.jpg\" alt=\"\" width=\"1420\" height=\"1022\" /><br /><br /><a href=\"https://theshopyohjiyamamoto.jp/shop/pages/groundy_chainsawman25.aspx\">「Ground Y &times; CHAINSAW MAN &ndash; THE MOVIE : REZE ARC Collaborate Collection」特設サイトはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00542",
       "title": "櫻坂46のコンサートにおける本人確認書類の変更について（今後新規に発表いたします公演より適用）",
@@ -265,5 +294,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "21"
+  "count": "23"
 }
