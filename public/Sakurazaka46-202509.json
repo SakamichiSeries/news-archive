@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01801",
+      "title": "「CanCam」11月号（9月22日(月)発売）に中川智尋が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01801",
+      "pubdate": "2025/09/20 13:00:00",
+      "tags": [
+        "74"
+      ],
+      "thumbnail": null,
+      "content": "「CanCam」11月号（9月22日(月)発売）に中川智尋が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://cancam.jp/\">「CanCam」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01800",
       "title": "「ViVi」11月号（9月22日(月)発売）に櫻坂46 四期生が登場！",
       "caption": "",
@@ -328,5 +341,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "25"
+  "count": "26"
 }
