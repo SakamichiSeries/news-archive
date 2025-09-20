@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "other",
+      "code": "O100212",
+      "title": "「日向坂ちゃんねる」にて「【大ピンチ】愛犬がママしか見てない件【きらちゃんも懐かれたい！】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100212",
+      "pubdate": "2025/09/20 22:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【大ピンチ】愛犬がママしか見てない件【きらちゃんも懐かれたい！】」を公開いたしました！<br /><br />竹内希来里の愛犬・ムクくんが、ママと地元の広島からやってきました！<br /><br />ドッグランで遊ぶつもりが、ムクくんにスルーされる竹内。<br />懐かれたい一心で、全力アピールする竹内希来里をぜひご覧ください！<br /><br /><a href=\"https://youtu.be/pat8Y8bPreU\">https://youtu.be/pat8Y8bPreU<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/pat8Y8bPreU\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "other",
       "code": "M02527",
       "title": "9月26日(金)15:00～公式ゲームアプリ「ひなこい」に五期生10名の入学が決定！",
       "caption": "",
@@ -646,5 +656,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "60"
+  "count": "61"
 }
