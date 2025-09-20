@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M01806",
+      "title": "アニプレックスYouTubeチャンネルにて公開の「ビルディバイド応援大使（石森璃花&的野美青）が社内見学！第2弾！」に石森璃花と的野美青が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01806",
+      "pubdate": "2025/09/20 18:38:12",
+      "tags": [
+        "59",
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "アニプレックスYouTubeチャンネルにて公開の「ビルディバイド応援大使（石森璃花&的野美青）が社内見学！第2弾！」に石森璃花と的野美青が出演しております。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/Oknkn0yDj4Y\">アニプレックスYouTubeチャンネル「ビルディバイド応援大使（石森璃花&的野美青）が社内見学！第2弾！」はコチラ<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/Oknkn0yDj4Y?si=q6XGxg3s2iHsN_Zy\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /></a>"
+    },
+    {
+      "category": "media",
       "code": "M01801",
       "title": "「CanCam」11月号（9月22日(月)発売）に中川智尋が登場！",
       "caption": "",
@@ -341,5 +355,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "26"
+  "count": "27"
 }
