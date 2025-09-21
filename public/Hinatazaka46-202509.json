@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02528",
+      "title": "9月26日(金)24:59〜日本テレビ「バズリズム02」に日向坂46が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02528",
+      "pubdate": "2025/09/21 11:00:00",
+      "thumbnail": null,
+      "content": "9月26日(金)24:59〜日本テレビ「バズリズム02」に日向坂46が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/buzzrhythm/\" target=\"_blank\">日本テレビ「バズリズム02」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100212",
       "title": "「日向坂ちゃんねる」にて「【大ピンチ】愛犬がママしか見てない件【きらちゃんも懐かれたい！】」を公開！",
@@ -656,5 +666,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "61"
+  "count": "62"
 }
