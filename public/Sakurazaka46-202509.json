@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00494",
+      "title": "四期生による新曲『Alter ego』が9月26日(金)から配信開始！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00494",
+      "pubdate": "2025/09/22 18:00:00",
+      "thumbnail": null,
+      "content": "四期生による新曲『Alter ego』(ヨミ：オルターイゴ)が9月26日(金)0時～ストリーミング＆ダウンロード配信することが決定しました！<br />お楽しみに！<br /><br /><a href=\"https://sakurazaka46.lnk.to/Alterego\">■『Alter ego』各種ストリーミング＆ダウンロードはコチラ</a><br />※配信のリンク先は9月26日(金)0時～有効となります。<br /><img src=\"https://sakurazaka46.com/files/14/S46%20Release/13th%20Unhappy%20birthday%E6%A7%8B%E6%96%87/Sakurazaka46_Alter%20ego_JK_haishin_RGB.jpg\" alt=\"\" width=\"800\" height=\"800\" />"
+    },
+    {
       "category": "other",
       "code": "O100059",
       "title": "10月1日(水)～四期生メンバー個人ブログ開始！",
@@ -420,5 +430,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "31"
+  "count": "32"
 }
