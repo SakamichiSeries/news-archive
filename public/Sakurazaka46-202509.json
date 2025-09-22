@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01802",
+      "title": "9月24日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に中嶋優月が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01802",
+      "pubdate": "2025/09/22 13:00:00",
+      "tags": [
+        "64"
+      ],
+      "thumbnail": null,
+      "content": "9月24日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.asahi.co.jp/yodan/\">朝日放送テレビ「これ余談なんですけど・・・」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00543",
       "title": "櫻坂46四期生、乃木坂46六期生、日向坂46五期生による「新参者 二〇二五 in TOKYU KABUKICHO TOWER」が11月8日(土)から開催決定！",
@@ -386,5 +399,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "29"
+  "count": "30"
 }

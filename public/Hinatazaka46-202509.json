@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02525",
+      "title": "WEBサイト「コミックナタリー」にて、「私の人生を変えたアニメ」に関する正源司陽子のインタビューが掲載！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02525",
+      "pubdate": "2025/09/22 13:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "<span lang=\"EN-US\">WEBサイト「コミックナタリー」にて、「私の人生を変えたアニメ」<span>に関する正源司陽子のインタビューが掲載されております。<br /></span>ぜひご覧ください。<br /><br /><a href=\"https://natalie.mu/comic/column/638536\">WEBサイト「コミックナタリー」正源司陽子インタビューはこちら</a></span>"
+    },
+    {
       "category": "event",
       "code": "E00736",
       "title": "日向坂46五期生、乃木坂46六期生、櫻坂46四期生による「新参者 二〇二五 in TOKYU KABUKICHO TOWER」が11月8日(土)から開催決定！",
@@ -689,5 +702,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "64"
+  "count": "65"
 }
