@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02530",
+      "title": "９月23日(火)19:00～日本テレビ系「ヒューマングルメンタリー オモウマい店」に河田陽菜・森本茉莉が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02530",
+      "pubdate": "2025/09/22 21:00:00",
+      "tags": [
+        "13",
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "９月23日(火)19:00～日本テレビ系「ヒューマングルメンタリー オモウマい店」に河田陽菜・森本茉莉が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ctv.co.jp/omouma/\" target=\"_blank\">日本テレビ「ヒューマングルメンタリー オモウマい店 」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00738",
       "title": "ARENA TOUR 2025「MONSTER GROOVE」 広島サンプラザホール公演、マリンメッセ福岡Ａ館公演入場に関する注意事項",
@@ -722,5 +736,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "67"
+  "count": "68"
 }
