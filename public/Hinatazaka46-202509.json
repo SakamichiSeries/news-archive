@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M02531",
+      "title": "9月23日(火)～25日(水)　21:00～放送のRKB毎日放送ラジオ「カリメン」に正源司陽子、山下葉留花がコメント出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02531",
+      "pubdate": "2025/09/23 14:02:58",
+      "tags": [
+        "29",
+        "35"
+      ],
+      "thumbnail": null,
+      "content": "9月23日(火)～25日(水)　21:00～放送のRKB毎日放送ラジオ「カリメン」に正源司陽子、山下葉留花がコメント出演いたします。<br />ぜひお聴きください。<br /><br />※コメント出演は22:00台を予定しています<br /><br /><a href=\"https://rkb.jp/radio/kari/\" target=\"_blank\">RKB毎日放送ラジオ「カリメン」公式ホームページはコチラ</a><br /><br /><br />"
+    },
+    {
+      "category": "media",
       "code": "M02532",
       "title": "9月23日(火・祝)23:00〜文化放送「レコメン!」に、上村ひなの、平岡海月がゲスト出演！",
       "caption": "",
@@ -750,5 +764,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "69"
+  "count": "70"
 }
