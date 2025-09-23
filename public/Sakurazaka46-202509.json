@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100060",
+      "title": "井上梨名 卒業のお知らせ",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100060",
+      "pubdate": "2025/09/23 22:00:00",
+      "tags": [
+        "43"
+      ],
+      "thumbnail": null,
+      "content": "<span>井上梨名ですが、先ほど本人のブログにて発表させていただいた通り、10月29日(水)発売の13thシングル「Unhappy birthday構文」の活動をもって櫻坂46から卒業することになりました。</span><br /><span>具体的な卒業時期等に関しましては、決まり次第ご報告させていただきます。</span><br /><span>&nbsp;</span><br /><span>今後とも、井上梨名、櫻坂46の応援のほど宜しくお願い致します。</span><br /><span>&nbsp;</span><br /><span>Seed & Flower合同会社</span>"
+    },
+    {
       "category": "shakehands",
       "code": "S00205",
       "title": "13thシングル『Unhappy birthday構文』発売記念 オンラインミート＆グリート（個別トーク会）開催！",
@@ -440,5 +453,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "33"
+  "count": "34"
 }
