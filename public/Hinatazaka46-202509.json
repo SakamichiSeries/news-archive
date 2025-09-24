@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02534",
+      "title": "９月25日(木)26:35～日本テレビ「オードリーのNFL倶楽部」に山口陽世が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02534",
+      "pubdate": "2025/09/24 21:00:00",
+      "tags": [
+        "24"
+      ],
+      "thumbnail": null,
+      "content": "９月25日(木)26:35～日本テレビ「オードリーのNFL倶楽部」に山口陽世が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/NFL/\" target=\"_blank\">日本テレビ「オードリーのNFL倶楽部」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00739",
       "title": "ARENA TOUR 2025「MONSTER GROOVE」福岡公演、公式チケット・トレードが本日18:00よりスタート！",
@@ -807,5 +820,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "74"
+  "count": "75"
 }
