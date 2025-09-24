@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02520",
+      "title": "9月29日(月)19:00～TBS「CDTV ライブ! ライブ!」に出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02520",
+      "pubdate": "2025/09/24 16:00:00",
+      "thumbnail": null,
+      "content": "9月29日(月)19:00～TBS「CDTV ライブ! ライブ!」に出演が決定しました！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/cdtv_livelive/\">TBS「CDTV ライブ! ライブ!」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02533",
       "title": "「五期生のぽかぽか写真館」の公開がスタート！",
       "caption": "",
@@ -787,5 +797,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "72"
+  "count": "73"
 }
