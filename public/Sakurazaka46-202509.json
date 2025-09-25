@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01807",
+      "title": "9月27日(土)20:54～TBS「いくらかわかる金？」に松田里奈が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01807",
+      "pubdate": "2025/09/25 12:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "<span class=\"f110\"><span class=\"f130\">9</span>月<span class=\"f130\">27</span>日(土)</span>20:54～TBS「いくらかわかる金？」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/wakarukane_tbs/\">TBS「いくらかわかる金？」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01808",
       "title": "9月26日(金)24:45～テレビ朝日「しくじり先生 俺みたいになるな!!」に井上梨名・大園玲・武元唯衣・山﨑天が出演！",
       "caption": "",
@@ -469,5 +482,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "35"
+  "count": "36"
 }
