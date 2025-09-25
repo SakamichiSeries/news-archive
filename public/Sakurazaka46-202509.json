@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01809",
+      "title": "「IDOL AND READ 044」（9月27日(土)発売）の裏表紙を目黒陽色が務め、中面に櫻坂46「5th TOUR 2025 \"Addiction\"」・「12th Single BACKS LIVE!!」のライブレポートが掲載！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01809",
+      "pubdate": "2025/09/25 14:00:00",
+      "tags": [
+        "76"
+      ],
+      "thumbnail": null,
+      "content": "「IDOL AND READ 044」（9月27日(土)発売）の裏表紙を目黒陽色が務め、中面に櫻坂46「5th TOUR 2025 \"Addiction\"」・「12th Single BACKS LIVE!!」のライブレポートが掲載されます。<br />ぜひチェックしてください。<br /><br /><a href=\"https://www.shinko-music.co.jp/item/pid0772539/\">「IDOL AND READ 044」の詳細はコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00544",
       "title": "10月18日(土)開催「Rakuten GirlsAward 2025 AUTUMN/WINTER」に田村保乃・藤吉夏鈴・守屋麗奈・山﨑天・的野美青の出演が決定！",
@@ -499,5 +512,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "37"
+  "count": "38"
 }
