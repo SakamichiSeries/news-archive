@@ -2,6 +2,21 @@
   "news": [
     {
       "category": "media",
+      "code": "M01804",
+      "title": "NHK BS「熱血バスケ」応援隊に大園玲・石森璃花・村井優の加入が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01804",
+      "pubdate": "2025/09/26 17:30:00",
+      "tags": [
+        "54",
+        "59",
+        "67"
+      ],
+      "thumbnail": null,
+      "content": "NHK BS「熱血バスケ」応援隊に大園玲・石森璃花・村井優の加入が決定いたしました。<br /><br />10月3日(金)から出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.nhk.jp/p/nekketsu-b/\">NHK BS「熱血バスケ」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01810",
       "title": "「B.L.T.」11月号（9月27日(土)発売）の表紙・巻頭に櫻坂46 四期生が登場！",
       "caption": "",
@@ -533,5 +548,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "39"
+  "count": "40"
 }
