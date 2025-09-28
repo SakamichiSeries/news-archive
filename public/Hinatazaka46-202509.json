@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100214",
+      "title": "「日向坂ちゃんねる」にて「【9回裏2アウト】山口陽世と石塚瑶季のナイスバッティング！」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100214",
+      "pubdate": "2025/09/28 22:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【9回裏2アウト】山口陽世と石塚瑶季のナイスバッティング！」を公開いたしました！<br /><br />野球好きの山口陽世と石塚瑶季が、バッティングセンターに行ってきました！<br /><br />先輩後輩のバッティング対決！<br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/jRBzAilHGXo\">https://youtu.be/jRBzAilHGXo<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/jRBzAilHGXo\" title=\"【9回裏2アウト】山口陽世と石塚瑶季のナイスバッティング！\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "event",
       "code": "E00742",
       "title": "平尾帆夏 9月28日(日) ARENA TOUR 2025「MONSTER GROOVE」広島公演欠席のお知らせ",
@@ -860,5 +870,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "79"
+  "count": "80"
 }
