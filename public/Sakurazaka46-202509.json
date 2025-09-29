@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01814",
+      "title": "10月1日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に中嶋優月が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01814",
+      "pubdate": "2025/09/29 12:00:00",
+      "tags": [
+        "64"
+      ],
+      "thumbnail": null,
+      "content": "10月1日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.asahi.co.jp/yodan/\">朝日放送テレビ「これ余談なんですけど・・・」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01812",
       "title": "9月30日(火)20:00～日本テレビ「踊る！さんま御殿!!」に大沼晶保が出演！",
       "caption": "",
@@ -561,5 +574,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "41"
+  "count": "42"
 }
