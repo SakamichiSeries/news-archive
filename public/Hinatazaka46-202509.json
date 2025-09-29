@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M02537",
+      "title": "9月30日(火)21:00～日本テレビ「ザ！世界仰天ニュース」に松田好花と石塚瑶季が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02537",
+      "pubdate": "2025/09/29 16:00:00",
+      "tags": [
+        "18",
+        "25"
+      ],
+      "thumbnail": null,
+      "content": "9月30日(火)21:00～日本テレビ「ザ！世界仰天ニュース」に松田好花と石塚瑶季が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/gyoten/\">日本テレビ「ザ！世界仰天ニュース」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02536",
       "title": "「週刊ヤングマガジン」No.44（本日9月29日(月)発売）に下田衣珠季が登場！",
       "caption": "",
@@ -883,5 +897,5 @@
       "content": "2025年9月17日(水)発売となる15thシングル<span>『お願いバッハ！』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "81"
+  "count": "82"
 }
