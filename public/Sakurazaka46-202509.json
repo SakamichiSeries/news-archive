@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "E00546",
+      "title": "「櫻坂46 CAFE 2025」コラボカフェグッズの事後通販が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00546",
+      "pubdate": "2025/09/30 17:00:00",
+      "thumbnail": null,
+      "content": "「櫻坂46 CAFE 2025」をご利用いただきまして誠にありがとうございました。<br /><br />コラボカフェグッズの事後通販が決定いたしました。<br />下記通販サイトよりお買い求めいただけます。<br /><a href=\"https://spacetimes.base.ec/categories/6897680\">https://spacetimes.base.ec/categories/6897680</a><br /><br />販売期間：2025年9月30日(火)17:00～2025年12月31日(水)23:59<br /><br />ぜひチェックしてみてください。<br /><br /><img src=\"https://sakurazaka46.com/files/14/_goods_%E3%82%AB%E3%83%95%E3%82%A71.jpg\" alt=\"\" width=\"1076\" height=\"1522\" /><br /><br /><img src=\"https://sakurazaka46.com/files/14/_goods_%E3%82%AB%E3%83%95%E3%82%A72.jpg\" alt=\"\" width=\"1076\" height=\"1522\" /><br /><br /><img src=\"https://sakurazaka46.com/files/14/_goods_%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E3%82%AB%E3%83%BC.jpg\" alt=\"\" width=\"3551\" height=\"5000\" /><br /><br />▼コラボカフェ特設サイト<br /><a href=\"https://www.spacetimes.co.jp/sakurazaka46_cafe2025/\">https://www.spacetimes.co.jp/sakurazaka46_cafe2025/</a>"
+    },
+    {
       "category": "media",
       "code": "M01811",
       "title": "10月1日(水)8:00～TBS「ラヴィット！」に小島凪紗が出演！",
@@ -610,5 +620,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "45"
+  "count": "46"
 }
