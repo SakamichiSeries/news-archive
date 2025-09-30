@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01813",
+      "title": "日刊スポーツ「坂道の火曜日」(9月30日(火)発刊)に松田里奈が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01813",
+      "pubdate": "2025/09/30 10:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "<span>日刊スポーツ「坂道の火曜日」(9月30日(火)発刊)に松田里奈が</span>登場しております。<br /><br /><span>ぜひチェックしてください。</span><br /><br /><a href=\"https://twitter.com/sakamichinikkan\">日刊スポーツ「坂道の火曜日」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01815",
       "title": "10月3日(金)12:00～動画配信サービス「Lemino」にて櫻坂46「4th ARENA TOUR 2024 新・櫻前線 -Go on back?-」愛知公演DAY1の独占配信が決定！",
       "caption": "",
@@ -584,5 +597,5 @@
       "content": "9月2日(火)8:00～TBS「ラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "43"
+  "count": "44"
 }
