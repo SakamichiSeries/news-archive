@@ -1,4 +1,15 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "release",
+      "code": "R00496",
+      "title": "13thシングル『Unhappy birthday構文』のソロアーティスト写真を更新！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00496",
+      "pubdate": "2025/10/01 10:00:00",
+      "thumbnail": null,
+      "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
+    }
+  ],
+  "count": "1"
 }

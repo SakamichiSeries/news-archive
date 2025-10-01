@@ -1,4 +1,18 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "media",
+      "code": "M02518",
+      "title": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に平岡海月が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02518",
+      "pubdate": "2025/10/01 09:00:00",
+      "tags": [
+        "32"
+      ],
+      "thumbnail": null,
+      "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に平岡海月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
+    }
+  ],
+  "count": "1"
 }
