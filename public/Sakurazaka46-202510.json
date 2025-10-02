@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01817",
+      "title": "10月4日(土)22:10〜テレビ朝日「THE世代感」に武元唯衣が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01817",
+      "pubdate": "2025/10/02 13:00:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "10月4日(土)22:10〜テレビ朝日「THE世代感」に武元唯衣が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ninchido/\">テレビ朝日「THE世代感」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01819",
       "title": "10月4日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に小田倉麗奈・中嶋優月が出演！",
       "caption": "",
@@ -54,5 +67,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "4"
+  "count": "5"
 }
