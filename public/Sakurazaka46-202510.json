@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00547",
+      "title": "2026年1月24日(土)みずほPayPayドーム福岡にて開催の「FUKUOKA MUSIC FES.2026」に櫻坂46の出演が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00547",
+      "pubdate": "2025/10/02 18:45:00",
+      "thumbnail": null,
+      "content": "2026年1月24日(土)・25日(日)に開催される「FUKUOKA MUSIC FES.2026」に櫻坂46の出演が決定いたしました。<br />櫻坂46は1月24日(土)に出演いたします。<br />皆様のご来場お待ちしております！<br /><br />公演概要<br />「FUKUOKA MUSIC FES.2026」<br />【日時】2026年1月24日(土)・25日(日)<br />【会場】ずほPayPayドーム福岡<br />【開演/終演】OPEN 9:00 / START 10:20 / END 20:20 予定<br /><br /><a href=\"https://fukuokamusic-fes.com/2026/index.html\">「FUKUOKA MUSIC FES.2026」公式ホームページはコチラ</a><br /><br /><img src=\"https://sakurazaka46.com/files/14/S__172474392.jpg\" alt=\"\" width=\"720\" height=\"900\" />"
+    },
+    {
       "category": "media",
       "code": "M01817",
       "title": "10月4日(土)22:10〜テレビ朝日「THE世代感」に武元唯衣が出演！",
@@ -67,5 +77,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "5"
+  "count": "6"
 }
