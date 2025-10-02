@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00744",
+      "title": "10月4日(土)「明治安田J1リーグ第33節・横浜F･マリノス戦」にて開催の「LAWSONエキサイトマッチ」始球式に、清水理央の登場が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00744",
+      "pubdate": "2025/10/02 16:00:00",
+      "tags": [
+        "28"
+      ],
+      "thumbnail": null,
+      "content": "10月4日(土)「明治安田J1リーグ第33節・横浜F･マリノス戦」にて開催の「LAWSONエキサイトマッチ」に、清水理央の登場が決定いたしました！<br />キックオフセレモニーの花束贈呈および始球式に登場いたします。<br /><br />また、ハーフタイムにスタジアムDJとのトークショーも予定しております。どうぞお楽しみに！<br /><br />◼︎「LAWSONエキサイトマッチ」開催概要<br />2025年10月4日(土)<br />明治安田J1リーグ第33節・横浜F･マリノス戦<br />(17:30キックオフ、ホームゲート13:30開場予定)<br /><br />◼︎会場<br />三協フロンテア柏スタジアム（千葉県柏市日立台1-2-50）<br />※本イベントの観覧には試合の観戦チケットが必要となります。<br /><br />▼イベント詳細はこちら<br /><a href=\"https://www.reysol.co.jp/news/event/104fmlawson.html\">https://www.reysol.co.jp/news/event/104fmlawson.html</a>"
+    },
+    {
       "category": "media",
       "code": "M02539",
       "title": "10月7日(火)19:57～NHK「うたコン」に日向坂46が生出演！",
@@ -24,5 +37,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に平岡海月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "2"
+  "count": "3"
 }
