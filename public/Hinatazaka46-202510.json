@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02539",
+      "title": "10月7日(火)19:57～NHK「うたコン」に日向坂46が生出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02539",
+      "pubdate": "2025/10/02 12:00:00",
+      "thumbnail": null,
+      "content": "10月7日(火)19:57～NHK「うたコン」に日向坂46が生出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.nhk.jp/p/utacon/ts/1J9MXY5QX2/\" target=\"_blank\">NHK「うたコン」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02518",
       "title": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に平岡海月が出演！",
       "caption": "",
@@ -14,5 +24,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に平岡海月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "1"
+  "count": "2"
 }
