@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01820",
+      "title": "10月5日(日)16:30〜テレビ東京「あなたの思い出の競馬、聞かせてください！～ファンの家に行ってみたＳＰ～」に武元唯衣が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01820",
+      "pubdate": "2025/10/03 12:00:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "10月5日(日)16:30〜テレビ東京「あなたの思い出の競馬、聞かせてください！～ファンの家に行ってみたＳＰ～」に武元唯衣が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202510/28778_202510051630.html\">テレビ東京「あなたの思い出の競馬、聞かせてください！～ファンの家に行ってみたＳＰ～」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01821",
       "title": "「櫻坂チャンネル」にて「【第2弾】「5thツアー」ドーム公演の裏側にも密着！天の一問一答も！【ドーム編】」を公開！",
       "caption": "",
@@ -90,5 +103,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "7"
+  "count": "8"
 }
