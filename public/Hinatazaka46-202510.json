@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02541",
+      "title": "10月5日(日)23:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」に平尾帆夏・山口陽世が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02541",
+      "pubdate": "2025/10/03 21:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "10月5日(日)23:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」に平尾帆夏・山口陽世が出演いたします！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\" target=\"_blank\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02538",
       "title": "河田陽菜 2nd写真集のタイトルが「テイクオフ」に決定！表紙4種も解禁！",
       "caption": "",
@@ -80,5 +93,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "7"
+  "count": "8"
 }

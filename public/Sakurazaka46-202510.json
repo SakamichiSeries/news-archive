@@ -2,6 +2,22 @@
   "news": [
     {
       "category": "media",
+      "code": "M01823",
+      "title": "UNI'S ON AIR公式YouTubeチャンネルにて公開の「【期間限定公開】UNI'S ON AIR 6周年記念特番！」に大園玲、増本綺良、的野美青、向井純葉が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01823",
+      "pubdate": "2025/10/03 20:59:51",
+      "tags": [
+        "54",
+        "57",
+        "65",
+        "66"
+      ],
+      "thumbnail": null,
+      "content": "UNI'S ON AIR公式YouTubeチャンネルにて公開の「【期間限定公開】UNI'S ON AIR 6周年記念特番！！」に大園玲、増本綺良、的野美青、向井純葉が出演しております。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/qk5L5ZtYpD0\">UNI'S ON AIR公式YouTubeチャンネル「UNI'S ON AIR V&eacute;autリリース直前特番！」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/0L4XFsl12RU?si=lSmkiKH13iXZ3Ibb\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M01822",
       "title": "アニプレックスYouTubeチャンネルにて公開の「 応援大使（石森璃花）が大好きなアニメ「青春ブタ野郎」シリーズのビルディバイド -ブライト-を開封してみた！ 」に石森璃花が出演！",
       "caption": "",
@@ -126,5 +142,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
