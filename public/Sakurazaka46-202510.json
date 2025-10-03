@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01822",
+      "title": "アニプレックスYouTubeチャンネルにて公開の「 応援大使（石森璃花）が大好きなアニメ「青春ブタ野郎」シリーズのビルディバイド -ブライト-を開封してみた！ 」に石森璃花が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01822",
+      "pubdate": "2025/10/03 18:02:41",
+      "tags": [
+        "59"
+      ],
+      "thumbnail": null,
+      "content": "アニプレックスYouTubeチャンネルにて公開の「 応援大使（石森璃花）が大好きなアニメ「青春ブタ野郎」シリーズのビルディバイド -ブライト-を開封してみた！ 」に石森璃花が出演しております。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/Q5fAHFT_OhQ?si=ZKefeP7X9EeH1eGh\">アニプレックスYouTubeチャンネル「 応援大使（石森璃花）が大好きなアニメ「青春ブタ野郎」シリーズのビルディバイド -ブライト-を開封してみた！ 」はコチラ<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/Q5fAHFT_OhQ?si=ZKefeP7X9EeH1eGh\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /></a>"
+    },
+    {
       "category": "event",
       "code": "E00545",
       "title": "『LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～』ファンクラブ抽選先行受付が10月11日(土)12:00よりスタート！",
@@ -113,5 +126,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "9"
+  "count": "10"
 }
