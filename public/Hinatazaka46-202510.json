@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00743",
+      "title": "『LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～』ファンクラブ抽選先行受付が10月11日(土)12:00よりスタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00743",
+      "pubdate": "2025/10/03 17:00:00",
+      "thumbnail": null,
+      "content": "『LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～』の詳細が決定いたしました！<br /><br />ファンクラブ抽選先行受付は、10月11日(土)12:00より開始いたします。<br /><br />________________________________________<br />【公演名】LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～　<br />【日　程】2026年1月25日(日) 15:00 開場 / 17:00 開演<br />【会　場】Kアリーナ横浜<br />【出　演】櫻坂46、日向坂46<br />【チケット料金】　50周年スペシャルシート　16,000円(税込) ※オリジナルグッズ付き<br />　　　　　　　　　　指定席　12,000円(税込)<br />【FC先行受付スケジュール】FC先行：10月11日（土)12:00〜10月19日(日)23:59<br />※以降のチケット受付スケジュールについては、随時ご案内致します。<br /><br />その他詳細は、下記よりご確認ください。<br /><a href=\"https://l-tike.com/lawson50thsakurazaka46hinatazaka46/\">https://l-tike.com/lawson50thsakurazaka46hinatazaka46/</a>"
+    },
+    {
       "category": "shakehands",
       "code": "S00346",
       "title": "河田陽菜 個別握手会参加券及びイベント参加権利 　卒業による振替のご案内",
@@ -60,5 +70,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に平岡海月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "5"
+  "count": "6"
 }
