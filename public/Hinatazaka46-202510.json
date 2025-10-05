@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100215",
+      "title": "読書の秋！スポーツの秋！日向坂ちゃんねるの秋！「五期生祭りvol.2」がスタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100215",
+      "pubdate": "2025/10/05 12:00:00",
+      "thumbnail": null,
+      "content": "YouTubeチャンネル「日向坂ちゃんねる」にて、<br />読書の秋！スポーツの秋！日向坂ちゃんねるの秋！「五期生祭りvol.2」がスタートいたします！<br /><br />五期生メンバーが、同期や先輩メンバーと様々な企画に出演！<br /><br />Vol.2は5本の企画を随時配信予定です。<br />最初の企画は、本日10/5(日)21:00〜配信！<br /><br />ぜひお楽しみに！<br /><br />■日向坂ちゃんねる<br /><a href=\"https://www.youtube.com/@hinatazakachannel\">https://www.youtube.com/@hinatazakachannel</a><br /><br />■「五期生祭りVol.1」<br /><a href=\"https://youtube.com/playlist?list=PLGXYFjongqYdX3N4SpJTYOstkhAhGYRt7&si=IUQUNq8SLf-sniP_\">https://youtube.com/playlist?list=PLGXYFjongqYdX3N4SpJTYOstkhAhGYRt7&si=IUQUNq8SLf-sniP_</a>"
+    },
+    {
       "category": "event",
       "code": "E00746",
       "title": "東急歌舞伎町タワーとSHIBUYA109での「新参者 二〇二五」POP-UP STOREの開催が決定！",
@@ -113,5 +123,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
