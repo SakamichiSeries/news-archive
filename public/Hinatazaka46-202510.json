@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100216",
+      "title": "「日向坂ちゃんねる」にて「【一風堂】先輩と食べるラーメン、楽しすぎて喋りが止まらない！」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100216",
+      "pubdate": "2025/10/05 21:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて、「五期生祭りVol.2」1つ目の企画「【一風堂】先輩と食べるラーメン、楽しすぎて喋りが止まらない！」を公開いたしました！<br /><br />五期生・松尾桜が、ラーメン大好き・渡辺莉奈と一風堂へ行ってきました！<br /><br />大好きな一風堂と先輩を前に、喋りが止まらない松尾桜。<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/tECfWu_d05s\">https://youtu.be/tECfWu_d05s</a><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/tECfWu_d05s\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "event",
       "code": "E00747",
       "title": "ARENA TOUR 2025「MONSTER GROOVE」愛知公演、公式チケット・トレードが10/6(月)18:00よりスタート！",
@@ -133,5 +143,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "12"
+  "count": "13"
 }
