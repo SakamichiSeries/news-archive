@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01828",
+      "title": "10月20日(月)19:00～TBS系「CDTVライブ！ライブ！」に出演決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01828",
+      "pubdate": "2025/10/06 21:00:00",
+      "thumbnail": null,
+      "content": "<span>10月20日(月)19:00～TBS系「CDTVライブ！ライブ！」に出演が決定しました！</span><br /><span>是非ご覧ください！</span><br /><br /><a href=\"https://www.tbs.co.jp/cdtv_livelive/\">TBS系「CDTVライブ！ライブ！」公式HPはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00498",
       "title": "13thシングル『Unhappy birthday構文』＠Loppi・HMV限定先着特典　生写真の絵柄公開！",
@@ -202,5 +212,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "17"
+  "count": "18"
 }
