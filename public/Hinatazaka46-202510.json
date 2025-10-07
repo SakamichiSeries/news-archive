@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02542",
+      "title": "10月8日(水)8:00～TBS「ラヴィット! 」に松田好花、平尾帆夏が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02542",
+      "pubdate": "2025/10/07 20:00:00",
+      "tags": [
+        "18",
+        "31"
+      ],
+      "thumbnail": null,
+      "content": "10月8日(水)8:00～TBS「ラヴィット! 」に松田好花、平尾帆夏が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\" target=\"_blank\">TBS「ラヴィット! 」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00748",
       "title": "ARENA TOUR 2025「MONSTER GROOVE」 ポートメッセなごや 第1展示館公演、大阪城ホール公演入場に関する注意事項",
@@ -163,5 +177,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "15"
+  "count": "16"
 }
