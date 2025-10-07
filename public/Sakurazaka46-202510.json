@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01825",
+      "title": "「BOMB」11月号（10月9日(木)発売）に山川宇衣が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01825",
+      "pubdate": "2025/10/07 12:00:00",
+      "tags": [
+        "77"
+      ],
+      "thumbnail": null,
+      "content": "「BOMB」11月号（10月9日(木)発売）に山川宇衣が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://bombweb.jp/next/bomb/\">「BOMB」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01828",
       "title": "10月20日(月)19:00～TBS系「CDTVライブ！ライブ！」に出演決定！",
       "caption": "",
@@ -212,5 +225,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "18"
+  "count": "19"
 }
