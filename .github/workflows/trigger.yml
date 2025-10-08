@@ -1,0 +1,45 @@
+name: Scheduled Trigger
+
+on:
+  schedule:
+    - cron: '30 2-22/4 * * *'
+  workflow_dispatch:
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Poll for condition and run task
+      run: |
+        #!/bin/bash
+        while true; do
+          current_hour=$(date +%H)
+          if (( 10#$current_hour % 4 == 0 )); then
+            break
+          fi
+          sleep 50
+        done
+        echo "Condition met! Task executed at $(date '+%Y-%m-%d %H:%M:%S')"
+        # Add your actual commands here (e.g., deploy, test)
+        sleep 50
+        
+        # Loop 24 times: Optional quick check, trigger scraper-runner workflow, sleep 1 hour
+        for i in {1..24}; do
+          echo "Loop iteration $i/24 at $(date '+%Y-%m-%d %H:%M:%S')"
+          
+          # Optional: Add a quick Python check here if needed (e.g., echo "Pre-trigger check")
+          echo "Pre-trigger check complete."
+          
+          # Trigger the scraper-runner workflow
+          curl -X POST \
+            -H "Authorization: Bearer ${{ secrets.PAT }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/SakamichiSeries/news-archive/actions/workflows/scraper.yml/dispatches \
+            -d '{"ref":"master"}'
+          
+          echo "Triggered scraper-runner workflow. Sleeping 600s..."
+          sleep 600
+        done
+        
+        echo "Hourly loop completed."
