@@ -106,29 +106,17 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels):
                 entry for entry in temp["news"] if entry["code"] not in old_codes
             ]
 
-            sent_file = "sent.json"
-            sent = {}
-            if os.path.exists(sent_file):
-                with open(sent_file, "r", encoding="utf-8") as f:
-                    sent = json.load(f)
-
             channel_id = channels.get(group)
             if channel_id:
                 for entry in new_entries:
-                    key = f"{group}_news_{entry['code']}"
-                    if key not in sent:
-                        content = entry["content"]
-                        text = re.sub(r"<img[^>]*>", "", content)
-                        text = re.sub(r"<br\s*\/?>\s*", "\n", text)
-                        text = re.sub(r"<[^>]+>", "", text)
-                        text = re.sub(r"&[^;]+;", "", text)
-                        text = re.sub(r"\n\s*\n", "\n", text).strip()
-                        msg = f"{group} news: {entry['title']}\n{text}\n{entry['link']}"
-                        send_telegram_message(msg, channel_id, bot_token)
-                        sent[key] = True
-
-            with open(sent_file, "w", encoding="utf-8") as f:
-                json.dump(sent, f, ensure_ascii=False, indent=2)
+                    content = entry["content"]
+                    text = re.sub(r"<img[^>]*>", "", content)
+                    text = re.sub(r"<br\s*\/?>\s*", "\n", text)
+                    text = re.sub(r"<[^>]+>", "", text)
+                    text = re.sub(r"&[^;]+;", "", text)
+                    text = re.sub(r"\n\s*\n", "\n", text).strip()
+                    msg = f"{group} news: {entry['title']}\n{text}\n{entry['link']}"
+                    send_telegram_message(msg, channel_id, bot_token)
 
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(temp, f, ensure_ascii=False, indent=2)
