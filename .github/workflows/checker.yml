@@ -28,7 +28,7 @@ jobs:
       run: |
         git clone https://x-access-token:${GITHUB_TOKEN}@github.com/SakamichiSeries/news-checker
 
-    - name: Run warning check script
+    - name: Run checker
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: -1001982849593
