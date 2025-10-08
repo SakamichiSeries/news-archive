@@ -60,7 +60,7 @@ def scrape(y, m, group):
 
 y = current_y = datetime.datetime.now().year
 m = current_m = datetime.datetime.now().month
-random_number = random.randint(0, 1031)
+random_number = random.randint(0, 20051031)
 
 for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
     match group:
