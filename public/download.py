@@ -31,7 +31,7 @@ def _send_part(part, channel_id, bot_token):
             resp_json = response.json()
             if response.ok:
                 print(resp_json)
-                return
+                return resp_json["result"]["message_id"]
             else:
                 raise Exception(resp_json.get("description", "Unknown error"))
         except Exception as e:
@@ -39,24 +39,31 @@ def _send_part(part, channel_id, bot_token):
             if attempt < max_retries - 1:
                 time.sleep(10)
     print(f"Failed to send part after {max_retries} retries")
+    return None
 
 
 def send_telegram_message(msg, channel_id, bot_token):
     MAX_LENGTH = 3000
     parts = msg.split("\n")
     current_part = ""
+    message_ids = []
     for part in parts:
         if len(current_part) + len(part) + 1 > MAX_LENGTH:
             if current_part:
-                _send_part(current_part, channel_id, bot_token)
+                mid = _send_part(current_part, channel_id, bot_token)
+                if mid:
+                    message_ids.append(mid)
             current_part = part
         else:
             current_part += ("\n" if current_part else "") + part
     if current_part:
-        _send_part(current_part, channel_id, bot_token)
+        mid = _send_part(current_part, channel_id, bot_token)
+        if mid:
+            message_ids.append(mid)
+    return message_ids[0] if message_ids else None
 
 
-def scrape(y, m, group, current_y, current_m, bot_token, channels):
+def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usernames):
     try:
         print(f"{y}{m:02d}")
         match group:
@@ -107,7 +114,9 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels):
             ]
 
             channel_id = channels.get(group)
-            if channel_id:
+            summary_channel_id = channels.get("summary")
+            username = channel_usernames.get(group)
+            if channel_id and new_entries:
                 for entry in new_entries:
                     content = entry["content"]
                     text = re.sub(r"<img[^>]*>", "", content)
@@ -116,7 +125,13 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels):
                     text = re.sub(r"&[^;]+;", "", text)
                     text = re.sub(r"\n\s*\n", "\n", text).strip()
                     msg = f"{group} news: {entry['title']}\n{text}\n{entry['link']}"
-                    send_telegram_message(msg, channel_id, bot_token)
+                    message_id = send_telegram_message(msg, channel_id, bot_token)
+                    if message_id and summary_channel_id and username:
+                        tg_link = f"https://t.me/{username}/{message_id}"
+                        summary_msg = f"{entry['title']} {tg_link}"
+                        send_telegram_message(
+                            summary_msg, summary_channel_id, bot_token
+                        )
 
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(temp, f, ensure_ascii=False, indent=2)
@@ -136,6 +151,13 @@ channels = {
     "Keyakizaka46": os.getenv("TELEGRAM_NEWS_CHANNEL"),
     "Hinatazaka46": os.getenv("TELEGRAM_HINA_CHANNEL"),
     "Sakurazaka46": os.getenv("TELEGRAM_SAKU_CHANNEL"),
+    "summary": os.getenv("TELEGRAM_NEWS_CHANNEL"),
+}
+channel_usernames = {
+    "Nogizaka46": "Nogizaka46_News",
+    "Keyakizaka46": "Keyakizaka46_News",
+    "Hinatazaka46": "Hinatazaka46_News",
+    "Sakurazaka46": "Sakurazaka46_News",
 }
 
 for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
@@ -151,7 +173,16 @@ for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
 
     for y in range(current_y, start - 1, -1):
         for m in range(current_m if y == current_y else 12, 0, -1):
-            scrape(y, m, group, current_y, current_m, bot_token, channels)
+            scrape(
+                y,
+                m,
+                group,
+                current_y,
+                current_m,
+                bot_token,
+                channels,
+                channel_usernames,
+            )
             if random_number > 46:
                 break
         else:
