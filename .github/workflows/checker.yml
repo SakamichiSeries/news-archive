@@ -44,5 +44,5 @@ jobs:
         git config user.name "GitHub Actions Bot"
         git config user.email "<>"
         git add sent.json
-        git commit -m "Update warnings.json [$(TZ='Asia/Tokyo' date)]" || echo "No changes to commit"
+        git commit -m "Update sent.json [$(TZ='Asia/Tokyo' date)]" || echo "No changes to commit"
         git push
