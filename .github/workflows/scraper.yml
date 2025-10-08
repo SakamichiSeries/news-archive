@@ -36,9 +36,9 @@ jobs:
 
     - name: Run scraper
       run: |
-        TZ='Asia/Tokyo' date
+        # TZ='Asia/Tokyo' date
         python download.py
-        TZ='Asia/Tokyo' date
+        # TZ='Asia/Tokyo' date
       working-directory: ./public
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}

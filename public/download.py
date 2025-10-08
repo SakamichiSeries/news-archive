@@ -124,11 +124,11 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                     text = re.sub(r"<[^>]+>", "", text)
                     text = re.sub(r"&[^;]+;", "", text)
                     text = re.sub(r"\n\s*\n", "\n", text).strip()
-                    msg = f"{group} news: {entry['title']}\n{text}\n{entry['link']}"
+                    msg = f"{entry['title']}\n{text}\n{entry['link']}"
                     message_id = send_telegram_message(msg, channel_id, bot_token)
                     if message_id and summary_channel_id and username:
                         tg_link = f"https://t.me/{username}/{message_id}"
-                        summary_msg = f"{entry['title']} {tg_link}"
+                        summary_msg = f"{group} news: {entry['title']}\n{tg_link}"
                         send_telegram_message(
                             summary_msg, summary_channel_id, bot_token
                         )
