@@ -3,6 +3,8 @@ import json
 import datetime
 import re
 import random
+import os
+import time
 
 
 def sort_key(x):
@@ -12,7 +14,49 @@ def sort_key(x):
         return (1, x)
 
 
-def scrape(y, m, group):
+def _send_part(part, channel_id, bot_token):
+    max_retries = 5
+    for attempt in range(max_retries):
+        try:
+            payload = {
+                "chat_id": channel_id,
+                "text": part,
+                "link_preview_options": {"is_disabled": True},
+            }
+            response = requests.post(
+                f"https://api.telegram.org/bot{bot_token}/sendMessage",
+                headers={"Content-Type": "application/json"},
+                json=payload,
+            )
+            resp_json = response.json()
+            if response.ok:
+                print(resp_json)
+                return
+            else:
+                raise Exception(resp_json.get("description", "Unknown error"))
+        except Exception as e:
+            print(f"Error: {e}")
+            if attempt < max_retries - 1:
+                time.sleep(10)
+    print(f"Failed to send part after {max_retries} retries")
+
+
+def send_telegram_message(msg, channel_id, bot_token):
+    MAX_LENGTH = 3000
+    parts = msg.split("\n")
+    current_part = ""
+    for part in parts:
+        if len(current_part) + len(part) + 1 > MAX_LENGTH:
+            if current_part:
+                _send_part(current_part, channel_id, bot_token)
+            current_part = part
+        else:
+            current_part += ("\n" if current_part else "") + part
+    if current_part:
+        _send_part(current_part, channel_id, bot_token)
+
+
+def scrape(y, m, group, current_y, current_m, bot_token, channels):
     try:
         print(f"{y}{m:02d}")
         match group:
@@ -26,31 +70,67 @@ def scrape(y, m, group):
                 code = f"s46"
         url = f"http://mobile-ssl.com/s/{code}/api/json/news?dy={y}{m:02d}"
 
-        with open(f"{group}-{y}{m:02d}.json", "w") as f:
-            print(url)
-            temp = requests.get(url).json()
-            for entry in temp["news"]:
-                match group:
-                    case "Nogizaka46":
-                        entry["link"] = (
-                            f"https://www.nogizaka46.com/s/n46/news/detail/{entry['code']}"
-                        )
-                    case "Keyakizaka46":
-                        entry["link"] = (
-                            f"https://www.keyakizaka46.com/s/k46o/news/detail/{entry['code']}"
-                        )
-                    case "Hinatazaka46":
-                        entry["link"] = (
-                            f"https://www.hinatazaka46.com/s/official/news/detail/{entry['code']}"
-                        )
-                    case "Sakurazaka46":
-                        entry["link"] = (
-                            f"https://sakurazaka46.com/s/s46/news/detail/{entry['code']}"
-                        )
+        filename = f"{group}-{y}{m:02d}.json"
+        temp = requests.get(url).json()
+        for entry in temp["news"]:
+            match group:
+                case "Nogizaka46":
+                    entry["link"] = (
+                        f"https://www.nogizaka46.com/s/n46/news/detail/{entry['code']}"
+                    )
+                case "Keyakizaka46":
+                    entry["link"] = (
+                        f"https://www.keyakizaka46.com/s/k46o/news/detail/{entry['code']}"
+                    )
+                case "Hinatazaka46":
+                    entry["link"] = (
+                        f"https://www.hinatazaka46.com/s/official/news/detail/{entry['code']}"
+                    )
+                case "Sakurazaka46":
+                    entry["link"] = (
+                        f"https://sakurazaka46.com/s/s46/news/detail/{entry['code']}"
+                    )
 
-                entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
-                if "tags" in entry:
-                    entry["tags"] = sorted(entry["tags"], key=sort_key)
+            entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
+            if "tags" in entry:
+                entry["tags"] = sorted(entry["tags"], key=sort_key)
+
+        is_current = y == current_y and m == current_m
+        if is_current:
+            old_data = {}
+            if os.path.exists(filename):
+                with open(filename, "r", encoding="utf-8") as f:
+                    old_data = json.load(f)
+            old_codes = {entry["code"] for entry in old_data.get("news", [])}
+            new_entries = [
+                entry for entry in temp["news"] if entry["code"] not in old_codes
+            ]
+
+            sent_file = "sent.json"
+            sent = {}
+            if os.path.exists(sent_file):
+                with open(sent_file, "r", encoding="utf-8") as f:
+                    sent = json.load(f)
+
+            channel_id = channels.get(group)
+            if channel_id:
+                for entry in new_entries:
+                    key = f"{group}_news_{entry['code']}"
+                    if key not in sent:
+                        content = entry["content"]
+                        text = re.sub(r"<img[^>]*>", "", content)
+                        text = re.sub(r"<br\s*\/?>\s*", "\n", text)
+                        text = re.sub(r"<[^>]+>", "", text)
+                        text = re.sub(r"&[^;]+;", "", text)
+                        text = re.sub(r"\n\s*\n", "\n", text).strip()
+                        msg = f"{group} news: {entry['title']}\n{text}\n{entry['link']}"
+                        send_telegram_message(msg, channel_id, bot_token)
+                        sent[key] = True
+
+            with open(sent_file, "w", encoding="utf-8") as f:
+                json.dump(sent, f, ensure_ascii=False, indent=2)
+
+        with open(filename, "w", encoding="utf-8") as f:
             json.dump(temp, f, ensure_ascii=False, indent=2)
 
     except Exception as e:
@@ -61,6 +141,14 @@ def scrape(y, m, group):
 y = current_y = datetime.datetime.now().year
 m = current_m = datetime.datetime.now().month
 random_number = random.randint(0, 20051031)
+
+bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
+channels = {
+    "Nogizaka46": os.getenv("TELEGRAM_NOGI_CHANNEL"),
+    "Keyakizaka46": os.getenv("TELEGRAM_NEWS_CHANNEL"),
+    "Hinatazaka46": os.getenv("TELEGRAM_HINA_CHANNEL"),
+    "Sakurazaka46": os.getenv("TELEGRAM_SAKU_CHANNEL"),
+}
 
 for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
     match group:
@@ -75,7 +163,7 @@ for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
 
     for y in range(current_y, start - 1, -1):
         for m in range(current_m if y == current_y else 12, 0, -1):
-            scrape(y, m, group)
+            scrape(y, m, group, current_y, current_m, bot_token, channels)
             if random_number > 46:
                 break
         else:

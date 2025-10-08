@@ -40,6 +40,12 @@ jobs:
         python download.py
         TZ='Asia/Tokyo' date
       working-directory: ./public
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_NOGI_CHANNEL: -1001313048085
+        TELEGRAM_NEWS_CHANNEL: -1002323394494
+        TELEGRAM_HINA_CHANNEL: -1001409510960
+        TELEGRAM_SAKU_CHANNEL: -1001230600925
     
     - name: Commit changes
       run: |
