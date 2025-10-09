@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01827",
+      "title": "10月11日(土)24:35～NHK総合「ゲームゲノム」に谷口愛季が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01827",
+      "pubdate": "2025/10/09 13:00:00",
+      "tags": [
+        "63"
+      ],
+      "thumbnail": null,
+      "content": "10月11日(土)24:35～NHK総合「ゲームゲノム」に谷口愛季が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.web.nhk/tv/pl/series-tep-LJWWVGY6J2\">NHK総合「ゲームゲノム」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01829",
       "title": "10月10日(金)8:00～TBS「ラヴィット！」に武元唯衣が出演！",
       "caption": "",
@@ -292,5 +305,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "24"
+  "count": "25"
 }
