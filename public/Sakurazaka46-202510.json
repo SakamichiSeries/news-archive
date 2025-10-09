@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01832",
+      "title": "「櫻坂チャンネル」にて「【ASMR】ゆづみお念願の笑ってはいけない”ASMR”【癒し？】」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01832",
+      "pubdate": "2025/10/09 22:00:00",
+      "tags": [
+        "64",
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【ASMR】ゆづみお念願の笑ってはいけない&rdquo;ASMR&rdquo;【癒し？】」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/V8BOTda742Q\">櫻坂チャンネル「【ASMR】ゆづみお念願の笑ってはいけない&rdquo;ASMR&rdquo;【癒し？】」はコチラ<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/V8BOTda742Q?si=29wFP5Acq33Ladma\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></a><br /><br />"
+    },
+    {
       "category": "other",
       "code": "O100063",
       "title": "アパレルブランド「WIND AND SEA」とNBAによる新作コラボコレクション“THE CLASSIC SHOWDOWN COLLECTION”のキーヴィジュアルモデルに田村保乃・山﨑天が登場！",
@@ -346,5 +360,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "28"
+  "count": "29"
 }
