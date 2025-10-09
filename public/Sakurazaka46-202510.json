@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01829",
+      "title": "10月10日(金)8:00～TBS「ラヴィット！」に武元唯衣が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01829",
+      "pubdate": "2025/10/09 12:00:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "10月10日(金)8:00～TBS「ラヴィット！」に武元唯衣が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00500",
       "title": "13thシングル『Unhappy birthday構文』 CDショップチェーン別先着特典絵柄決定！",
@@ -279,5 +292,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "23"
+  "count": "24"
 }
