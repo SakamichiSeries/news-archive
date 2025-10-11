@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100217",
+      "title": "「日向坂ちゃんねる」にて「【やっほーGPT】料理苦手な蔵盛妃那乃がChatGPTに頼り切ってスパイスカレー作ってみた！」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100217",
+      "pubdate": "2025/10/11 20:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて、「五期生祭りVol.2」2つ目の企画「【やっほーGPT】料理苦手な蔵盛妃那乃がChatGPTに頼り切ってスパイスカレー作ってみた！」を公開いたしました！<br /><br />料理経験がほとんどない蔵盛妃那乃が、ChatGPTを相棒にスパイスカレー作りに挑戦しました！<br /><br />日常でもChatGPTに頼りがちな蔵盛妃那乃、果たしてどんな料理が出来上がるのか！？<br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/8nAEslYvJFI\">https://youtu.be/8nAEslYvJFI<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/8nAEslYvJFI\" title=\"【やっほーGPT】料理苦手な蔵盛妃那乃がChatGPTに頼り切ってスパイスカレー作ってみた！\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "event",
       "code": "E00749",
       "title": "『LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～』ファンクラブ抽選先行受付が10月11日(土)12:00よりスタート！",
@@ -237,5 +247,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "22"
+  "count": "23"
 }
