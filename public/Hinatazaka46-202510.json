@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00750",
+      "title": "藤嶌果歩、大田美月 10月13日(月)、14日(火) ARENA TOUR 2025「MONSTER GROOVE」愛知公演欠席のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00750",
+      "pubdate": "2025/10/12 16:00:00",
+      "thumbnail": null,
+      "content": "10月13日(月)・10月14日(火)に開催の ARENA TOUR 2025「MONSTER GROOVE」愛知公演に関しまして、藤嶌果歩と大田美月は体調不良のため欠席させて頂くこととなりました。<br /><br />出演を楽しみにされていたお客様にはお詫び申し上げます。<br />皆さまのご理解を賜わります様、宜しくお願い申し上げます。<br /><br />Seed & Flower合同会社"
+    },
+    {
       "category": "other",
       "code": "O100217",
       "title": "「日向坂ちゃんねる」にて「【やっほーGPT】料理苦手な蔵盛妃那乃がChatGPTに頼り切ってスパイスカレー作ってみた！」を公開！",
@@ -247,5 +257,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "23"
+  "count": "24"
 }
