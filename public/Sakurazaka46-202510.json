@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01837",
+      "title": "10月13日(月)20:00～「櫻坂チャンネル」にて「繰り返す8日間と訪問者『Who's at the door?』に挑戦！」のゲーム実況生配信が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01837",
+      "pubdate": "2025/10/12 22:00:00",
+      "tags": [
+        "61",
+        "62",
+        "63",
+        "69"
+      ],
+      "thumbnail": null,
+      "content": "10月13日(月)20:00～「櫻坂チャンネル」にて「繰り返す8日間と訪問者『Who's at the door?』に挑戦！」のゲーム実況生配信が決定いたしました。<br />小田倉麗奈、小島凪紗、谷口愛季、山下瞳月の4人がホラーゲーム「Who's at the door?」に挑戦します！<br /><br />ぜひお楽しみに！<br /><br /><a href=\"https://youtube.com/live/IzwkEc0aAA8\">櫻坂チャンネル「【10月13日(月)20:00～】繰り返す8日間と訪問者『Who's at the door?』に挑戦！【生配信】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/IzwkEc0aAA8?si=oJ-p998EQWa7a8Ws\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />■チャンネル登録もよろしくお願いします！<br /><a href=\"https://www.youtube.com/@sakurazakachannel\">https://www.youtube.com/@sakurazakachannel<br /></a>"
+    },
+    {
       "category": "release",
       "code": "R00502",
       "title": "13thシングル『Unhappy birthday構文』 CD購入者スペシャル応募抽選企画決定！",
@@ -433,5 +449,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "36"
+  "count": "37"
 }
