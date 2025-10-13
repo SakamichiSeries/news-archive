@@ -2,6 +2,23 @@
   "news": [
     {
       "category": "media",
+      "code": "M01833",
+      "title": "「EX大衆」11月号（10月15日(水)発売）に小田倉麗奈・小島凪紗・浅井恋乃未・勝又春・松本和子が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01833",
+      "pubdate": "2025/10/13 13:00:00",
+      "tags": [
+        "61",
+        "62",
+        "70",
+        "72",
+        "75"
+      ],
+      "thumbnail": null,
+      "content": "「EX大衆」11月号（10月15日(水)発売）に小田倉麗奈・小島凪紗・浅井恋乃未・勝又春・松本和子が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://www.futabasha.co.jp/magazine/ex_taishu\">「EX大衆」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01834",
       "title": "「週刊少年サンデー」46号（10月15日(水)発売）の表紙・巻頭に守屋麗奈が登場！",
       "caption": "",
@@ -462,5 +479,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "38"
+  "count": "39"
 }
