@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01834",
+      "title": "「週刊少年サンデー」46号（10月15日(水)発売）の表紙・巻頭に守屋麗奈が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01834",
+      "pubdate": "2025/10/13 12:00:00",
+      "tags": [
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年サンデー」46号（10月15日(水)発売）の表紙・巻頭に守屋麗奈が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://websunday.net/\">「週刊少年サンデー」公式ホームページはコチラ</a><br /><br /><br /><br />"
+    },
+    {
+      "category": "media",
       "code": "M01837",
       "title": "10月13日(月)20:00～「櫻坂チャンネル」にて「繰り返す8日間と訪問者『Who's at the door?』に挑戦！」のゲーム実況生配信が決定！",
       "caption": "",
@@ -449,5 +462,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "37"
+  "count": "38"
 }
