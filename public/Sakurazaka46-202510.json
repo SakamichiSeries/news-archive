@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01835",
+      "title": "「週刊少年チャンピオン」46号（10月16日(木)発売）の表紙・巻頭に谷口愛季が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01835",
+      "pubdate": "2025/10/14 13:00:00",
+      "tags": [
+        "63"
+      ],
+      "thumbnail": null,
+      "content": "<span>「週刊少年チャンピオン」46号（10月16日(木)発売）の表紙・巻頭に谷口愛季が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://www.akitashoten.co.jp/w-champion\" target=\"_blank\">「週刊少年チャンピオン」公式ホームページはコチラ</a><br /><br /></span>"
+    },
+    {
       "category": "shakehands",
       "code": "S00206",
       "title": "13thシングル『Unhappy birthday構文』発売記念 オンラインミート＆グリート（個別トーク会）開催！",
@@ -505,5 +518,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "41"
+  "count": "42"
 }
