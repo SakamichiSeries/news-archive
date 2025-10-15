@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01836",
+      "title": "10月16日(木)18:25～テレビ東京「有吉の深掘り大調査」に武元唯衣が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01836",
+      "pubdate": "2025/10/15 12:00:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "10月16日(木)18:25～テレビ東京「有吉の深掘り大調査」に武元唯衣が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/fukabori/\">テレビ東京「有吉の深掘り大調査」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100064",
       "title": "10月21日(火)～全国のローソン店舗で「櫻坂46 日向坂46キャンペーン」がスタート！",
@@ -558,5 +571,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "46"
+  "count": "47"
 }
