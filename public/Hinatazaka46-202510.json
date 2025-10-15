@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100218",
+      "title": "10月21日(火)～全国のローソン店舗で「櫻坂46 日向坂46キャンペーン」がスタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100218",
+      "pubdate": "2025/10/15 11:00:00",
+      "thumbnail": null,
+      "content": "10月21日(火)～全国のローソン店舗で、(一部店舗・ローソンストア100は除く)「櫻坂46 日向坂46キャンペーン」がスタートいたします。<br /><br />詳細はキャンペーンサイトをご確認ください。<br /><a href=\"https://www.lawson.co.jp/lab/campaign/sakurahinata/\">キャンペーンサイトはコチラ<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/S__261808227.jpg\" alt=\"\" width=\"800\" height=\"800\" /><br /><br /></a>"
+    },
+    {
       "category": "event",
       "code": "E00752",
       "title": "日向坂46 「新参者 二〇二五 LIVE at THEATER MILANO-Za」、ファンクラブ会員先行受付期間延長のお知らせ ",
@@ -277,5 +287,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "26"
+  "count": "27"
 }

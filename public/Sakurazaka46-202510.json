@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100064",
+      "title": "10月21日(火)～全国のローソン店舗で「櫻坂46 日向坂46キャンペーン」がスタート！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100064",
+      "pubdate": "2025/10/15 11:00:00",
+      "thumbnail": null,
+      "content": "10月21日(火)～全国のローソン店舗で、(一部店舗・ローソンストア100は除く)「櫻坂46 日向坂46キャンペーン」がスタートいたします。<br /><br />詳細はキャンペーンサイトをご確認ください。<br /><a href=\"https://www.lawson.co.jp/lab/campaign/sakurahinata/\">キャンペーンサイトはコチラ</a><br /><br /><img src=\"https://sakurazaka46.com/files/14/S__261808227.jpg\" alt=\"\" width=\"800\" height=\"800\" /><a href=\"https://www.lawson.co.jp/lab/campaign/sakurahinata/\"><br /></a>"
+    },
+    {
       "category": "release",
       "code": "R00504",
       "title": "13thシングル『Unhappy birthday構文』リリース記念・LINE MUSICプレゼントキャンペーン実施決定！",
@@ -548,5 +558,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "45"
+  "count": "46"
 }
