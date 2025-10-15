@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00549",
+      "title": "「COUNTDOWN JAPAN 25/26」12月27日(土)公演に櫻坂46の出演が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00549",
+      "pubdate": "2025/10/15 12:35:00",
+      "thumbnail": null,
+      "content": "<span>12月27日(土)～31日(水)</span>幕張メッセ国際展示場1〜11ホール・イベントホールにて開催の「COUNTDOWN JAPAN 25/26」12月27日(土)公演に櫻坂46の出演が決定いたしました。<br /><br />●開催日：12月27日(土)・28日(日)・29日(月)・30日(火)・31日(水)<br />●会場：幕張メッセ国際展示場1～11ホール・イベントホール<br />(27日は国際展示場1～11ホールのみ)<br />●第1次抽選先行 受付期間：～10月21日(火)16:00<br /><br /><a href=\"https://countdownjapan.jp/\">「COUNTDOWN JAPAN 25/26」公式ホームページはコチラ</a><br /><br /><img src=\"https://sakurazaka46.com/files/14/_4.%E3%80%90CDJ2526%E3%80%91%E3%82%A4%E3%83%98%E3%82%99%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B3%E3%82%99%E7%94%BB%E5%83%8F_1080%E2%9C%951080.jpg\" alt=\"\" width=\"1080\" height=\"1080\" />"
+    },
+    {
       "category": "media",
       "code": "M01836",
       "title": "10月16日(木)18:25～テレビ東京「有吉の深掘り大調査」に武元唯衣が出演！",
@@ -571,5 +581,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "47"
+  "count": "48"
 }
