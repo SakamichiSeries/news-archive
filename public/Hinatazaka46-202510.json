@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00187",
+      "title": "ARENA TOUR 2025「MONSTER GROOVE」ファンクラブ限定ビッグスウェット 販売のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/G00187",
+      "pubdate": "2025/10/16 18:00:00",
+      "thumbnail": null,
+      "content": "ARENA TOUR 2025「MONSTER GROOVE」で販売されるグッズのラインナップに、ビッグスウェットをファンクラブ会員限定で販売いたします！<br /> 通常配送と会場受取、公演当日に会場での販売もございますので、是非この機会にチェックしてみてください！<br /> <br /> 【販売開始】<br /> 10/16(木)20:00<br /><br /> 【商品イメージ】<br /> <img src=\"https://cdn.hinatazaka46.com/images/14/882/ed91049c47cedb0feb40a580876d6.jpg\" alt=\"\" width=\"1414\" height=\"700\" /><br /> <br /> 【通常配送・会場受取　ご購入方法】<br /> ①「日向坂46ファンクラブ」にログインのうえ、このページへアクセスください。<br /> ②ログイン状態で下記に表示されるボタンよりグッズストアへアクセスのうえ、ご購入ください。<br /> <br /> 【注意事項】<br /> ※天候の状況や交通状況などにより、お届けに時間を要する場合がございますので、あらかじめご了承ください。<br /> ※「日向坂46 OFFICIAL GOODS STORE」の注意事項をよくご確認のうえ、ご利用ください。<br /> ※通常配送と会場受取での販売をお間違えの無いようご注意ください。<br /> <br />  <div class=\"login-button\"><form method=\"post\" action=\"/s/official/login\"><input type='hidden' name='my_prevtyp' value='S' /><input type='hidden' name='my_prevdom' value='www.hinatazaka46.com' /><input type=\"hidden\" name=\"my_prevurl\" value=\"/s/official/api/json/news\" /><input type=\"hidden\" name=\"my_prevmet\" value=\"GET\" /><input type=\"hidden\" name=\"my_webckid\" value=\"\" /><input type=\"hidden\" name=\"my_prevprm\" value=\"{&quot;dy&quot;:&quot;202510&quot;}\" /><input type=\"hidden\" name=\"ima\" value=\"0000\" /><button type=\"subbmit\" class=\"btn\"><span>ログイン／会員登録</span></button></form></div><br />"
+    },
+    {
       "category": "event",
       "code": "E00754",
       "title": "JR東日本×日向坂46 ARENA TOUR 2025「MONSTER GROOVE」東京公演 TRAINキャンペーンの実施が決定！",
@@ -307,5 +317,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "29"
+  "count": "30"
 }
