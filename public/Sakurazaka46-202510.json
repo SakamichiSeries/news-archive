@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01843",
+      "title": "10月20日(月)20:00～FM NACK5「FAV FOUR」に谷口愛季、山下瞳月が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01843",
+      "pubdate": "2025/10/16 19:00:00",
+      "tags": [
+        "63",
+        "69"
+      ],
+      "thumbnail": null,
+      "content": "10月20日(月)20:00～FM NACK5「FAV FOUR」に谷口愛季、山下瞳月が出演いたします！<br />ぜひお聴きください！<br /><br /><a href=\"https://www.nack5.co.jp/program/fav_four_mon/\">FM NACK5「FAV FOUR」公式HPはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01841",
+      "title": "10月22日(水)13:00～TOKYO FM「山崎怜奈の誰かに話したかったこと。」に山下瞳月が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01841",
+      "pubdate": "2025/10/16 19:00:00",
+      "tags": [
+        "69"
+      ],
+      "thumbnail": null,
+      "content": "10月22日(水)13:00～TOKYO FM「山崎怜奈の誰かに話したかったこと。」に山下瞳月が出演いたします！<br />ぜひお聴きください！<br /><br /><a href=\"https://www.tfm.co.jp/darehana/\">TOKYO FM「山崎怜奈の誰かに話したかったこと。」公式HPはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00549",
       "title": "「COUNTDOWN JAPAN 25/26」12月27日(土)公演に櫻坂46の出演が決定！",
@@ -581,5 +608,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "48"
+  "count": "50"
 }
