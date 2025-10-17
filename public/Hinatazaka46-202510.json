@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00755",
+      "title": "「新参者 二〇二五 in TOKYU KABUKICHO TOWER」のキービジュアルを公開！オリジナルグッズ販売に加え、11月1日(土)～コラボレーションフードの販売、館内装飾も実施！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00755",
+      "pubdate": "2025/10/17 12:00:00",
+      "thumbnail": null,
+      "content": "「新参者 二〇二五 in TOKYU KABUKICHO TOWER」のキービジュアルを公開いたしました。<br /> <br /><img src=\"https://cdn.hinatazaka46.com/files/14/szm_kv_3saka_yoko_0822_rgb_fix_2.jpg\" alt=\"\" width=\"4200\" height=\"2971\" /><br /><div><br /><iframe width=\"320\" height=\"180\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://www.youtube.com/embed/sAzzuoZUYaI\" title=\"日向坂46五期生「新参者 二〇二五 in TOKYU KABUKICHO TOWER」本告知映像\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div><br />また、11月8日(土)から開始するライブ公演「新参者 二〇二五 LIVE at THEATER MILANO-Za」を軸に、オリジナルグッズ販売に加え、11月1日(土)～「東急歌舞伎町タワー」にて「新参者 二〇二五」コラボレーションフードの販売、館内装飾などが実施されます。さらに、東急東横線と東急田園都市線での車内ジャックトレインの運行も決定しました。<br /> <br />詳細は東急歌舞伎町タワーのオフィシャルサイト、または「新参者 二〇二五」公式Xアカウントをご確認ください。<br /> <br />▼オフィシャルサイト<br /><a href=\"https://www.tokyu-kabukicho-tower.jp/shinzanmono/\">https://www.tokyu-kabukicho-tower.jp/shinzanmono/</a><br />▼「新参者 二〇二五 in TOKYU KABUKICHO TOWER」公式Xアカウント<br /><a href=\"https://x.com/shinzanmono25\">https://x.com/shinzanmono25</a>"
+    },
+    {
       "category": "media",
       "code": "M02548",
       "title": "小坂菜緒・正源司陽子・藤嶌果歩が出演する、ソニー損保の新CMが放映決定！",
@@ -395,5 +405,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "37"
+  "count": "38"
 }

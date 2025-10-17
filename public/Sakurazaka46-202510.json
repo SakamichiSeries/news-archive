@@ -1,6 +1,27 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00555",
+      "title": "「新参者 二〇二五 in TOKYU KABUKICHO TOWER」のキービジュアルを公開！オリジナルグッズ販売に加え、11月1日(土)～コラボレーションフードの販売、館内装飾も実施！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00555",
+      "pubdate": "2025/10/17 12:00:00",
+      "tags": [
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78"
+      ],
+      "thumbnail": null,
+      "content": "「新参者 二〇二五 in TOKYU KABUKICHO TOWER」のキービジュアルを公開いたしました。<br /><br /><img src=\"https://sakurazaka46.com/files/14/szm_kv_3saka_yoko_0822_rgb_fix.jpg\" alt=\"\" width=\"2100\" height=\"1486\" /><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/VZbcISYNZBA?si=emfL9EKrOARVc3ve\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />また、11月8日(土)から開始するライブ公演「新参者 二〇二五 LIVE at THEATER MILANO-Za」を軸に、オリジナルグッズ販売に加え、11月1日(土)～「東急歌舞伎町タワー」にて「新参者 二〇二五」コラボレーションフードの販売、館内装飾などが実施されます。さらに、東急東横線と東急田園都市線での車内ジャックトレインの運行も決定しました。<br /><br />詳細は東急歌舞伎町タワーのオフィシャルサイト、または「新参者 二〇二五」公式Xアカウントをご確認ください。<br /><br />▼オフィシャルサイト<br /><a href=\"https://www.tokyu-kabukicho-tower.jp/shinzanmono/\">https://www.tokyu-kabukicho-tower.jp/shinzanmono/</a><br />▼「新参者 二〇二五 in TOKYU KABUKICHO TOWER」公式Xアカウント<br /><a href=\"https://x.com/shinzanmono25\">https://x.com/shinzanmono25</a>"
+    },
+    {
       "category": "media",
       "code": "M01843",
       "title": "10月20日(月)20:00～FM NACK5「FAV FOUR」に谷口愛季、山下瞳月が出演！",
@@ -608,5 +629,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "50"
+  "count": "51"
 }
