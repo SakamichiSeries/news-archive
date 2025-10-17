@@ -1,6 +1,34 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02550",
+      "title": "「週刊プレイボーイ」No.44（10月20日(月)発売）の表紙・巻頭に大野愛実、中面に藤嶌果歩、松尾桜が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02550",
+      "pubdate": "2025/10/17 17:00:00",
+      "tags": [
+        "33",
+        "38",
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "「週刊プレイボーイ」No.44（10月20日(月)発売）の表紙・巻頭に大野愛実、中面に藤嶌果歩、松尾桜が登場！<br />日向坂特集となります。また、四期生のインタビューも掲載！<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://wpb.shueisha.co.jp/\" target=\"_blank\">「週刊プレイボーイ」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02549",
+      "title": "10月20日(月)7:05～テレビ東京「おはスタ」に宮地すみれが生出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02549",
+      "pubdate": "2025/10/17 17:00:00",
+      "tags": [
+        "34"
+      ],
+      "thumbnail": null,
+      "content": "10月20日(月)7:05～テレビ東京「おはスタ」に宮地すみれが生出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ohast.jp/\">テレビ東京「おはスタ」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00757",
       "title": "明日10月18日(土)開催「Rakuten GirlsAward 2025 AUTUMN/WINTER」に金村美玖・小坂菜緒が出演！",
@@ -419,5 +447,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "39"
+  "count": "41"
 }
