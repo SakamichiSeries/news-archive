@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02547",
+      "title": "10月20日(月)25:00～TOKYO FM「TOKYO SPEAKEASY」に正源司陽子が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02547",
+      "pubdate": "2025/10/17 09:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "10月20日(月)25:00～TOKYO FM「TOKYO SPEAKEASY」に正源司陽子が出演いたします。<br />ぜひお聴きください。<br /><br /><a href=\"https://www.tfm.co.jp/speakeasy/\">TOKYO FM「TOKYO SPEAKEASY」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00756",
       "title": "12/8(月)ニッポン放送「日向坂46・松田好花のオールナイトニッポンX」の番組イベントが開催決定！",
@@ -367,5 +380,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "35"
+  "count": "36"
 }
