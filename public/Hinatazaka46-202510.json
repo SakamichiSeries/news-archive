@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "event",
+      "code": "E00757",
+      "title": "明日10月18日(土)開催「Rakuten GirlsAward 2025 AUTUMN/WINTER」に金村美玖・小坂菜緒が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00757",
+      "pubdate": "2025/10/17 16:00:00",
+      "tags": [
+        "12",
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "「Rakuten GirlsAward 2025 AUTUMN/WINTER」に金村美玖・小坂菜緒が出演いたします。<br /><br /><span>開催日時：10月17日(土) 開場13:00 / 開演14:30(予定)</span><br /><span>会場：幕張メッセ9-11ホール</span><br /><span>主催：ガールズアワード実行委員会</span><br /><span>企画・制作：株式会社Award</span><br /><span>著作：株式会社Award</span><br /><br />※出演者は予告なく変更になる場合がございます<br /><br /><a href=\"https://girls-award.com/\" target=\"_blank\">「Rakuten GirlsAward 2025 AUTUMN/WINTER」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "event",
       "code": "E00755",
       "title": "「新参者 二〇二五 in TOKYU KABUKICHO TOWER」のキービジュアルを公開！オリジナルグッズ販売に加え、11月1日(土)～コラボレーションフードの販売、館内装飾も実施！",
       "caption": "",
@@ -405,5 +419,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "38"
+  "count": "39"
 }
