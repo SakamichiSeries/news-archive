@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M01848",
+      "title": "10月25日(土)23:00～NHK総合「Venue101」に出演決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01848",
+      "pubdate": "2025/10/18 23:30:00",
+      "thumbnail": null,
+      "content": "<span>10月25日(土)23:00～NHK総合「Venue101」に出演が決定しました！</span><br /><span>是非ご覧ください！</span><br /><br /><a href=\"https://www.nhk.or.jp/music/venue101/\">NHK総合「Venue101」公式HPはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01847",
       "title": "「櫻坂チャンネル」にて「【アイドルメイク】ツールやこだわりも解説！モデル田村が後輩の谷口をプロデュース！」を公開！",
       "caption": "",
@@ -643,5 +653,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "52"
+  "count": "53"
 }
