@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100219",
+      "title": "本日10月19日(日)より、公式ゲームアプリ「UNI'S ON AIR」に五期生が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100219",
+      "pubdate": "2025/10/19 21:35:00",
+      "thumbnail": null,
+      "content": "本日10月19日(日)より、公式ゲームアプリ「UNI'S ON AIR」に五期生10名が登場いたしました。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/twitter_gacha_42523.png\" alt=\"\" width=\"900\" height=\"506\" /><br /><br />五期生の撮り下ろしフォトやムービーをお楽しみいただける「日向坂46 五期生登場記念撮影 NEW ARRIVAL COLLECTION」の開催や、「ジャーマンアイリス」のライブ映像もアプリ内に追加となりました。<br /><br />また、「UNI'S ON AIR」公式YouTubeチャンネルにて五期生登場を記念した特番も公開中です。<br /><br />詳しくは「UNI'S ON AIR」公式サイト・公式Xをご確認ください。<br /><br />公式サイト：<a href=\"https://keyahina-unisonair.com\">https://keyahina-unisonair.com</a><br />公式X：<a href=\"https://x.com/kh_unisonair\">https://x.com/kh_unisonair</a><br />公式YouTube：<a href=\"https://www.youtube.com/@UNISONAIR-jj4of\">https://www.youtube.com/@UNISONAIR-jj4of</a><br /><br />配信プラットフォーム：<br />iOS版 App Store：<a href=\"https://apple.co/2mtZNd\">https://apple.co/2mtZNd</a><br />Android版 Google Play：<a href=\"http://bit.ly/2ZyNZIE\">http://bit.ly/2ZyNZIE</a>"
+    },
+    {
       "category": "media",
       "code": "M02550",
       "title": "「週刊プレイボーイ」No.44（10月20日(月)発売）の表紙・巻頭に大野愛実、中面に藤嶌果歩、松尾桜が登場！",
@@ -447,5 +457,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "41"
+  "count": "42"
 }
