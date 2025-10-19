@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01846",
+      "title": "10月20日(月)5:20〜放送のTBS「THE TIME,」に松田里奈がVTR出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01846",
+      "pubdate": "2025/10/19 12:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "10月20日(月)5:20〜放送のTBS「THE TIME,」に松田里奈がVTR出演いたします。<div>ぜひご覧ください。<br />※生放送のため、変更の可能性があります<br /><br /></div><div><a href=\"https://www.tbs.co.jp/thetime_tbs/\">TBS「THE TIME,」公式ホームページはコチラ</a></div>"
+    },
+    {
+      "category": "media",
       "code": "M01848",
       "title": "10月25日(土)23:00～NHK総合「Venue101」に出演決定！",
       "caption": "",
@@ -653,5 +666,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "53"
+  "count": "54"
 }
