@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01844",
+      "title": "「東京カレンダー」12月号（10月21日(火)発売）に村井優が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01844",
+      "pubdate": "2025/10/19 13:00:00",
+      "tags": [
+        "67"
+      ],
+      "thumbnail": null,
+      "content": "「東京カレンダー」12月号（10月21日(火)発売）に村井優が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://tokyo-calendar.jp\">「東京カレンダー」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01846",
       "title": "10月20日(月)5:20〜放送のTBS「THE TIME,」に松田里奈がVTR出演！",
       "caption": "",
@@ -666,5 +679,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "54"
+  "count": "55"
 }
