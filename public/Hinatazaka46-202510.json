@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02551",
+      "title": "日向坂46が「YouTube おちゃのまスペシャル」に参加決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02551",
+      "pubdate": "2025/10/20 10:00:00",
+      "thumbnail": null,
+      "content": "「YouTube おちゃのまスペシャル」に、日向坂46の公式YouTubeチャンネル「日向坂ちゃんねる」が参加することが決定いたしました！<br /><br />「YouTube おちゃのまスペシャル」とは、様々なYouTubeチャンネルが一堂に会して、11月1日～14日の期間中の毎日21時に、撮り下ろされた長尺コンテンツなどを公開する企画となっております。<br /><br />「日向坂ちゃんねる」は、11月5日(水)21時～プレミア公開！全メンバー出演します！<br />ぜひチェックしてください！<br /><br />■「YouTube おちゃのまスペシャル」<br />開催期間：2025年11月1日(土)〜11月14日(金)<br />毎晩21時、YouTubeにて参加チャンネルからコンテンツが公開されます！<br />＜Trailer＞<div><a href=\"https://youtu.be/yvWwS4XbShM\">https://youtu.be/yvWwS4XbShM<br /></a><iframe width=\"320\" height=\"180\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://www.youtube.com/embed/yvWwS4XbShM\" title=\"YouTube おちゃのまスペシャル | 11/1 (土) ~ 14 (金) 開催\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div><br />■日向坂ちゃんねる<br />11月5日(水)21時～プレミア公開！<br /><a href=\"https://youtube.com/@hinatazakachannel\">https://youtube.com/@hinatazakachannel</a><br /><div><img src=\"https://cdn.hinatazaka46.com/files/14/_%E3%81%8A%E3%81%A1%E3%82%83%E3%81%AE%E3%81%BE.png\" alt=\"\" width=\"624\" height=\"499\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></div>"
+    },
+    {
+      "category": "media",
       "code": "M02546",
       "title": "「BRODY」12月号（10月23日(木)発売）の表紙・巻頭に五期生の10名が、中面には佐藤優羽が登場！",
       "caption": "",
@@ -479,5 +489,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "43"
+  "count": "44"
 }
