@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01840",
+      "title": "10月22日(水)23:25～朝日放送テレビ「これ余談なんですけど・・・」に谷口愛季が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01840",
+      "pubdate": "2025/10/20 12:00:00",
+      "tags": [
+        "63"
+      ],
+      "thumbnail": null,
+      "content": "10月22日(水)23:25～朝日放送テレビ「これ余談なんですけど・・・」に谷口愛季が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.asahi.co.jp/yodan/\">朝日放送テレビ「これ余談なんですけど・・・」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01844",
       "title": "「東京カレンダー」12月号（10月21日(火)発売）に村井優が登場！",
       "caption": "",
@@ -679,5 +692,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "55"
+  "count": "56"
 }
