@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100220",
+      "title": "「日向坂ちゃんねる」にて「【イヤホン推奨】癒されたいあなたにお届け♡もぐもぐASMR【エンジェルボイス】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100220",
+      "pubdate": "2025/10/20 22:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて、「五期生祭りVol.2」3つ目の企画「【イヤホン推奨】癒されたいあなたにお届け♡もぐもぐASMR【エンジェルボイス】」を公開いたしました！<br /><br />「五期生祭りVoL.2」<br />3つ目の企画は、ASMR！<br /><br />五期生・佐藤優羽が、四期生・宮地すみれと初めてのASMRに挑戦してみました！<br /><br />イヤホン必須！<br />声と音に耳を傾けながら、ひたすらもぐもぐする二人に癒されてください！<br /><br /><a href=\"https://youtu.be/s83NHIJ3D4c\">https://youtu.be/s83NHIJ3D4c<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/s83NHIJ3D4c\" title=\"【イヤホン推奨】癒されたいあなたにお届け♡もぐもぐASMR【エンジェルボイス】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02551",
       "title": "日向坂46が「YouTube おちゃのまスペシャル」に参加決定！",
@@ -489,5 +499,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "44"
+  "count": "45"
 }
