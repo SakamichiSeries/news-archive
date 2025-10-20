@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02546",
+      "title": "「BRODY」12月号（10月23日(木)発売）の表紙・巻頭に五期生の10名が、中面には佐藤優羽が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02546",
+      "pubdate": "2025/10/20 09:00:00",
+      "tags": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "「BRODY」12月号（10月23日(木)発売）の表紙・巻頭に五期生の10名が、中面には佐藤優羽が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://brodymag.themedia.jp/\">「BRODY」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100219",
       "title": "本日10月19日(日)より、公式ゲームアプリ「UNI'S ON AIR」に五期生が登場！",
@@ -457,5 +479,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "42"
+  "count": "43"
 }
