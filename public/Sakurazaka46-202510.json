@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01849",
+      "title": "日刊スポーツ「坂道の火曜日」(10月21日(火)発刊)に遠藤理子が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01849",
+      "pubdate": "2025/10/21 21:00:00",
+      "tags": [
+        "60"
+      ],
+      "thumbnail": null,
+      "content": "<span>日刊スポーツ「坂道の火曜日」(10月21日(火)発刊)に遠藤理子が</span>登場しております。<br /><br /><span>ぜひチェックしてください。</span><br /><br /><a href=\"https://twitter.com/sakamichinikkan\">日刊スポーツ「坂道の火曜日」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01854",
       "title": "10月22日(水)22:00～TBS「水曜日のダウンタウン」に田村保乃が出演！",
       "caption": "",
@@ -764,5 +777,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "62"
+  "count": "63"
 }
