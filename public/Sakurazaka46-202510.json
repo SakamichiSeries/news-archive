@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01854",
+      "title": "10月22日(水)22:00～TBS「水曜日のダウンタウン」に田村保乃が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01854",
+      "pubdate": "2025/10/21 19:30:00",
+      "tags": [
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "10月22日(水)22:00～TBS「水曜日のダウンタウン」に田村保乃が出演いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://www.tbs.co.jp/suiyobinodowntown/\">TBS「水曜日のダウンタウン」公式ホームページはコチラ</a><br /><br /><br /><br />"
+    },
+    {
+      "category": "media",
       "code": "M01852",
       "title": "10月23日(木)21:00～フジテレビ「この世界は1ダフル」に松田里奈が出演！",
       "caption": "",
@@ -751,5 +764,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "61"
+  "count": "62"
 }
