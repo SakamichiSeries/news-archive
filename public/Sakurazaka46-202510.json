@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01850",
+      "title": "10月22日(水)8:00～TBS「ラヴィット！」に小島凪紗が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01850",
+      "pubdate": "2025/10/21 12:00:00",
+      "tags": [
+        "62"
+      ],
+      "thumbnail": null,
+      "content": "10月22日(水)8:00～TBS「ラヴィット！」に小島凪紗が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00506",
       "title": "13thシングル『Unhappy birthday構文』発売記念・パネル展示決定！",
@@ -712,5 +725,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "58"
+  "count": "59"
 }
