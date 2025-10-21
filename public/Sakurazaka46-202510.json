@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01852",
+      "title": "10月23日(木)21:00～フジテレビ「この世界は1ダフル」に松田里奈が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01852",
+      "pubdate": "2025/10/21 14:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "<span>10月23日(木)21:00～フジテレビ「この世界は1ダフル」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/1derful/\" target=\"_blank\">フジテレビ「この世界は1ダフル」公式ホームページはコチラ</a><br /><br /></span>"
+    },
+    {
+      "category": "media",
       "code": "M01851",
       "title": "10月23日(木)14:00～TBSラジオ「こねくと」に守屋麗奈が生出演！",
       "caption": "",
@@ -738,5 +751,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "60"
+  "count": "61"
 }
