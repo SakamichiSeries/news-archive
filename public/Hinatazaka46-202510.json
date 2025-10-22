@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00758",
+      "title": "11月22日(土)『横浜DeNAベイスターズ BAY BLUE FESTIVAL ～BAYSTARS FUN! DAYS～ Supported by ありあけハーバー』DAY1に山口陽世の出演が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00758",
+      "pubdate": "2025/10/22 11:00:00",
+      "tags": [
+        "24"
+      ],
+      "thumbnail": null,
+      "content": "11月22日(土)横浜スタジアムで行われる、『横浜DeNAベイスターズ BAY BLUE FESTIVAL ～BAYSTARS FUN! DAYS～ Supported by ありあけハーバー』に山口陽世が出演いたします。<br />どうぞお楽しみに！<br /><br /><a href=\"https://www.baystars.co.jp/news/2025/10/1022_03.php\">公式ホームページはコチラ</a>"
+    },
+    {
       "category": "goods",
       "code": "G00186",
       "title": "[10/21更新] 日向坂46 ARENA TOUR 2025「MONSTER GROOVE」にてUNI'S ON AIRコラボレーションアイテムが当たる縁日ブースとガチャガチャ&クレーンゲームの出店が決定！",
@@ -509,5 +522,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "46"
+  "count": "47"
 }
