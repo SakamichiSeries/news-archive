@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01855",
+      "title": "「週刊少年チャンピオン」47号（10月23日(木)発売）の表紙・巻頭に村井優が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01855",
+      "pubdate": "2025/10/22 13:00:00",
+      "tags": [
+        "67"
+      ],
+      "thumbnail": null,
+      "content": "<span>「週刊少年チャンピオン」47号（10月23日(木)発売）の表紙・巻頭に村井優が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://www.akitashoten.co.jp/w-champion\" target=\"_blank\">「週刊少年チャンピオン」公式ホームページはコチラ</a><br /><br /></span>"
+    },
+    {
+      "category": "media",
       "code": "M01849",
       "title": "日刊スポーツ「坂道の火曜日」(10月21日(火)発刊)に遠藤理子が登場！",
       "caption": "",
@@ -777,5 +790,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "63"
+  "count": "64"
 }
