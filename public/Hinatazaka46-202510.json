@@ -1,6 +1,21 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02552",
+      "title": "「ドラクエナタリー」にてHD-2D版「ドラゴンクエストI＆II」×日向坂46特集公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02552",
+      "pubdate": "2025/10/22 17:00:00",
+      "tags": [
+        "29",
+        "31",
+        "35"
+      ],
+      "thumbnail": null,
+      "content": "「ドラクエナタリー」にてHD-2D版「ドラゴンクエストI＆II」&times;日向坂46特集が公開されました！<br /><br /><span>正源司陽子・平尾帆夏・山下葉留花がワクワク＆ドキドキの<span lang=\"EN-US\">DQ</span>ワールドへ！<br /><span lang=\"EN-US\">ぜひチェックしてください。<br /> <br /></span><span lang=\"EN-US\"><a href=\"https://natalie.mu/music/pp/dq1and2-03\">体験レポート 前編はコチラ</a></span></span><br /><a href=\"https://www.youtube.com/watch?v=AWmOfbAVR-c\">ゲームプレイ動画 前編はコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00758",
       "title": "11月22日(土)『横浜DeNAベイスターズ BAY BLUE FESTIVAL ～BAYSTARS FUN! DAYS～ Supported by ありあけハーバー』DAY1に山口陽世の出演が決定！",
@@ -522,5 +537,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "47"
+  "count": "48"
 }
