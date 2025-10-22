@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01856",
+      "title": "「BRODY」12月号（10月23日(木)発売）に浅井恋乃未が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01856",
+      "pubdate": "2025/10/22 14:00:00",
+      "tags": [
+        "70"
+      ],
+      "thumbnail": null,
+      "content": "<span>「BRODY」12月号（10月23日(木)発売）に浅井恋乃未が登場いたします。</span><br />ぜひチェックしてください。<br /><br /><a href=\"https://www.brodymag.com/\">「BRODY」公式ホームページはコチラ<br /></a>"
+    },
+    {
+      "category": "media",
       "code": "M01855",
       "title": "「週刊少年チャンピオン」47号（10月23日(木)発売）の表紙・巻頭に村井優が登場！",
       "caption": "",
@@ -790,5 +803,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "64"
+  "count": "65"
 }
