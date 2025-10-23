@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01857",
+      "title": "10月25日(土)17:00～TOKYO FM「川島明 そもそもの話」に小島凪紗が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01857",
+      "pubdate": "2025/10/23 13:00:00",
+      "tags": [
+        "62"
+      ],
+      "thumbnail": null,
+      "content": "<span>10月25日(土)17:00～TOKYO FM「川島明 そもそもの話」に小島凪紗が出演いたします。</span><br /><span>ぜひお聴きください。</span><br /><br /><a href=\"https://www.tfm.co.jp/somosomo/\">TOKYO FM「川島明 そもそもの話」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00509",
       "title": "10月24日(金)0:00に13thシングル収録『木枯らしは泣かない』のMUSIC VIDEO公開と先行配信が決定！",
@@ -843,5 +856,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "69"
+  "count": "70"
 }
