@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01860",
+      "title": "10月25日(土)13:00〜TOKYO FM&JFN38局「JA全農 COUNTDOWN JAPAN」に的野美青が生出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01860",
+      "pubdate": "2025/10/23 14:00:00",
+      "tags": [
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "<span>10月25日(土)13:00〜TOKYO FM&JFN38局「JA全農 COUNTDOWN JAPAN」に的野美青が生出演いたします。</span><br />ぜひお聴きください。<br /><br /><a href=\"https://www.tfm.co.jp/countdownjapan/\">TOKYO FM「JA全農 COUNTDOWN JAPAN」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01857",
       "title": "10月25日(土)17:00～TOKYO FM「川島明 そもそもの話」に小島凪紗が出演！",
       "caption": "",
@@ -856,5 +869,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "70"
+  "count": "71"
 }
