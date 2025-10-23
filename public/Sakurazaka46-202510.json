@@ -1,6 +1,26 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00509",
+      "title": "10月24日(金)0:00に13thシングル収録『木枯らしは泣かない』のMUSIC VIDEO公開と先行配信が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00509",
+      "pubdate": "2025/10/23 12:00:00",
+      "thumbnail": null,
+      "content": "<span>10月24日(金)0:00に、13thシングルBACKSメンバーによる楽曲『木枯らしは泣かない』のMUSIC VIDEOの公開と、ストリーミング＆ダウンロード先行配信することが決定しました！<br />櫻坂46 Official YouTubeチャンネルにてプレミア公開ページをオープンいたしました。<br />お楽しみに！<br /><br />■櫻坂46『木枯らしは泣かない』MUSIC VIDEO　※10月24日(金)0:00公開<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/aQ1iXj4oXfI\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /><a href=\"https://sakurazaka46.lnk.to/Kogarashiwanakanai\"><strong>■『木枯らしは泣かない』各種ストリーミング＆ダウンロードはコチラ</strong></a><a href=\"https://sakurazaka46.lnk.to/Unhappybirthdaykoubun\"><br /></a>※楽曲は10月24日(金)0:00から配信開始となります<br /><img src=\"https://sakurazaka46.com/files/14/S46%20Release/13th%20Unhappy%20birthday%E6%A7%8B%E6%96%87/_Sakurazaka46_13th%20Single_Unhappy%20birthday%E6%A7%8B%E6%96%87_haishin%20JK.jpg\" alt=\"\" width=\"1000\" height=\"1000\" /></span>"
+    },
+    {
+      "category": "release",
+      "code": "R00508",
+      "title": "13thシングル『Unhappy birthday構文』TYPE-A,B収録、特典映像『12th Single BACKS LIVE!! ~Center Performance Collections~』のダイジェストを公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00508",
+      "pubdate": "2025/10/23 12:00:00",
+      "thumbnail": null,
+      "content": "<span>10月29日(水)発売、<span>13thシングル『Unhappy birthday構文』の初回仕様限定盤</span>TYPE-A,Bに収録される特典映像<span>『<span lang=\"EN-US\">12th Single BACKS LIVE!! ~Center Performance Collections~</span>』 </span>の<span>ダイジェストを櫻坂46 Official YouTubeチャンネルにて公開しました！是非チェックしてください！</span></span><br /><br /><span>■<span>櫻坂<span lang=\"EN-US\">46</span>『<span lang=\"EN-US\">12th Single BACKS LIVE!! ~Center Performance Collections~</span>』 ダイジェスト映像</span><br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/MWOqkzZ5VEo\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
+    },
+    {
       "category": "event",
       "code": "E00556",
       "title": "櫻坂46 「13th Single BACKS LIVE!!」、オフィシャル先行が10/23(木)12:00よりスタート！",
@@ -823,5 +843,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "67"
+  "count": "69"
 }
