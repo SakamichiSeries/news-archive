@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01859",
+      "title": "10月27日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01859",
+      "pubdate": "2025/10/24 14:00:00",
+      "tags": [
+        "64"
+      ],
+      "thumbnail": null,
+      "content": "10月27日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01858",
       "title": "10月26日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に中嶋優月が出演！",
       "caption": "",
@@ -892,5 +905,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "73"
+  "count": "74"
 }
