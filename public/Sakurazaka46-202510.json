@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00557",
+      "title": "「新参者 二〇二五 LIVE at THEATER MILANO-Za」 祝花・プレゼントに関しまして",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00557",
+      "pubdate": "2025/10/24 15:00:00",
+      "thumbnail": null,
+      "content": "<p class=\"p1\"><span class=\"s1\">「新参者 二〇二五 LIVE at THEATER MILANO-Za」公演の祝花・プレゼントに関しまして、お知らせいたします。<br /><br /></span>■祝花<br />お祝いのスタンド花などは、会場スペースの都合により、大変申し訳ありませんが受け取ることが出来ません。祝花は、大小に関わらず送らないようにお願いいたします。<br />会場に届いたものに関しましては、受け取らずに生花店にお持ち帰りいただきます。<br /><br />■プレゼント・応援幕について<br />メンバーへのお手紙・プレゼント・応援幕の持ち込みは禁止とさせていただきます。会場にお持ちいただいても、お預かりすることは出来ません。<br /><br />以上、予めご了承下さい。</p>"
+    },
+    {
       "category": "media",
       "code": "M01859",
       "title": "10月27日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演！",
@@ -905,5 +915,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "74"
+  "count": "75"
 }
