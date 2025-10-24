@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01858",
+      "title": "10月26日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に中嶋優月が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01858",
+      "pubdate": "2025/10/24 13:00:00",
+      "tags": [
+        "64"
+      ],
+      "thumbnail": null,
+      "content": "<span>10月26日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に中嶋優月が出演いたします。</span><br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00510",
       "title": "13thシングル『Unhappy birthday構文』収録曲歌唱メンバー決定！",
@@ -879,5 +892,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "72"
+  "count": "73"
 }
