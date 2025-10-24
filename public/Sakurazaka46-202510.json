@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01866",
+      "title": "アニプレックスYouTubeチャンネルにて公開の『小島凪紗の「櫻坂46×ビルディバイド -ブライト-」トレーディングカードゲーム スペシャル特訓！①（用語編）』に小島凪紗が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01866",
+      "pubdate": "2025/10/24 19:04:43",
+      "tags": [
+        "62"
+      ],
+      "thumbnail": null,
+      "content": "アニプレックスYouTubeチャンネルにて公開の『小島凪紗の「櫻坂46&times;ビルディバイド -ブライト-」トレーディングカードゲーム スペシャル特訓！①（用語編）』に小島凪紗が出演しております。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/Li6cRUMjA1g?si=kgTAecknmeURKYb4\">アニプレックスYouTubeチャンネル『小島凪紗の「櫻坂46&times;ビルディバイド -ブライト-」トレーディングカードゲーム スペシャル特訓！①（用語編）』はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/Li6cRUMjA1g?si=kgTAecknmeURKYb4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "other",
       "code": "O100065",
       "title": "【櫻坂46メッセージ】11月1日(土)0:00～櫻坂46四期生が「櫻坂46メッセージ」をスタート！",
@@ -925,5 +938,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "76"
+  "count": "77"
 }
