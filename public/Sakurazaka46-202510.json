@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01839",
+      "title": "「スポーツ報知」（10月25日(土)発刊）に武元唯衣が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01839",
+      "pubdate": "2025/10/25 11:30:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "<span><span><span>「スポーツ報知」（10月25日(土)発刊）に武元唯衣が登場しております。</span><br /></span></span><p>ぜひチェックしてください。<br /><br /><a href=\"https://hochi.news/articles/20251024-OHT1T51238.html?page=1\" target=\"_blank\">掲載ページはコチラ</a></p>"
+    },
+    {
+      "category": "media",
       "code": "M01866",
       "title": "アニプレックスYouTubeチャンネルにて公開の『小島凪紗の「櫻坂46×ビルディバイド -ブライト-」トレーディングカードゲーム スペシャル特訓！①（用語編）』に小島凪紗が出演！",
       "caption": "",
@@ -938,5 +951,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "77"
+  "count": "78"
 }
