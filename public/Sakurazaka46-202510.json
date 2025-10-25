@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01862",
+      "title": "「週刊ヤングマガジン」48号（10月27日(月)発売）に稲熊ひなが登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01862",
+      "pubdate": "2025/10/25 14:00:00",
+      "tags": [
+        "71"
+      ],
+      "thumbnail": null,
+      "content": "<span>「週刊ヤングマガジン」48号（10月27日(月)発売）に稲熊ひなが登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://magazine.yanmaga.jp/ym/\" target=\"_blank\">「週刊ヤングマガジン」公式ホームページはコチラ</a><br /><br /></span>"
+    },
+    {
+      "category": "media",
       "code": "M01863",
       "title": "10月27日(月)23:45～テレビ朝日「くりぃむナンタラ」に井上梨名・大園玲・武元唯衣・松田里奈が出演！",
       "caption": "",
@@ -977,5 +990,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "80"
+  "count": "81"
 }
