@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01870",
+      "title": "サントリー新WebCM「クラフトボス 世界のTEA」に中嶋優月が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01870",
+      "pubdate": "2025/10/27 15:30:00",
+      "tags": [
+        "64"
+      ],
+      "thumbnail": null,
+      "content": "サントリー新WebCM「クラフトボス 世界のTEA」に中嶋優月が出演しております。<br />サントリーBOSSの公式Xにて公開しています。<br />ぜひご覧ください。<br /><br /><a href=\"https://x.com/_craftboss\">サントリーBOSS公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01865",
       "title": "「週刊少年マガジン」48号（10月29日(水)発売）の表紙・巻頭に村井優が登場！",
       "caption": "",
@@ -1044,5 +1057,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "85"
+  "count": "86"
 }
