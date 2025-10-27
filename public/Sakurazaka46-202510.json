@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01871",
+      "title": "10月29日(水)20:00～「櫻坂46 OFFICIAL YouTube CHANNEL」にて「【10月29日(水)20:00～】13th Single『Unhappy birthday構文』リリースパーティー」の生配信が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01871",
+      "pubdate": "2025/10/27 21:00:00",
+      "tags": [
+        "48",
+        "51",
+        "63",
+        "67",
+        "70",
+        "77"
+      ],
+      "thumbnail": null,
+      "content": "10月29日(水)20:00～「櫻坂46 OFFICIAL YouTube CHANNEL」にて「【10月29日(水)20:00～】13th Single『Unhappy birthday構文』リリースパーティー」の生配信が決定いたしました。<br /><br />松田里奈、山﨑天、谷口愛季、村井優、浅井恋乃未、山川宇衣の6人がリリース日の夜を盛り上げます！<br /><br />ぜひお楽しみに！<br /><br /><a href=\"https://youtube.com/live/CHi7bFZaHe0?feature=share\">櫻坂46 OFFICIAL YouTube CHANNEL「【10月29日(水)20:00～】13th Single『Unhappy birthday構文』リリースパーティー」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/CHi7bFZaHe0?si=lw_2FqHfAHznMeV3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><a href=\"https://www.youtube.com/@sakurazakachannel\"><br /></a>"
+    },
+    {
       "category": "release",
       "code": "M01853",
       "title": "13thシングル『Unhappy birthday構文 (Special Edition)』Stationheadリスニングパーティー開催決定！",
@@ -1067,5 +1085,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "87"
+  "count": "88"
 }
