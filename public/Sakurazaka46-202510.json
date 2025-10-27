@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01864",
+      "title": "10月29日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に谷口愛季が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01864",
+      "pubdate": "2025/10/27 12:00:00",
+      "tags": [
+        "63"
+      ],
+      "thumbnail": null,
+      "content": "10月29日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に谷口愛季が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.asahi.co.jp/yodan/\">朝日放送テレビ「これ余談なんですけど・・・」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01861",
       "title": "「櫻坂チャンネル」にて「【Vlog】山﨑天が「LONDON FASHION WEEK 2025」に参加！【副音声あり】」を公開！",
       "caption": "",
@@ -1018,5 +1031,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "83"
+  "count": "84"
 }
