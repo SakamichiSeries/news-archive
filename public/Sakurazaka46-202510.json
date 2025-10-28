@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01872",
+      "title": "10月29日(水)14:00～e-radio「キャッチ！」に武元唯衣がリモート出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01872",
+      "pubdate": "2025/10/28 14:05:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "<span>10月29日(水)14:00～e-radio「キャッチ！」に武元唯衣がリモート出演いたします。(16時台に出演予定）</span><br /><span>ぜひご覧ください！</span><br /><br /><a href=\"https://www.e-radio.co.jp/\">e-radio(エフエム滋賀)公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01868",
       "title": "日刊スポーツ「坂道の火曜日」(10月28日(火)発刊)に村井優が登場！",
       "caption": "",
@@ -1126,5 +1139,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "91"
+  "count": "92"
 }
