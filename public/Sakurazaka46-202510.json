@@ -1,6 +1,32 @@
 {
   "news": [
-
+    {
+      "category": "media",
+      "code": "M01868",
+      "title": "日刊スポーツ「坂道の火曜日」(10月28日(火)発刊)に村井優が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01868",
+      "pubdate": "2025/10/28 13:30:00",
+      "tags": [
+        "67"
+      ],
+      "thumbnail": null,
+      "content": "<span>日刊スポーツ「坂道の火曜日」(10月28日(火)発刊)に村井優が</span>登場しております。<br /><br /><span>ぜひチェックしてください。</span><br /><br /><a href=\"https://twitter.com/sakamichinikkan\">日刊スポーツ「坂道の火曜日」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01869",
+      "title": "10月30日(木)22:00〜TOKYO FM&JFN38局「SCHOOL OF LOCK!」に山﨑天・村井優が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01869",
+      "pubdate": "2025/10/28 13:00:00",
+      "tags": [
+        "51",
+        "67"
+      ],
+      "thumbnail": null,
+      "content": "<span>10月30日(木)22:00〜TOKYO FM&JFN38局「SCHOOL OF LOCK!」に山﨑天・村井優が出演いたします。</span><br />ぜひお聴きください。<br /><br /><a href=\"https://www.tfm.co.jp/lock/index.html\">TOKYO FM「SCHOOL OF LOCK!」公式ホームページはコチラ</a>"
+    },
     {
       "category": "media",
       "code": "M01867",
@@ -1100,5 +1126,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "90"
+  "count": "91"
 }
