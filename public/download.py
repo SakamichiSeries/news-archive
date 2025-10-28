@@ -164,8 +164,6 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                     content = entry["content"]
                     images = re.findall(r'<img[^>]+src=["\']([^"\']+)["\'][^>]*>', content)
                     images = images[:9]
-                    if images:
-                        send_media_group(channel_id, bot_token, images)
                     text = re.sub(r"<img[^>]*>", "", content)
                     text = re.sub(r"<br\s*\/?>\s*", "\n", text)
                     text = re.sub(r"<[^>]+>", "", text)
@@ -176,6 +174,8 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                         link = f"https://sp.nogizaka46.com/p/news/{entry["code"]}"
                     msg = f"{entry['title']}\n{text}\n{link}"
                     message_id = send_telegram_message(msg, channel_id, bot_token)
+                    if images:
+                        send_media_group(channel_id, bot_token, images)
                     if message_id and summary_channel_id and username:
                         tg_link = f"https://t.me/{username}/{message_id}"
                         # summary_msg = f"{group} news: {entry['title']}\n{tg_link}"
