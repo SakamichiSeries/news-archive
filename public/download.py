@@ -14,6 +14,8 @@ def sort_key(x):
         return (1, x)
 
 
+import html
+
 def _send_part(part, channel_id, bot_token):
     max_retries = 5
     for attempt in range(max_retries):
@@ -21,6 +23,7 @@ def _send_part(part, channel_id, bot_token):
             payload = {
                 "chat_id": channel_id,
                 "text": part,
+                "parse_mode": "HTML",
                 "link_preview_options": {"is_disabled": True},
             }
             response = requests.post(
@@ -135,6 +138,8 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                         send_telegram_message(
                             summary_msg, summary_channel_id, bot_token
                         )
+                        summary_msg = f'{group} news: <a href="{tg_link}">{entry["title"]}</a>'
+                        send_telegram_message(summary_msg, summary_channel_id, bot_token, parse_mode='HTML')
 
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(temp, f, ensure_ascii=False, indent=2)
