@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M01867",
+      "title": "10月29日(水)8:00～TBS「ラヴィット！」に大園玲・武元唯衣が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01867",
+      "pubdate": "2025/10/28 12:00:00",
+      "tags": [
+        "45",
+        "54"
+      ],
+      "thumbnail": null,
+      "content": "10月29日(水)8:00～TBS「ラヴィット！」に大園玲・武元唯衣が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01871",
       "title": "10月29日(水)20:00～「櫻坂46 OFFICIAL YouTube CHANNEL」にて「【10月29日(水)20:00～】13th Single『Unhappy birthday構文』リリースパーティー」の生配信が決定！",
       "caption": "",
@@ -1085,5 +1099,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "88"
+  "count": "89"
 }
