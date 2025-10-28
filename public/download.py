@@ -45,6 +45,46 @@ def _send_part(part, channel_id, bot_token, parse_mode="HTML"):
     return None
 
 
+def _send_media_group(media, channel_id, bot_token):
+    max_retries = 5
+    for attempt in range(max_retries):
+        try:
+            payload = {
+                "chat_id": channel_id,
+                "media": media,
+            }
+            response = requests.post(
+                f"https://api.telegram.org/bot{bot_token}/sendMediaGroup",
+                headers={"Content-Type": "application/json"},
+                json=payload,
+            )
+            resp_json = response.json()
+            if response.ok:
+                print(resp_json)
+                return resp_json["result"]  # Array of message objects
+            else:
+                raise Exception(resp_json.get("description", "Unknown error"))
+        except Exception as e:
+            print(f"Error: {e}")
+            if attempt < max_retries - 1:
+                time.sleep(10)
+    print(f"Failed to send media group after {max_retries} retries")
+    return None
+
+
+def send_media_group(channel_id, bot_token, image_urls):
+    if not image_urls:
+        return None
+    media = []
+    for i, url in enumerate(image_urls[:9]):
+        media_item = {
+            "type": "photo",
+            "media": url,
+        }
+        media.append(media_item)
+    return _send_media_group(media, channel_id, bot_token)
+
+
 def send_telegram_message(msg, channel_id, bot_token, parse_mode="HTML"):
     MAX_LENGTH = 3000
     parts = msg.split("\n")
@@ -122,6 +162,10 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
             if channel_id and new_entries:
                 for entry in new_entries:
                     content = entry["content"]
+                    images = re.findall(r'<img[^>]+src=["\']([^"\']+)["\'][^>]*>', content)
+                    images = images[:9]
+                    if images:
+                        send_media_group(channel_id, bot_token, images)
                     text = re.sub(r"<img[^>]*>", "", content)
                     text = re.sub(r"<br\s*\/?>\s*", "\n", text)
                     text = re.sub(r"<[^>]+>", "", text)
@@ -136,7 +180,7 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                         tg_link = f"https://t.me/{username}/{message_id}"
                         # summary_msg = f"{group} news: {entry['title']}\n{tg_link}"
                         # send_telegram_message(summary_msg, summary_channel_id, bot_token)
-                        summary_msg = f'<a href="{tg_link}">{entry["title"]}</a><br>#{group}'
+                        summary_msg = f'<a href="{tg_link}">{entry["title"]}</a>\n#{group}'
                         send_telegram_message(summary_msg, summary_channel_id, bot_token, parse_mode="HTML")
 
         with open(filename, "w", encoding="utf-8") as f:
@@ -194,3 +238,4 @@ for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
         else:
             continue
         break
+    
