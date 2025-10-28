@@ -134,9 +134,9 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                     message_id = send_telegram_message(msg, channel_id, bot_token)
                     if message_id and summary_channel_id and username:
                         tg_link = f"https://t.me/{username}/{message_id}"
-                        summary_msg = f"{group} news: {entry['title']}\n{tg_link}"
-                        send_telegram_message(summary_msg, summary_channel_id, bot_token)
-                        summary_msg = f'{group} news: <a href="{tg_link}">{entry["title"]}</a>'
+                        # summary_msg = f"{group} news: {entry['title']}\n{tg_link}"
+                        # send_telegram_message(summary_msg, summary_channel_id, bot_token)
+                        summary_msg = f'<a href="{tg_link}">{entry["title"]}</a> <br> #{group}'
                         send_telegram_message(summary_msg, summary_channel_id, bot_token, parse_mode="HTML")
 
         with open(filename, "w", encoding="utf-8") as f:
