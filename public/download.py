@@ -5,6 +5,7 @@ import re
 import random
 import os
 import time
+import html
 
 
 def sort_key(x):
@@ -14,18 +15,17 @@ def sort_key(x):
         return (1, x)
 
 
-import html
-
-def _send_part(part, channel_id, bot_token):
+def _send_part(part, channel_id, bot_token, parse_mode="HTML"):
     max_retries = 5
     for attempt in range(max_retries):
         try:
             payload = {
                 "chat_id": channel_id,
                 "text": part,
-                "parse_mode": "HTML",
                 "link_preview_options": {"is_disabled": True},
             }
+            if parse_mode:
+                payload["parse_mode"] = parse_mode
             response = requests.post(
                 f"https://api.telegram.org/bot{bot_token}/sendMessage",
                 headers={"Content-Type": "application/json"},
@@ -45,7 +45,7 @@ def _send_part(part, channel_id, bot_token):
     return None
 
 
-def send_telegram_message(msg, channel_id, bot_token):
+def send_telegram_message(msg, channel_id, bot_token, parse_mode="HTML"):
     MAX_LENGTH = 3000
     parts = msg.split("\n")
     current_part = ""
@@ -53,14 +53,14 @@ def send_telegram_message(msg, channel_id, bot_token):
     for part in parts:
         if len(current_part) + len(part) + 1 > MAX_LENGTH:
             if current_part:
-                mid = _send_part(current_part, channel_id, bot_token)
+                mid = _send_part(current_part, channel_id, bot_token, parse_mode)
                 if mid:
                     message_ids.append(mid)
             current_part = part
         else:
             current_part += ("\n" if current_part else "") + part
     if current_part:
-        mid = _send_part(current_part, channel_id, bot_token)
+        mid = _send_part(current_part, channel_id, bot_token, parse_mode)
         if mid:
             message_ids.append(mid)
     return message_ids[0] if message_ids else None
@@ -125,7 +125,7 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                     text = re.sub(r"<img[^>]*>", "", content)
                     text = re.sub(r"<br\s*\/?>\s*", "\n", text)
                     text = re.sub(r"<[^>]+>", "", text)
-                    text = re.sub(r"&[^;]+;", "", text)
+                    text = html.unescape(text)
                     text = re.sub(r"\n\s*\n", "\n", text).strip()
                     link = entry["link"]
                     if group == "Nogizaka46":
@@ -135,11 +135,9 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                     if message_id and summary_channel_id and username:
                         tg_link = f"https://t.me/{username}/{message_id}"
                         summary_msg = f"{group} news: {entry['title']}\n{tg_link}"
-                        send_telegram_message(
-                            summary_msg, summary_channel_id, bot_token
-                        )
+                        send_telegram_message(summary_msg, summary_channel_id, bot_token)
                         summary_msg = f'{group} news: <a href="{tg_link}">{entry["title"]}</a>'
-                        send_telegram_message(summary_msg, summary_channel_id, bot_token, parse_mode='HTML')
+                        send_telegram_message(summary_msg, summary_channel_id, bot_token, parse_mode="HTML")
 
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(temp, f, ensure_ascii=False, indent=2)
