@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01874",
+      "title": "「グラビアチャンピオン」vol.10（10月31日(金)発売）に中川智尋が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01874",
+      "pubdate": "2025/10/29 12:00:00",
+      "tags": [
+        "74"
+      ],
+      "thumbnail": null,
+      "content": "「グラビアチャンピオン」vol.10（10月31日(金)発売）に中川智尋が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://www.akitashoten.co.jp/g-champion\">「グラビアチャンピオン」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100066",
       "title": "【櫻坂46メッセージ】Web決済を追加！無料クーポン配布&「直筆サイン・宛名入りチェキ」が当たるキャンペーンがスタート！",
@@ -1163,5 +1176,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "94"
+  "count": "95"
 }
