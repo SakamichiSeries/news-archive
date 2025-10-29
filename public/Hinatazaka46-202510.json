@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02555",
+      "title": "「THE NEW ERA BOOK Fall & Winter 2025」に正源司陽子が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02555",
+      "pubdate": "2025/10/29 15:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "10月30日(木)発売の「<span>THE NEW ERA BOOK Fall & Winter 2025</span>」に正源司陽子が登場いたします！<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.neweracap.jp/products/15132608\" target=\"_blank\">「THE NEW ERA BOOK Fall & Winter 2025」詳細はコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100223",
       "title": "【日向坂46メッセージ】Web決済を追加！無料クーポン配布&「直筆サイン・宛名入りチェキ」が当たるキャンペーンがスタート！",
@@ -630,5 +643,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "56"
+  "count": "57"
 }
