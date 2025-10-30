@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01876",
+      "title": "11月1日(土)19:00～フジテレビ系「新しいカギ」に武元唯衣が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01876",
+      "pubdate": "2025/10/30 12:00:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "<span><span>11月1日</span>(土)19:00～フジテレビ系「新しいカギ」に武元唯衣が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/newkey/\" target=\"_blank\">「新しいカギ」公式ホームページはコチラ</a><br /></span>"
+    },
+    {
       "category": "event",
       "code": "E00559",
       "title": "2026年4/11(土),12(日) 櫻坂46「5th YEAR ANNIVERSARY LIVE」がMUFGスタジアム（国立競技場）にて開催決定！ファンクラブ抽選先行、本日21:00よりスタート！Leminoスペシャルシート・Lemino櫻坂46パック先行受付は、10/30(木)15:00よりスタート！",
@@ -1186,5 +1199,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "96"
+  "count": "97"
 }
