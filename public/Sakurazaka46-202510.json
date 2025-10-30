@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00511",
+      "title": "13thシングル表題曲『Unhappy birthday構文 -Dance Practice-』公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00511",
+      "pubdate": "2025/10/30 18:00:00",
+      "thumbnail": null,
+      "content": "<span>13thシングル表題曲『Unhappy birthday構文』のダンスプラクティス動画を</span><span>櫻坂46 OFFICIAL YouTube CHANNELにて公開しました！<br />是非ご覧ください！<br /><br />■櫻坂46『Unhappy birthday構文 -Dance Practice-』</span><span><br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/vSKojROoc_Q\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
+    },
+    {
       "category": "media",
       "code": "M01881",
       "title": "「週刊ヤングジャンプ」No.48(10月30日(木)発売)の表紙・巻頭に山川宇衣が、巻末に佐藤愛桜が登場!",
@@ -1213,5 +1223,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "98"
+  "count": "99"
 }
