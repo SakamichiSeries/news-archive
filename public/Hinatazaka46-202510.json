@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100224",
+      "title": "11月5日(水)21:00～「日向坂ちゃんねる」にて「食欲の秋！手打蕎麦このか開店！【全メンバー大集合】」をプレミア公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100224",
+      "pubdate": "2025/10/30 19:00:00",
+      "thumbnail": null,
+      "content": "11月5日(水)21:00～YouTubeチャンネル「日向坂ちゃんねる」にて、<span>「YouTube おちゃのまスペシャル」のコンテンツとして</span>「食欲の秋！手打蕎麦このか開店！【全メンバー大集合】」をプレミア公開いたします！<br /><br /><div style=\"text-align: left;\"><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/Hc19hUwgkTI\" title=\"【11/5(水)21:00〜プレミア公開】食欲の秋！手打蕎麦このか開店！【全メンバー大集合☀️】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div><a href=\"https://youtu.be/Hc19hUwgkTI\">https://youtu.be/Hc19hUwgkTI</a><br /><br />日向坂46の蕎麦職人・松田好花が、「手打蕎麦このか」を開店！<br />日向坂46メンバー全員に蕎麦を振る舞います！<br /><br />蕎麦を食べたり、質問に答えたり。<br />日向坂46の雰囲気をそのままお届けします！<br /><br />ぜひ、お茶の間でゆったりとお楽しみください！"
+    },
+    {
       "category": "media",
       "code": "M02555",
       "title": "「THE NEW ERA BOOK Fall & Winter 2025」に正源司陽子が登場！",
@@ -643,5 +653,5 @@
       "content": "10月3日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "57"
+  "count": "58"
 }
