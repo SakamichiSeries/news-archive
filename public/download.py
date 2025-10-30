@@ -15,7 +15,7 @@ def sort_key(x):
         return (1, x)
 
 
-def _send_part(part, channel_id, bot_token, parse_mode="HTML"):
+def _send_part(part, channel_id, bot_token, parse_mode=None):
     max_retries = 5
     for attempt in range(max_retries):
         try:
@@ -85,7 +85,7 @@ def send_media_group(channel_id, bot_token, image_urls):
     return _send_media_group(media, channel_id, bot_token)
 
 
-def send_telegram_message(msg, channel_id, bot_token, parse_mode="HTML"):
+def send_telegram_message(msg, channel_id, bot_token, parse_mode=None):
     MAX_LENGTH = 3000
     parts = msg.split("\n")
     current_part = ""
@@ -164,7 +164,10 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                     content = entry["content"]
                     images = re.findall(r'<img[^>]+src=["\']([^"\']+)["\'][^>]*>', content)
                     images = images[:9]
-                    text = re.sub(r"<img[^>]*>", "", content)
+                    def replace_img_tag(match):
+                        src = re.search(r'src=["\'](.*?)["\']', match.group(0))
+                        return src.group(1) if src else ''
+                    text = re.sub(r'<img[^>]*>', replace_img_tag, content)
                     text = re.sub(r"<br\s*\/?>\s*", "\n", text)
                     text = re.sub(r"<[^>]+>", "", text)
                     text = html.unescape(text)
