@@ -1,6 +1,36 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01884",
+      "title": "クランクイン！のインタビューに井上梨名、谷口愛季、村井優が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01884",
+      "pubdate": "2025/10/30 18:30:00",
+      "tags": [
+        "43",
+        "63",
+        "67"
+      ],
+      "thumbnail": null,
+      "content": "<span>クランクイン！のインタビューに井上梨名、谷口愛季、村井優が登場しております！</span><br /><span>是非ご覧ください！<br /><br /><a href=\"https://www.crank-in.net/interview/176008\">インタビューページはコチラ</a></span>"
+    },
+    {
+      "category": "media",
+      "code": "M01883",
+      "title": "モデルプレスのインタビューに井上梨名、谷口愛季、村井優が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01883",
+      "pubdate": "2025/10/30 18:30:00",
+      "tags": [
+        "43",
+        "63",
+        "67"
+      ],
+      "thumbnail": null,
+      "content": "<span>Webメディア「モデルプレス」のインタビューに井上梨名、谷口愛季、村井優が登場しております！</span><br /><span>是非ご覧ください。<br /><br /><a href=\"https://mdpr.jp/interview/4667387\">井上梨名インタビューはこちら</a><br /><br /><a href=\"https://mdpr.jp/interview/4667389\">谷口愛季インタビューはこちら</a><br /><br /><a href=\"https://mdpr.jp/interview/4667388\">村井優インタビューはこちら</a><br /></span>"
+    },
+    {
       "category": "release",
       "code": "R00511",
       "title": "13thシングル表題曲『Unhappy birthday構文 -Dance Practice-』公開！",
@@ -1223,5 +1253,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "99"
+  "count": "101"
 }
