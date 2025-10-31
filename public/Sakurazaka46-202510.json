@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01877",
+      "title": "11月2日(日)16:55～日本テレビ「サンデーPUSHスポーツ」に田村保乃が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01877",
+      "pubdate": "2025/10/31 12:00:00",
+      "tags": [
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "<span>11月2日</span>(日)16:55～日本テレビ「サンデーPUSHスポーツ」に田村保乃が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/push/\">日本テレビ「サンデーPUSHスポーツ」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01884",
       "title": "クランクイン！のインタビューに井上梨名、谷口愛季、村井優が登場！",
       "caption": "",
@@ -1253,5 +1266,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "101"
+  "count": "102"
 }
