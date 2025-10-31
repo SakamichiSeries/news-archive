@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01875",
+      "title": "「スポーツ報知」（10月31日(金)発刊）に武元唯衣が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01875",
+      "pubdate": "2025/10/31 17:30:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "<span><span><span>「スポーツ報知」（10月31日(金)発刊）に武元唯衣が登場しております。</span><br /></span></span><p>ぜひチェックしてください。<br /><br /><a href=\"https://hochi.news/articles/20251031-OHT1T51109.html?page=1\" target=\"_blank\">掲載ページはコチラ</a></p>"
+    },
+    {
+      "category": "media",
       "code": "M01877",
       "title": "11月2日(日)16:55～日本テレビ「サンデーPUSHスポーツ」に田村保乃が出演！",
       "caption": "",
@@ -1266,5 +1279,5 @@
       "content": "<span>10月29日(水)発売、13thシングル『Unhappy birthday構文』のソロアーティスト写真を公開しました！</span><br /><a href=\"https://sakurazaka46.com/s/s46/search/artist\">メンバーページ</a><span>を是非ご覧ください！</span>"
     }
   ],
-  "count": "102"
+  "count": "103"
 }
