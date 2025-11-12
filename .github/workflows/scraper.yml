@@ -28,7 +28,9 @@ jobs:
         python-version: '3.12' # Specify the Python version you need
 
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v5
+      with:
+        ref: master
 
     - name: Install dependencies
       run: |
