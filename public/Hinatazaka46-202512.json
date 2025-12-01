@@ -1,4 +1,15 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "other",
+      "code": "O100235",
+      "title": "松田好花 卒業のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100235",
+      "pubdate": "2025/12/01 17:00:00",
+      "thumbnail": null,
+      "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
+    }
+  ],
+  "count": "1"
 }
