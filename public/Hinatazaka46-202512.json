@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02569",
+      "title": "明日12月3日(水)8:00～TBS「ラヴィット! 」に平尾帆夏が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02569",
+      "pubdate": "2025/12/02 22:45:00",
+      "tags": [
+        "18",
+        "31"
+      ],
+      "thumbnail": null,
+      "content": "明日12月3日(水)8:00～TBS「ラヴィット! 」に平尾帆夏が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\" target=\"_blank\">TBS「ラヴィット! 」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "goods",
       "code": "G00200",
       "title": "日向坂46 2026年公式カレンダー(1月始まり) 通信販売受付開始及びカレンダー発売記念YouTube生配信のお知らせ",
@@ -31,5 +45,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "3"
+  "count": "4"
 }
