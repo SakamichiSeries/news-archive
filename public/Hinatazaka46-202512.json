@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100236",
+      "title": "河田陽菜のプロフィールページとブログのクローズに関しまして",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100236",
+      "pubdate": "2025/12/04 12:00:00",
+      "thumbnail": null,
+      "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />河田陽菜のプロフィールページとブログを2026年1月31日(土)12:00にクローズさせていただくこととなりました。<br /><br />12月31日(水)12:00以降、河田陽菜のプロフィールページはメンバー一覧ページには表示されなくなりますが、2026年1月31日(土)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/13\">https://www.hinatazaka46.com/s/official/artist/13</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
+    },
+    {
       "category": "media",
       "code": "M02569",
       "title": "明日12月3日(水)8:00～TBS「ラヴィット! 」に平尾帆夏が出演！",
@@ -45,5 +55,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "4"
+  "count": "5"
 }
