@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00772",
+      "title": "『日向坂46・松田好花のオールナイトニッポンX 松田のトークが聴きてぇか！ in パシフィコ横浜』機材席開放販売(先着)が12月6日(土)15:00よりスタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00772",
+      "pubdate": "2025/12/05 15:00:00",
+      "thumbnail": null,
+      "content": "「日向坂46・松田好花のオールナイトニッポンX 松田のトークが聴きてぇか！ in パシフィコ横浜」の機材席開放に伴い、先着での受付が決定いたしました！<br /><br />【公演概要】<br />■出演者<br />松田好花（日向坂46）<br /><br />■日程<br />2025年12月8日(月) 17:30開場 / 18:30開演<br /><br />■会場<br />パシフィコ横浜 国立大ホール<br />(神奈川県横浜市西区みなとみらい1-1-1)<br /><br />■チケット料金<br />全席指定：9,300円 (税込)<br /><br />＜機材席開放販売(先着)＞<br />受付期間：12月6日(土)15:00～<br />販売席種：全席指定のみ<a href=\"https://l-tike.com/konoka_annx/\"><br /></a><br />▼受付URLはコチラ<strong><br /></strong><a href=\"https://l-tike.com/konoka_annx/\">https://l-tike.com/konoka_annx/<br /></a><br />▼イベント特設ページはコチラ<br /><a href=\"https://event.1242.com/events/konoka_annx/\">https://event.1242.com/events/konoka_annx/</a>"
+    },
+    {
       "category": "other",
       "code": "O100236",
       "title": "河田陽菜のプロフィールページとブログのクローズに関しまして",
@@ -55,5 +65,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "5"
+  "count": "6"
 }
