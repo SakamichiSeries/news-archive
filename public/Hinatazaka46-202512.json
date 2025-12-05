@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02571",
+      "title": "12月6日(土)14:57～関西テレビ「千原キャスティング株式会社」に金村美玖が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02571",
+      "pubdate": "2025/12/05 21:00:00",
+      "tags": [
+        "4"
+      ],
+      "thumbnail": null,
+      "content": "12月6日(土)14:57～関西テレビ「千原キャスティング株式会社」に金村美玖が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ktv.jp/chihara/\">関西テレビ放送「千原キャスティング株式会社」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02570",
+      "title": "12月6日(土)20:00～NHK Eテレ「沼にハマってきいてみた」に正源司陽子が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02570",
+      "pubdate": "2025/12/05 21:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "12月6日(土)20:00～NHK Eテレ「沼にハマってきいてみた」に正源司陽子が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.nhk.jp/p/hamatta/ts/KNY2YKWLG9/episode/te/K77M3MPKRK/\" target=\"_blank\">NHK Eテレ「沼にハマってきいてみた」オフィシャルサイトはこちら</a>"
+    },
+    {
       "category": "event",
       "code": "E00772",
       "title": "『日向坂46・松田好花のオールナイトニッポンX 松田のトークが聴きてぇか！ in パシフィコ横浜』機材席開放販売(先着)が12月6日(土)15:00よりスタート！",
@@ -65,5 +91,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "6"
+  "count": "8"
 }
