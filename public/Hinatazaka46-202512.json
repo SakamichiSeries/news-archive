@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100237",
+      "title": "「日向坂ちゃんねる」にて「チルい2人の弾丸宮崎！ちょっくらチルタイム♪【たまりぃ】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100237",
+      "pubdate": "2025/12/05 22:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「チルい2人の弾丸宮崎！ちょっくらチルタイム♪【たまりぃ】」を公開いたしました！<br /><br />三期生・森本茉莉と四期生・石塚瑶季が、日向坂46 ARENA TOUR 2025「MONSTER GROOVE」の福岡公演翌日に、宮崎県の青島へ行ってきました！<br /><br />食べて、食べて、食べまくる、チルい2人のチルタイムをぜひご覧ください！<br /><br /><a href=\"https://youtu.be/Ksu4NUXihXU\">https://youtu.be/Ksu4NUXihXU</a><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/Ksu4NUXihXU\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02571",
       "title": "12月6日(土)14:57～関西テレビ「千原キャスティング株式会社」に金村美玖が出演！",
@@ -91,5 +101,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "8"
+  "count": "9"
 }
