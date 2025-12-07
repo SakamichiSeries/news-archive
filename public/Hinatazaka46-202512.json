@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00479",
+      "title": "16thシングル表題曲「クリフハンガー」のフォーメーションを公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00479",
+      "pubdate": "2025/12/08 02:20:16",
+      "thumbnail": null,
+      "content": "「日向坂で会いましょう」にて発表された、<br /><span>日向坂46&nbsp;</span>16thシングル表題曲「クリフハンガー」のフォーメーションを公式サイトでも公開いたしました！<br />是非チェックしてみてください！<br /><br /><a href=\"https://www.hinatazaka46.com/s/official/diary/formation/list\">フォーメーションページはコチラ</a>"
+    },
+    {
       "category": "media",
       "code": "M02572",
       "title": "12月7日(日)7:30〜テレビ東京「ポケモンとどこいく！？」に 平尾帆夏、宮地すみれが出演！",
@@ -115,5 +125,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
