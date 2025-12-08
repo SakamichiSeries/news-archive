@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "release",
+      "code": "R00480",
+      "title": "16thシングル『クリフハンガー』のアーティスト写真公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00480",
+      "pubdate": "2025/12/08 10:00:00",
+      "thumbnail": null,
+      "content": "2026年1月28日(水)発売となる16thシングル『クリフハンガー』のアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20Release/16th%20%E3%82%AF%E3%83%AA%E3%83%95%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC/Hinatazaka46_16thSG_AP_RGB_JPG_s.jpg\" alt=\"\" width=\"2048\" height=\"1365\" /><br /><br /><strong><a href=\"https://www.hinatazaka46.com/s/official/page/16th_single\">■16thシングル『クリフハンガー』特設サイトはこちら<br /></a><a href=\"https://www.hinatazaka46.com/s/official/diary/formation/list\">■フォーメーションページはこちら</a></strong><br /><strong><a href=\"https://hinatazaka46.lnk.to/20260128_Cliffhanger_PKG\">■各CDショップのオンラインサイトはこちら</a></strong>"
+    },
+    {
+      "category": "release",
       "code": "R00479",
       "title": "16thシングル表題曲「クリフハンガー」のフォーメーションを公開！",
       "caption": "",
@@ -125,5 +135,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "11"
+  "count": "12"
 }
