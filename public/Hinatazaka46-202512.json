@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02574",
+      "title": "12月11日(木)19:00～フジテレビ「ミュージックジェネレーション」に正源司陽子が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02574",
+      "pubdate": "2025/12/10 17:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "12月11日(木)19:00～フジテレビ「ミュージックジェネレーション」に正源司陽子が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/musicgeneration/index.html\">フジテレビ「ミュージックジェネレーション」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02573",
+      "title": "12月11日(木)26:35～日本テレビ「オードリーのNFL倶楽部」に山口陽世が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02573",
+      "pubdate": "2025/12/10 17:00:00",
+      "tags": [
+        "24"
+      ],
+      "thumbnail": null,
+      "content": "12月11日(木)26:35～日本テレビ「オードリーのNFL倶楽部」に山口陽世が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/NFL/\" target=\"_blank\">日本テレビ「オードリーのNFL倶楽部」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00773",
       "title": "「松田好花　卒業セレモニー」開催決定！ファンクラブ抽選先行・Leminoスペシャルシート先行・Lemino日向坂46パック先行受付が、12月9日(火)12:00よりスタート！",
@@ -145,5 +171,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "13"
+  "count": "15"
 }
