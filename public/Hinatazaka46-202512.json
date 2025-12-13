@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02576",
+      "title": "「EX大衆」１・２月合併号（12月15日(月)発売）の表紙・巻頭に正源司陽子、中面に小坂菜緒、渡辺莉奈、清水理央、片山紗希、下田衣珠季が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02576",
+      "pubdate": "2025/12/13 09:00:00",
+      "tags": [
+        "12"
+      ],
+      "thumbnail": null,
+      "content": "「EX大衆」１・２月合併号（12月15日(月)発売）の表紙・巻頭に正源司陽子が登場します。<br />また、中面に小坂菜緒の「ストロボ・エッジ」インタビュー＆撮りおろし写真が掲載！<br />さらに、渡辺莉奈、清水理央、片山紗希、下田衣珠季のインタビュー＆撮りおろし写真も掲載されます！<br /><br />ぜひチェックしてみてください。<br /><br /><a href=\"https://twitter.com/EXtaishu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">「EX大衆」公式Xはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00774",
       "title": "『LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～』ローソンチケット先行受付が12月12日(金)18:00よりスタート！その他の先行受付スケジュール も決定！",
@@ -197,5 +210,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "17"
+  "count": "18"
 }
