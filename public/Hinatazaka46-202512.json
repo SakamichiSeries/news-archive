@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100239",
+      "title": "「日向坂ちゃんねる」にて「【潜入】金村美玖が\"新参者\"でライブカメラマンに挑戦！【Sony α1 Ⅱ】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100239",
+      "pubdate": "2025/12/13 20:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【潜入】金村美玖が\"新参者\"でライブカメラマンに挑戦！【Sony &alpha;1 Ⅱ】」を公開いたしました！<br /><br />日向坂46五期生が出演した「新参者二〇二五 LIVE at THEATER MILANO-Za」で、二期生・金村美玖が、ライブカメラマンに初挑戦しました！<br /><br />ライブカメラマンとして奮闘する金村美玖を、ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/zO89sIdSpPY\">https://youtu.be/zO89sIdSpPY<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/zO89sIdSpPY\" title=\"【潜入】金村美玖が&quot;新参者&quot;でライブカメラマンに挑戦！【Sony &alpha;1 Ⅱ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02576",
       "title": "「EX大衆」１・２月合併号（12月15日(月)発売）の表紙・巻頭に正源司陽子、中面に小坂菜緒、渡辺莉奈、清水理央、片山紗希、下田衣珠季が登場！",
@@ -210,5 +220,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "18"
+  "count": "19"
 }
