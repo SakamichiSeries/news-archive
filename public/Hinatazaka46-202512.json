@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02581",
+      "title": "12月31日(水)23:45～TBS「CDTVライブ！ライブ！年越しカウントダウンFes.2025→2026」に出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02581",
+      "pubdate": "2025/12/23 15:00:00",
+      "thumbnail": null,
+      "content": "12月31日(水)23:45～TBS「CDTVライブ！ライブ！年越しカウントダウンFes.2025&rarr;2026」に出演が決定しました！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/cdtv_livelive/\">TBS「CDTV ライブ! ライブ!」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00776",
       "title": "「春日ロケーション〜春日プロデューサーの旅番組〜Season5」に松田好花が出演！",
@@ -293,5 +303,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "26"
+  "count": "27"
 }
