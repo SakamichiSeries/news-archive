@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100241",
+      "title": "「日向坂ちゃんねる」にて「【男装企画】日向坂式恋愛リアリティーショー開幕♡『桜を射止める王子様〜俺が一番好きだから〜』」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100241",
+      "pubdate": "2025/12/24 22:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【男装企画】日向坂式恋愛リアリティーショー開幕♡『桜を射止める王子様〜俺が一番好きだから〜』」を公開いたしました！<br /><br />&rdquo;男装した2人のメンバー &rdquo;ナナ&rdquo;と&rdquo;りおん&rdquo;が松尾桜を本気で射止める、日向坂式恋愛リアリティーショー開幕！<br /><br />桜を惑わす数々の甘い言動に、胸キュン必至間違いなし！<br />この冬一番のトキメキをあなたに！<br /><br />是非ご覧ください！<br /><a href=\"https://youtu.be/H6plBachsAo\">https://youtu.be/H6plBachsAo<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/H6plBachsAo\" title=\"【男装企画】日向坂式恋愛リアリティーショー開幕♡「桜を射止める王子様〜俺が一番好きだから〜」\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "release",
       "code": "R00483",
       "title": "16thシングル『クリフハンガー』ジャケット写真を公開！",
@@ -336,5 +346,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "30"
+  "count": "31"
 }
