@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02583",
+      "title": "「20±SWEET 2026 JANUARY」（12月26日(金)発売）に竹内希来里と宮地すみれが登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02583",
+      "pubdate": "2025/12/25 19:00:00",
+      "tags": [
+        "31",
+        "35"
+      ],
+      "thumbnail": null,
+      "content": "「20&plusmn;SWEET 2026 JANUARY」（12月26日(金)発売）に竹内希来里と宮地すみれが登場しております。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://bltweb.jp/2025/12/20/20sweet2026_cover/\" target=\"_blank\">「20&plusmn;SWEET 2026 JANUARY」詳細はコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100242",
       "title": "12/27(土)21:00〜「日向坂ちゃんねる」にて「16th Single ひなた坂46フォーメーション発表&スペシャル解禁生配信」が決定！",
@@ -396,5 +410,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "36"
+  "count": "37"
 }
