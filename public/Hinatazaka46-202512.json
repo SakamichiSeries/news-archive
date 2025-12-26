@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02580",
+      "title": "「スノウボールアース」10巻（小学館）の帯に正源司陽子の推薦コメントが掲載！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02580",
+      "pubdate": "2025/12/26 19:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "「月刊！スピリッツ」（小学館）にて辻次夕日郎氏が好評連載中のコミックス「スノウボールアース」10巻に、正源司陽子の推薦コメントが掲載されています。<br /><br />是非チェックしてみてください！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/_%E3%80%90SBE%E3%80%9110%E9%9B%86_%E6%9B%B8%E5%BD%B1%E5%B8%AF%E3%82%A2%E3%83%AA.jpg\" alt=\"\" width=\"1746\" height=\"2484\" /><br /> <br />▶「スノウボールアース」10巻の詳細は<a href=\"https://shogakukan-comic.jp/book?isbn=9784098636600\">コチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00780",
       "title": "LAWSON 50th Anniversary presents Special LIVE～ 櫻坂46 / 日向坂46 ～の生配信が決定！！12月26日(金)15:00から視聴券販売開始！！",
@@ -433,5 +446,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "39"
+  "count": "40"
 }
