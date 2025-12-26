@@ -2,6 +2,33 @@
   "news": [
     {
       "category": "media",
+      "code": "M02584",
+      "title": "12月27日(土)23:00～ABCテレビ 「熱闘甲子園年末スペシャル」に小坂菜緒・清水理央が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02584",
+      "pubdate": "2025/12/26 20:00:01",
+      "tags": [
+        "38",
+        "44"
+      ],
+      "thumbnail": null,
+      "content": "12月27日(土)23:00～ABCテレビ「熱闘甲子園年末スペシャル」に小坂菜緒・清水理央が出演いたします！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.asahi.co.jp/sp/netto_sp/\" target=\"_blank\">ABCテレビ「熱闘甲子園年末スペシャル」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02585",
+      "title": "12月27日(土)13:00～bayfm「KEIYOGINKO GRAND COUNTDOWN REAL」に清水理央がコメント出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02585",
+      "pubdate": "2025/12/26 20:00:00",
+      "tags": [
+        "28"
+      ],
+      "thumbnail": null,
+      "content": "12月27日(土)13:00～bayfm「KEIYOGINKO GRAND COUNTDOWN REAL」に清水理央がコメント出演いたします。<br />ぜひお聴きください。<br /><br /><a href=\"https://program.bayfm.co.jp/real/\" target=\"_blank\">bayfm「KEIYOGINKO GRAND COUNTDOWN REAL」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02580",
       "title": "「スノウボールアース」10巻（小学館）の帯に正源司陽子の推薦コメントが掲載！",
       "caption": "",
@@ -446,5 +473,5 @@
       "content": "松田好花ですが、先ほど本人のブログにて発表させていただいた通り、1月28日(水)発売の16thシングルの活動をもって日向坂46から卒業することになりました。<br /><br />今後とも、松田好花、日向坂46の応援のほど宜しくお願い致します。<br /><br />Seed & Flower合同会社"
     }
   ],
-  "count": "40"
+  "count": "42"
 }
