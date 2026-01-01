@@ -1,4 +1,25 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "release",
+      "code": "R00489",
+      "title": "16thシングル『クリフハンガー』表題曲の先行配信が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00489",
+      "pubdate": "2026/01/01 12:00:01",
+      "thumbnail": null,
+      "content": "<span>16thシングル『クリフハンガー』の表題曲「クリフハンガー」が1月8日(木)0時～<span>ストリーミング＆ダウンロード</span>先行配信が決定しました！<br /></span><span>是非チェックしてください！<br /><br /><a href=\"https://hinatazaka46.lnk.to/Cliffhanger\"><strong>■『クリフハンガー』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><strong><br /></strong>※配信のリンク先は1月8日(水)0時～有効となります。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20Release/16th%20%E3%82%AF%E3%83%AA%E3%83%95%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC/Hinatazaka46_16thSG_typeA_RGB_s.jpg\" alt=\"\" width=\"600\" height=\"595\" /><br /></span>"
+    },
+    {
+      "category": "release",
+      "code": "R00488",
+      "title": "16thシングル『クリフハンガー』MUSIC VIDEO、1月8日(木)0:00～YouTube公開決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00488",
+      "pubdate": "2026/01/01 12:00:00",
+      "thumbnail": null,
+      "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
+    }
+  ],
+  "count": "2"
 }
