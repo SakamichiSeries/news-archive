@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02589",
+      "title": "1月2日(木)18:25～フジテレビ「爆笑レッドカーペット」に松田好花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02589",
+      "pubdate": "2026/01/01 18:00:00",
+      "tags": [
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "1月2日(木)18:25～フジテレビ「爆笑レッドカーペット」に松田好花が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/b_hp/redcarpet/\">フジテレビ「爆笑レッドカーペット」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00489",
       "title": "16thシングル『クリフハンガー』表題曲の先行配信が決定！",
@@ -21,5 +34,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "2"
+  "count": "3"
 }
