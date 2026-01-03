@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100243",
+      "title": "「日向坂ちゃんねる」にて「【謹賀新年】メンバーそれぞれの2026年の抱負を発表します！」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100243",
+      "pubdate": "2026/01/03 20:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【謹賀新年】メンバーそれぞれの2026年の抱負を発表します」を公開いたしました！<br /><br />2026年のメンバーそれぞれの抱負を発表します！<br /><br />ぜひご覧ください！<br /><a href=\"https://youtu.be/oVUXhTkLYus\">https://youtu.be/oVUXhTkLYus<br /></a><iframe width=\"320\" height=\"179\" src=\"https://www.youtube.com/embed/oVUXhTkLYus\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02590",
       "title": "1月4日(日)17:30～テレビ東京「今期なに見るTV」に正源司陽子が出演！",
@@ -47,5 +57,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "4"
+  "count": "5"
 }
