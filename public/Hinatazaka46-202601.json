@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02590",
+      "title": "1月4日(日)17:30～テレビ東京「今期なに見るTV」に正源司陽子が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02590",
+      "pubdate": "2026/01/03 10:00:00",
+      "tags": [
+        "34"
+      ],
+      "thumbnail": null,
+      "content": "1月4日(日)17:30～テレビ東京「今期なに見るTV」に正源司陽子が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202601/28816_202601041730.html\">テレビ東京「今期なに見るTV」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02589",
       "title": "1月2日(木)18:25～フジテレビ「爆笑レッドカーペット」に松田好花が出演！",
       "caption": "",
@@ -34,5 +47,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "3"
+  "count": "4"
 }
