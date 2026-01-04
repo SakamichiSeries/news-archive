@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M01944",
+      "title": "1月5日(月)8:00～TBS「ラヴィット！」に小島凪紗と浅井恋乃未が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01944",
+      "pubdate": "2026/01/04 19:52:51",
+      "tags": [
+        "62",
+        "70"
+      ],
+      "thumbnail": null,
+      "content": "1月5日(月)8:00～TBS「ラヴィット！」に小島凪紗と浅井恋乃未が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01943",
       "title": "1月4日(日)17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演！",
       "caption": "",
@@ -14,5 +28,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "1"
+  "count": "2"
 }
