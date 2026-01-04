@@ -1,4 +1,18 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "media",
+      "code": "M01943",
+      "title": "1月4日(日)17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01943",
+      "pubdate": "2026/01/04 16:40:35",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
+    }
+  ],
+  "count": "1"
 }
