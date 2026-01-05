@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02588",
+      "title": "1月24日(土)27:00～放送、ニッポン放送「オールナイトニッポン0(ZERO)」のパーソナリティに大野愛実が初挑戦！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02588",
+      "pubdate": "2026/01/05 19:00:00",
+      "tags": [
+        "38"
+      ],
+      "thumbnail": null,
+      "content": "ニッポン放送「オールナイトニッポン0(ZERO)」のパーソナリティに、大野愛実が初挑戦することが決定いたしました！<br /><br />ぜひお聴きください。 <br /><br />【番組概要】 <br /><br />■番組名<br />『日向坂46・大野愛実のオールナイトニッポン0(ZERO)』<br /><br />■放送日時<br />2026年1月24日(土)27:00～29:00<br /><br />■パーソナリティ<br />大野愛実<br /><br />■番組X：<a href=\"https://x.com/ann_since1967?s=21&t=ybwlTa3_rpSFcYECFLy0FQ\">@Ann_Since1967</a><br /><br />「オールナイトニッポン」の公式ホームページは<a href=\"https://www.allnightnippon.com/\">コチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00490",
       "title": "16thシングル『クリフハンガー』のソロアーティスト写真を更新！",
@@ -77,5 +90,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "7"
+  "count": "8"
 }
