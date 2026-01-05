@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00490",
+      "title": "16thシングル『クリフハンガー』のソロアーティスト写真を更新！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00490",
+      "pubdate": "2026/01/05 10:00:00",
+      "thumbnail": null,
+      "content": "2026年1月28日(水)発売となる16thシングル<span>『クリフハンガー』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00782",
       "title": "「松田好花　卒業セレモニー」オフィシャル先行が1/5(月)12:00よりスタート！",
@@ -67,5 +77,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "6"
+  "count": "7"
 }
