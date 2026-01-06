@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01945",
+      "title": "「櫻坂チャンネル」にて「【京都】関西出身コンビが京都で陶芸体験！嵐山でお散歩&足湯も満喫！【観光】」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01945",
+      "pubdate": "2026/01/06 21:00:00",
+      "tags": [
+        "46",
+        "69"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【京都】関西出身コンビが京都で陶芸体験！嵐山でお散歩&足湯も満喫！【観光】」を公開いたしました。<br />ぜひご覧ください。　<br /><br /><a href=\"https://youtu.be/K2zmKCy223k\">櫻坂チャンネル「【京都】関西出身コンビが京都で陶芸体験！嵐山でお散歩&足湯も満喫！【観光】」はコチラ<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/K2zmKCy223k?si=GM0kQKMVrVip0XTd\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></a><a href=\"https://youtu.be/LF0igQS2-VE\"><br /></a>"
+    },
+    {
       "category": "event",
       "code": "E00589",
       "title": "櫻坂46「SAKURAZAKA46 SPORTS FESTIVAL supported by AEON CARD」、イオンカード(櫻坂 46)・イオン銀行キャッシュ+デビット会員限定の２次先行受付が、1/5(月)12:00よりスタート！ ",
@@ -38,5 +52,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "3"
+  "count": "4"
 }
