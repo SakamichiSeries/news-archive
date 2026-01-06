@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02594",
+      "title": "小坂菜緒がWOWOW連続ドラマW-30「ストロボ・エッジ Season2」に出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02594",
+      "pubdate": "2026/01/06 19:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "小坂菜緒がWOWOW連続ドラマW-30「ストロボ・エッジ」Season1につづきSeason2 に上原さゆり役として出演いたします。<br />1月9(金)午後11時～放送・配信開始となります。どうぞお楽しみに！<br /><br />【タイトル】<br />WOWOW連続ドラマW-30「ストロボ・エッジ Season2」<br /><br />【放送・配信日時】<br />2026年1月9(金)23:00時～ 毎週金曜日<br /><br />▼WOWOオンデマンド〈全6話〉最終話まで一挙配信中<br /><a href=\"https://wod.wowow.co.jp/program/203540\">https://wod.wowow.co.jp/program/203540</a><br /><br />▼番組公式サイトはこちら<br /><a href=\"https://www.wowow.co.jp/drama/original/strobe-edge/\">https://www.wowow.co.jp/drama/original/strobe-edge</a>"
+    },
+    {
       "category": "release",
       "code": "R00491",
       "title": "1月8日(木)0:00～日向坂46 OFFICIAL YouTube CHANNELにて16thシングル『クリフハンガー』MUSIC VIDEOのプレミア公開決定！",
@@ -114,5 +127,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
