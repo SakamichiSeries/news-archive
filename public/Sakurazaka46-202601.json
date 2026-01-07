@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01947",
+      "title": "1月8日(木)24:51～テレビ朝日「あざとくて何が悪いの？」に田村保乃が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01947",
+      "pubdate": "2026/01/07 15:53:28",
+      "tags": [
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "1月8日(木)24:51～テレビ朝日「あざとくて何が悪いの？」に田村保乃が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/azatokute/#/\">テレビ朝日「あざとくて何が悪いの？」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01945",
       "title": "「櫻坂チャンネル」にて「【京都】関西出身コンビが京都で陶芸体験！嵐山でお散歩&足湯も満喫！【観光】」を公開！",
       "caption": "",
@@ -52,5 +65,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "4"
+  "count": "5"
 }
