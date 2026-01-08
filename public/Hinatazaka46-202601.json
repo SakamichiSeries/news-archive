@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02592",
+      "title": "1月9日(金)25:15～テレビ朝日「ラブ!!Jリーグ」に宮地すみれが出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02592",
+      "pubdate": "2026/01/08 09:00:00",
+      "tags": [
+        "34"
+      ],
+      "thumbnail": null,
+      "content": "1月9日(金)25:15～テレビ朝日「ラブ!!Jリーグ」に宮地すみれが出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-asahi.co.jp/chant-j/\" target=\"_blank\">テレビ朝日「ラブ!!Jリーグ」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00493",
       "title": "16thシングル『クリフハンガー』　＠Loppi・HMV限定先着特典　生写真の絵柄公開！",
@@ -157,5 +170,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "14"
+  "count": "15"
 }
