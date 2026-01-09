@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00190",
+      "title": "櫻坂46生写真2種　通信販売受付開始のお知らせ",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/G00190",
+      "pubdate": "2026/01/09 18:00:00",
+      "thumbnail": null,
+      "content": "1月9日(金)18：00～櫻坂46 OFFICIAL GOODS STOREにて生写真2種のご注文受付を開始いたします。<br />&nbsp;<br />【2026年 バレンタインコーデ】【ジャージ】を新発売！<br />この機会にぜひお買い求めください。<br />&nbsp;<div style=\"text-align: center;\"><span style=\"color: #ff0000;\">【櫻坂46 OFFICIAL GOODS STORE】</span></div><div style=\"text-align: center;\"><a href=\"https://store.plusmember.jp/sakurazaka46/\">https://store.plusmember.jp/sakurazaka46/</a></div><div style=\"text-align: center;\"><span style=\"color: #ff0000;\">1月9日(金)18:00～ 櫻坂46 OFFICIAL GOODS STOREにて受付開始!!!</span><br /><br /></div><div style=\"text-align: center;\"><img src=\"https://sakurazaka46.com/files/14/_%E6%AB%BB%E5%9D%8246%201%E6%9C%88%E5%BA%A6%E7%94%9F%E5%86%99%E7%9C%9F_20260109_1fix.jpg\" alt=\"\" width=\"2554\" height=\"2636\" /></div><br />なお、以下イベントでの会場販売も予定しております。そちらも是非ご利用ください。<br />1月25日(日)　LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～<br />1月30日(金)　SPORTS FESTIVAL supported by AEON CARD<br />1月31日(土)　13thシングル『Unhappy birthday構文』発売記念「リアルミート＆グリート」<br /><br /><br />※OFFICIAL GOODS STOREの注意事項をよくご確認の上、ご利用ください。<br />※受付開始時刻など、事情により変更になる場合もございます。予めご了承ください。<br />※各商品表示スペック・サイズ等をお確かめの上、ご購入ください。<br />※画像と実際の商品は色合い等、若干異なる場合がございますのでご了承ください。<br />※ご注文後の変更、キャンセルは一切お受けできません。<br />※ご注文いただいた日時によってお届け時期が異なる場合がございます。<br />※決済方法により、別途、決済手数料が発生する場合がございます。ご購入の際にご確認ください。<br />※別々にいただいたご注文は、一つにまとめて出荷(同梱出荷)することはできません。<br />※営利目的でのグッズ・生写真の購入はご遠慮ください。そのような事実が発覚した場合、今後のグッズ等の販売及びイベントの参加をお断りさせていただく場合がございます。"
+    },
+    {
       "category": "media",
       "code": "M01946",
       "title": "「AnimeJapan 2026」のアンバサダーに櫻坂46が就任！",
@@ -82,5 +92,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "6"
+  "count": "7"
 }
