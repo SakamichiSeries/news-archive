@@ -1,6 +1,21 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01948",
+      "title": "1月12日(月)18:30～テレビ朝日「炎のチャレンジャー」に大園玲、守屋麗奈、向井純葉が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01948",
+      "pubdate": "2026/01/11 00:00:00",
+      "tags": [
+        "54",
+        "58",
+        "66"
+      ],
+      "thumbnail": null,
+      "content": "1月12日(月)18:30～テレビ朝日「炎のチャレンジャー」に大園玲、守屋麗奈、向井純葉が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/honoo_challenger/\">テレビ朝日「炎のチャレンジャー」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00590",
       "title": "『LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～』ローソンチケット一般先着発売が1月10日(土)12:00よりスタート！！",
@@ -102,5 +117,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "8"
+  "count": "9"
 }
