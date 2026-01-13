@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00494",
+      "title": "16thシングル『クリフハンガー』収録曲『君と生きる』MUSIC VIDEO公開&先行配信が1月15日(木)0:00～に決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00494",
+      "pubdate": "2026/01/13 18:00:00",
+      "thumbnail": null,
+      "content": "16thシングル『クリフハンガー』収録、<span>ひなた坂46メンバーによる楽曲</span>『君と生きる』のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />Music Videoの公開と同時に、各音楽配信サイトにてストリーミング＆ダウンロードもスタートいたします！<br /><a href=\"https://hinatazaka46.lnk.to/Kimitoikiru\"><strong><br />■『君と生きる』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><strong><br /></strong><span>※配信のリンク先は1月15日(木)0:00～有効となります。</span><br /><br />公開は1月15日(木)0:00～となります。<br />是非お楽しみに！"
+    },
+    {
       "category": "media",
       "code": "M02595",
       "title": "1月11(日)10:00～文化放送「ますだおかだ岡田圭右とアンタッチャブル柴田英嗣のおかしば」に山下葉留花・渡辺莉奈が出演！",
@@ -224,5 +234,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "20"
+  "count": "21"
 }
