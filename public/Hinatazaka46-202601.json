@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02596",
+      "title": "本日1月14日(水)22:00～正源司陽子がTBSラジオ「佐倉綾音 論理×ロンリー」に生出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02596",
+      "pubdate": "2026/01/14 09:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "本日1月14日(水)22:00～正源司陽子がTBSラジオ「佐倉綾音 論理&times;ロンリー」に生出演いたします！<br />ぜひお聴きください。<br /><br /><a href=\"https://www.tbsradio.jp/sakuraron/\">TBSラジオ「佐倉綾音 論理&times;ロンリー」詳細はコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00494",
       "title": "16thシングル『クリフハンガー』収録曲『君と生きる』MUSIC VIDEO公開&先行配信が1月15日(木)0:00～に決定！",
@@ -234,5 +247,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "21"
+  "count": "22"
 }
