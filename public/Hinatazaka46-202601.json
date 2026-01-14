@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02597",
+      "title": "「週刊少年サンデー」7号（本日1月14日(水)発売）の表紙・巻頭に藤嶌果歩が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02597",
+      "pubdate": "2026/01/14 12:30:00",
+      "tags": [
+        "33"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年サンデー」7号（本日1月14日(水)発売）の表紙・巻頭に藤嶌果歩が登場しております！<br />ぜひチェックしてみてください。<br /><br /><a href=\"http://websunday.net/\">「週刊少年サンデー」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02596",
       "title": "本日1月14日(水)22:00～正源司陽子がTBSラジオ「佐倉綾音 論理×ロンリー」に生出演！",
       "caption": "",
@@ -247,5 +260,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "22"
+  "count": "23"
 }
