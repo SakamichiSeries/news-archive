@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02599",
+      "title": "1月16日(金)25:15～テレビ朝日「ラブ!!Jリーグ」に宮地すみれが出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02599",
+      "pubdate": "2026/01/15 20:30:01",
+      "tags": [
+        "34"
+      ],
+      "thumbnail": null,
+      "content": "1月16日(金)25:15～テレビ朝日「ラブ!!Jリーグ」に宮地すみれが出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-asahi.co.jp/chant-j/\" target=\"_blank\">テレビ朝日「ラブ!!Jリーグ」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02598",
+      "title": "1月16日(金)23:00～フジテレビ「全力！脱力タイムズ」に松田好花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02598",
+      "pubdate": "2026/01/15 20:30:00",
+      "tags": [
+        "7"
+      ],
+      "thumbnail": null,
+      "content": "1月16日(金)23:00～フジテレビ「全力！脱力タイムズ」に松田好花が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/DNN/\">フジテレビ「全力！脱力タイムズ」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "goods",
       "code": "G00203",
       "title": "「松田好花 卒業セレモニー」オフィシャルグッズ会場販売詳細及び会場販売特典のお知らせ",
@@ -290,5 +316,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "26"
+  "count": "28"
 }
