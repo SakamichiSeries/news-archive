@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00496",
+      "title": "16thシングル『クリフハンガー』収録・松田好花作詞曲『涙目の太陽』のラジオ初オンエア決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00496",
+      "pubdate": "2026/01/16 00:28:57",
+      "thumbnail": null,
+      "content": "<span>16thシングル『クリフハンガー』収録、松田好花が作詞を</span><span>手がけた『涙目の太陽』が、1月22日(木)24:00～放送の<span>ニッポン放送「日向坂46・松田好花のオールナイトニッポンX(クロス)」にて初オンエアが決定！<br /><br />是非ラジオをチェックしてください！<br /><br />ニッポン放送「日向坂46・松田好花のオールナイトニッポンX(クロス)」<br />1月22日(木)24:00～24:58<br /></span></span>番組HPは<a href=\"https://www.allnightnippon.com/konoka/?_ga=2.263456524.1645283504.1712038728-2135715398.1706869679\">コチラ</a><br /><br /><br />"
+    },
+    {
       "category": "event",
       "code": "E00786",
       "title": "「松田好花 卒業セレモニー」 TOYOTA ARENA TOKYO 公演入場に関する注意事項",
@@ -336,5 +346,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "30"
+  "count": "31"
 }
