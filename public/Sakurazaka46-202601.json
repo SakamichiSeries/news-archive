@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00593",
+      "title": "カラコンブランド「LARME NATURAL（ラルムナチュラル）」イメージモデルに守屋麗奈が就任！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00593",
+      "pubdate": "2026/01/16 15:23:42",
+      "tags": [
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "カラコンブランド「LARME NATURAL（ラルムナチュラル）」のイメージモデルに守屋麗奈が就任いたしました！<br />新色2色が2025年1月20日(火)より発売されます。<br />ぜひチェックしてみてください。<br /><br /><img src=\"https://sakurazaka46.com/files/14/2512_larmenatural_1200x628.jpg\" alt=\"\" width=\"1200\" height=\"628\" /><br /><br /><a href=\"https://www.queen-eyes.com/c/LARME/LARMENATURAL\">「LARME NATURAL（ラルムナチュラル）」公式ページはコチラ</a><br /><br />【公式SNS】<br />QUEEN EYES公式Instagram：<a href=\"https://www.instagram.com/queeneyes_official/\">https://www.instagram.com/queeneyes_official/</a><br />QUEEN EYES公式X：<a href=\"https://x.com/queeneyes_\">https://x.com/queeneyes_</a><br />QUEEN EYES公式TikTok：<a href=\"https://www.tiktok.com/@queeneyes_official\">https://www.tiktok.com/@queeneyes_official</a>"
+    },
+    {
       "category": "goods",
       "code": "G00191",
       "title": "「LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～」オフィシャルグッズ　当日販売のお知らせ",
@@ -182,5 +195,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "13"
+  "count": "14"
 }
