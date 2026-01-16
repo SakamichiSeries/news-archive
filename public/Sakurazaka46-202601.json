@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01951",
+      "title": "「CURRY HOUSE CoCo壱番屋 FAN BOOK やっぱりココイチ!」（1月17日(土)発売）に井上梨名のインタビューが掲載！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01951",
+      "pubdate": "2026/01/16 19:30:00",
+      "tags": [
+        "43"
+      ],
+      "thumbnail": null,
+      "content": "「CURRY HOUSE CoCo壱番屋 FAN BOOK やっぱりココイチ!」（1月17日(土)発売）に井上梨名のインタビューが掲載されます。<br />ぜひチェックしてください。<br /><br /><a href=\"https://x.com/curryichibanya\">カレーハウスCoCo壱番屋公式Xはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00595",
       "title": "櫻坂46「SAKURAZAKA46  SPORTS FESTIVAL supported by AEON CARD」 TOYOTA ARENA TOKYO 公演入場に関する注意事項",
@@ -228,5 +241,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "17"
+  "count": "18"
 }
