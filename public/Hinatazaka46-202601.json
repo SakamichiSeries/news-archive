@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100245",
+      "title": "「日向坂ちゃんねる」にて「【ひなたの冬休み】五期生の年末年始を自由に撮ってもらいました！【2026年ver】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100245",
+      "pubdate": "2026/01/17 22:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【ひなたの冬休み】五期生の年末年始を自由に撮ってもらいました！【2026年ver】」を公開いたしました！<br /><br />年末年始の過ごし方を五期生に撮影してきてもらいました！<br /><br />ぜひご覧ください♪<br /><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/xwLxNarbuzk\" title=\"【ひなたの冬休み】五期生の年末年始を自由に撮ってもらいました！【2026年ver】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "event",
       "code": "E00788",
       "title": "「松田好花 卒業セレモニー」、一般発売(先着)が1月17日(土)12:00よりスタート！",
@@ -366,5 +376,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "33"
+  "count": "34"
 }
