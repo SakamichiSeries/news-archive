@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01953",
+      "title": "1月20日(火)19:00～日本テレビ「ヒューマングルメンタリー オモウマい店」に守屋麗奈と的野美青が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01953",
+      "pubdate": "2026/01/19 18:44:14",
+      "tags": [
+        "58",
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "1月20日(火)19:00～日本テレビ「ヒューマングルメンタリー オモウマい店」に守屋麗奈と的野美青が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ctv.co.jp/omouma/\">日本テレビ「ヒューマングルメンタリー オモウマい店」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01952",
+      "title": "「朝日新聞」に中嶋優月のインタビューが掲載！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01952",
+      "pubdate": "2026/01/19 18:42:59",
+      "tags": [
+        "64"
+      ],
+      "thumbnail": null,
+      "content": "「朝日新聞」に中嶋優月のインタビューが掲載されています<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.asahi.com/articles/DA3S16384191.html\" target=\"_blank\">「朝日新聞」インタビュー記事はコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00520",
       "title": "14thシングル『The growing up train』 CDショップチェーン別先着特典決定！",
@@ -261,5 +288,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "20"
+  "count": "22"
 }
