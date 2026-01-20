@@ -1,6 +1,26 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02600",
+      "title": "1月26日(月)19:00～TBS「CDTV ライブ! ライブ!」に出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02600",
+      "pubdate": "2026/01/20 14:00:00",
+      "thumbnail": null,
+      "content": "1月26日(月)19:00～TBS「CDTV ライブ! ライブ!」に出演が決定しました！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/cdtv_livelive/\">TBS「CDTV ライブ! ライブ!」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "event",
+      "code": "E00790",
+      "title": "MRT宮崎放送「わけもん！！」連動企画『ひなた旅スタンプラリー2026』の実施が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00790",
+      "pubdate": "2026/01/20 14:00:00",
+      "thumbnail": null,
+      "content": "<br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/_%E3%83%AD%E3%82%B4%2B%E3%82%B3%E3%83%94%E3%83%BCRGB.jpg\" alt=\"\" width=\"933\" height=\"528\" /><br /><br />MRT宮崎放送「わけもん！！」との連動企画として、みやざき⼤使である⽇向坂46のメンバーがロケで訪れた&ldquo;あのマチ&rdquo;を巡るスタンプラリーを実施いたします！<br /><br />【『ひなた旅スタンプラリー2026』開催概要】<br /><br />■実施期間<br />2026年1⽉21⽇(水)〜3⽉15⽇(日)<br /><br />■実施内容<br />対象スポット9か所のうち、4か所のスタンプを集めた⽅の中から抽選で、オリジナル賞品等をプレゼント！<br /><br />・日向坂賞（100名様）<br />MRT宮崎放送「わけもん！！」ロケ企画参加メンバーの撮りおろし写真を使用したオリジナルフォトセット<br />参加メンバー(4名)： 小西夏菜実&times;清水理央 / 宮地すみれ&times;渡辺莉奈<br /><br />・⽇本のひなた賞（10名様）<br />宮崎⽜（1万円分相当）<br /><br />▼その他詳細は『ひなた旅スタンプラリー2026』特設サイトをご覧ください<br /><a href=\"https://miyazaki-hinatazaka46-ohisama.jp/\">https://miyazaki-hinatazaka46-ohisama.jp/<br /></a>"
+    },
+    {
       "category": "release",
       "code": "R00498",
       "title": "16thシングル『クリフハンガー』収録楽曲の歌唱メンバー決定！",
@@ -396,5 +416,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "36"
+  "count": "38"
 }
