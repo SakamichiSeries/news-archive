@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00205",
+      "title": "「LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャの出店が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/G00205",
+      "pubdate": "2026/01/21 20:00:00",
+      "thumbnail": null,
+      "content": "「LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～」Kアリーナ横浜公演にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャの出店が決定いたしました。<br />たくさん遊んでイベントで思い切り盛り上がりましょう！！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_LAWSON%2050th%20Anniversary%20presents%20Special%20LIVE%20%EF%BD%9E%20%E6%AB%BB%E5%9D%8246%20%20%E6%97%A5%E5%90%91%E5%9D%8246%20%EF%BD%9E%E3%80%80%E7%94%BB%E5%83%8F.jpg\" alt=\"\" width=\"3508\" height=\"4967\" /><br /><br />【当日販売時間】<br />＜会場＞<br />Kアリーナ横浜<br /><br />＜販売時間＞<br />1月25日(日)　10:00 ～ 終演後30分程度<br />※開場15:00/開演17:00<br />※終演後販売は列が途切れ次第、終了いたします。"
+    },
+    {
       "category": "media",
       "code": "M02602",
       "title": "1月22日(木)21:00～フジテレビ「この世界は1ダフル 」に正源司陽子が出演！",
@@ -492,5 +502,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "45"
+  "count": "46"
 }
