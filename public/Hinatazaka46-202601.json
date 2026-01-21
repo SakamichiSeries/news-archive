@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02602",
+      "title": "1月22日(木)21:00～フジテレビ「この世界は1ダフル 」に正源司陽子が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02602",
+      "pubdate": "2026/01/21 18:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "1月22日(木)21:00～フジテレビ「この世界は1ダフル 」に正源司陽子が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/1derful/\" target=\"_blank\">フジテレビ「この世界は1ダフル 」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02601",
+      "title": "「週刊少年チャンピオン」2026年8号（1月22日(木)発売）の表紙・巻頭に正源司陽子が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02601",
+      "pubdate": "2026/01/21 18:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年チャンピオン」2026年8号（1月22日(木)発売）の表紙・巻頭に正源司陽子が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.akitashoten.co.jp/w-champion\" target=\"_blank\">「週刊少年チャンピオン」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00791",
       "title": "映像配信サービス「Lemino®」にて、日向坂46 「松田好花　卒業セレモニー」を独占生配信決定！",
@@ -466,5 +492,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "43"
+  "count": "45"
 }
