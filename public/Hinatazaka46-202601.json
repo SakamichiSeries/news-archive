@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00792",
+      "title": "舞台「はがきの王様」に松田好花が出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00792",
+      "pubdate": "2026/01/23 08:00:00",
+      "thumbnail": null,
+      "content": "舞台「はがきの王様」に松田好花が出演することが決定いたしました！<br />主人公・田中浩司の幼馴染、嬉里弥生の高校時代を演じます。<br /><br />日向坂46ファンクラブでのチケット先行受付も実施決定！<br />皆さまのお申込み、お待ちしております。<br /><br />【日向坂46ファンクラブチケット先行受付期間】<br />2026年1月23日(金) 18:00～2月1日(日)23:59<br /><br />▼受付URLはコチラ<br /><a href=\"https://www.hinatazaka46.com/ticket_260123/\">https://www.hinatazaka46.com/ticket_260123/</a><br />※上記URLは1月23日(金)&nbsp;18:00以降にアクセス可能となります<br /><br />▶ファンクラブ会員の登録は<a href=\"https://www.hinatazaka46.com/s/official/member/add?lay=INPUT\">コチラ</a>&nbsp;<br />※スマートフォン対応<br /><br />【公演概要】<strong><br /></strong><br />■公演名<br />舞台「はがきの王様」<br /><br />■上演日<br />＜東京公演（全15公演）＞<br />会場：本多劇場（東京都世田谷区北沢2-10-15）<br />日程：2026年5月14日(木)～5月24日(日)<br />料金：平日 9,500円／土日 10,500円&nbsp;（全席指定・税込み)<br /><br />＜大阪公演（全４公演）＞<br />会場：森ノ宮ピロティホール（大阪府大阪市中央区森ノ宮中央1-17-5）<br />日程：2026年5月28日(木)～5月30日(土)&nbsp;<br />料金：10,500円 （全席指定・税込み)<br /><br />■脚本・演出(敬称略)<br /> 金沢知樹<br /><br />▼その他、詳細は下記公式サイトをご覧ください。<br /><a href=\"https://event.1242.com/events/hagaki-osama/\">https://event.1242.com/events/hagaki-osama/<br /></a>"
+    },
+    {
       "category": "media",
       "code": "M02607",
       "title": "大野愛実が2026年春放送 NHK連続ドラマ「ラジオスター」に出演決定！",
@@ -542,5 +552,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "49"
+  "count": "50"
 }
