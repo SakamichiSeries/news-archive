@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02606",
+      "title": "1月24日(土)9:30～TBS「王様のブランチ」午後の部に金村美玖、正源司陽子、藤嶌果歩、山下葉留花、大野愛実がインタビュー出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02606",
+      "pubdate": "2026/01/22 14:00:00",
+      "tags": [
+        "35"
+      ],
+      "thumbnail": null,
+      "content": "1月24日(土)9:30～TBS「王様のブランチ」午後の部に金村美玖、正源司陽子、藤嶌果歩、山下葉留花、大野愛実がインタビュー出演致します。<br />ぜひご覧ください、<br /><br /><a href=\"https://www.tbs.co.jp/brunch/\" target=\"_blank\">TBS「王様のブランチ」公式ホームページはコチラ<br /></a>"
+    },
+    {
+      "category": "media",
       "code": "M02603",
       "title": "「アップトゥボーイ」vol.359（1月23日(金)発売）の表紙・巻頭に藤嶌果歩、中面に清水理央が登場！",
       "caption": "",
@@ -516,5 +529,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "47"
+  "count": "48"
 }
