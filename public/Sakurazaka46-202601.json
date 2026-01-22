@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01955",
+      "title": "1月23日(金)19:00～UNI'S ON AIR公式YouTubeチャンネルにて公開の「【期間限定公開】UNI'S ON AIR 櫻坂46 四期生登場直前スペシャル！」に稲熊ひな、勝又春、中川智尋、山田桃実が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01955",
+      "pubdate": "2026/01/22 18:29:02",
+      "tags": [
+        "71",
+        "72",
+        "74",
+        "78"
+      ],
+      "thumbnail": null,
+      "content": "1月23日(金)19:00～UNI'S ON AIR公式YouTubeチャンネルにて公開の「【期間限定公開】UNI'S ON AIR 櫻坂46 四期生登場直前スペシャル！」に稲熊ひな、勝又春、中川智尋、山田桃実が出演しております。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.youtube.com/watch?v=OZU8sGAEfU4\">UNI'S ON AIR公式YouTubeチャンネル「【期間限定公開】UNI'S ON AIR 櫻坂46 四期生登場直前スペシャル！」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/OZU8sGAEfU4?si=yxti56btEe8Ez2jA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "goods",
       "code": "G00194",
       "title": "櫻坂46「SAKURAZAKA46 SPORTS FESTIVAL supported by AEON CARD」オフィシャルグッズ 会場販売のお知らせ",
@@ -358,5 +374,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "29"
+  "count": "30"
 }
