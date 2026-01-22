@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01954",
+      "title": "櫻坂46初のグループ写真集「櫻撮VOL.01」発売決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01954",
+      "pubdate": "2026/01/22 12:00:00",
+      "thumbnail": null,
+      "content": "メンバーがお互いの素顔を撮影したオフショット写真集『櫻撮（さくさつ）VOL.01』が3月17日(火)に講談社より発売決定いたしました。<br />メンバー同士だからこそ撮影できた、\"わちゃわちゃ感\"あふれる自然体な表情が満載。ステージ上でのパフォーマンスとのギャップも感じられる1冊です。<br />※中ページの内容は通常版・限定版ともに同じです。<br /><br />【書籍情報】<br />タイトル：櫻坂46写真集 櫻撮VOL.01<br />発売日：2026年3月17日（火）<br />撮影：櫻坂46<br />定価：2,640円（税込）　<br />発売元：講談社<br />写真集公式X：<a href=\"https://x.com/sakusatsu_46\">@sakusatsu_46</a><br /><br />【予約情報】<br />◾️Amazon通常版<br /><a href=\"https://www.amazon.co.jp/dp/4065432111\">https://www.amazon.co.jp/dp/4065432111</a><br /><br />◾️楽天限定版<br /><a href=\"https://books.rakuten.co.jp/rb/18507785/\">https://books.rakuten.co.jp/rb/18507785/</a><br /><br />◾️HMV限定版<br /><a href=\"https://www.hmv.co.jp/product/detail/16595933\">https://www.hmv.co.jp/product/detail/16595933</a><br /><br />◾️Amazon限定版<br /><a href=\"https://www.amazon.co.jp/dp/406543212X\">https://www.amazon.co.jp/dp/406543212X</a><br /><br />【先行カット】<br /><img src=\"https://sakurazaka46.com/files/14/_20260113_%E6%AB%BB%E6%92%AE_%E5%85%88%E8%A1%8C%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8.jpg\" alt=\"\" width=\"4000\" height=\"3000\" /><br />撮影／山﨑天"
+    },
+    {
       "category": "event",
       "code": "E00598",
       "title": "櫻坂46「5th YEAR ANNIVERSARY LIVE」、イオンカード(櫻坂 46)・イオン銀行キャッシュ+デビット会員限定の先行受付が、1/23(金)12:00よりスタート！ ",
@@ -318,5 +328,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "25"
+  "count": "26"
 }
