@@ -2,6 +2,32 @@
   "news": [
     {
       "category": "media",
+      "code": "M01956",
+      "title": "「櫻坂チャンネル」にて「【帰省】櫻坂46の2026年始の過ごし方Vlog！【PART2】」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01956",
+      "pubdate": "2026/01/22 21:00:00",
+      "tags": [
+        "50",
+        "53",
+        "55",
+        "56",
+        "58",
+        "60",
+        "62",
+        "63",
+        "69",
+        "71",
+        "73",
+        "75",
+        "77",
+        "78"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【帰省】櫻坂46の2026年始の過ごし方Vlog！【PART2】」を公開いたしました。<br />PART1も併せて公開中です！ぜひご覧ください！<a href=\"https://youtu.be/HdDom_iHFUE\"><br /><br />櫻坂チャンネル「【帰省】櫻坂46の2026年始の過ごし方Vlog！【PART2】」はコチラ<br /><br /></a><div><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/HdDom_iHFUE?si=PZDxW-fMFHzEsFOc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/LSL_fc4-z2w?si=L5hY_G2QJY9qPuhX\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>"
+    },
+    {
+      "category": "media",
       "code": "M01955",
       "title": "1月23日(金)19:00～UNI'S ON AIR公式YouTubeチャンネルにて公開の「【期間限定公開】UNI'S ON AIR 櫻坂46 四期生登場直前スペシャル！」に稲熊ひな、勝又春、中川智尋、山田桃実が出演！",
       "caption": "",
@@ -374,5 +400,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "30"
+  "count": "31"
 }
