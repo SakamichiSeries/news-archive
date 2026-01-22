@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02603",
+      "title": "「アップトゥボーイ」vol.359（1月23日(金)発売）の表紙・巻頭に藤嶌果歩、中面に清水理央が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02603",
+      "pubdate": "2026/01/22 09:00:00",
+      "tags": [
+        "28",
+        "33"
+      ],
+      "thumbnail": null,
+      "content": "「アップトゥボーイ」vol.359（1月23日(金)発売）の表紙・巻頭に藤嶌果歩、中面に清水理央が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://x.com/wani_UTB\" target=\"_blank\">「アップトゥボーイ」公式Xはコチラ</a>"
+    },
+    {
       "category": "goods",
       "code": "G00205",
       "title": "「LAWSON 50th Anniversary presents Special LIVE ～ 櫻坂46 / 日向坂46 ～」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャの出店が決定！",
@@ -502,5 +516,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "46"
+  "count": "47"
 }
