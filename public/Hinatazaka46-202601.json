@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00502",
+      "title": "16thシングル『クリフハンガー』収録曲『好きになるクレッシェンド』MUSIC VIDEO公開&先行配信が1月26日(月)0:00～に決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00502",
+      "pubdate": "2026/01/23 18:00:00",
+      "thumbnail": null,
+      "content": "16thシングル『クリフハンガー』収録、<span>五期生メンバーによる楽曲</span>『好きになるクレッシェンド』のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />Music Videoの公開と同時に、各音楽配信サイトにてストリーミング＆ダウンロードもスタートいたします！<br /><a href=\"https://hinatazaka46.lnk.to/Sukininarucrescendo\"><strong><br />■『好きになるクレッシェンド』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><strong><br /></strong><span>※配信のリンク先は1月26日(月)0:00～有効となります。</span><br /><br />公開は1月26日(月)0:00～となります。<br />是非お楽しみに！"
+    },
+    {
       "category": "event",
       "code": "E00792",
       "title": "舞台「はがきの王様」に松田好花が出演決定！",
@@ -556,5 +566,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "50"
+  "count": "51"
 }
