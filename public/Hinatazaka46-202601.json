@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "release",
+      "code": "R00504",
+      "title": "16thシングル『クリフハンガー (Special Edition)』の配信が1月28日(水)よりスタート!",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00504",
+      "pubdate": "2026/01/24 00:00:00",
+      "thumbnail": null,
+      "content": "16thシングル『クリフハンガー』の全5形態・全7曲をコンパイルしたSpecial Editionが1月28日(水)0時～各種サービスでのストリーミング＆ダウンロード配信が決定しました！<br /><br />是非チェックしてください！<br /><br /><a href=\"https://hinatazaka46.lnk.to/Cliffhanger_SE\">■『クリフハンガー&nbsp;(Special Edition)』各種ストリーミング＆ダウンロードはコチラ</a><br />※配信のリンク先は1月28日(水)0時～有効となります。<br /><br /><br />そして、こちらの『クリフハンガー (Special Edition)』をApple Musicで &ldquo;Pre-add&rdquo;、Spotifyの &ldquo;Pre-save&rdquo;の事前登録を行うと、配信開始後にご自身のライブラリに楽曲が自動で追加される事前予約がスタートいたしました。<br /><br /><a href=\"https://hinatazaka46.lnk.to/Cliffhanger_PO\">■『クリフハンガー (Special Edition)』事前予約はコチラ</a><br /><br />【Pre-add / Pre-save とは？】<br />Apple Music の Pre-add（プリアド）、SpotifyのPre-save（プリセーブ）は、配信前の商品を事前に予約できる機能です。<br />前もってPre-add/Pre-saveをしておくと、配信開始後に自身のライブラリやプレイリストに自動で追加されます。是非ご自身のライブラリに事前追加して、リリースをお楽しみにお待ちください。"
+    },
+    {
+      "category": "release",
       "code": "R00502",
       "title": "16thシングル『クリフハンガー』収録曲『好きになるクレッシェンド』MUSIC VIDEO公開&先行配信が1月26日(月)0:00～に決定！",
       "caption": "",
@@ -566,5 +576,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "51"
+  "count": "52"
 }
