@@ -1,6 +1,29 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100072",
+      "title": "櫻坂46・日向坂46応援［公式］音楽アプリ『UNI’S ON AIR』に櫻坂46 四期生9名が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100072",
+      "pubdate": "2026/01/23 20:00:00",
+      "tags": [
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69"
+      ],
+      "thumbnail": null,
+      "content": "櫻坂46・日向坂46応援［公式］音楽アプリ『UNI&rsquo;S ON AIR』に櫻坂46 四期生9名が登場しました。<br />また、UNI'S ON AIR公式YouTubeチャンネルでは稲熊ひな、勝又春、中川智尋、山田桃実が登場している「<a href=\"https://www.youtube.com/watch?v=OZU8sGAEfU4\">【期間限定公開】UNI'S ON AIR 櫻坂46 四期生登場直前スペシャル！</a>」も公開中です。<br /><br /><img src=\"https://sakurazaka46.com/files/14/twitter_gacha_41565_0.png\" alt=\"\" width=\"900\" height=\"506\" /><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/OZU8sGAEfU4?si=1xK8PAXhjnpWsHee\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />『UNI&rsquo;S ON AIR』<br />＜iOSはこちら＞<a href=\"https://apps.apple.com/jp/app/id1465196071\">https://apps.apple.com/jp/app/id1465196071</a><br />＜Androidはこちら＞<a href=\"https://play.google.com/store/apps/details?id=jp.aktsk.unisonair\">https://play.google.com/store/apps/details?id=jp.aktsk.unisonair</a><br /><br />公式サイトHP：<a href=\"https://keyahina-unisonair.com\">https://keyahina-unisonair.com</a><br />公式Xアカウント（<a href=\"https://x.com/kh_unisonair\">@kh_unisonair</a>）<br />公式YouTubeチャンネル：<a href=\"https://www.youtube.com/@UNISONAIR-jj4of\">https://www.youtube.com/@UNISONAIR-jj4of</a>"
+    },
+    {
       "category": "shakehands",
       "code": "S00210",
       "title": "【詳細のお知らせ】13th Single『Unhappy birthday構文』発売記念「リアルミート＆グリート」 会場：京都パルスプラザ",
@@ -410,5 +433,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "32"
+  "count": "33"
 }
