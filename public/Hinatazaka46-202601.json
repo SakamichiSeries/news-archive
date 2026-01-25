@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00505",
+      "title": "16thシングル『クリフハンガー』収録曲『好きになるクレッシェンド』MUSIC VIDEO公開&先行配信スタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00505",
+      "pubdate": "2026/01/26 00:00:00",
+      "thumbnail": null,
+      "content": "<span>16thシングル『クリフハンガー』収録、</span><span>五期生メンバーによる楽曲</span><span>『好きになるクレッシェンド』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Sukininarucrescendo\"><strong>■『好きになるクレッシェンド』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『好きになるクレッシェンド』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/MlNNxI0MNDI\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
+    },
+    {
       "category": "event",
       "code": "E00793",
       "title": "「7回目のひな誕祭」ローソンチケット2次先行が1/26(月)12:00よりスタート！",
@@ -606,5 +616,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "55"
+  "count": "56"
 }
