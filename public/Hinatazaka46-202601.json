@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02605",
+      "title": "「週刊少年チャンピオン」2026年9号（1月28日(木)発売）の表紙・巻頭に松田好花が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02605",
+      "pubdate": "2026/01/26 09:00:00",
+      "tags": [
+        "18"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年チャンピオン」2026年9号（1月28日(木)発売）の表紙・巻頭に松田好花が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.akitashoten.co.jp/w-champion\" target=\"_blank\">「週刊少年チャンピオン」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02604",
+      "title": "「週刊少年マガジン」2026年9号（1月28(水)発売）の表紙・巻頭に大野愛実が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02604",
+      "pubdate": "2026/01/26 09:00:00",
+      "tags": [
+        "12"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年マガジン」2026年9号（1月28(水)発売）の表紙・巻頭に大野愛実が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://shonenmagazine.com/smaga/\" target=\"_blank\">「週刊少年マガジン」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02593",
+      "title": "「装苑」2026年3月号に大野愛実が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02593",
+      "pubdate": "2026/01/26 09:00:00",
+      "tags": [
+        "38"
+      ],
+      "thumbnail": null,
+      "content": "「装苑」2026年3月号に大野愛実が登場！<br />是非ご覧ください。<br /><br /><a href=\"http://soen.tokyo/\">「装苑」の公式サイトはこちら</a>"
+    },
+    {
       "category": "release",
       "code": "R00505",
       "title": "16thシングル『クリフハンガー』収録曲『好きになるクレッシェンド』MUSIC VIDEO公開&先行配信スタート！",
@@ -616,5 +655,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "56"
+  "count": "59"
 }
