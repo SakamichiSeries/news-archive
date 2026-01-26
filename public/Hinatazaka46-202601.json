@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00794",
+      "title": "「ながおか 米百俵フェス〜花火と食と音楽と〜2026」に日向坂46の出演が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00794",
+      "pubdate": "2026/01/26 12:00:00",
+      "thumbnail": null,
+      "content": "<p>5月23日(土)、24日(日) 新潟県・国営越後丘陵公園にて開催の「ながおか 米百俵フェス〜花火と食と音楽と〜2026」に日向坂46の出演が決定いたしました！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/_%E3%80%90%E7%B5%84%E5%86%99%E7%9C%9F%E3%80%91%E7%B1%B3%E3%83%95%E3%82%A7%E3%82%B92026%20%E7%AC%AC%E4%B8%80%E5%BC%BE.jpg\" alt=\"\" width=\"1081\" height=\"1081\" /><br /><br /><br />日向坂46は5月24日(日) に出演いたします。<span><br />皆様のご来場お待ちしております！<br /><br />▼詳細は公式サイトをご覧ください。<br /><a href=\"https://www.comefes.net/\">https://www.comefes.net/</a><br /></span></p>"
+    },
+    {
       "category": "media",
       "code": "M02605",
       "title": "「週刊少年チャンピオン」2026年9号（1月28日(木)発売）の表紙・巻頭に松田好花が登場！",
@@ -655,5 +665,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "59"
+  "count": "60"
 }
