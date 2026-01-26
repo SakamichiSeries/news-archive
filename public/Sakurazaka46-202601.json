@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01957",
+      "title": "アニプレックスYouTubeチャンネルにて公開の「 「櫻坂46×ビルディバイド -ブライト-」トレーディングカードゲーム　応援大使の対戦ダイジェスト！ 」に松田里奈、森田ひかる、石森璃花、小島凪紗、谷口愛季、的野美青が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01957",
+      "pubdate": "2026/01/26 20:04:49",
+      "tags": [
+        "48",
+        "50",
+        "59",
+        "62",
+        "63",
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "アニプレックスYouTubeチャンネルにて公開の「 「櫻坂46&times;ビルディバイド -ブライト-」トレーディングカードゲーム　応援大使の対戦ダイジェスト！ 」に松田里奈、森田ひかる、石森璃花、小島凪紗、谷口愛季、的野美青が出演しております。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/rFwdIN5B3t4?si=fJ7XgNorWyGnqOU-\">アニプレックスYouTubeチャンネル「「櫻坂46&times;ビルディバイド -ブライト-」トレーディングカードゲーム　応援大使の対戦ダイジェスト！ 」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/rFwdIN5B3t4?si=y-4gUlsmdMyvVixz\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "goods",
       "code": "G00195",
       "title": "櫻坂46 13thシングル『Unhappy birthday構文』発売記念「リアルミート＆グリート・京都会場」オフィシャルグッズ会場販売のお知らせ",
@@ -446,5 +464,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "34"
+  "count": "35"
 }
