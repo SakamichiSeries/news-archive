@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00206",
+      "title": "日向坂46 「松田好花 卒業セレモニー」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャの出店が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/G00206",
+      "pubdate": "2026/01/26 21:00:00",
+      "thumbnail": null,
+      "content": "日向坂46「松田好花 卒業セレモニー」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャの出店が決定いたしました。<br />たくさん遊んでイベントで思い切り盛り上がりましょう！！<br /><br />【当日販売時間】<br />会場：TOYOTA ARENA TOKYO <br />■1月29日(木) 12:00～終演後30分程度<br />※開場17:00/開演18:30<br /><br />※終演後販売は列が途切れ次第、終了いたします。<br />※景品なくなり次第終了となります。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/190DE41D-CBCB-45D8-BCC1-071B3B353888.jpg\" alt=\"\" width=\"3508\" height=\"4967\" />"
+    },
+    {
       "category": "media",
       "code": "M02608",
       "title": "1月27日(火)9:00～放送の日本テレビ「DayDay.」に松田好花、大野愛実が生出演！",
@@ -679,5 +689,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "61"
+  "count": "62"
 }
