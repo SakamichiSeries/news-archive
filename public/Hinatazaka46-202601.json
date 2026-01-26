@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02608",
+      "title": "1月27日(火)9:00～放送の日本テレビ「DayDay.」に松田好花、大野愛実が生出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02608",
+      "pubdate": "2026/01/26 19:00:00",
+      "tags": [
+        "18",
+        "38"
+      ],
+      "thumbnail": null,
+      "content": "1月27日(火)9:00～放送の日本テレビ「<span>DayDay.</span>」に松田好花、大野愛実が生出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/dayday/\">日本テレビ「DayDay．」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00794",
       "title": "「ながおか 米百俵フェス〜花火と食と音楽と〜2026」に日向坂46の出演が決定！",
@@ -665,5 +679,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "60"
+  "count": "61"
 }
