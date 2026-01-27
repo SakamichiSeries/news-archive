@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02611",
+      "title": "Billboard JAPANのインタビュー企画「WITH BOOKS」に平岡海月が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02611",
+      "pubdate": "2026/01/27 18:00:00",
+      "tags": [
+        "32"
+      ],
+      "thumbnail": null,
+      "content": "<span>Webメディア</span>「Billboard JAPAN」の<span>書籍や文筆と縁深いアーティスト、また音楽と縁深い作家へ、自身の書籍や音楽とのかかわりについて訊くインタビュー企画【WITH BOOKS】に平岡海月が登場しております！</span><br /><br />是非ご覧ください。<br /><br /><p><span><a href=\"https://www.billboard-japan.com/special/detail/5113\">平岡海月のインタビューはこちらから</a></span></p>"
+    },
+    {
+      "category": "media",
       "code": "M02610",
       "title": "モデルプレスのインタビューに藤嶌果歩・佐藤優羽が登場！",
       "caption": "",
@@ -703,5 +716,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "63"
+  "count": "64"
 }
