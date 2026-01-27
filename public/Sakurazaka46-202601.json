@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01958",
+      "title": "「櫻坂チャンネル」にて「【天国】鳥マニア浅井が掛川花鳥園で鳥まみれ！櫻坂46にも遭遇！？」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01958",
+      "pubdate": "2026/01/27 21:00:00",
+      "tags": [
+        "70"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【天国】鳥マニア浅井が掛川花鳥園で鳥まみれ！櫻坂46にも遭遇！？」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/Q8RXVdxFmM4\">櫻坂チャンネル「【天国】鳥マニア浅井が掛川花鳥園で鳥まみれ！櫻坂46にも遭遇！？」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/Q8RXVdxFmM4?si=W0poPivFPpcxPRTW\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M01957",
       "title": "アニプレックスYouTubeチャンネルにて公開の「 「櫻坂46×ビルディバイド -ブライト-」トレーディングカードゲーム　応援大使の対戦ダイジェスト！ 」に松田里奈、森田ひかる、石森璃花、小島凪紗、谷口愛季、的野美青が出演！",
       "caption": "",
@@ -464,5 +477,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "35"
+  "count": "36"
 }
