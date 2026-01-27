@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00503",
+      "title": "16thシングル『クリフハンガー (Special Edition)』の配信がスタート！また、四期生楽曲『Surf's up girl』のフォーメーションも公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00503",
+      "pubdate": "2026/01/28 00:00:00",
+      "thumbnail": null,
+      "content": "16thシングル『クリフハンガー』の全5形態・全7曲をコンパイルしたSpecial Editionが各種サービスでのダウンロード＆ストリーミング配信を開始しました！<br /><br />また、収録される四期生楽曲『Surf's up girl』のフォーメーションも公開！<br /><br />ぜひチェックしてください！<br /><br />■フォーメーションページは<a href=\"https://www.hinatazaka46.com/s/official/diary/formation/list\">コチラ</a><br /><br /><span>■『クリフハンガー (Special Edition)」各種ダウンロード＆ストリーミングは</span><a href=\"https://hinatazaka46.lnk.to/Cliffhanger_SE\">コチラ</a><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20Release/16th%20%E3%82%AF%E3%83%AA%E3%83%95%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC/_251222_%E9%85%8D%E4%BF%A1%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88_3000x3000px.jpg\" alt=\"\" width=\"500\" height=\"500\" />"
+    },
+    {
       "category": "media",
       "code": "M02611",
       "title": "Billboard JAPANのインタビュー企画「WITH BOOKS」に平岡海月が登場！",
@@ -716,5 +726,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "64"
+  "count": "65"
 }
