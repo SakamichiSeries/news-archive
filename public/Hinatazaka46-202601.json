@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "release",
+      "code": "R00507",
+      "title": " 【期間限定公開】日向坂46 OFFICIAL YouTube CHANNELにて16thシングル『クリフハンガー』のパフォーマンス映像を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00507",
+      "pubdate": "2026/01/28 22:00:00",
+      "thumbnail": null,
+      "content": "日向坂46 OFFICIAL YouTube CHANNELにて、2026年1月25日(日)にKアリーナ横浜にて開催された「LAWSON 50th Anniversary presents Special LIVE」にて初披露された、16thシングル『クリフハンガー』のライブ映像を公開いたしました！<br />ぜひご覧ください。<br /><br />■公開日時<br />2026年2月28日(土)23:59まで<br /><br />■タイトル<br />【期間限定公開】日向坂46『クリフハンガー』LIVE from LAWSON 50th Anniversary presents Special LIVE<br /><br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/kpEHnz5iASY\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "release",
       "code": "R00506",
       "title": "「松田好花 卒業セレモニー」会場限定！ 16thシングル『クリフハンガー』購入特典が決定！",
       "caption": "",
@@ -760,5 +770,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "68"
+  "count": "69"
 }
