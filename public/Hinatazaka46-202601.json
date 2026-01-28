@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02609",
+      "title": "日向坂46 公式Instagramアカウント開設！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02609",
+      "pubdate": "2026/01/28 13:00:00",
+      "thumbnail": null,
+      "content": "日向坂46のグループ公式Instagramアカウント(＠hinatazaka46)を開設いたしました！<br />日向坂46メンバーに関する情報やオリジナルコンテンツを、動画や写真を通して投稿していく予定です。<br /><br />さらに、本日1月28日(水)の21:30頃よりインスタライブもすることも決定しました。<br />ぜひご覧ください！<br /><br />▼日向坂46 公式Instagramはこちら<br /><a href=\"instagram.com/hinatazaka46\">instagram.com/hinatazaka46</a>"
+    },
+    {
       "category": "release",
       "code": "R00503",
       "title": "16thシングル『クリフハンガー (Special Edition)』の配信がスタート！また、四期生楽曲『Surf's up girl』のフォーメーションも公開！",
@@ -726,5 +736,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "65"
+  "count": "66"
 }
