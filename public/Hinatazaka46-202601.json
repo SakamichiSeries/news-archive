@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M02612",
+      "title": "WEBメディアのインタビューに金村美玖×上村ひなのが登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02612",
+      "pubdate": "2026/01/28 19:00:00",
+      "tags": [
+        "12",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "Webメディアに金村美玖&times;上村ひなのが登場！<br />撮り下ろし写真とインタビューが掲載されています。<br />ぜひご覧ください。<br /><br />■クランクイン！ (金村美玖&times;上村ひなの)<br /><a href=\"https://www.crank-in.net/interview/180288\">インタビューページはコチラ</a><br /><br />■HOMINIS<span>(金村美玖&times;上村ひなの)<br /><a href=\"https://hominis.media/category/idol/post16046/\">インタビューページはコチラ<br /></a><a href=\"https://www.crank-in.net/interview/180288\"><br /></a>■推し楽&nbsp;(金村美玖&times;上村ひなの)<a href=\"https://hominis.media/category/idol/post14589/\"><br /></a><a href=\"https://fan.books.rakuten.co.jp/articles/5328\">インタビューページはコチラ</a><br /></span>"
+    },
+    {
+      "category": "media",
       "code": "M02609",
       "title": "日向坂46 公式Instagramアカウント開設！",
       "caption": "",
@@ -736,5 +750,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "66"
+  "count": "67"
 }
