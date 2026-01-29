@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00599",
+      "title": "目黒陽色 1月30日(金)「SAKURAZAKA46 SPORTS FESTIVAL supported by AEON CARD」、1月31日(土)13th Single『Unhappy birthday構文』発売記念 リアルミート＆グリート（個別トーク会）（会場：京都パルスプラザ）欠席のお知らせ",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00599",
+      "pubdate": "2026/01/29 19:30:00",
+      "thumbnail": null,
+      "content": "1月30日(金)に開催の「SAKURAZAKA46 SPORTS FESTIVAL supported by AEON CARD」、1月31日(土)に開催の13th Single『Unhappy birthday構文』発売記念 リアルミート＆グリート（個別トーク会）（会場：京都パルスプラザ）に関しまして、目黒陽色は体調不良のため欠席させて頂くこととなりました。<br /><br />イベントを楽しみにされていたお客様には、大変深くお詫び申し上げます。<br /><br />欠席いたしますリアルミート＆グリートに関しましては、追って振替使用のご案内をさせていただきます。<br />皆さまのご理解を賜わります様、よろしくお願い申し上げます。<br /><br />リアルミート＆グリートに関するお問い合わせ<br /><a href=\"https://www.fortunemusic.app/contact/index.html\">https://www.fortunemusic.app/contact/index.html</a><br /><br />Seed & Flower合同会社"
+    },
+    {
       "category": "media",
       "code": "M01960",
       "title": "「IDOL AND READ 045」（1月30日(金)発売）の表紙・巻頭に佐藤愛桜が登場！",
@@ -503,5 +513,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "38"
+  "count": "39"
 }
