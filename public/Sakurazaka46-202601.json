@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01959",
+      "title": "1月29日(木)20:00～フジテレビ「この世界は1ダフル」に小島凪紗が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01959",
+      "pubdate": "2026/01/29 15:45:42",
+      "tags": [
+        "62"
+      ],
+      "thumbnail": null,
+      "content": "<span>1月29日(木)20:00～フジテレビ「この世界は1ダフル」に小島凪紗が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/1derful/\" target=\"_blank\">フジテレビ「この世界は1ダフル」公式ホームページはコチラ</a><br /><br /></span>"
+    },
+    {
+      "category": "media",
       "code": "M01958",
       "title": "「櫻坂チャンネル」にて「【天国】鳥マニア浅井が掛川花鳥園で鳥まみれ！櫻坂46にも遭遇！？」を公開！",
       "caption": "",
@@ -477,5 +490,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "36"
+  "count": "37"
 }
