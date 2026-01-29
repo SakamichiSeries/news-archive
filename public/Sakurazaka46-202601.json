@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01960",
+      "title": "「IDOL AND READ 045」（1月30日(金)発売）の表紙・巻頭に佐藤愛桜が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01960",
+      "pubdate": "2026/01/29 17:47:05",
+      "tags": [
+        "73"
+      ],
+      "thumbnail": null,
+      "content": "「IDOL AND READ 045」（1月30日(金)発売）の表紙・巻頭に佐藤愛桜が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://twitter.com/idol_and_read\">「IDOL AND READ」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01959",
       "title": "1月29日(木)20:00～フジテレビ「この世界は1ダフル」に小島凪紗が出演！",
       "caption": "",
@@ -490,5 +503,5 @@
       "content": "<span>1月4</span><span>日(日)</span>17:00～TBS「バナナマンのせっかくグルメ！！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sekkaku-g/\">TBS「バナナマンのせっかくグルメ！！」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "37"
+  "count": "38"
 }
