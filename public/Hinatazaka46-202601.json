@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02620",
+      "title": "1月31日(土)18:30～日本テレビ「満天☆青空レストラン」に金村美玖・髙橋未来虹が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02620",
+      "pubdate": "2026/01/30 20:30:00",
+      "tags": [
+        "12",
+        "22"
+      ],
+      "thumbnail": null,
+      "content": "1月31日(土)18:30～日本テレビ「満天☆青空レストラン」に金村美玖・髙橋未来虹が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/aozora/\" target=\"_blank\">日本テレビ「満天☆青空レストラン」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00795",
       "title": "「16th Single ひなた坂46 LIVE」一般発売(先着)が1月31日(土)12:00よりスタート！",
@@ -800,5 +814,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "72"
+  "count": "73"
 }
