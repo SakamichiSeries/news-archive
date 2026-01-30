@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02613",
+      "title": "小坂菜緒、藤嶌果歩が『劇場版 転生したらスライムだった件 蒼海の涙編』公開記念舞台挨拶に登壇決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02613",
+      "pubdate": "2026/01/30 12:00:00",
+      "thumbnail": null,
+      "content": "小坂菜緒と藤嶌果歩が『劇場版 転生したらスライムだった件 蒼海の涙編』公開記念舞台挨拶に登壇することが決定いたしました！<br /><br />■日程：2月28日(土)<br />■会場：丸の内ピカデリー<br />■上映回：11:00の回（上映後舞台挨拶）／14:25の回（上映前舞台挨拶）<br /><br />詳しくは公式HPをご覧ください。<br /><p><span lang=\"EN-US\"><a href=\"https://movie02.ten-sura.com/news/248/\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://movie02.ten-sura.com/news/248/&source=gmail&ust=1769783611984000&usg=AOvVaw2mE2WSNLGV4JnRMWGh_bLa\" data-removefontsize=\"true\" data-originalcomputedfontsize=\"16\">https://movie02.ten-sura.com/<wbr />news/248/</a></span></p>"
+    },
+    {
       "category": "release",
       "code": "R00507",
       "title": " 【期間限定公開】日向坂46 OFFICIAL YouTube CHANNELにて16thシングル『クリフハンガー』のパフォーマンス映像を公開！",
@@ -770,5 +780,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "69"
+  "count": "70"
 }
