@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100248",
+      "title": "「日向坂ちゃんねる」にて「【協力プレイ】喧嘩するほど仲がいい？ガラス運びゲームで喧嘩常習犯コンビが大絶叫！【Carry The Glass】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100248",
+      "pubdate": "2026/01/31 21:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【協力プレイ】喧嘩するほど仲がいい？ガラス運びゲームで喧嘩常習犯コンビが大絶叫！【Carry The Glass】」を公開いたしました！<br /><br />小坂菜緒おすすめゲーム第5弾！<br /><br />プチ喧嘩しがちな四期生・竹内希来里と平岡海月がガラス運びゲームに挑戦しました！<br /><br />慣れないゲームに、また喧嘩勃発？！<br />ぜひご覧ください！<br /><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/Qht3jzcZIhg\" title=\"【協力プレイ】喧嘩するほど仲がいい？ガラス運びゲームで喧嘩常習犯コンビが大絶叫！【Carry The Glass】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02620",
       "title": "1月31日(土)18:30～日本テレビ「満天☆青空レストラン」に金村美玖・髙橋未来虹が出演！",
@@ -814,5 +824,5 @@
       "content": "16thシングル『クリフハンガー』発売に先駆けて、大野愛実がセンターを務める表題曲「クリフハンガー」のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />公開は1月8日(木)0:00～となります。<br />是非お楽しみに！"
     }
   ],
-  "count": "73"
+  "count": "74"
 }
