@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02624",
+      "title": "2月2日(月)20:00～TOKYO FM「エフエムレインボー」に大野愛実がコメント出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02624",
+      "pubdate": "2026/02/01 17:05:00",
+      "tags": [
+        "38"
+      ],
+      "thumbnail": null,
+      "content": "2月2日(月)20:00～TOKYO FM「エフエムレインボー」に大野愛実がコメント出演いたします！<br />ぜひお聴きください。<br /><br /><a href=\"https://tfm.co.jp/shovels/fmrainbow/\">TOKYO FM「エフエムレインボー」公式サイトはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02623",
       "title": "四期生出演映画「ゼンブ・オブ・トーキョー」バースデイ記念上映 最終回お祝い舞台挨拶決定！",
       "caption": "",
@@ -38,5 +51,5 @@
       "content": "２月2日(日)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "3"
+  "count": "4"
 }
