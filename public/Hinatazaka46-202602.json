@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02625",
+      "title": "2月4日(水)23:06～ テレビ東京「あちこちオードリー」に松田好花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02625",
+      "pubdate": "2026/02/03 19:00:00",
+      "tags": [
+        "14",
+        "18",
+        "31",
+        "33"
+      ],
+      "thumbnail": null,
+      "content": "2月4日(水)23:06～ テレビ東京「あちこちオードリー」に松田好花が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/achikochi_audrey/\">テレビ東京「あちこちオードリー」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "goods",
       "code": "G00208",
       "title": "日向坂46 16thシングル『クリフハンガー』発売記念「リアルミート＆グリート・横浜会場」オフィシャルグッズ会場販売のお知らせ",
@@ -81,5 +97,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "7"
+  "count": "8"
 }
