@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00508",
+      "title": "日向坂46 OFFICIAL YouTube CHANNELにて「ひなリハ」～クリフハンガー～を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00508",
+      "pubdate": "2026/02/04 22:00:00",
+      "thumbnail": null,
+      "content": "日向坂46 OFFICIAL YouTube CHANNELにて、リハーサルダンス動画『「ひなリハ」～クリフハンガー～』を公開いたしました！<br />ぜひご覧ください。<br /><br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/1AAbH-HinaY\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02626",
       "title": "「週刊少年チャンピオン」2026年10号（2月5日(木)発売）の表紙・巻頭に宮地すみれが登場！",
@@ -107,5 +117,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "9"
+  "count": "10"
 }
