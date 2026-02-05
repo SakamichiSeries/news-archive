@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100249",
+      "title": "松田好花のプロフィールページとブログのクローズに関しまして",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100249",
+      "pubdate": "2026/02/05 15:00:00",
+      "thumbnail": null,
+      "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />松田好花のプロフィールページとブログを2026年3月31日(火)12:00にクローズさせていただくこととなりました。<br /><br />3月1日(日)12:00以降、松田好花のプロフィールページはメンバー一覧ページには表示されなくなりますが、3月31日(火)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/18\">https://www.hinatazaka46.com/s/official/artist/18</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
+    },
+    {
       "category": "release",
       "code": "R00508",
       "title": "日向坂46 OFFICIAL YouTube CHANNELにて「ひなリハ」～クリフハンガー～を公開！",
@@ -117,5 +127,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
