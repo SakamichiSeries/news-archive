@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00796",
+      "title": "2月26日(木)「CP＋2026」金村美玖のスペシャルセミナー登壇決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00796",
+      "pubdate": "2026/02/05 16:30:00",
+      "thumbnail": null,
+      "content": "2月26日(木)～3月1日(日)にパシフィコ横浜で開催される「CP＋2026」ソニーブース特設ステージにて、金村美玖のスペシャルセミナー登壇が決定いたしました！<br /><br />「CP＋2026」とは、世界最大級のカメラと写真映像のワールドプレミアショーになります。<br /><br />本セミナーは、観覧席予約（抽選）を実施いたします。<br />またオンラインでの配信（無料）も実施予定です。<br />ぜひお楽しみください！<br /><br />■日時<br />2月26日(木) 15:35〜16:10<br /><br />■会場<br />パシフィコ横浜　ソニーブース<br /><br />■観覧席予約期間（抽選）<br />2月12日(木) 16:30～2月16日(月) 23:59まで<br />※予約にはMy Sonyへの登録が必要になります<br /><br />詳しくはこちらをご覧ください。<br /><a href=\"https://www.sony.jp/ichigan/a-universe/specialevent/cpplus2026/\">https://www.sony.jp/ichigan/a-universe/specialevent/cpplus2026/<br /></a>"
+    },
+    {
       "category": "other",
       "code": "O100249",
       "title": "松田好花のプロフィールページとブログのクローズに関しまして",
@@ -127,5 +137,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "11"
+  "count": "12"
 }
