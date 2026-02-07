@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02627",
+      "title": "2月8日(日)15:20～ テレビ朝日「路線バスで寄り道の旅」に藤嶌果歩、山下葉留花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02627",
+      "pubdate": "2026/02/07 09:00:00",
+      "tags": [
+        "29",
+        "33"
+      ],
+      "thumbnail": null,
+      "content": "2月8日(日)15:20～ テレビ朝日「路線バスで寄り道の旅」に山下葉留花、藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/rosenbus/\">テレビ朝日「路線バスで寄り道の旅」番組サイトはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00796",
       "title": "2月26日(木)「CP＋2026」金村美玖のスペシャルセミナー登壇決定！",
@@ -137,5 +151,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "12"
+  "count": "13"
 }
