@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M02628",
+      "title": "2月9日(月)21:45〜NHK-FM「ミュージックライン」に髙橋未来虹・松尾桜が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02628",
+      "pubdate": "2026/02/08 20:00:00",
+      "tags": [
+        "22",
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "2月9日(月)21:45〜NHK-FM「ミュージックライン」に髙橋未来虹・松尾桜が出演いたします。<br />ぜひお聴きください！<br /><br /><a href=\"https://www.nhk.jp/p/ml/rs/Z9WGYY3GP5/\">NHK-FM「ミュージックライン」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02627",
       "title": "2月8日(日)15:20～ テレビ朝日「路線バスで寄り道の旅」に藤嶌果歩、山下葉留花が出演！",
       "caption": "",
@@ -151,5 +165,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "13"
+  "count": "14"
 }
