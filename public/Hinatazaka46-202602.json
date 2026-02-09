@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02629",
+      "title": "2月13日(金)24:59〜日本テレビ「バズリズム02」に出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02629",
+      "pubdate": "2026/02/09 10:00:00",
+      "thumbnail": null,
+      "content": "2月13日(金)24:59〜日本テレビ「バズリズム02」に出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/buzzrhythm/\" target=\"_blank\">日本テレビ「バズリズム02」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02628",
       "title": "2月9日(月)21:45〜NHK-FM「ミュージックライン」に髙橋未来虹・松尾桜が出演！",
       "caption": "",
@@ -165,5 +175,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "14"
+  "count": "15"
 }
