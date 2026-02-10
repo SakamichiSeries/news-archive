@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100252",
+      "title": "「日向坂ちゃんねる」にて「【ガチ検証】日向坂でわらしべ長者やってみたら、最終的に何に変わる？」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100252",
+      "pubdate": "2026/02/10 22:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【ガチ検証】日向坂でわらしべ長者やってみたら、最終的に何に変わる？」を公開いたしました！<br /><br />16th singleひなた坂46メンバー14名で、わらしべ長者をやってみました！<br /><br />上村が持ってきた\"ある物\"は、最終的に何に変わるのか？<br />ぜひご覧ください！<br /><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/XD0RAZz2BcE\" title=\"【ガチ検証】日向坂でわらしべ長者やってみたら、最終的に何に変わる？\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "release",
       "code": "R00510",
       "title": "2026年2月14日(土)発売 LIVE Blu-ray『HINATAZAKA46 GRADUATION CEREMONY BOX 2023-2025』 パッケージビジュアル公開！",
@@ -215,5 +225,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "19"
+  "count": "20"
 }
