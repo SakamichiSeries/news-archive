@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00798",
+      "title": "日向坂46「ひなたフェス 2026」開催決定！2月11日(水)20:00～開催記念生配信も！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00798",
+      "pubdate": "2026/02/10 12:00:00",
+      "thumbnail": null,
+      "content": "<img src=\"https://cdn.hinatazaka46.com/files/14/OGP_1200_630_06.png\" alt=\"\" width=\"1200\" height=\"630\" /><br /><br />&ldquo;日本のひなた&rdquo;と呼ばれている宮崎県で、2回目となる「ひなたフェス2026」の開催が決定いたしました！<br /><br />また、開催決定を記念して2月11日(水)20:00から公式YouTubeチャンネル「日向坂ちゃんねる」にて生配信も決定。<br />ぜひご覧ください！<br /><br /><br />【公演概要】<br />■公演名<br />日向坂46 「ひなたフェス 2026」<br />■日程<br />2026年9月5日(土)、9月6日(日)<br />■会場<br />ひなた宮崎県総合運動公園<br />ひなたサンマリンスタジアム宮崎<br />■公園内開園時間<br />開園10:00 / 閉園19:30<br />■ライブ時間<br />開場14:30 / 開演16:30<br />■ひなたフェス2026特設サイト<br /><a href=\"https://hinata-fes2026.com/\">https://hinata-fes2026.com/</a><br /><br />【「日向坂ちゃんねる」生配信概要】<br />■配信URL<br /><a href=\"https://youtube.com/live/NpGAiNfN_Ek\">https://youtube.com/live/NpGAiNfN_Ek</a><br /><img src=\"https://cdn.hinatazaka46.com/files/14/S__53067808.png\" alt=\"\" width=\"1920\" height=\"1080\" /><br /><br /><div>■配信日時<br />2月11日(水)20:00〜<br />■出演者（敬称略）<br />MC：佐藤満春（どきどきキャンプ）<br />メンバー：金村美玖・髙橋未来虹・小西夏菜実・正源司陽子・山下葉留花・高井俐香・松尾桜</div>"
+    },
+    {
+      "category": "event",
       "code": "E00797",
       "title": "「16th Single ひなた坂46 LIVE」、公式チケット・トレードが2/10(火)18:00よりスタート！",
       "caption": "",
@@ -185,5 +195,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "16"
+  "count": "17"
 }
