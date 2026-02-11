@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02631",
+      "title": "WEBメディア「映画ナタリー」の映画「超かぐや姫！」特集に正源司陽子のインタビューが掲載！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02631",
+      "pubdate": "2026/02/11 10:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "<span lang=\"EN-US\">WEBメディア「映画ナタリー」にて、映画「超かぐや姫！」<span>に関する正源司陽子のインタビューが掲載されております。<br /></span>ぜひご覧ください。<br /><br /><a href=\"https://natalie.mu/eiga/pp/cho-kaguyahime\">「映画ナタリー」正源司陽子インタビューはこちら</a></span>"
+    },
+    {
       "category": "other",
       "code": "O100252",
       "title": "「日向坂ちゃんねる」にて「【ガチ検証】日向坂でわらしべ長者やってみたら、最終的に何に変わる？」を公開！",
@@ -225,5 +238,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "20"
+  "count": "21"
 }
