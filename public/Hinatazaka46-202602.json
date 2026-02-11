@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00799",
+      "title": "「7回目のひな誕祭」のサブタイトルとイベントロゴが決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00799",
+      "pubdate": "2026/02/11 21:30:00",
+      "thumbnail": null,
+      "content": "<p>4月4(土)、5日(日)に開催する「7回目のひな誕祭」のサブタイトルとイベントロゴが決定いたしました！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/0206_Hnt_7thHinatan_mainlogo_nh_rgb_ol_plan_a%20copy%203.jpg\" alt=\"\" width=\"3934\" height=\"3934\" /><br />■タイトル<br />7回目のひな誕祭　～Welcome to HINATAZAKA ROCKESTRA～<br /><br />「7回目のひな誕祭」の詳細は下記特設サイトをご確認ください。<br /><br />▶<a href=\"https://www.hinatazaka46.com/s/official/page/7th-anniversary\">特設サイトはコチラ</a></p>"
+    },
+    {
       "category": "media",
       "code": "M02631",
       "title": "WEBメディア「映画ナタリー」の映画「超かぐや姫！」特集に正源司陽子のインタビューが掲載！",
@@ -238,5 +248,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "21"
+  "count": "22"
 }
