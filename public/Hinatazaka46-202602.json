@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02633",
+      "title": "「Quick Japan」vol.182(2月13日(金)発売)に小坂菜緒、藤嶌果歩が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02633",
+      "pubdate": "2026/02/12 20:00:00",
+      "tags": [
+        "14",
+        "33"
+      ],
+      "thumbnail": null,
+      "content": "<p><a href=\"https://qjweb.myshopify.com/products/qj182\"><span><span>「Quick Japan</span></span><span><span>」182</span></span><span><span>号の詳細はコチラ</span></span></a></p>"
+    },
+    {
       "category": "goods",
       "code": "G00210",
       "title": "日向坂46「16th Single ひなた坂46 LIVE」オフィシャルグッズ 会場販売のお知らせ",
@@ -321,5 +335,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "29"
+  "count": "30"
 }
