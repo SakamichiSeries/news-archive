@@ -2,6 +2,22 @@
   "news": [
     {
       "category": "media",
+      "code": "M02634",
+      "title": "「EX大衆」3月号（2月16日(月)発売）中面に小西夏菜実、インタビューに小坂菜緒×藤嶌果歩、大田美月×坂井新奈が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02634",
+      "pubdate": "2026/02/14 09:00:00",
+      "tags": [
+        "14",
+        "33",
+        "37",
+        "41"
+      ],
+      "thumbnail": null,
+      "content": "「EX大衆」3月号（2月16日(月)発売）の中面に小西夏菜実、インタビューに小坂菜緒&times;藤嶌果歩、大田美月&times;坂井新奈が登場！<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://x.com/EXtaishu\" target=\"_blank\">「EX大衆」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02630",
       "title": "金村美玖が「VOCE」レギュラーモデルに就任決定！",
       "caption": "",
@@ -348,5 +364,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "31"
+  "count": "32"
 }
