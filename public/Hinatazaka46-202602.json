@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100253",
+      "title": "「日向坂ちゃんねる」にて「奇妙な住人に荷物を届ける戦慄ホラーゲームやってみた【例外配達】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100253",
+      "pubdate": "2026/02/14 21:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「奇妙な住人に荷物を届ける戦慄ホラーゲームやってみた【例外配達】」を公開いたしました！<br /><br />小坂菜緒おすすめゲーム第6弾！<br /><br />久しぶりのホラー回。<br />ぜひご覧ください。<br /><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/gSAPDKgEEGI\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02634",
       "title": "「EX大衆」3月号（2月16日(月)発売）中面に小西夏菜実、インタビューに小坂菜緒×藤嶌果歩、大田美月×坂井新奈が登場！",
@@ -364,5 +374,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "32"
+  "count": "33"
 }
