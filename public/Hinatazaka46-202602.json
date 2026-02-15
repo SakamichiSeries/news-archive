@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00211",
+      "title": "日向坂46「16th Single ひなた坂46 LIVE」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャの出店が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/G00211",
+      "pubdate": "2026/02/15 10:00:00",
+      "thumbnail": null,
+      "content": "2月17日(火)、18日(水)にTOYOTA ARENA TOKYOにて開催される「16th Single ひなた坂46 LIVE」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャの出店が決定いたしました。<br /><br />たくさん遊んでイベントで思い切り盛り上がりましょう！！<br /><br />【当日販売時間】<br />会場：TOYOTA ARENA TOKYO<br />■2月17日(火)&nbsp; 13:00～終演後30分程度　※開場17:00/開演18:30<br />■2月18日(水)&nbsp; 13:00～終演後30分程度　※開場17:00/開演18:30<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/_%E3%81%B2%E3%81%AA%E3%81%9F%E5%9D%82LIVE%E3%82%AC%E3%83%81%E3%83%A3%E3%82%AC%E3%83%81%E3%83%A3.jpg\" alt=\"\" width=\"3508\" height=\"4967\" />"
+    },
+    {
       "category": "other",
       "code": "O100253",
       "title": "「日向坂ちゃんねる」にて「奇妙な住人に荷物を届ける戦慄ホラーゲームやってみた【例外配達】」を公開！",
@@ -374,5 +384,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "33"
+  "count": "34"
 }
