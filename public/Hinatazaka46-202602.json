@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02635",
+      "title": "「TV LIFE」4号（2月18日(水)発売）に小坂菜緒、藤嶌果歩の撮りおろし写真とインタビューが掲載！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02635",
+      "pubdate": "2026/02/17 09:00:00",
+      "tags": [
+        "14",
+        "33"
+      ],
+      "thumbnail": null,
+      "content": "「TV LIFE」4号（2月18日(水)発売）に小坂菜緒、藤嶌果歩の撮りおろし写真とインタビューが掲載されます。<br />ぜひチェックしてみてください！<br /><br /><a href=\"https://www.tvlife.jp/\">「TV LIFE」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100251",
       "title": "【日向坂46メッセージ】「16th Single ひなた坂46 LIVE」の開催を記念し、無料グループを公開！",
@@ -414,5 +428,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "37"
+  "count": "38"
 }
