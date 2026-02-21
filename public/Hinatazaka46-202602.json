@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100254",
+      "title": "「日向坂ちゃんねる」にて「【爆笑】笑ってはいけない『四期生楽屋』【全員集合】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100254",
+      "pubdate": "2026/02/21 21:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【爆笑】笑ってはいけない『四期生楽屋』【全員集合】」を公開いたしました！<br /><br />TV収録の合間に、四期生全員で遊んでみました！<br /><br />たたいてかぶってジャンケンポン&黒ひげ危機一髪で真剣勝負！<br />笑ってはいけないルールのはずが、ルール崩壊！？<br /><br />わちゃわちゃ遊ぶだけの四期生をぜひご覧ください！<br /><br /><a href=\"https://youtu.be/kht4TXYMT88\">https://youtu.be/kht4TXYMT88<br /></a><iframe width=\"320\" height=\"161\" src=\"https://www.youtube.com/embed/kht4TXYMT88\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02638",
       "title": "四期生出演の映画『ゼンブ・オブ・トーキョー』続編製作決定！タイトルは『ゼンブ・オブ・ワールド』！",
@@ -478,5 +488,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "42"
+  "count": "43"
 }
