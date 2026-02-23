@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02640",
+      "title": "tvk「日向坂46宮地すみれのレジェわん！」第5弾が放送決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02640",
+      "pubdate": "2026/02/23 12:00:00",
+      "tags": [
+        "34"
+      ],
+      "thumbnail": null,
+      "content": "tvk「日向坂46宮地すみれのレジェわん！」第5弾の放送が決定いたしました。<br />ぜひご覧ください！<br /><br />放送日時：3月28日(土) 23:30～<br /><br /><a href=\"https://x.com/tvk_sumilegend\">tvk「日向坂46宮地すみれのレジェわん！」公式Xはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100254",
       "title": "「日向坂ちゃんねる」にて「【爆笑】笑ってはいけない『四期生楽屋』【全員集合】」を公開！",
@@ -488,5 +501,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "43"
+  "count": "44"
 }
