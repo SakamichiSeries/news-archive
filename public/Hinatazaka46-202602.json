@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02641",
+      "title": "2月24日(火)11:55～日本テレビ「ヒルナンデス！」に小坂菜緒が生出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02641",
+      "pubdate": "2026/02/23 23:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "2月24日(火)11:55～日本テレビ「ヒルナンデス！」に小坂菜緒が生出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ntv.co.jp/hirunan/\">日本テレビ「ヒルナンデス！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "shakehands",
       "code": "S00355",
       "title": "【詳細のお知らせ】2月28日(土)開催16thシングル『クリフハンガー』発売記念「リアルミート＆グリート」「リアルサイン会」＠京都市勧業館 みやこめっせ【松田好花】",
@@ -511,5 +524,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "45"
+  "count": "46"
 }
