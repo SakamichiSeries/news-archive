@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02643",
+      "title": "2月26日(木)22:00～読売テレビ「見取り図の間取り図ミステリー」に藤嶌果歩が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02643",
+      "pubdate": "2026/02/25 15:20:00",
+      "tags": [
+        "33"
+      ],
+      "thumbnail": null,
+      "content": "2月26日(木)22:00～読売テレビ「見取り図の間取り図ミステリー」に藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ytv.co.jp/floorplan_mystery/\">読売テレビ「見取り図の間取り図ミステリー」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02642",
       "title": "「月刊TVfan」4月号（本日2月24日(火)発売）に小坂菜緒、藤嶌果歩のインタビューが掲載！",
       "caption": "",
@@ -538,5 +551,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "47"
+  "count": "48"
 }
