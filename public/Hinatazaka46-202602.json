@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100255",
+      "title": "「日向坂ちゃんねる」にて「【メンバー目線カメラ】山口陽世が16th Single ひなた坂46LIVEでカメラ回してみた！」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100255",
+      "pubdate": "2026/02/28 22:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【メンバー目線カメラ】山口陽世が16th Single ひなた坂46LIVEでカメラ回してみた！」を公開いたしました！<br /><br />先日開催された16th Single ひなた坂46LIVEの裏側に山口陽世が密着！<br /><br />ライブ本番前後のメンバーの様子をぜひご覧ください！<br /><br /><a href=\"https://youtu.be/vxB9-AG2LwU\">https://youtu.be/vxB9-AG2LwU<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/vxB9-AG2LwU\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "goods",
       "code": "G00212",
       "title": "日向坂46 16thシングル『クリフハンガー』発売記念「リアルミート＆グリート・京都会場」オフィシャルグッズ会場販売のお知らせ",
@@ -585,5 +595,5 @@
       "content": "2月2日(月)24:40～テレビ東京「怪奇ファイル2026冬 見えてしまった&hellip;招かれざるモノたち」に正源司陽子・藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202602/28925_202602022440.html\">テレビ東京「怪奇ファイル2026冬」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "51"
+  "count": "52"
 }
