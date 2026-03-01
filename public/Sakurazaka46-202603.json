@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M01996",
+      "title": "3月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」に勝又春が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01996",
+      "pubdate": "2026/03/01 18:00:00",
+      "tags": [
+        "72"
+      ],
+      "thumbnail": null,
+      "content": "3月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」に勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M01995",
       "title": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演！",
       "caption": "",
@@ -15,5 +28,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "1"
+  "count": "2"
 }
