@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01999",
+      "title": "「りぼん」4月号（3月3日(火)発売）に田村保乃のインタビューが掲載！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01999",
+      "pubdate": "2026/03/03 16:37:52",
+      "tags": [
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "「りぼん」4月号（3月3日(火)発売）に田村保乃のインタビューが掲載されています。<br />ぜひチェックしてください。<br /><br /><a href=\"https://ribon.shueisha.co.jp/\">「りぼん」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00545",
       "title": "14thシングル『The growing up train』発売記念・パネル展示決定！",
@@ -84,5 +97,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "7"
+  "count": "8"
 }
