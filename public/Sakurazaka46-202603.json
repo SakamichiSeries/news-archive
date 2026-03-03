@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M01997",
+      "title": "3月10日(火)19:57～NHK総合「うたコン」に出演決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01997",
+      "pubdate": "2026/03/03 21:00:00",
+      "thumbnail": null,
+      "content": "<span>3月10日(火)19:57～NHK総合「うたコン」に出演が決定しました！</span><br /><span>是非ご覧ください！</span><br /><br /><a href=\"https://www.nhk.jp/p/utacon/ts/1J9MXY5QX2/\">NHK総合「うたコン」公式HPはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00604",
       "title": "「AnimeJapan2026」アニプレックスブースにてビルディバイド応援大使のステージが開催決定！",
@@ -146,5 +156,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "11"
+  "count": "12"
 }
