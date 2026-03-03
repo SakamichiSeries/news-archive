@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00604",
+      "title": "「AnimeJapan2026」アニプレックスブースにてビルディバイド応援大使のステージが開催決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00604",
+      "pubdate": "2026/03/03 20:32:36",
+      "tags": [
+        "48",
+        "50",
+        "59",
+        "62",
+        "63",
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "「AnimeJapan2026」アニプレックスブースにてビルディバイド応援大使(松田里奈、森田ひかる、石森璃花、小島凪紗、谷口愛季、的野美青)のステージが開催決定いたしました。<br /><br />日程：3月28日(土)12時55分～13時25分<br />場所：アニプレックスブース（東京ビックサイト内）<br />登壇：松田里奈、森田ひかる、石森璃花、小島凪紗、谷口愛季、的野美青<br />※入場には別途AnimeJapan2026のチケットが必要となります。<br />※当日、LINEを用いた抽選を行います。<br /><br />詳細は「AnimeJapan2026」特設サイトをご確認ください。<br /><a href=\"https://www.aniplex.co.jp/animejapan/2026/\">https://www.aniplex.co.jp/animejapan/2026/</a>"
+    },
+    {
+      "category": "media",
+      "code": "M01998",
+      "title": "「『櫻坂46×ビルディバイド -ブライト-』トレーディングカードゲーム」発売記念CM/最新ビジュアル公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M01998",
+      "pubdate": "2026/03/03 20:32:21",
+      "tags": [
+        "48",
+        "50",
+        "59",
+        "62",
+        "63",
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "3月20日(金)「『櫻坂46&times;ビルディバイド -ブライト-』トレーディングカードゲーム」の発売を記念したCMならびに新ビジュアルが『発売直前生配信』内にて公開されました。<br /><br />応援大使の松田里奈、森田ひかる、石森璃花、小島凪紗、谷口愛季、的野美青が全員出演しています。<br />ぜひご覧ください。<br /><br /><img src=\"https://sakurazaka46.com/files/14/fijrs8fje9efjs9jsef90efs.jpg\" alt=\"\" /><br /><br /><a href=\"https://youtu.be/3U5OQ_n6abQ?si=cNJpsFq3q1DITS0A\">アニプレックスYouTubeチャンネル「 櫻坂46&times;ビルディバイド -ブライト- トレーディングカードゲーム 発売記念CM | 3月20日発売！ 」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/3U5OQ_n6abQ?si=8FZxDFfEdgM_3kav\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02000",
       "title": "3月4日(水)19:00～テレビ朝日「くりぃむクイズ ミラクル9」に勝又春が出演！",
@@ -110,5 +146,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "9"
+  "count": "11"
 }
