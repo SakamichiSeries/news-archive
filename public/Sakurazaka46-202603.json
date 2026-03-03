@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02000",
+      "title": "3月4日(水)19:00～テレビ朝日「くりぃむクイズ ミラクル9」に勝又春が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02000",
+      "pubdate": "2026/03/03 17:39:30",
+      "tags": [
+        "72"
+      ],
+      "thumbnail": null,
+      "content": "<span>3月4日(水)19:00～テレビ朝日「くりぃむクイズ ミラクル9」に勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/miracle9/\" target=\"_blank\">テレビ朝日「くりぃむクイズ ミラクル9」公式ホームページはコチラ</a><br /><br /></span>"
+    },
+    {
+      "category": "media",
       "code": "M01999",
       "title": "「りぼん」4月号（3月3日(火)発売）に田村保乃のインタビューが掲載！",
       "caption": "",
@@ -97,5 +110,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "8"
+  "count": "9"
 }
