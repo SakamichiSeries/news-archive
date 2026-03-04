@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00547",
+      "title": "3月7日(土)0:00より、14thシングル収録『ドライフルーツ』のMUSIC VIDEO公開と先行配信が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00547",
+      "pubdate": "2026/03/04 18:00:00",
+      "thumbnail": null,
+      "content": "<span>3月7日(土)0:00より、BACKSメンバーによる楽曲『ドライフルーツ』のMUSIC VIDEOの公開と、ストリーミング＆ダウンロード先行配信することが決定しました！<br />お楽しみに！<br /><img src=\"https://sakurazaka46.com/files/14/S46%20Release/14th%20The%20growing%20up%20train/_%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E5%91%8A%E7%9F%A5%E7%94%BB%E5%83%8F.jpg\" alt=\"\" width=\"1500\" height=\"1001\" /><br /></span>"
+    },
+    {
       "category": "media",
       "code": "M02001",
       "title": "3月8日(日)＆3月15(日)12:00～ FMヨコハマ「Sunday ride with ken」に大園玲と田村保乃が出演！",
@@ -170,5 +180,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "13"
+  "count": "14"
 }
