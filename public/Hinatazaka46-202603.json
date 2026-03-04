@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02648",
+      "title": "3月6日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に山下葉留花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02648",
+      "pubdate": "2026/03/04 21:00:00",
+      "tags": [
+        "25"
+      ],
+      "thumbnail": null,
+      "content": "3月6日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に山下葉留花が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://ichiban-kenkyujyo.com/\" target=\"_blank\">ABEMA「カンニング竹山のイチバン研究所」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02647",
       "title": "ニューエラと日向坂46がMLB™球団にフィーチャーした、トリプルコラボコレクションのヘッドウェアのリリースが決定！ ",
       "caption": "",
@@ -57,5 +70,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "5"
+  "count": "6"
 }
