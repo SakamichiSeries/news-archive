@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00548",
+      "title": "TVアニメ『夜桜さんちの大作戦』メインPVにて オープニングテーマ「What‘s “KAZOKU”?」の 一部が解禁！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00548",
+      "pubdate": "2026/03/05 20:10:00",
+      "thumbnail": null,
+      "content": "4月12日(日)午後5時よりMBS/TBS系全国28局ネットで放送開始となるTVアニメ『夜桜さんちの大作戦』第2期のメインPVが公開され、櫻坂46が手掛けるオープニングテーマ「What&lsquo;s &ldquo;KAZOKU&rdquo;?」の一部が解禁となりました！<br /><br />また、初回放送日の前週4月5日(日) 午後5時～MBS/TBS系全国28局ネットにて、特別番組「『夜桜さんちの大作戦』第2期直前スペシャルさくら満開ミッション（仮）」の放送も決定！松田里奈、森田ひかる、的野美青、谷口愛季が第1期を振り返ります！<br /><br />ぜひご覧ください！<br /><br />■<span>TV</span>アニメ『夜桜さんちの大作戦』第<span>2</span>期メイン<span>PV<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dirydQCBa6o?si=QHW08NF_5ig1T_NW\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
+    },
+    {
       "category": "other",
       "code": "O100076",
       "title": "コスメブランド「OPERA」のイメージモデルに森田ひかるが就任！",
@@ -193,5 +203,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "15"
+  "count": "16"
 }
