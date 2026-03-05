@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100076",
+      "title": "コスメブランド「OPERA」のイメージモデルに森田ひかるが就任！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100076",
+      "pubdate": "2026/03/05 15:11:03",
+      "tags": [
+        "50"
+      ],
+      "thumbnail": null,
+      "content": "コスメブランド「OPERA」のイメージモデルに森田ひかるが就任いたしました。<br />また、3月12日(木)～「『グ<span class=\"css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-1tl8opc\">ロウリップティント』 [限定色] 412サクラモカ／411サクラソーダ／404サクラミスト」発売されます。<br /><br />詳しくは<a href=\"https://www.opera-net.jp/special/2026mar/\">「2026 SPRING サクラ風味のモカリップ &lsquo;Sakura Tea time&rsquo; 」SPECIAL SITE</a>をご覧ください<br /><br /><img src=\"https://sakurazaka46.com/files/14/ufhsrh89ehs89hes.jpg\" alt=\"\" width=\"4096\" height=\"2732\" /><br /></span>"
+    },
+    {
       "category": "release",
       "code": "R00547",
       "title": "3月7日(土)0:00より、14thシングル収録『ドライフルーツ』のMUSIC VIDEO公開と先行配信が決定！",
@@ -180,5 +193,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "14"
+  "count": "15"
 }
