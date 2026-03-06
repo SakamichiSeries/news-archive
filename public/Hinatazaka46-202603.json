@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02649",
+      "title": "3月8日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」に正源司陽子、山下葉留花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02649",
+      "pubdate": "2026/03/06 21:00:00",
+      "tags": [
+        "29",
+        "35"
+      ],
+      "thumbnail": null,
+      "content": "3月8日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」に平正源司陽子、山下葉留花が出演いたします！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\" target=\"_blank\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00806",
       "title": "「7回目のひな誕祭 ～Welcome to HINATAZAKA ROCKESTRA～」一般発売（先着）が3月7日(土)12:00よりスタート！",
@@ -90,5 +104,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "8"
+  "count": "9"
 }
