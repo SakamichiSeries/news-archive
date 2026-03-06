@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02002",
+      "title": "3月13日(金)21:00～テレビ朝日系「MUSIC STATION」に出演決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02002",
+      "pubdate": "2026/03/06 22:00:00",
+      "thumbnail": null,
+      "content": "<span>3月13日(金)21:00～テレビ朝日系「MUSIC STATION」に出演が決定しました！</span><br /><span>是非ご覧ください！</span><br /><br /><a href=\"https://www.tv-asahi.co.jp/music/\">テレビ朝日系「MUSIC STATION」公式HPはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02006",
       "title": "3月8日(日)9:54〜TBS系「サンデージャポン」に勝又春が出演！",
       "caption": "",
@@ -258,5 +268,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "20"
+  "count": "21"
 }
