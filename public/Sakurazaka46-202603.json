@@ -1,6 +1,21 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02007",
+      "title": "3月9日(月)8:00～TBS「ラヴィット！」に守屋麗奈・勝又春が生出演し、小島凪紗がVTR出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02007",
+      "pubdate": "2026/03/07 21:07:42",
+      "tags": [
+        "58",
+        "62",
+        "72"
+      ],
+      "thumbnail": null,
+      "content": "3月9日(月)8:00～TBS「ラヴィット！」に守屋麗奈・勝又春が生出演し、小島凪紗がVTR出演いたします。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00546",
       "title": "14thシングル収録『ドライフルーツ』MUSIC VIDEO公開！ストリーミング&ダウンロード配信開始！",
@@ -278,5 +293,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "22"
+  "count": "23"
 }
