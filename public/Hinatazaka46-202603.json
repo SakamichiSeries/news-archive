@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100256",
+      "title": "「日向坂ちゃんねる」にて「【腹筋崩壊】メンバーの写真持ち寄って自作ナンジャモンジャやってみた！【楽屋シリーズ】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100256",
+      "pubdate": "2026/03/07 20:30:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【腹筋崩壊】メンバーの写真持ち寄って自作ナンジャモンジャやってみた！【楽屋シリーズ】」を公開いたしました！<br /><br />三期生が自分たちの写真を持ち寄って、自作ナンジャモンジャをやってみました！<br /><br />おもしろ写真やネーミングセンスに大爆笑！<br />わちゃわちゃ遊ぶだけの三期生をぜひご覧ください！<br /><br /><a href=\"https://youtu.be/IkznnObJP1Y\">https://youtu.be/IkznnObJP1Y<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/IkznnObJP1Y\" title=\"【腹筋崩壊】メンバーの写真持ち寄って自作ナンジャモンジャやってみた！【楽屋シリーズ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02649",
       "title": "3月8日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」に正源司陽子、山下葉留花が出演！",
@@ -104,5 +114,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "9"
+  "count": "10"
 }
