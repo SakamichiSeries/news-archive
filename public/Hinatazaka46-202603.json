@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "other",
+      "code": "O100257",
+      "title": "3/10(火)21:00〜「日向坂ちゃんねる」にて「『7回目のひな誕祭』をもっと楽しく！横浜コラボ解禁生配信！」生配信が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100257",
+      "pubdate": "2026/03/08 20:00:00",
+      "thumbnail": null,
+      "content": "3/10(火)21:00より、YouTubeチャンネル「日向坂ちゃんねる」にて「『7回目のひな誕祭』をもっと楽しく！横浜コラボ解禁生配信！」生配信が決定いたしました！<br /><br />4/4(土)、5日(日)に横浜スタジアムにて開催される「7回目のひな誕祭 ～Welcome to HINATAZAKA ROCKESTRA～」！<br /><br />ライブ開催を記念して、今年も横浜エリアにて様々なコラボ企画の実施が決定いたしました！<br /><br />ライブと一緒にコラボ情報をチェックすれば、「7回目のひな誕祭」がもっと楽しくなること間違いなし！<br /><br />ぜひご覧ください！<br /><br />■ご視聴はコチラから！<br /><a href=\"https://youtube.com/live/LTkg9Hrwa3Y\">https://youtube.com/live/LTkg9Hrwa3Y<br /><img src=\"https://cdn.hinatazaka46.com/files/14/S__32948382.jpg\" alt=\"\" width=\"1920\" height=\"1080\" /><br /><br /></a>■「7回目のひな誕祭」特設サイトはコチラ！<br />チケット一般発売中（先着）<br /><a href=\"https://www.hinatazaka46.com/s/official/page/7th-anniversary\">https://www.hinatazaka46.com/s/official/page/7th-anniversary</a>"
+    },
+    {
+      "category": "other",
       "code": "O100256",
       "title": "「日向坂ちゃんねる」にて「【腹筋崩壊】メンバーの写真持ち寄って自作ナンジャモンジャやってみた！【楽屋シリーズ】」を公開！",
       "caption": "",
@@ -114,5 +124,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
