@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02651",
+      "title": "ニッポン放送「オールナイトニッポンX(クロス)」木曜日のパーソナリティに、正源司陽子が就任！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02651",
+      "pubdate": "2026/03/09 19:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "<p><span>この度、2026年4月からのニッポン放送「オールナイトニッポンX(クロス)」の木曜日のパーソナリティに、正源司陽子が就任いたしました！<br />初回放送は</span><span>4</span><span>月</span><span>2</span><span>日</span><span>(</span><span>木</span><span>)24:00</span><span>～となります。ぜひお聴きください！</span><span><br /> <br /> </span><span>▼詳細はオールナイトニッポンの公式</span><span>X</span><span>をご覧ください。</span><span><br /> </span><a href=\"https://x.com/ann_since1967\"><span>オールナイトニッポン公式</span><span>X</span></a></p>"
+    },
+    {
       "category": "other",
       "code": "O100257",
       "title": "3/10(火)21:00〜「日向坂ちゃんねる」にて「『7回目のひな誕祭』をもっと楽しく！横浜コラボ解禁生配信！」生配信が決定！",
@@ -124,5 +137,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "11"
+  "count": "12"
 }
