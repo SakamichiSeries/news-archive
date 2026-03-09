@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02003",
+      "title": "3月16日(月)19:00～TBS系「CDTVライブ！ライブ！」に出演決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02003",
+      "pubdate": "2026/03/09 21:00:00",
+      "thumbnail": null,
+      "content": "<span>3月16日(月)19:00～TBS系「CDTVライブ！ライブ！」に出演が決定しました！</span><br /><span>是非ご覧ください！</span><br /><br /><a href=\"https://www.tbs.co.jp/cdtv_livelive/\">TBS系「CDTVライブ！ライブ！」公式HPはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00550",
       "title": "3月11日(水)21:00より、14thシングル『The growing up train』リリースパーティーの開催が決定！",
@@ -313,5 +323,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "25"
+  "count": "26"
 }
