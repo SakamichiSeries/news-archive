@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02008",
+      "title": "WEBメディア「AERA DIGITAL」にて勝又春のインタビューが公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02008",
+      "pubdate": "2026/03/10 15:16:16",
+      "tags": [
+        "72"
+      ],
+      "thumbnail": null,
+      "content": "WEBメディア「AERA DIGITAL」にて勝又春のインタビューが公開されています。<br />ぜひご覧ください。<br /><br /><a href=\"https://dot.asahi.com/articles/-/277756\">WEBメディア「AERA DIGITAL」のインタビュー記事はコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02003",
       "title": "3月16日(月)19:00～TBS系「CDTVライブ！ライブ！」に出演決定！",
       "caption": "",
@@ -323,5 +336,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "26"
+  "count": "27"
 }
