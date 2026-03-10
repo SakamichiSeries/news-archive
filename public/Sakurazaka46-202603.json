@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02011",
+      "title": "「週刊少年マガジン」15号（3月11日(水)発売）の表紙・巻頭に藤吉夏鈴が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02011",
+      "pubdate": "2026/03/10 17:44:14",
+      "tags": [
+        "47"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年マガジン」15号（3月11日(水)発売）の表紙・巻頭に藤吉夏鈴が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://shonenmagazine.com/smaga\">「週刊少年マガジン」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02010",
       "title": "3月11日(水)8:00～TBS「ラヴィット！」に大園玲と小島凪紗が出演！",
       "caption": "",
@@ -350,5 +363,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "28"
+  "count": "29"
 }
