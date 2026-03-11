@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02653",
+      "title": "3月12日(木)19:00～ テレビ朝日「林修の今知りたいでしょ！」に宮地すみれが出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02653",
+      "pubdate": "2026/03/11 22:00:00",
+      "tags": [
+        "34"
+      ],
+      "thumbnail": null,
+      "content": "3月12日(木)19:00～ テレビ朝日「林修の今知りたいでしょ！」に宮地すみれが出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/imadesho/\" target=\"_blank\">テレビ朝日「林修の今知りたいでしょ！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00807",
       "title": "7回目のひな誕祭と横浜のコラボレーション企画についてお知らせ",
@@ -147,5 +160,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "13"
+  "count": "14"
 }
