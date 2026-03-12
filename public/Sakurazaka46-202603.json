@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02012",
+      "title": "ポケモン公式YouTubeチャンネル「おやすみ前のリラックス『ほげーたいそう』」に森田ひかるが出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02012",
+      "pubdate": "2026/03/12 14:48:13",
+      "tags": [
+        "50"
+      ],
+      "thumbnail": null,
+      "content": "ポケモン公式YouTubeチャンネルにて公開の「おやすみ前のリラックス『ほげーたいそう』」に森田ひかるが出演しております。<br />また、「『Pok&eacute;mon Sleep』就寝前のリラックス『ほげーたいそう』体験会」に森田ひかるが登壇いたしました。<br /><br /><a href=\"https://www.pokemonsleep.net/stretch/\">「ほげーたいそう」特設サイトはコチラ</a><br /><br /><img src=\"https://sakurazaka46.com/files/14/fus8hfe89h8fe8hhe9esh8fh8.jpg\" alt=\"\" width=\"3840\" height=\"2160\" /><br /><br /><a href=\"https://www.youtube.com/watch?v=DT5AMsYHzJg\">「【公式】おやすみ前のリラックス「ほげーたいそう」｜『Pok&eacute;mon Sleep』 」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/DT5AMsYHzJg?si=Z1cRRsIylaxQHSGs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />&copy;Pok&eacute;mon/Nintendo/Creatures/GAME FREAK<br />Pok&eacute;mon Sleep is developed by SELECT BUTTON inc.<br />ポケットモンスター・ポケモン・Pok&eacute;monは任天堂・クリーチャーズ・ゲームフリークの商標です<br /><br />"
+    },
+    {
       "category": "event",
       "code": "E00605",
       "title": "櫻坂46「14th Single BACKS LIVE!!」開催決定！ファンクラブ抽選先行・Leminoスペシャルシート・Lemino櫻坂46パック先行受付が、3/12(木)12:00よりスタート！",
@@ -383,5 +396,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "31"
+  "count": "32"
 }
