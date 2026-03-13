@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02652",
+      "title": "大野愛実が『CanCam』専属モデルに決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02652",
+      "pubdate": "2026/03/13 12:00:00",
+      "thumbnail": null,
+      "content": "3月23日(月)発売の『CanCam』5月号より、大野愛実が『CanCam』専属モデルに加入することが決定いたしました！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_%E5%A4%A7%E9%87%8E%E6%84%9B%E5%AE%9F%E3%82%AB%E3%83%83%E3%83%881%EF%BC%88%E3%83%AD%E3%82%B4%E3%81%82%E3%82%8A%EF%BC%89.jpg\" alt=\"\" width=\"1200\" height=\"795\" /><br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/_%E5%A4%A7%E9%87%8E%E6%84%9B%E5%AE%9F%E3%82%AB%E3%83%83%E3%83%882%28%E3%83%AD%E3%82%B4%E3%81%82%E3%82%8A%29.jpg\" alt=\"\" width=\"1200\" height=\"1098\" /><br /><br />『CanCam』5月号では、&rdquo;5000字の決意表明&rdquo;と題したロングインタビューなどを掲載したお披露目特集や、『CanCam』名物「着回し企画」にも登場します！<br /><br />ぜひチェックしてください。"
+    },
+    {
+      "category": "media",
       "code": "M02653",
       "title": "3月12日(木)19:00～ テレビ朝日「林修の今知りたいでしょ！」に宮地すみれが出演！",
       "caption": "",
@@ -160,5 +170,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "14"
+  "count": "15"
 }
