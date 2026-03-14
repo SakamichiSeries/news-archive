@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02650",
+      "title": "3月16日(月)21:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」に鶴崎仁香が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02650",
+      "pubdate": "2026/03/14 09:00:00",
+      "tags": [
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "3月16日(月)21:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」に鶴崎仁香いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02652",
       "title": "大野愛実が『CanCam』専属モデルに決定！",
       "caption": "",
@@ -170,5 +183,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "15"
+  "count": "16"
 }
