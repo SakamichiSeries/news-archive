@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100258",
+      "title": "「日向坂ちゃんねる」にて「【恐怖】リアクションしたら即帰宅!?戦慄迷宮で真顔対決！【in富士急ハイランド】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100258",
+      "pubdate": "2026/03/14 20:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【恐怖】リアクションしたら即帰宅!?戦慄迷宮で真顔対決！【in富士急ハイランド】」を公開いたしました！<br /><br />リアクションしたら罰ゲーム！戦慄迷宮で真顔対決してきました！<br /><br />正源司陽子・渡辺莉奈vs坂井新奈・鶴崎仁香の先輩後輩対決を制するのは、、？<br /><br />ぜひご覧ください！<br /><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/33ITfHL-Qs8\" title=\"【恐怖】リアクションしたら即帰宅!?戦慄迷宮で真顔対決！【in富士急ハイランド】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02650",
       "title": "3月16日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」に鶴崎仁香が出演！",
@@ -183,5 +193,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "16"
+  "count": "17"
 }
