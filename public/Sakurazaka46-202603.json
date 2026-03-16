@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02014",
+      "title": "「EX大衆」4月号（3月16日(月)発売）の表紙・巻頭に大園玲が、中面に谷口愛季、中嶋優月、浅井恋乃未、佐藤愛桜、中川智尋が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02014",
+      "pubdate": "2026/03/16 10:28:56",
+      "tags": [
+        "54",
+        "63",
+        "64",
+        "70",
+        "73",
+        "74"
+      ],
+      "thumbnail": null,
+      "content": "「EX大衆」4月号（3月16日(月)発売）の表紙・巻頭に大園玲が、中面に谷口愛季、中嶋優月、浅井恋乃未、佐藤愛桜、中川智尋が登場しております。<br />ぜひチェックしてください。<br /><br /><a href=\"https://www.futabasha.co.jp/magazine/ex_taishu\">「EX大衆」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00607",
       "title": "櫻坂46「5th YEAR ANNIVERSARY LIVE」、一般発売が3/14(土)12:00よりスタート！",
@@ -470,5 +488,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "38"
+  "count": "39"
 }
