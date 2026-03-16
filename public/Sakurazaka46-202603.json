@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02016",
+      "title": "アニプレックスYouTubeチャンネルにて公開の「【世界最速！】櫻坂46×ビルディバイド -ブライト-を応援大使（谷口愛季）が1BOX開封してみた！！｜3/20発売！」に谷口愛季が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02016",
+      "pubdate": "2026/03/16 21:39:05",
+      "tags": [
+        "63"
+      ],
+      "thumbnail": null,
+      "content": "アニプレックスYouTubeチャンネルにて公開の「【世界最速！】櫻坂46&times;ビルディバイド -ブライト-を応援大使（谷口愛季）が1BOX開封してみた！！｜3/20発売！」に谷口愛季が出演しております。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.youtube.com/watch?v=ORn0oF3glyU\">アニプレックスYouTubeチャンネル「【世界最速！】櫻坂46&times;ビルディバイド -ブライト-を応援大使（谷口愛季）が1BOX開封してみた！！｜3/20発売！」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/ORn0oF3glyU?si=WPtZDIEtEz0v21sW\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "release",
       "code": "R00552",
       "title": "14thシングル表題曲『The growing up train -Dance Practice-』公開！",
@@ -508,5 +521,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "41"
+  "count": "42"
 }
