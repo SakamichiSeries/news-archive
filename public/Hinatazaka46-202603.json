@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02655",
+      "title": "「週刊少年マガジン」2026年16号（3月18(水)発売）の表紙・巻頭に正源司陽子が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02655",
+      "pubdate": "2026/03/17 09:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年マガジン」2026年16号（3月18(水)発売）の表紙・巻頭に正源司陽子が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://shonenmagazine.com/smaga/\" target=\"_blank\">「週刊少年マガジン」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02654",
       "title": "３月17日(火)19:00～日本テレビ系「ヒューマングルメンタリー オモウマい店」に藤嶌果歩、山下葉留花が出演！",
       "caption": "",
@@ -217,5 +230,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "19"
+  "count": "20"
 }
