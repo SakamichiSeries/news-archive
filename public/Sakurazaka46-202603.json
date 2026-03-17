@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02018",
+      "title": "アニプレックスYouTubeチャンネルにて公開の「 応援大使(松田里奈VS森田ひかる)「櫻坂46×ビルディバイド -ブライト-」トレーディングカードゲーム 特別対決！ 」に松田里奈・森田ひかるが出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02018",
+      "pubdate": "2026/03/17 19:21:52",
+      "tags": [
+        "63"
+      ],
+      "thumbnail": null,
+      "content": "アニプレックスYouTubeチャンネルにて公開の「 応援大使(松田里奈VS森田ひかる)「櫻坂46&times;ビルディバイド -ブライト-」トレーディングカードゲーム 特別対決！ 」に松田里奈・森田ひかるが出演しております。<br />ぜひご覧ください。<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/3msd1CGmXmw?si=hncYwfKxvTCzrxOo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "shakehands",
       "code": "S00213",
       "title": "14thシングル『The growing up train』発売記念 オンラインミート＆グリート（個別トーク会）第7次～第9次応募受付決定！",
@@ -554,5 +567,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "45"
+  "count": "46"
 }
