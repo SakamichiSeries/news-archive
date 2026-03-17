@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02017",
+      "title": "4月4日(土)24:30～テレビ朝日「ドラドラ大作戦」枠にてスタートするドラマ「大丸愛は選択する」に守屋麗奈の出演が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02017",
+      "pubdate": "2026/03/17 17:39:22",
+      "tags": [
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "4月4日(土)24:30～テレビ朝日「ドラドラ大作戦」枠にてスタートするドラマ「大丸愛は選択する」に守屋麗奈の出演が決定いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://x.com/dramadaisakusen\">テレビ朝日「ドラドラ大作戦」公式Xはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00608",
       "title": "櫻坂46「四期生LIVE」ファンクラブ抽選先行・Leminoスペシャルシート・Lemino櫻坂46パック先行受付が、3/17(火)12:00よりスタート！",
@@ -521,5 +534,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "42"
+  "count": "43"
 }
