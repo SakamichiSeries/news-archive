@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02656",
+      "title": "3月18日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に山下葉留花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02656",
+      "pubdate": "2026/03/17 20:00:00",
+      "tags": [
+        "35"
+      ],
+      "thumbnail": null,
+      "content": "3月18日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に山下葉留花が出演いたします！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.asahi.co.jp/yodan/\">朝日放送テレビ「これ余談なんですけど・・・」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02655",
       "title": "「週刊少年マガジン」2026年16号（3月18(水)発売）の表紙・巻頭に正源司陽子が登場！",
       "caption": "",
@@ -230,5 +243,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "20"
+  "count": "21"
 }
