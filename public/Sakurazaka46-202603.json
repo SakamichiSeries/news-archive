@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02023",
+      "title": "3月19日(木)19:00～TBS「プレバト！！」に勝又春が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02023",
+      "pubdate": "2026/03/18 18:35:25",
+      "tags": [
+        "72"
+      ],
+      "thumbnail": null,
+      "content": "3月19日(木)19:00～TBS「プレバト！！」に勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.mbs.jp/p-battle/\">TBS「プレバト！！」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02022",
       "title": "3月19日(木)21:00～フジテレビ「この世界は1ダフル」に遠藤理子が出演！",
       "caption": "",
@@ -604,5 +617,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "49"
+  "count": "50"
 }
