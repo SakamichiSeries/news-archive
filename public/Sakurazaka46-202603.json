@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02020",
+      "title": "「櫻坂チャンネル」にて「【人生最大】アイドル大沼晶保が8kgの寒ブリを捌く！マイ包丁も持参！」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02020",
+      "pubdate": "2026/03/18 21:00:00",
+      "tags": [
+        "55"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【人生最大】アイドル大沼晶保が8kgの寒ブリを捌く！マイ包丁も持参！」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/zTTh3hxakpE?si=qShmBr8UhpYpzAcD\">櫻坂チャンネル「【人生最大】アイドル大沼晶保が8kgの寒ブリを捌く！マイ包丁も持参！」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/zTTh3hxakpE?si=qShmBr8UhpYpzAcD\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M02024",
       "title": "「週刊少年チャンピオン」16号（3月19日(木)発売）の表紙・巻頭に的野美青が登場！",
       "caption": "",
@@ -644,5 +657,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "52"
+  "count": "53"
 }
