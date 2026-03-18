@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02022",
+      "title": "3月19日(木)21:00～フジテレビ「この世界は1ダフル」に遠藤理子が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02022",
+      "pubdate": "2026/03/18 18:04:19",
+      "tags": [
+        "60"
+      ],
+      "thumbnail": null,
+      "content": "<span>3月19日(木)21:00～フジテレビ「この世界は1ダフル」に遠藤理子が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/1derful/\" target=\"_blank\">フジテレビ「この世界は1ダフル」公式ホームページはコチラ</a><br /><br /></span>"
+    },
+    {
+      "category": "media",
       "code": "M02019",
       "title": "「京都新聞デジタル」に勝又春のインタビューが掲載！",
       "caption": "",
@@ -591,5 +604,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "48"
+  "count": "49"
 }
