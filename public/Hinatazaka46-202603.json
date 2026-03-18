@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00214",
+      "title": "CASEPLAY（ケースプレイ）×日向坂46のスリムプロテクションケースを、本日3月18日(水)17:00～販売スタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/G00214",
+      "pubdate": "2026/03/18 17:00:00",
+      "thumbnail": null,
+      "content": "4月4日(土)・5日(日)に横浜スタジアムで開催する「7回目のひな誕祭」を記念して、<br />オンデマンドプリントでユーザーが求めるデザインのテックアクセサリー（スマートフォン関連アイテム）を提供するサービスCASEPLAY（ケースプレイ）&times;日向坂46のスマートフォン用スリムプロテクションケースを、本日2026年3月18日(水)17:00～販売スタート！<br /><br />全メンバーがそれぞれ描き下ろしたイラストを使用した27デザインを、iPhone/Xperia/Pixel/Galaxy など160種類以上で展開されます。<br /><br />ぜひチェックしてみてください！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/_%E6%97%A5%E5%90%91%E5%9D%8246_banner_SNS%202.jpg\" alt=\"\" width=\"4500\" height=\"4500\" /><br /><br />▶<a href=\"https://caseplay.shop/pages/hinatazaka46-01?utm_source=referral&utm_medium=hp&utm_campaign=hinatazaka46-01\">CASEPLAY&times;日向坂46 商品詳細はこちら</a>"
+    },
+    {
       "category": "media",
       "code": "M02656",
       "title": "3月18日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に山下葉留花が出演！",
@@ -243,5 +253,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "21"
+  "count": "22"
 }
