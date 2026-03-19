@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00809",
+      "title": "『7回目のひな誕祭』横浜エリア各コラボ企画についてご案内",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00809",
+      "pubdate": "2026/03/19 18:00:00",
+      "thumbnail": null,
+      "content": "4月4日(土)、5日(日)に横浜スタジアムにて開催される「7回目のひな誕祭 ～Welcome to HINATAZAKA ROCKESTRA～」を記念して、<br />横浜エリアで実施する様々なコラボ企画の詳細を特設サイトに公開いたしました！<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://www.hinatazaka46.com/s/official/page/7th-anniversary\">「7回目のひな誕祭 ～Welcome to HINATAZAKA ROCKESTRA～」特設サイトはこちら</a>"
+    },
+    {
       "category": "media",
       "code": "M02657",
       "title": "4月3日(金)23:30～放送開始の、日本テレビ系「スノウボールアース」宣伝大使に正源司陽子が決定！",
@@ -263,5 +273,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "23"
+  "count": "24"
 }
