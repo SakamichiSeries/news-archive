@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02025",
+      "title": "「MAQUIA」5月号（3月21日(土)発売）の表紙に守屋麗奈が登場し、通常版は「守屋麗奈ビューティBOX」が付録に！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02025",
+      "pubdate": "2026/03/19 17:28:45",
+      "tags": [
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "「MAQUIA」5月号（3月21日(土)発売）の表紙に守屋麗奈が登場し、通常版は「守屋麗奈ビューティBOX」が付録になります。<br /><span>ぜひチェックしてください。</span><br /><br /><a href=\"https://maquia.hpplus.jp/\">「MAQUIA」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00609",
       "title": " 4月18日(土)開催の「Rakuten GirlsAward 2026 SPRING/SUMMER」に田村保乃、藤吉夏鈴、守屋麗奈、山﨑天、的野美青の出演が決定！",
@@ -674,5 +687,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "54"
+  "count": "55"
 }
