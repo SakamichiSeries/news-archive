@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "O100078",
+      "title": "「サクラミーツカフェin SHIBUYA109」のカフェメニューとグッズが公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100078",
+      "pubdate": "2026/03/20 12:00:00",
+      "thumbnail": null,
+      "content": "3月27日(金)～SHIBUYA109渋谷店にてオープンする「サクラミーツカフェin SHIBUYA109」のカフェメニューとグッズが公開されました。<br />詳しくは<a href=\"https://www.tv-asahi.co.jp/sakurameets_cafe/\">「サクラミーツカフェin SHIBUYA109」公式ホームページ</a>や<a href=\"https://x.com/meets_109cafe\">「サクラミーツカフェ」公式X</a>をご覧ください。<br /><br /><img src=\"https://sakurazaka46.com/files/14/2603_Cafe_SMC_Menu.jpg\" alt=\"\" width=\"2480\" height=\"3508\" /><br /><br /><img src=\"https://sakurazaka46.com/files/14/2603_Cafe_SMC_Lineup.jpg\" alt=\"\" width=\"2480\" height=\"3508\" /><br /><br />★カフェ開催期間<br />2026年3月27日（金）～2026年4月19日（日）<br /><br />★会場<br />SHIBUYA109渋谷店<br /><br /><a href=\"https://www.tv-asahi.co.jp/sakurameets_cafe/\">「サクラミーツカフェin SHIBUYA109」公式ホームページはコチラ<br /></a><a href=\"https://x.com/meets_109cafe\">「サクラミーツカフェ」公式Xはコチラ</a>"
+    },
+    {
       "category": "media",
       "code": "M02027",
       "title": "アニプレックスYouTubeチャンネルにて公開の「小島凪紗の「櫻坂46×ビルディバイド -ブライト-」トレーディングカードゲーム 特別対決！VS谷口愛季！」に小島凪紗と谷口愛季が出演！",
@@ -701,5 +711,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "56"
+  "count": "57"
 }
