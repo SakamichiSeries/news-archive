@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02660",
+      "title": "3月21日(土)17:00～テレビ静岡「しずおかごはんが食べたい！」に宮地すみれ・渡辺莉奈が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02660",
+      "pubdate": "2026/03/20 13:00:00",
+      "tags": [
+        "34",
+        "36"
+      ],
+      "thumbnail": null,
+      "content": "3月21日(土)17:00～テレビ静岡「しずおかごはんが食べたい！」に宮地すみれ・渡辺莉奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.sut-tv.com/program/shizuokagohangatabetai/\" target=\"_blank\">テレビ静岡「しずおかごはんが食べたい！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00811",
       "title": "「7回目のひな誕祭」 祝花・プレゼント」に関しまして",
@@ -283,5 +297,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "25"
+  "count": "26"
 }
