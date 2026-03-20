@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02026",
+      "title": "「ViVi」5月号（3月23日(月)発売）の表紙に藤吉夏鈴・山﨑天が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02026",
+      "pubdate": "2026/03/20 17:31:35",
+      "tags": [
+        "47",
+        "51"
+      ],
+      "thumbnail": null,
+      "content": "「ViVi」5月号（3月23日(月)発売）の表紙に藤吉夏鈴・山﨑天が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.vivi.tv/\">「ViVi」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "goods",
       "code": "O100078",
       "title": "「サクラミーツカフェin SHIBUYA109」のカフェメニューとグッズが公開！",
@@ -711,5 +725,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "57"
+  "count": "58"
 }
