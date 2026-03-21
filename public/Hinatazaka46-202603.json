@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100260",
+      "title": "「日向坂ちゃんねる」にて「【コール動画】どんどんどんどん声出せ〜！これを観て日向坂46をもっと好きになる【好きになるクレッシェンド】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100260",
+      "pubdate": "2026/03/21 19:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【コール動画】どんどんどんどん声出せ〜！これを観て日向坂46をもっと好きになる【好きになるクレッシェンド】」を公開いたしました！<br /><br />日向坂46五期生による「好きになるクレッシェンド」のコール動画！<br /><br />コールを覚えて、日向坂46「7回目のひな誕祭 ～Welcome to HINATAZAKA ROCKESTRA～」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/wA_lovpT5C4\">https://youtu.be/wA_lovpT5C4<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/wA_lovpT5C4\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02660",
       "title": "3月21日(土)17:00～テレビ静岡「しずおかごはんが食べたい！」に宮地すみれ・渡辺莉奈が出演！",
@@ -297,5 +307,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "26"
+  "count": "27"
 }
