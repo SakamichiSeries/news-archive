@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100261",
+      "title": "「日向坂ちゃんねる」にて「【ご報告】大野愛実がCanCam新専属モデルに就任！専属初撮影に密着！」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100261",
+      "pubdate": "2026/03/23 19:00:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【ご報告】大野愛実がCanCam新専属モデルに就任！専属初撮影に密着！」を公開いたしました！<br /><br />五期生・大野愛実が『CanCam』の専属モデルに就任しました！<br /><br />専属就任後、初めての撮影に密着しました！<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/nY5K07WxAnk\">https://youtu.be/nY5K07WxAnk<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/nY5K07WxAnk\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "goods",
       "code": "G00215",
       "title": "日向坂46「7回目のひな誕祭」オフィシャルグッズ「会場受取」受付開始のお知らせ",
@@ -387,5 +397,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "35"
+  "count": "36"
 }
