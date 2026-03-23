@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02661",
+      "title": "J-WAVE「LOGISTEED RADIONOMICS」のナビゲーターに鶴崎仁香の就任が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02661",
+      "pubdate": "2026/03/23 15:27:00",
+      "thumbnail": null,
+      "content": "J-WAVE「LOGISTEED RADIONOMICS」の4月3日(金)放送から、ナビゲーターに鶴崎仁香が就任いたします！ <br /><br />世の中の仕組みや動きを経済の角度で見つめ、ビギナーの視点を大切にしながら、貯蓄や投資などを実践的に真剣かつ楽しく知識を蓄えリスナーの皆さんと一緒に学んでいくラジオ番組です。<br /><br /> 応援の程、よろしくお願いいたします！<br /><br /><a href=\"https://www.j-wave.co.jp/\">J-WAVEの公式サイトはこちら</a>"
+    },
+    {
+      "category": "media",
       "code": "M02659",
       "title": "『CanCam』新専属モデル大野愛実の駅ばり広告が東京メトロ表参道駅に登場！",
       "caption": "",
@@ -337,5 +347,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "30"
+  "count": "31"
 }
