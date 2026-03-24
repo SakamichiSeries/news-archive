@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100262",
+      "title": "「日向坂ちゃんねる」にて「【コール動画】四期生と一緒に波に乗ろう！ひな誕祭盛り上がっていくぞ〜！【Surf's up girl】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100262",
+      "pubdate": "2026/03/24 18:30:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【コール動画】四期生と一緒に波に乗ろう！ひな誕祭盛り上がっていくぞ〜！【Surf's up girl】」を公開いたしました！<br /><br />日向坂46四期生による「Surf's up girl」のコール動画！<br /><br />コールを覚えて、日向坂46「7回目のひな誕祭 ～Welcome to HINATAZAKA ROCKESTRA～」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/vr7IROT1ml4\">https://youtu.be/vr7IROT1ml4<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/vr7IROT1ml4\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02662",
       "title": "明日3月25日(水)8:00～TBS「ラヴィット! 」に平尾帆夏が出演！",
@@ -410,5 +420,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "37"
+  "count": "38"
 }
