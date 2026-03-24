@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02031",
+      "title": "「週刊少年サンデー」17号（3月25日(水)発売）の表紙・巻頭に山下瞳月が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02031",
+      "pubdate": "2026/03/24 19:45:48",
+      "tags": [
+        "69"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年サンデー」17号（3月25日(水)発売）の表紙・巻頭に山下瞳月が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://websunday.net/\">「週刊少年サンデー」公式ホームページはコチラ</a><br /><br /><br /><br />"
+    },
+    {
       "category": "fanclub",
       "code": "F00016",
       "title": "ファンクラブ会員限定！『5th TOUR 2025 “Addiction” TOUR FINAL at KYOCERA DOME OSAKA』より「紋白蝶が確か飛んでた」の映像を期間限定公開！",
@@ -772,5 +785,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "62"
+  "count": "63"
 }
