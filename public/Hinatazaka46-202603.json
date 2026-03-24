@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02662",
+      "title": "明日3月25日(水)8:00～TBS「ラヴィット! 」に平尾帆夏が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02662",
+      "pubdate": "2026/03/24 10:10:00",
+      "tags": [
+        "31"
+      ],
+      "thumbnail": null,
+      "content": "明日3月25日(水)8:00～TBS「ラヴィット! 」に平尾帆夏が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\" target=\"_blank\">TBS「ラヴィット! 」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100261",
       "title": "「日向坂ちゃんねる」にて「【ご報告】大野愛実がCanCam新専属モデルに就任！専属初撮影に密着！」を公開！",
@@ -397,5 +410,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "36"
+  "count": "37"
 }
