@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02663",
+      "title": "3月27日(金)24:45～テレビ朝日「しくじり先生 俺みたいになるな!!」に山下葉留花が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02663",
+      "pubdate": "2026/03/26 20:30:00",
+      "tags": [
+        "35"
+      ],
+      "thumbnail": null,
+      "content": "3月27日(金)24:45～テレビ朝日「しくじり先生 俺みたいになるな!!」に山下葉留花が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/shikujiri/next/\" target=\"_blank\">テレビ朝日「しくじり先生 俺みたいになるな!!」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100262",
       "title": "「日向坂ちゃんねる」にて「【コール動画】四期生と一緒に波に乗ろう！ひな誕祭盛り上がっていくぞ〜！【Surf's up girl】」を公開！",
@@ -420,5 +433,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "38"
+  "count": "39"
 }
