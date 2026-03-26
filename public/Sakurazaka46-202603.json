@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02034",
+      "title": "3月26日(木)19:00～日本テレビ系「秘密のケンミンSHOW極」に松田里奈が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02034",
+      "pubdate": "2026/03/26 15:48:18",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "3月26日(木)19:00～日本テレビ系「秘密のケンミンSHOW極」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ytv.co.jp/kenmin_show/\">日本テレビ系「秘密のケンミンSHOW極」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02032",
       "title": "4月7日(火)19:00～LIVE Blu-ray&DVD『5th TOUR 2025 “Addiction” TOUR FINAL at KYOCERA DOME OSAKA』発売記念スペシャル生配信番組決定！",
       "caption": "",
@@ -828,5 +841,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "67"
+  "count": "68"
 }
