@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02664",
+      "title": "3月28日(土)14:30～日本テレビ「news every.特別編　春の推しアニメ　声優深掘りスペシャル」",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02664",
+      "pubdate": "2026/03/27 20:30:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "3月28日(土)14:30～日本テレビ「news every.特別編　春の推しアニメ　声優深掘りスペシャル」に、正源司陽子がVTR出演いたします！<br />ぜひご覧ください。<br /><br />※全国で順次放送予定<br />※放送時間は変更になる場合があります。各局の番組表をご確認ください。<br /><br /><a href=\"https://www.ntv.co.jp/topics/articles/1933xvffdyfp3qoqsv.html\">日本テレビ「news every.特別編　春の推しアニメ　声優深掘りスペシャル」詳細はこちら</a>"
+    },
+    {
       "category": "event",
       "code": "E00812",
       "title": "「7回目のひな誕祭」 横浜スタジアム公演入場に関する注意事項",
@@ -453,5 +466,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "41"
+  "count": "42"
 }
