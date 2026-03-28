@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02666",
+      "title": "3月30日(金)24:45～フジテレビ「アニメダマ」に正源司陽子が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02666",
+      "pubdate": "2026/03/28 09:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "3月30日(金)24:45～フジテレビ「アニメダマ」に正源司陽子が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://x.com/animedama_pr?s=20\">フジテレビ「アニメダマ 」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02664",
       "title": "3月28日(土)14:30～日本テレビ「news every.特別編　春の推しアニメ　声優深掘りスペシャル」",
       "caption": "",
@@ -466,5 +479,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "42"
+  "count": "43"
 }
