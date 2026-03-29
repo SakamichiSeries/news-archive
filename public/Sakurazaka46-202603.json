@@ -1,6 +1,26 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02036",
+      "title": "4月4日(土)23:00～NHK総合「Venue101」に出演決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02036",
+      "pubdate": "2026/03/29 10:00:00",
+      "thumbnail": null,
+      "content": "<span>4月4日(土)23:00～NHK総合「Venue101」に出演が決定しました！</span><br /><span>是非ご覧ください！</span><br /><br /><a href=\"https://www.nhk.or.jp/music/venue101/\">NHK総合「Venue101」公式HPはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02035",
+      "title": "4月4日(土)18:00～フジテレビ系「MUSIC FAIR」に出演決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02035",
+      "pubdate": "2026/03/29 10:00:00",
+      "thumbnail": null,
+      "content": "<span>4月4日(土)18:00～フジテレビ系「MUSIC FAIR」に出演が決定しました！</span><br /><span>是非ご覧ください！</span><br /><br /><a href=\"https://www.fujitv.co.jp/MUSICFAIR/\">フジテレビ系「MUSIC FAIR」公式HPはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "G00203",
       "title": "櫻坂46 「四期生LIVE」ファンクラブ抽選2次先行が、3/28(土)12:00よりスタート！",
@@ -891,5 +911,5 @@
       "content": "3月1日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に谷口愛季と中嶋優月が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "73"
+  "count": "75"
 }
