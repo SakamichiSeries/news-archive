@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02665",
+      "title": "「BUBKA」5月号（3月31日(金)発売）34ページ総力特集！表紙・巻頭に小坂菜緒、正源司陽子、大野愛実、中面に片山紗希が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02665",
+      "pubdate": "2026/03/29 09:00:00",
+      "tags": [
+        "14",
+        "29",
+        "38",
+        "39"
+      ],
+      "thumbnail": null,
+      "content": "「BUBKA」5月号（3月31日(金)発売）は、34ページ総力特集 今こそ語りたい日向坂46の現在地！<br /><br />表紙・巻頭は小坂菜緒、正源司陽子、大野愛実が務めております。<br />さらに、中面には片山紗希が登場。<br /><br />ぜひチェックしてみてください。<br /><br /><a href=\"https://x.com/BUBKA_henshuubu\" target=\"_blank\">「BUBKA」公式Xはコチラ</a><br /><br />"
+    },
+    {
       "category": "other",
       "code": "O100263",
       "title": "「日向坂ちゃんねる」にて「【京都遠征】あんこ大好き平岡海月が京都のぜんざいを徹底食リポ！【第3弾】」を公開！",
@@ -499,5 +515,5 @@
       "content": "3月3日(火)22:00～日本テレビ「X 秒後の新世界」に小坂菜緒が出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.ntv.co.jp/xbyougo/\">日本テレビ「X 秒後の新世界」オフィシャルサイトはこちら</a>"
     }
   ],
-  "count": "45"
+  "count": "46"
 }
