@@ -76,7 +76,7 @@ def send_media_group(channel_id, bot_token, image_urls):
     if not image_urls:
         return None
     media = []
-    for i, url in enumerate(image_urls[:9]):
+    for i, url in enumerate(image_urls[:10]):
         media_item = {
             "type": "photo",
             "media": url,
