@@ -190,6 +190,7 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                         # Telegram's sendMediaGroup limit is 10 images per message
                         for i in range(0, len(images), 10):
                             image_batch = images[i : i + 10]
+                            print(image_batch)
                             send_media_group(channel_id, bot_token, image_batch)
             
                     # 4. Summary logic
