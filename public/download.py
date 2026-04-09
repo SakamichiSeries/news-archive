@@ -162,27 +162,39 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
             if channel_id and new_entries:
                 for entry in new_entries:
                     content = entry["content"]
+                    
+                    # 1. Extract ALL images
                     images = re.findall(r'<img[^>]+src=["\']([^"\']+)["\'][^>]*>', content)
-                    images = images[:9]
+                    # Removed: images = images[:9]
+            
                     def replace_img_tag(match):
                         src = re.search(r'src=["\'](.*?)["\']', match.group(0))
                         return src.group(1) if src else ''
+            
+                    # 2. Text Cleaning
                     text = re.sub(r'<img[^>]*>', replace_img_tag, content)
                     text = re.sub(r"<br\s*\/?>\s*", "\n", text)
                     text = re.sub(r"<[^>]+>", "", text)
                     text = html.unescape(text)
                     text = re.sub(r"\n\s*\n", "\n", text).strip()
+                    
                     link = entry["link"]
                     if group == "Nogizaka46":
-                        link = f"https://sp.nogizaka46.com/p/news/{entry["code"]}"
+                        link = f"https://sp.nogizaka46.com/p/news/{entry['code']}"
+                    
                     msg = f"{entry['title']}\n{text}\n{link}"
                     message_id = send_telegram_message(msg, channel_id, bot_token)
+            
+                    # 3. Send ALL images in batches of 10
                     if images:
-                        send_media_group(channel_id, bot_token, images)
+                        # Telegram's sendMediaGroup limit is 10 images per message
+                        for i in range(0, len(images), 10):
+                            image_batch = images[i : i + 10]
+                            send_media_group(channel_id, bot_token, image_batch)
+            
+                    # 4. Summary logic
                     if message_id and summary_channel_id and username:
                         tg_link = f"https://t.me/{username}/{message_id}"
-                        # summary_msg = f"{group} news: {entry['title']}\n{tg_link}"
-                        # send_telegram_message(summary_msg, summary_channel_id, bot_token)
                         summary_msg = f'<a href="{tg_link}">{entry["title"]}</a>\n#{group}'
                         send_telegram_message(summary_msg, summary_channel_id, bot_token, parse_mode="HTML")
 
