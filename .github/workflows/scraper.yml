@@ -15,69 +15,83 @@ concurrency:
 jobs:
   scraper-and-deploy:
     runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.check_changes.outputs.changed }}
     steps:
-    # 1. Setup Environment
-    - name: Checkout code
-      uses: actions/checkout@v4
-      with:
-        ref: master
+      # 1. Setup Environment
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '18'
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
 
-    # 2. Scrape and Commit
-    - name: Run scraper
-      run: |
-        pip install requests
-        python download.py
-      working-directory: ./public
-      env:
-        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-        TELEGRAM_NOGI_CHANNEL: -1001313048085
-        TELEGRAM_NEWS_CHANNEL: -1002323394494
-        TELEGRAM_HINA_CHANNEL: -1001409510960
-        TELEGRAM_SAKU_CHANNEL: -1001230600925
+      # 2. Scrape and Commit logic
+      - name: Run scraper
+        run: |
+          pip install requests
+          python download.py
+        working-directory: ./public
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_NOGI_CHANNEL: -1001313048085
+          TELEGRAM_NEWS_CHANNEL: -1002323394494
+          TELEGRAM_HINA_CHANNEL: -1001409510960
+          TELEGRAM_SAKU_CHANNEL: -1001230600925
 
-    - name: Commit changes
-      run: |
-            git remote set-url origin https://SakamichiSeries:${PAT}@github.com/SakamichiSeries/news-archive.git
-            git config --global user.email "example@example.com"    
-            git config --global user.name "GitHub Actions"
-            git add .
-            git commit -m "$(TZ='Asia/Tokyo' date)" || echo "No changes to commit"
+      - name: Check for changes and Commit
+        id: check_changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add .
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto-update: $(TZ='Asia/Tokyo' date)"
+            git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/SakamichiSeries/news-archive.git
             git push
-      env:
-        PAT: ${{ secrets.PAT }}
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "No changes detected. Skipping build."
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+        env:
+          PAT: ${{ secrets.PAT }}
 
-    # 3. Build Web App
-    - name: Build
-      run: |
-        npm install
-        npm run build
+      # 3. Build Web App (Only if changes exist)
+      - name: Build
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          npm install
+          npm run build
 
-    # 4. Deploy to Pages (Combines artifact + deploy)
-    - name: Upload Pages Artifact
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: ./build
+      # 4. Deploy to Pages (Only if changes exist)
+      - name: Upload Pages Artifact
+        if: steps.check_changes.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./build
 
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
+        if: steps.check_changes.outputs.changed == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
 
-    # 5. Wait and Trigger Self
-    - name: Wait and Trigger Self
-      env:
-        GH_TOKEN: ${{ secrets.PAT }}
-      run: |
-        echo "Waiting 180 seconds..."
-        sleep 180
-        echo "Triggering next run..."
-        gh workflow run scraper.yml --repo SakamichiSeries/news-archive
+      # 5. Wait and Trigger Self (Optional: only if you want a continuous loop)
+      - name: Wait and Trigger Self
+        if: always() # Keeps the loop going regardless of current run status
+        env:
+          GH_TOKEN: ${{ secrets.PAT }}
+        run: |
+          echo "Waiting 180 seconds..."
+          sleep 180
+          echo "Triggering next run..."
+          gh workflow run scraper.yml --repo SakamichiSeries/news-archive
