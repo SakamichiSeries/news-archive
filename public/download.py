@@ -80,7 +80,7 @@ def send_media_group(channel_id, bot_token, image_urls):
         media_item = {
             "type": "photo",
             "media": url,
-            "caption": media,
+            "caption": url,
         }
         media.append(media_item)
     return _send_media_group(media, channel_id, bot_token)
