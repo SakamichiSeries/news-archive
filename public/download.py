@@ -51,7 +51,6 @@ def _send_media_group(media, channel_id, bot_token):
         try:
             payload = {
                 "chat_id": channel_id,
-                "caption": media,
                 "media": media,
             }
             response = requests.post(
@@ -81,6 +80,7 @@ def send_media_group(channel_id, bot_token, image_urls):
         media_item = {
             "type": "photo",
             "media": url,
+            "caption": media,
         }
         media.append(media_item)
     return _send_media_group(media, channel_id, bot_token)
