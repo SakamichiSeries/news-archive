@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100271",
+      "title": "「日向坂ちゃんねる」にて「【以心伝心ゲーム】同期なら一致させて当たり前！ご褒美を賭けた究極の心理戦！【楽屋シリーズ】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100271",
+      "pubdate": "2026/05/02 21:01:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【以心伝心ゲーム】同期なら一致させて当たり前！ご褒美を賭けた究極の心理戦！【楽屋シリーズ】」を公開いたしました！<br /><br />ご褒美を賭けて、以心伝心ゲームに挑戦！<br />同期の絆で全員一致なるか！？<br /><br />楽屋でわちゃわちゃ遊ぶだけの五期生をぜひご覧ください！<br /><br /><a href=\"https://youtu.be/qsr3UmhE3-E\">https://youtu.be/qsr3UmhE3-E<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/qsr3UmhE3-E\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "release",
       "code": "R00534",
       "title": "17thシングル『Kind of love』のソロアーティスト写真を更新！",
@@ -11,5 +21,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "1"
+  "count": "2"
 }
