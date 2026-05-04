@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00535",
+      "title": "5月6日(水・祝)22:00～日向坂46 OFFICIAL YouTube CHANNELにて17thシングル『Kind of love』MUSIC VIDEOのプレミア公開決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00535",
+      "pubdate": "2026/05/04 18:00:00",
+      "thumbnail": null,
+      "content": "5月6日(水・祝)22:00～日向坂46 OFFICIAL YouTube CHANNELにて17thシングル『Kind of love』のMUSIC VIDEO<span>プレミア公開ページをオープンいたしました！</span><br />ぜひご覧ください。<br /><br /><span>■日向坂46『Kind of love』MUSIC VIDEO -5月6日(水・祝)22:00公開-</span><br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/W5AGk8Cc7zg\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "other",
       "code": "O100271",
       "title": "「日向坂ちゃんねる」にて「【以心伝心ゲーム】同期なら一致させて当たり前！ご褒美を賭けた究極の心理戦！【楽屋シリーズ】」を公開！",
@@ -21,5 +31,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "2"
+  "count": "3"
 }
