@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00218",
+      "title": "日向坂46生写真4種　通信販売受付開始のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/G00218",
+      "pubdate": "2026/05/07 19:00:00",
+      "thumbnail": null,
+      "content": "5月7日(木)19:00～日向坂46 OFFICIAL GOODS STOREにて生写真4種のご注文受付を開始いたします。<br /> <br />【横浜DeNAベイスターズユニフォーム】【ヴォヤージュコーデ】【「Happy Magical Tour 2024」ストライプ衣装】【「Kind of love」集合アーティスト写真衣装】を新発売！<br /><br />この機会にぜひお買い求めください。<br /><br /><div style=\"text-align: center;\"><span style=\"color: #ff0000;\">【日向坂46 OFFICIAL GOODS STORE】</span></div><div style=\"text-align: center;\"><a href=\"https://store.plusmember.jp/hinatazaka46/\">https://store.plusmember.jp/hinatazaka46/</a></div><div style=\"text-align: center;\"><span style=\"color: #ff0000;\">5月7日(木)19:00～ 日向坂46 OFFICIAL GOODS STOREにて受付開始!!!</span></div><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/_hinatazaka46_5%E6%9C%88%E7%94%9F%E5%86%99%E7%9C%9F_20260503_4_fix.jpg\" alt=\"\" width=\"2554\" height=\"4649\" /><br /><br />なお、以下イベントでの会場販売も予定しております。そちらもぜひご利用ください。<br /><br />6月13日(土)　17thシングル『Kind of love』発売記念「リアルミート＆グリート」<br />6月16日(火)、17日(水)　17th Single ひなた坂46 LIVE<br /><br /><br />※OFFICIAL GOODS STOREの注意事項をよくご確認の上、ご利用ください。<br />※受付開始時刻など、事情により変更になる場合もございます。予めご了承ください。<br />※各商品表示スペック・サイズ等をお確かめの上、ご購入ください。<br />※画像と実際の商品は色合い等、若干異なる場合がございますのでご了承ください。<br />※ご注文後の変更、キャンセルは一切お受けできません。<br />※ご注文いただいた日時によってお届け時期が異なる場合がございます。<br />※決済方法により、別途、決済手数料が発生する場合がございます。ご購入の際にご確認ください。<br />※別々にいただいたご注文は、一つにまとめて出荷(同梱出荷)することはできません。<br />※営利目的でのグッズ・生写真の購入はご遠慮ください。そのような事実が発覚した場合、今後のグッズ等の販売及びイベントの参加をお断りさせていただく場合がございます。"
+    },
+    {
       "category": "release",
       "code": "R00537",
       "title": "17thシングル『Kind of love』発売記念 スペシャル応募抽選企画決定！",
@@ -41,5 +51,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "4"
+  "count": "5"
 }
