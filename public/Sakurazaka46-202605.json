@@ -1,6 +1,23 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02078",
+      "title": "「櫻坂チャンネル」にて「【マインクラフト】櫻坂マイクラ部始動！宝の地図でダイヤ大量発掘＆エンドラ討伐への道！」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02078",
+      "pubdate": "2026/05/08 23:00:00",
+      "tags": [
+        "61",
+        "62",
+        "63",
+        "64",
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【マインクラフト】櫻坂マイクラ部始動！宝の地図でダイヤ大量発掘＆エンドラ討伐への道！」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/xgHh4BQ4Yd8?si=RT0VepKrh_50qcmk\">櫻坂チャンネル「【マインクラフト】櫻坂マイクラ部始動！宝の地図でダイヤ大量発掘＆エンドラ討伐への道！」はコチラ</a><br /><div><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/xgHh4BQ4Yd8?si=RT0VepKrh_50qcmk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>"
+    },
+    {
       "category": "goods",
       "code": "G00209",
       "title": "櫻坂46「14th Single BACKS LIVE!!」オフィシャルグッズ 会場販売のお知らせ",
@@ -124,5 +141,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "11"
+  "count": "12"
 }
