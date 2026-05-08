@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02691",
+      "title": "5月15日(金)21:00～テレビ朝日「ミュージックステーション」に出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02691",
+      "pubdate": "2026/05/08 22:00:00",
+      "thumbnail": null,
+      "content": "5月15日(金)21:00～テレビ朝日「ミュージックステーション」に出演が決定しました！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/music/\" target=\"_blank\">テレビ朝日「ミュージックステーション」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00536",
       "title": "17thシングル『Kind of love』＠Loppi・HMV限定先着特典 生写真の絵柄公開！",
@@ -94,5 +104,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "9"
+  "count": "10"
 }
