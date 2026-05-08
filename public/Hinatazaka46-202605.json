@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02692",
+      "title": "「集英社×日向坂46　ひなたの推しマンガキャンペーン」実施決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02692",
+      "pubdate": "2026/05/08 10:00:00",
+      "thumbnail": null,
+      "content": "日向坂46がおすすめマンガをご紹介する、「集英社&times;日向坂46　ひなたの推しマンガキャンペーン」が決定いたしました！<br /><br />キャンペーン特設サイトでは、グループの中でも特にマンガ好きのメンバー6名（小坂菜緒、髙橋未来虹、正源司陽子、渡辺莉奈、下田衣珠季、松尾桜）がそれぞれの&ldquo;推しマンガ&rdquo;として「思い出のマンガ」「今読んでほしいマンガ」を紹介しています。<br /><br />また、集英社創業100周年記念特設サイト「SHUEISHA MANGA EXPO」でもスペシャルコラボ企画を実施中。<br /><br />さらに、描きおろしイラストを使用したオリジナルグッズが当たるプレゼント企画も！<br />詳細は各特設サイトをご覧ください。<br /><br /><br />■キャンペーン期間<br />2026年5⽉8⽇(金)0:00〜5⽉31⽇(日)23:59<br /><br />■キャンペーン特設サイト<br /><a href=\"https://hinata-oshimanga.s-manga.net/\">https://hinata-oshimanga.s-manga.net/</a><br /><br />■「日向坂46」スペシャルコラボ「豪華作家陣描きおろし！日向坂46コラボイラスト」<br /><a href=\"https://shueisha-mangaexpo.jp/collaboration/hinatazaka46/\">https://shueisha-mangaexpo.jp/collaboration/hinatazaka46/</a><br /><br />■集英社マンガ公式X<br /><a href=\"https://x.com/s_manga_net\">https://x.com/s_manga_net</a>"
+    },
+    {
       "category": "event",
       "code": "E00828",
       "title": "「三期生LIVE」ファンクラブ抽選先行・Leminoスペシャルシート・Lemino日向坂46パック先行受付が、5/8(金)12:00よりスタート！",
@@ -74,5 +84,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "7"
+  "count": "8"
 }
