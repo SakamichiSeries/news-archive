@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02079",
+      "title": "5月9日(土)20:54～TBS「いくらかわかる金？」に小島凪紗が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02079",
+      "pubdate": "2026/05/09 18:42:14",
+      "tags": [
+        "62"
+      ],
+      "thumbnail": null,
+      "content": "5月9日(土)20:54～TBS「いくらかわかる金？」に小島凪紗が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/wakarukane_tbs/\">TBS「いくらかわかる金？」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02078",
       "title": "「櫻坂チャンネル」にて「【マインクラフト】櫻坂マイクラ部始動！宝の地図でダイヤ大量発掘＆エンドラ討伐への道！」を公開！",
       "caption": "",
@@ -141,5 +154,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "12"
+  "count": "13"
 }
