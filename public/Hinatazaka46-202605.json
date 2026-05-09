@@ -1,6 +1,29 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100272",
+      "title": "「日向坂ちゃんねる」にて「【小坂菜緒×渡辺莉奈】猫カフェでただただ猫を愛でる回」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100272",
+      "pubdate": "2026/05/09 20:01:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【小坂菜緒&times;渡辺莉奈】猫カフェでただただ猫を愛でる回」を公開いたしました！<br /><br />猫好きの小坂菜緒と渡辺莉奈が、念願の猫カフェへ行ってきました！<br /><br />ただただ猫を愛でて癒される二人をぜひご覧ください！<br /><br /><a href=\"https://youtu.be/ECU8Ue1ySEE\">https://youtu.be/ECU8Ue1ySEE<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/ECU8Ue1ySEE\" title=\"【小坂菜緒&times;渡辺莉奈】猫カフェでただただ猫を愛でる回\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
+      "code": "M02694",
+      "title": "5月10日(日)9:54～TBS「サンデージャポン」に金村美玖が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02694",
+      "pubdate": "2026/05/09 20:00:00",
+      "tags": [
+        "12"
+      ],
+      "thumbnail": null,
+      "content": "5月10日(日)9:54～TBS「サンデージャポン」に金村美玖が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/sunjapo/\">TBS「サンデージャポン」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "media",
       "code": "M02691",
       "title": "5月15日(金)21:00～テレビ朝日「ミュージックステーション」に出演決定！",
@@ -104,5 +127,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "10"
+  "count": "12"
 }
