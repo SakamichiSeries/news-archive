@@ -1,6 +1,21 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02080",
+      "title": "「櫻坂チャンネル」にて「【パワラジ】武元唯衣のパワフルラジオ出張版！サプライズゲストも！」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02080",
+      "pubdate": "2026/05/11 23:00:00",
+      "tags": [
+        "45",
+        "46",
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【パワラジ】武元唯衣のパワフルラジオ出張版！サプライズゲストも！」を公開いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtu.be/1ssbgWiOElA\">櫻坂チャンネル「【パワラジ】武元唯衣のパワフルラジオ出張版！サプライズゲストも！」はコチラ</a><br /><div><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/1ssbgWiOElA?si=6PQFePdBAUPMnYWG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>"
+    },
+    {
       "category": "goods",
       "code": "G00211",
       "title": "櫻坂46「14th Single BACKS LIVE!!」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャ＆クレーンゲームの出店が決定！",
@@ -194,5 +209,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "17"
+  "count": "18"
 }
