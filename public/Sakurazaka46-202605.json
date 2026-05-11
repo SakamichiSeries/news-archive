@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "goods",
+      "code": "G00211",
+      "title": "櫻坂46「14th Single BACKS LIVE!!」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャ＆クレーンゲームの出店が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/G00211",
+      "pubdate": "2026/05/11 21:26:46",
+      "thumbnail": null,
+      "content": "5月12日(火)、13日(水)に幕張イベントホールにて開催される櫻坂46「14th Single BACKS LIVE!!」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャ＆クレーンゲームの出店が決定いたしました。<br />たくさん遊んでイベントで思い切り盛り上がりましょう！！<br /><br />【当日販売時間】<br />会場：幕張イベントホール<br />■5月12日(火)　12:00 ～ 終演後30分程度　※開場17:00/開演18:30<br />■5月13日(水)　12:00 ～ 終演後30分程度　※開場17:00/開演18:30<br />※終演後は列が途切れ次第、終了いたします。<br /><br /><img src=\"https://sakurazaka46.com/files/14/14thBacksgacha.jpg\" alt=\"\" width=\"3508\" height=\"4967\" />"
+    },
+    {
+      "category": "goods",
       "code": "G00210",
       "title": "櫻坂46「14th Single BACKS LIVE!!」OFFICIAL POPCORN(武元唯衣 ちゅけポップコーン) 会場販売のお知らせ",
       "caption": "",
@@ -184,5 +194,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "16"
+  "count": "17"
 }
