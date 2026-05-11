@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02695",
+      "title": "5月18日(月)19:00～TBS「CDTV ライブ! ライブ!」に出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02695",
+      "pubdate": "2026/05/11 21:00:00",
+      "thumbnail": null,
+      "content": "5月18日(月)19:00～TBS「CDTV ライブ! ライブ!」に出演が決定しました！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/cdtv_livelive/\">TBS「CDTV ライブ! ライブ!」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "shakehands",
       "code": "S00357",
       "title": "山口陽世 個別握手会参加券及びイベント参加権利 　卒業による振替のご案内",
@@ -137,5 +147,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "13"
+  "count": "14"
 }
