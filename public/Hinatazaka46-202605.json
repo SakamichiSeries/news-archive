@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02697",
+      "title": "5月16日、23日(土)19:00～金村美玖がTBSラジオ「丹生明里 HAPPY CARAVAN」にゲスト出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02697",
+      "pubdate": "2026/05/12 12:00:00",
+      "tags": [
+        "12"
+      ],
+      "thumbnail": null,
+      "content": "5月16日(土)、23日(土)19:00～、金村美玖がTBSラジオ「丹生明里 HAPPY CARAVAN」にゲスト出演いたします！<br />ぜひお聴きください。<br /><br /><a href=\"https://www.tbsradio.jp/sakuraron/\">TBSラジオ「丹生明里 HAPPY CARAVAN」詳細はコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00539",
       "title": "17thシングル『Kind of love』発売記念・各CDショップチェーンにてコラボレーション展開決定！",
@@ -157,5 +170,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "15"
+  "count": "16"
 }
