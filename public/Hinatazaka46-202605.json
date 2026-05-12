@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00538",
+      "title": "17thシングル『Kind of love』TYPE-A～B収録 特典映像『日向坂46 五期生「新参者 二〇二五 LIVE at THEATER MILANO-Za」』ダイジェスト公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00538",
+      "pubdate": "2026/05/12 18:00:00",
+      "thumbnail": null,
+      "content": "5月20日(水)発売となる17thシングル『Kind of love』TYPE-A～B収録特典映像『日向坂46 五期生「新参者 二〇二五 LIVE at THEATER MILANO-Za」』のダイジェストを、日向坂46 OFFICIAL YouTube CHANNELにて公開しました。<br />ぜひご覧ください！<br /><br />■日向坂46 17thシングル『Kind of love』TYPE-A～B収録特典映像『日向坂46 五期生「新参者 二〇二五 LIVE at THEATER MILANO-Za」』のダイジェスト映像<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/TpJVbd7J2pw\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02697",
       "title": "5月16日、23日(土)19:00～金村美玖がTBSラジオ「丹生明里 HAPPY CARAVAN」にゲスト出演！",
@@ -170,5 +180,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "16"
+  "count": "17"
 }
