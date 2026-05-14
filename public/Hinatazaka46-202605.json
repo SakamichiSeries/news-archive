@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00543",
+      "title": "17thシングル『Kind of love』収録曲『Empty』MUSIC VIDEO公開&先行配信スタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00543",
+      "pubdate": "2026/05/15 00:00:00",
+      "thumbnail": null,
+      "content": "<span>17thシングル『Kind of love』収録、</span><span>ひなた坂46メンバーによる楽曲</span><span>『Empty』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Empty\"><strong>■『Empty』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『Empty』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/SileUBDdAqU\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
+    },
+    {
       "category": "media",
       "code": "M02701",
       "title": "5月15日(金)18:00～AIR-G'（FM北海道）「IMAREAL」に藤嶌果歩がコメント出演！",
@@ -246,5 +256,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "23"
+  "count": "24"
 }
