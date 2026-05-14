@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02696",
+      "title": "5月15日(金)25:15～テレビ朝日「ラブ!!Jリーグ」に宮地すみれが出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02696",
+      "pubdate": "2026/05/14 09:00:00",
+      "tags": [
+        "34"
+      ],
+      "thumbnail": null,
+      "content": "5月15日(金)25:15～テレビ朝日「ラブ!!Jリーグ」に宮地すみれが出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-asahi.co.jp/chant-j/\" target=\"_blank\">テレビ朝日「ラブ!!Jリーグ」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00829",
       "title": "「17th Single ひなた坂46 LIVE」ローソンチケット先行が5/14(木)12:00よりスタート！",
@@ -210,5 +223,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "20"
+  "count": "21"
 }
