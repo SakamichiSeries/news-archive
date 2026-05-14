@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02701",
+      "title": "5月15日(金)18:00～AIR-G'（FM北海道）「IMAREAL」に藤嶌果歩がコメント出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02701",
+      "pubdate": "2026/05/14 19:00:00",
+      "tags": [
+        "33"
+      ],
+      "thumbnail": null,
+      "content": "5月15日(金)18:00～AIR-G'（FM北海道）「IMAREAL」に藤嶌果歩がコメント出演いたします。<br />ぜひお聴きください。<br /><br />※コメントは18時台を予定しております。<br /><br /><a href=\"https://x.com/airg_ima\" target=\"_blank\">AIR-G'（FM北海道）「IMAREAL」公式Xはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00542",
       "title": "17thシングル『Kind of love』発売記念・パネル展示決定！",
@@ -233,5 +246,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "22"
+  "count": "23"
 }
