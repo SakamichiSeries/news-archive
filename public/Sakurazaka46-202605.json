@@ -1,6 +1,21 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00572",
+      "title": "15th Double A-side Single『Lonesome rabbit / What's “KAZOKU”?』TYPE-A,Bに収録の四期生個人PV・予告編公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00572",
+      "pubdate": "2026/05/16 12:05:00",
+      "tags": [
+        "72",
+        "76",
+        "77"
+      ],
+      "thumbnail": null,
+      "content": "<span>6月10日(水)発売の15th Double A-side Single『Lonesome rabbit / What's &ldquo;KAZOKU&rdquo;?』TYPE-A,B収録特典映像「櫻坂46 四期生個人PV<span>」の予告編</span><span>を櫻坂46 Official YouTubeチャンネルにて公開しました！<br />本日は、勝又春、佐藤愛桜、山川宇衣の映像を公開！<br />是非チェックしてください！<br /><br /></span></span><span><span>■櫻坂46 勝又春 『スタンプガール ハル』<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/mKUOOKzfFk0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />■櫻坂46 佐藤愛桜 『脱出ゲームNEO』<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/_72VEwh6Ks4\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />■櫻坂46 山川宇衣 『その日、その場所で出会う。』<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/dm5HjnFjKBE\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /></span></span>"
+    },
+    {
       "category": "event",
       "code": "E00631",
       "title": "櫻坂46「四期生 LIVE 」、一般発売が5/16(土)12:00よりスタート！",
@@ -259,5 +274,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "22"
+  "count": "23"
 }
