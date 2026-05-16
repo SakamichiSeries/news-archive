@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100085",
+      "title": "増本綺良 卒業のお知らせ",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100085",
+      "pubdate": "2026/05/16 22:00:00",
+      "tags": [
+        "57"
+      ],
+      "thumbnail": null,
+      "content": "<span>増本綺良ですが、先ほど本人のブログにて発表させていただいた通り、<span>6月10日(水)発売の15th Double A-side Single『Lonesome rabbit / What's &ldquo;KAZOKU&rdquo;?』</span>の活動をもって櫻坂46から卒業することになりました。</span><br /><span>具体的な卒業時期等に関しましては、決まり次第ご報告させていただきます。</span><br /><span>&nbsp;</span><br /><span>今後とも、増本綺良、櫻坂46の応援のほど宜しくお願い致します。</span><br /><span>&nbsp;</span><br /><span>Seed & Flower合同会社</span>"
+    },
+    {
       "category": "media",
       "code": "M02082",
       "title": "5月16日(土)20:54～TBS「いくらかわかる金？」に小島凪紗が出演！",
@@ -297,5 +310,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "25"
+  "count": "26"
 }
