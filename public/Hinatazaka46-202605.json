@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02704",
+      "title": "5月23日(土)23:00～NHK総合「Venue101」に出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02704",
+      "pubdate": "2026/05/17 20:00:00",
+      "thumbnail": null,
+      "content": "5月23日(土)23:00～NHK総合「Venue101」に出演が決定しました！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.nhk.jp/p/venue101/ts/WX1N9WR8GY/\" target=\"_blank\">NHK「Venue101」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00543",
       "title": "17thシングル『Kind of love』収録曲『Empty』MUSIC VIDEO公開&先行配信スタート！",
@@ -256,5 +266,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "24"
+  "count": "25"
 }
