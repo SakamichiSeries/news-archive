@@ -1,6 +1,21 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00573",
+      "title": "15th Double A-side Single『Lonesome rabbit / What's “KAZOKU”?』TYPE-A,Bに収録の四期生個人PV・予告編公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00573",
+      "pubdate": "2026/05/17 12:05:00",
+      "tags": [
+        "72",
+        "76",
+        "77"
+      ],
+      "thumbnail": null,
+      "content": "<span>6月10日(水)発売の15th Double A-side Single『Lonesome rabbit / What's &ldquo;KAZOKU&rdquo;?』TYPE-A,B収録特典映像「櫻坂46 四期生個人PV<span>」の予告編</span><span>を櫻坂46 Official YouTubeチャンネルにて公開しました！<br />本日は、中川智尋、松本和子、目黒陽色の映像を公開！<br />是非チェックしてください！<br /><br /></span></span><span><span>■櫻坂46 中川智尋 『放課後パニック・レディオ』<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/sTFsSfCXs7A\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />■櫻坂46 松本和子 『地縛霊が私の自転車に乗ってて、困っています。』<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/nb5ZxM-zfRs\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />■櫻坂46 目黒陽色 『陽の色』<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/M8gzNd5UrvE\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /></span></span>"
+    },
+    {
       "category": "other",
       "code": "O100085",
       "title": "増本綺良 卒業のお知らせ",
@@ -310,5 +325,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "26"
+  "count": "27"
 }
