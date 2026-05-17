@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100273",
+      "title": "「日向坂ちゃんねる」にて「【ゲーム実況】日向坂46メンバーのMiiを作って遊んでみた！【トモダチコレクション わくわく生活】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100273",
+      "pubdate": "2026/05/17 21:01:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【ゲーム実況】日向坂46メンバーのMiiを作って遊んでみた！【トモダチコレクション わくわく生活】」を公開いたしました！<br /><br />四期生・平尾帆夏が「トモダチコレクション わくわく生活」で遊んでみました！<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/cLWqllfWNF4\">https://youtu.be/cLWqllfWNF4<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/cLWqllfWNF4\" title=\"【ゲーム実況】日向坂46メンバーのMiiを作って遊んでみた！【トモダチコレクション わくわく生活】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02704",
       "title": "5月23日(土)23:00～NHK総合「Venue101」に出演決定！",
@@ -266,5 +276,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "25"
+  "count": "26"
 }
