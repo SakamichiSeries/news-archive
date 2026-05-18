@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00547",
+      "title": "17thシングル『Kind of love』収録曲『円周率』先行配信スタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00547",
+      "pubdate": "2026/05/19 00:00:00",
+      "thumbnail": null,
+      "content": "<span>17thシングル『Kind of love』収録の五期生による楽曲「円周率」、</span><span>各音楽配信サイトにてストリーミング＆ダウンロードがスタートいたしました！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ensyuritu\"><strong>■『円周率』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ<br /></strong></a><br />是非お聴きください！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20Release/17th%20Kind%20of%20love/_17th_%E9%85%8D%E4%BF%A1JK_s.jpg\" alt=\"\" width=\"500\" height=\"500\" />"
+    },
+    {
       "category": "event",
       "code": "E00830",
       "title": "「五期生 LIVE」ファンクラブ抽選先行・Leminoスペシャルシート・Lemino日向坂46パック先行受付が、本日よりスタート！",
@@ -371,5 +381,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "34"
+  "count": "35"
 }
