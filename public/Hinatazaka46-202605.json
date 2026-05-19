@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "release",
+      "code": "R00544",
+      "title": "17thシングル『Kind of love (Special Edition)』の配信がスタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00544",
+      "pubdate": "2026/05/20 00:00:00",
+      "thumbnail": null,
+      "content": "17thシングル『Kind of love』の全5形態・全7曲をコンパイルしたSpecial Editionが各種サービスでのダウンロード＆ストリーミング配信を開始しました！<br /><br />ぜひチェックしてください！<br /><br /><span>■『Kind of love&nbsp;(Special Edition)」各種ダウンロード＆ストリーミングは</span><a href=\"https://hinatazaka46.lnk.to/Kindoflove_SE\">コチラ</a><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20Release/17th%20Kind%20of%20love/_17th_%E9%85%8D%E4%BF%A1JK_s.jpg\" alt=\"\" width=\"500\" height=\"500\" />"
+    },
+    {
+      "category": "release",
       "code": "R00547",
       "title": "17thシングル『Kind of love』収録曲『円周率』先行配信スタート！",
       "caption": "",
@@ -381,5 +391,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "35"
+  "count": "36"
 }
