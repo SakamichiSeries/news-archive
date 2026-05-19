@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02084",
+      "title": "5月20日(水)8:00～TBS「ラヴィット！」に大沼晶保が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02084",
+      "pubdate": "2026/05/19 20:32:23",
+      "tags": [
+        "55"
+      ],
+      "thumbnail": null,
+      "content": "5月20日(水)8:00～TBS「ラヴィット！」に大沼晶保が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00633",
       "title": "櫻坂46「四期生 LIVE 」ライブロゴが決定！<br/>一般発売(先着)も受付中！",
@@ -398,5 +411,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "34"
+  "count": "35"
 }
