@@ -1,6 +1,21 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02705",
+      "title": "本日5月20日(水)21:30より、17thシングル『Kind of love』発売記念インスタライブが決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02705",
+      "pubdate": "2026/05/20 10:00:00",
+      "tags": [
+        "22",
+        "33",
+        "39"
+      ],
+      "thumbnail": null,
+      "content": "5月20日(水)発売、17thシングル『Kind of love』の発売を記念してインスタライブをすることが決定いたしました！<br /><br /> 参加メンバーは髙橋未来虹、藤嶌果歩、片山紗希を予定していますが、他メンバーも途中参加しちゃうかもしれません！ <br /><br />ぜひアカウントをフォローして、配信をお待ちください！<br /><br />【日向坂46 17thシングル『Kind of love』発売記念インスタライブ】<br /><br />◾️配信日時<br />5月20日(水)21:30開始予定<br /><br />◾️配信アカウント<br />日向坂46公式Instagramアカウント <br /><a href=\"https://www.instagram.com/hinatazaka46/\">https://www.instagram.com/hinatazaka46/</a>"
+    },
+    {
       "category": "release",
       "code": "R00544",
       "title": "17thシングル『Kind of love (Special Edition)』の配信がスタート！",
@@ -391,5 +406,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "36"
+  "count": "37"
 }
