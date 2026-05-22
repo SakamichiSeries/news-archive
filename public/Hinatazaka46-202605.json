@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02707",
+      "title": "5月23日(土)8:30～関西テレビ放送「土曜はナニする！？」に藤嶌果歩が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02707",
+      "pubdate": "2026/05/22 15:00:00",
+      "tags": [
+        "33"
+      ],
+      "thumbnail": null,
+      "content": "5月24日(土)8:30～関西テレビ放送「土曜はナニする！？」に藤嶌果歩が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.ktv.jp/donani/\">関西テレビ放送「土曜はナニする！？」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02706",
       "title": "「アップトゥボーイ」vol.363（5月22日(金)発売）の表紙・巻頭に大野愛実、中面に平岡海月が登場！",
       "caption": "",
@@ -420,5 +433,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "38"
+  "count": "39"
 }
