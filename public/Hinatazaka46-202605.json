@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100274",
+      "title": "「日向坂ちゃんねる」にて「【VALORANT】正源司陽子がとにかく敵を撃ちまくる！【CS版】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100274",
+      "pubdate": "2026/05/23 21:01:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【VALORANT】正源司陽子がとにかく敵を撃ちまくる！【CS版】」を公開いたしました！<br /><br />ゲーム好きの四期生・正源司陽子が、初めてのVALORANT実況に挑戦！<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/K0AoklEH9bE\">https://youtu.be/K0AoklEH9bE<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/K0AoklEH9bE\" title=\"【VALORANT】正源司陽子がとにかく敵を撃ちまくる！【CS版】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02707",
       "title": "5月23日(土)8:30～関西テレビ放送「土曜はナニする！？」に藤嶌果歩が出演！",
@@ -433,5 +443,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "39"
+  "count": "40"
 }
