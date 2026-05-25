@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00586",
+      "title": "15th Double A-side Single収録『コインランドリー』MUSIC VIDEO公開！ストリーミング&ダウンロード配信開始！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00586",
+      "pubdate": "2026/05/26 00:00:00",
+      "thumbnail": null,
+      "content": "<span>15th Double A-side Singleに収録される、BACKS楽曲『コインランドリー』のMUSIC VIDEOを公開、ストリーミング＆ダウンロード配信も開始しました！<br />ぜひご覧ください！<br /><br />■櫻坂46 『コインランドリー』 MUSIC VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/ae6N-FcsJmQ\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br /></span><div><strong><a href=\"https://sakurazaka46.lnk.to/CoinLaundry\">■『コインランドリー』 Streaming & Downloadはこちら</a></strong><br /><img src=\"https://sakurazaka46.com/files/14/%E6%AB%BB%E5%9D%8215th/Sakurazaka46_15th%20Single_Lonesome%20rabbit%20%20What%27s%20KAZOKU_Special%20Edition_JK.jpg\" alt=\"\" width=\"400\" height=\"400\" /><br /><br /></div>"
+    },
+    {
       "category": "media",
       "code": "M02086",
       "title": "「smart」7月号（5月25日(月)発売）の表紙・巻頭に守屋麗奈が登場！",
@@ -548,5 +558,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "47"
+  "count": "48"
 }
