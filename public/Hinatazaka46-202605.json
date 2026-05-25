@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00219",
+      "title": "『推せ推せ！YOKOHAMA☆IDOLSERIES2026』にて限定コラボフード、グッズ販売が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/G00219",
+      "pubdate": "2026/05/25 12:00:00",
+      "thumbnail": null,
+      "content": "5月26日(火)～5月28日(木)に横浜スタジアムにて開催される、<span>横浜DeNAベイスターズ VS&nbsp;</span>オリックス・バファローズ戦『推せ推せ！YOKOHAMA☆IDOLSERIES2026』にて、限定コラボ商品の販売が決定いたしました。<br />横浜DeNAベイスターズとのコラボレーションによるフードメニューおよびグッズを展開いたします。<br /><br />フードメニューでは、ひな誕祭でも大変ご好評をいただいた「ポカカラ」が登場。<br />コラボフードをご購入いただいた方には、ノベルティとしてメンバー肖像入りコースターを1枚（ランダム全3種）プレゼントいたします。（コラボフードのみ、出演日以外でもご購入いただけます）<br /><br />またコラボグッズとして、スターマンのアクリルキーホルダーをはじめ、限定箱推しタオル、ベースボールシャツなど、ここでしか手に入らないアイテムをご用意しております。<br /><br /><strong>※日向坂46出演日の5月28日(水)のみ会場販売を実施いたします。オンラインでは受注販売もご用意しております。</strong><br /><br />ぜひこの機会に、『推せ推せ！YOKOHAMA☆IDOLSERIES2026』ならではの限定商品をお楽しみください。<br /><br />なお、販売場所や商品ラインナップなどの詳細につきましては、横浜DeNAベイスターズ公式ホームページをご確認ください。<br /><br /><a href=\"https://www.baystars.co.jp/specialevent/yis/\">https://www.baystars.co.jp/specialevent/yis/</a><br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/1779631724813-32ad9e64-15ce-4cc2-92ca-a15c09d6c84d_1.jpg\" alt=\"\" width=\"1024\" height=\"577\" />"
+    },
+    {
       "category": "other",
       "code": "O100274",
       "title": "「日向坂ちゃんねる」にて「【VALORANT】正源司陽子がとにかく敵を撃ちまくる！【CS版】」を公開！",
@@ -443,5 +453,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "40"
+  "count": "41"
 }
