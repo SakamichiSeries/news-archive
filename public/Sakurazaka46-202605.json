@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00636",
+      "title": "7月10日(金)17:55頃～「千葉ロッテマリーンズvsオリックス・バファローズ」の始球式に山﨑天が登板！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00636",
+      "pubdate": "2026/05/25 15:00:00",
+      "tags": [
+        "51"
+      ],
+      "thumbnail": null,
+      "content": "7月10日(金)17:55頃～「千葉ロッテマリーンズvsオリックス・バファローズ」のスペシャルイベント「BLACK SUMMER WEEK 2026 supported by クーリッシュ」のゲストとして始球式に山﨑天が登板いたします。 <br /><br />イベントの詳細は特設サイトをご確認ください。 <br /><br /><a href=\"https://www.marines.co.jp/event/2026/bsw/\">「BLACK SUMMER WEEK 2026 supported by クーリッシュ」特設サイトはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00584",
       "title": "15th Double A-side Single『Lonesome rabbit / What's “KAZOKU”?』　＠Loppi・HMV限定先着特典　生写真の絵柄公開！",
@@ -522,5 +535,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "45"
+  "count": "46"
 }

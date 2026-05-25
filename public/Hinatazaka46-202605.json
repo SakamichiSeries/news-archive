@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02709",
+      "title": "本日5月25日(月)25:35～TOKYO MX「令和の”推し”研究バラエティ #推しカツ」に大田美月が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02709",
+      "pubdate": "2026/05/25 15:00:00",
+      "tags": [
+        "37"
+      ],
+      "thumbnail": null,
+      "content": "本日5月25日(月)25:35～TOKYO MX「令和の&rdquo;推し&rdquo;研究バラエティ #推しカツ」に大田美月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://x.com/oshikatu_tv\">TOKYO MX「令和の&rdquo;推し&rdquo;研究バラエティ #推しカツ」公式Xはコチラ</a>"
+    },
+    {
       "category": "goods",
       "code": "G00219",
       "title": "『推せ推せ！YOKOHAMA☆IDOLSERIES2026』にて限定コラボフード、グッズ販売が決定！",
@@ -453,5 +466,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "41"
+  "count": "42"
 }
