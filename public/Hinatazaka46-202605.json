@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00831",
+      "title": "「ひなたフェス2026」ツアープランが、5月30日(土)12:00より一般発売開始。プランを一覧できるJTBの特設サイトがオープンになりました",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00831",
+      "pubdate": "2026/05/25 20:00:00",
+      "thumbnail": null,
+      "content": "今週末、5月30日(土)から、ライブチケットの&ldquo;オフィシャル先行&rdquo;と&ldquo;宮崎県民割引2次先行 &rdquo;、そして JTBによるツアープランの&ldquo;一般発売&rdquo;がスタートする「ひなたフェス2026」。<br /><br />お申込みにあたり、事前に計画を立てることが出来るよう、JTBの特設サイトを受付に先んじて本日オープンいたしました。<br />「移動」「宿泊」「ライブチケット」をどう組み合わせるのか、ツアープランのお申し込みは先着となりますので、じっくりと考えてみてください！<br /><br />JTB特設サイトはこちら<br /><a href=\"https://jtb-entertainment.net/tour/2026/hinata-fes2026miyazaki/\">ひなたフェス 2026 ライブチケット付JTBオフィシャルツアー</a><br /><br />【ツアープランのお申込みに関するお問合せ】<br />「ひなたフェス2026」JTBツアーデスク<br /><a href=\"mailto:hinata-fes2026miyazaki@jbx.jtb.jp\">hinata-fes2026miyazaki@jbx.jtb.jp</a><br /><br />「ひなたフェス 2026」特設サイトはこちら<br /><a href=\"https://www.hinata-fes2026.com/\">https://www.hinata-fes2026.com/<br /></a>"
+    },
+    {
       "category": "media",
       "code": "M02708",
       "title": "小西 夏菜実がテレビ東京とこねこフィルムが手掛ける『aimaiMe』と『Uber Taxi』のコラボショートドラマに出演決定！",
@@ -479,5 +489,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "43"
+  "count": "44"
 }
