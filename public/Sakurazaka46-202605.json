@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02086",
+      "title": "「smart」7月号（5月25日(月)発売）の表紙・巻頭に守屋麗奈が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02086",
+      "pubdate": "2026/05/25 16:22:58",
+      "tags": [
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "「smart」7月号（5月25日(月)発売）の表紙・巻頭に守屋麗奈が登場しております。<br />ぜひチェックしてください。<br /><br /><a href=\"https://smartmag.jp/\">「smart」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00636",
       "title": "7月10日(金)17:55頃～「千葉ロッテマリーンズvsオリックス・バファローズ」の始球式に山﨑天が登板！",
@@ -535,5 +548,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "46"
+  "count": "47"
 }
