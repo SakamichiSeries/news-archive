@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02712",
+      "title": "『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！』に渡辺莉奈がゲスト声優として出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02712",
+      "pubdate": "2026/05/26 09:00:00",
+      "tags": [
+        "36"
+      ],
+      "thumbnail": null,
+      "content": "6月26日(金)に全国公開する『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！』に、渡辺莉奈がゲスト声優として出演することが決定しました！<br /><br />どうぞお楽しみに！<br /><br />▼公式サイト<br /><a href=\"https://www.bn-pictures.co.jp/keroro-anime/movie/\">https://www.bn-pictures.co.jp/keroro-anime/movie/<br /></a>"
+    },
+    {
       "category": "event",
       "code": "E00831",
       "title": "「ひなたフェス2026」ツアープランが、5月30日(土)12:00より一般発売開始。プランを一覧できるJTBの特設サイトがオープンになりました",
@@ -489,5 +502,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "44"
+  "count": "45"
 }
