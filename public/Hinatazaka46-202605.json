@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "release",
+      "code": "R00550",
+      "title": "日向坂46 OFFICIAL YouTube CHANNELにて「ひなリハ」～Kind of love～を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00550",
+      "pubdate": "2026/05/26 22:00:00",
+      "thumbnail": null,
+      "content": "日向坂46 OFFICIAL YouTube CHANNELにて、リハーサルダンス動画『「ひなリハ」～Kind of love～』を公開いたしました！<br />ぜひご覧ください。<br /><br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/MITHnz-KHLM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "release",
       "code": "R00549",
       "title": "17thシングル『Kind of love』発売記念  forTUNE meets オンラインミート＆グリート（個別トーク会）第7次～第9次応募受付決定!!",
       "caption": "",
@@ -538,5 +548,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "48"
+  "count": "49"
 }
