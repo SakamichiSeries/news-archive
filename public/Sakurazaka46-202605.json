@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00588",
+      "title": "15th Double A-side Single収録『We got your back』ストリーミング&ダウンロード配信開始！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00588",
+      "pubdate": "2026/05/28 00:00:00",
+      "thumbnail": null,
+      "content": "<span>15th Double A-side Singleに収録される、四期生楽曲『We got your back』のストリーミング＆ダウンロード配信を開始しました！<br />センターは佐藤愛桜が務めます。<br />ぜひお聴きください！<br /><br /></span><div><strong><a href=\"https://sakurazaka46.lnk.to/Wegotyourback_DG\">■『We got your back』 Streaming & Downloadはこちら</a></strong><br /><img src=\"https://sakurazaka46.com/files/14/%E6%AB%BB%E5%9D%8215th/Sakurazaka46_15th%20Single_Lonesome%20rabbit%20%20What%27s%20KAZOKU_Special%20Edition_JK.jpg\" alt=\"\" width=\"400\" height=\"400\" /><br /><br /></div>"
+    },
+    {
       "category": "goods",
       "code": "G00213",
       "title": "櫻坂46 「四期生LIVE」オフィシャルグッズ 会場販売のお知らせ",
@@ -621,5 +631,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "54"
+  "count": "55"
 }
