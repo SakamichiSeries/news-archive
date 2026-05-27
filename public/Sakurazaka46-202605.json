@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02087",
+      "title": "「自分の頭で考える 世界をもっとおもしろくする方法」（7月16日(木)発売）の執筆者として的野美青が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02087",
+      "pubdate": "2026/05/27 18:01:09",
+      "tags": [
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "「自分の頭で考える 世界をもっとおもしろくする方法」（7月16日(木)発売）の執筆者の1人として的野美青が登場いたします。<br />ぜひチェックしてください。<br /><br /><span>【予約情報】<br /></span><span>Amazon</span><br /><a href=\"https://amzn.asia/d/0iIVI6zN\">https://amzn.asia/d/0iIVI6zN</a><br /><br /><span>楽天ブックス</span><br /><a href=\"https://books.rakuten.co.jp/rb/18650574/\"><span>https://books.rakuten.co.jp/rb/18650574/</span></a><br /><br /><span>HMV&BOOKS</span><br /><a href=\"https://www.hmv.co.jp/product/detail/16961656\">https://www.hmv.co.jp/product/detail/16961656</a>"
+    },
+    {
       "category": "shakehands",
       "code": "S00218",
       "title": "15th Double A-side Single『Lonesome rabbit / What's “KAZOKU”?』発売記念 オンラインミート＆グリート（個別トーク会）第4次～第6次応募受付決定！",
@@ -588,5 +601,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "51"
+  "count": "52"
 }
