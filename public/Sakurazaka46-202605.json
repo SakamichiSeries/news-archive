@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00214",
+      "title": "櫻坂46「四期生LIVE」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャの出店が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/G00214",
+      "pubdate": "2026/05/28 20:00:00",
+      "thumbnail": null,
+      "content": "6月2日(火)、3日(水)にLaLa arena TOKYO-BAYにて開催される櫻坂46「四期生LIVE」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャの出店が決定いたしました。<br />たくさん遊んでイベントで盛り上がりましょう！！<br /><br />【販売時間】<br />会場：LaLa arena TOKYO-BAY　<br />■6月2日(火)　11:00 ～ 終演後30分程度　※開場17:30/開演19:00<br />■6月3日(水)　11:00 ～ 終演後30分程度　※開場17:30/開演19:00<br />※終演後販売は列が途切れ次第、終了いたします。<br /><br /><img src=\"https://sakurazaka46.com/files/14/_%E5%9B%9B%E6%9C%9F%E7%94%9F%E3%83%A9%E3%82%A4%E3%83%96%E3%80%80%E3%82%AC%E3%83%81%E3%83%A3%E3%82%AC%E3%83%81%E3%83%A3.jpg\" alt=\"\" width=\"3508\" height=\"4967\" />"
+    },
+    {
       "category": "other",
       "code": "O100087",
       "title": "【櫻坂46メッセージ】『四期生全員購読』&『四期生ピックワン購読』 のWキャンペーンを実施！",
@@ -654,5 +664,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "57"
+  "count": "58"
 }
