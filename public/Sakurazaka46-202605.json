@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00590",
+      "title": "YouTube Music Weekend : MUSIC AWARDS JAPAN 2026 Editionに参加決定！櫻坂46は6/7(日)20:33～！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00590",
+      "pubdate": "2026/05/29 12:00:00",
+      "thumbnail": null,
+      "content": "6月5日(金)から7日(日)までの 3 日間、YouTubeにて開催される、MUSIC AWARDS JAPAN にノミネートされたアーティスト 48 組が参加する、特別版「YouTube Music Weekend MUSIC AWARDS JAPAN 2026 Edition」に参加決定！<br />櫻坂46は6/7(日)20:33～、「櫻坂46 -Sakurazaka46 ANNIVERSARY LIVE Collection- | MUSIC AWARDS JAPAN 2026」が櫻坂46オフィシャルYouTubeチャンネルにてプレミア公開！お楽しみに！<br /><br />YouTube Music Weekend MUSIC AWARDS JAPAN 2026 Edition 概要<br />実施期間：2026 年 6 月 5 日（金）〜 2026 年 6 月 7 日（日）<br />実施チャンネル：<br />● 「YouTube Music Weekend celebrating the MUSIC AWARDS JAPAN」再生リスト（MUSIC AWARDS JAPAN / CEIPA 公式 YouTube チャンネル内）<br /><br />■櫻坂46 -Sakurazaka46 ANNIVERSARY LIVE Collection- | MUSIC AWARDS JAPAN 2026<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/rFrf7R40-Dc\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "other",
       "code": "O100086",
       "title": "武元唯衣のプロフィールページとブログのクローズに関しまして",
@@ -677,5 +687,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "59"
+  "count": "60"
 }
