@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02092",
+      "title": "6月6日(土)23:00～NHK総合「Venue101」に出演決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02092",
+      "pubdate": "2026/05/30 23:30:00",
+      "thumbnail": null,
+      "content": "<span>6月6日(土)23:00～NHK総合「Venue101」に出演が決定しました！</span><br /><span>是非ご覧ください！</span><br /><br /><a href=\"https://www.nhk.or.jp/music/venue101/\">NHK総合「Venue101」公式HPはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02091",
       "title": "6月1日(月)19:00～TBS系「CDTVライブ！ライブ！」に出演決定！",
       "caption": "",
@@ -751,5 +761,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "66"
+  "count": "67"
 }
