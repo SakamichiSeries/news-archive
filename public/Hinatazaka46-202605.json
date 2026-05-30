@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100275",
+      "title": "「日向坂ちゃんねる」にて「【Jリーグ観戦】横浜F・マリノスvs鹿島アントラーズ戦に大熱狂！【スタグル】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100275",
+      "pubdate": "2026/05/30 21:01:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【Jリーグ観戦】横浜F・マリノスvs鹿島アントラーズ戦に大熱狂！【スタグル】」を公開いたしました！<br /><br />四期生・宮地すみれと、五期生・松尾桜が、Jリーグ観戦に行ってきました！<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/EBJzwWtJBBU\">https://youtu.be/EBJzwWtJBBU</a><br /><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/EBJzwWtJBBU\" title=\"【Jリーグ観戦】横浜F・マリノスvs鹿島アントラーズ戦に大熱狂！【スタグル】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "shakehands",
       "code": "S00358",
       "title": "佐藤優羽 5月31日(日)17thシングル「Kind of love」発売記念「オンラインミート＆グリート(個別トーク会)」欠席のご案内",
@@ -618,5 +628,5 @@
       "content": "2026年5月20日(水)発売となる17thシングル<span>『Kind of love』</span>の最新ソロアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br />■メンバーページは<a href=\"https://www.hinatazaka46.com/s/official/search/artist\">コチラ</a>"
     }
   ],
-  "count": "56"
+  "count": "57"
 }
