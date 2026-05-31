@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02089",
+      "title": "6月1日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02089",
+      "pubdate": "2026/05/31 13:24:30",
+      "tags": [
+        "64"
+      ],
+      "thumbnail": null,
+      "content": "6月1日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02092",
       "title": "6月6日(土)23:00～NHK総合「Venue101」に出演決定！",
       "caption": "",
@@ -761,5 +774,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "67"
+  "count": "68"
 }
