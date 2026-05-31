@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02090",
+      "title": "6月1日(月)20:30～テレビ朝日「クイズプレゼンバラエティー Qさま!!」に勝又春が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02090",
+      "pubdate": "2026/05/31 15:25:24",
+      "tags": [
+        "72"
+      ],
+      "thumbnail": null,
+      "content": "6月1日(月)20:30～テレビ朝日「クイズプレゼンバラエティー Qさま!!」に勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02089",
       "title": "6月1日(月)8:00～TBS「ラヴィット！」に中嶋優月が出演！",
       "caption": "",
@@ -774,5 +787,5 @@
       "content": "5月2日(土)18:56～テレビ朝日「池上彰のニュースそうだったのか!!」に遠藤理子と小田倉麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ikegami-news/\">テレビ朝日「池上彰のニュースそうだったのか!!」公式ホームページはコチラ</a><br /><br />"
     }
   ],
-  "count": "68"
+  "count": "69"
 }
