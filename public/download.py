@@ -155,7 +155,7 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
             old_codes = {entry["code"] for entry in old_data.get("news", [])}
             new_entries = [
                 entry for entry in temp["news"] if entry["code"] not in old_codes
-            ]
+            ][::-1]
 
             channel_id = channels.get(group)
             summary_channel_id = channels.get("summary")
