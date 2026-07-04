@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02130",
+      "title": "7月5日(日)9:54〜TBS系「サンデージャポン」に勝又春が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02130",
+      "pubdate": "2026/07/04 16:05:14",
+      "tags": [
+        "72"
+      ],
+      "thumbnail": null,
+      "content": "7月5日(日)9:54〜TBS系「サンデージャポン」に勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\" https://www.tbs.co.jp/sunjapo/\">TBS系「サンデージャポン」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00652",
       "title": "「Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?-」静岡・神戸公演、一般発売が7月4日(土)12:00よりスタート！",
@@ -21,5 +34,5 @@
       "content": "7月1日(水)12:00『～Dance Practice Requests!～』応募対象となるMUSIC LISTを公開し、応募がスタートいたしました。<br /><br />2023年以降に発表した櫻坂46の楽曲で、かつ&ldquo;ダンスパフォーマンス&rdquo;に注目してほしいフォーメーション楽曲をセレクト！そこからファンの皆様のリクエストを募り、&ldquo;Dance Practice&rdquo;として後日公開いたします。<br />たくさんのご応募、お待ちしております！<br /><br /><a href=\"https://sakurazaka46.com/s/s46/page/RequestDP_2026\"><span>「～Dance Practice Requests!～」SPECIAL SITEはコチラ</span></a><br /><br />【応募期間】2026年7月1日(水)12:00～8月16日(日)23:59<br /><br />※FC会員限定で、1アカウントにつき2曲までご応募いただけます。<br />※ランキング形式での発表ではございません。<br />※既に卒業しているメンバーの参加はございません。"
     }
   ],
-  "count": "2"
+  "count": "3"
 }
