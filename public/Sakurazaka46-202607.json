@@ -2,6 +2,24 @@
   "news": [
     {
       "category": "media",
+      "code": "M02134",
+      "title": "7月15日(水)21:30頃～「櫻坂チャンネル」にて「ゆったりパズル生配信(仮)」が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02134",
+      "pubdate": "2026/07/08 21:30:00",
+      "tags": [
+        "47",
+        "54",
+        "66",
+        "67",
+        "70",
+        "75"
+      ],
+      "thumbnail": null,
+      "content": "<span>7月15日(水)21:30頃～「櫻坂チャンネル」にて「ゆったりパズル生配信(仮)」が決定いたしました。<br />大園玲・藤吉夏鈴・向井純葉・村井優・浅井恋乃未・松本和子が出演いたします。<br /><br />配信の詳細は後日お知らせいたします。ぜひお楽しみに！<br /></span><br /><a href=\"https://youtube.com/live/XwQgwNN66es\">櫻坂チャンネル「<span>【7月15日(水)</span><span>21:30</span><span>頃～】ゆったりパズル生配信(仮)」はコチラ</span></a><br />※開始時間は状況により前後する可能性がございます<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/XwQgwNN66es?si=cb5S8DjUp3MZVVNI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M02135",
       "title": "「櫻坂チャンネル」にて「【夢叶う】岩下の新生姜ミュージアムで松田とイワシカちゃんが初対面！【岩下の新生姜】」を公開！",
       "caption": "",
@@ -116,5 +134,5 @@
       "content": "7月1日(水)12:00『～Dance Practice Requests!～』応募対象となるMUSIC LISTを公開し、応募がスタートいたしました。<br /><br />2023年以降に発表した櫻坂46の楽曲で、かつ&ldquo;ダンスパフォーマンス&rdquo;に注目してほしいフォーメーション楽曲をセレクト！そこからファンの皆様のリクエストを募り、&ldquo;Dance Practice&rdquo;として後日公開いたします。<br />たくさんのご応募、お待ちしております！<br /><br /><a href=\"https://sakurazaka46.com/s/s46/page/RequestDP_2026\"><span>「～Dance Practice Requests!～」SPECIAL SITEはコチラ</span></a><br /><br />【応募期間】2026年7月1日(水)12:00～8月16日(日)23:59<br /><br />※FC会員限定で、1アカウントにつき2曲までご応募いただけます。<br />※ランキング形式での発表ではございません。<br />※既に卒業しているメンバーの参加はございません。"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
