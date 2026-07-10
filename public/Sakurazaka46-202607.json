@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "goods",
+      "code": "G00219",
+      "title": "櫻坂46 CAFE 2026 開催決定！＆予約開始！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/G00219",
+      "pubdate": "2026/07/10 20:00:00",
+      "thumbnail": null,
+      "content": "櫻坂46「Sakurazaka46 ARENA TOUR 2026 -What&rsquo;s lonesome?-」の開催を記念して、櫻坂46 CAFE 2026を開催！<br /><br />コラボカフェは、7月17日（金）から順次、新宿・大阪・愛知・原宿にて開催いたします。<br />【新宿】：2026年7月17日(金)～2026年9月13日(日)<br />DISH UP<br /><br />【大阪】：2026年7月17日(金)～2026年9月13日(日)<br />CONCEPT CAFE OSAKA BY SWEETS PARADISE<br /><br />【愛知】：2026年7月17日(金)～2026年9月13日(日)<br />SUN5CAFE<br /><br />【原宿】：2026年7月23日(水)～2026年9月23日(水・祝)<br />EIGHT SPACE<br /><br />カフェでは、メンバー考案のコラボメニューをご用意いたします。<br />会期の前期・中期・後期でコラボメニューを変更いたします。<br /><br />同時にカフェ予約もスタートしました。<br />詳細はコラボカフェ特設サイトをご確認ください。<br /><br /><a href=\"https://spacetimes.co.jp/sakurazaka46_cafe2026/\">https://spacetimes.co.jp/sakurazaka46_cafe2026/<br /></a><br /><img src=\"https://sakurazaka46.com/files/14/IMG_5484.jpeg\" alt=\"\" width=\"1785\" height=\"2526\" />"
+    },
+    {
+      "category": "goods",
       "code": "G00218",
       "title": "「キッチンカー2026 -What’s lonesome?-」 メニュー・オリジナルグッズ公開！",
       "caption": "",
@@ -157,5 +167,5 @@
       "content": "7月1日(水)12:00『～Dance Practice Requests!～』応募対象となるMUSIC LISTを公開し、応募がスタートいたしました。<br /><br />2023年以降に発表した櫻坂46の楽曲で、かつ&ldquo;ダンスパフォーマンス&rdquo;に注目してほしいフォーメーション楽曲をセレクト！そこからファンの皆様のリクエストを募り、&ldquo;Dance Practice&rdquo;として後日公開いたします。<br />たくさんのご応募、お待ちしております！<br /><br /><a href=\"https://sakurazaka46.com/s/s46/page/RequestDP_2026\"><span>「～Dance Practice Requests!～」SPECIAL SITEはコチラ</span></a><br /><br />【応募期間】2026年7月1日(水)12:00～8月16日(日)23:59<br /><br />※FC会員限定で、1アカウントにつき2曲までご応募いただけます。<br />※ランキング形式での発表ではございません。<br />※既に卒業しているメンバーの参加はございません。"
     }
   ],
-  "count": "13"
+  "count": "14"
 }
