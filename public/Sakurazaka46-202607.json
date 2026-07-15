@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02140",
+      "title": "JR東日本「櫻坂46と、鉄道で旅しよう。」の開催が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02140",
+      "pubdate": "2026/07/15 14:00:00",
+      "thumbnail": null,
+      "content": "7月20日(月・祝)〜JR東日本とのコラボレーション企画「櫻坂46と、鉄道で旅しよう。」の開催が決定いたしました。<br /><br />オリジナルグッズがもらえるデジタルスタンプラリーや、旅先で聴くことができる限定トーク、旅を楽しむYouTube動画、さらにコラボグッズの販売などが実施されます。<br /><br />詳細は<a href=\"https://www.jreast.co.jp/jre-sakuratabi-2026/\">「JR東日本『櫻坂46と、鉄道で旅しよう。』特設サイト」</a>をご覧ください。<br /><br /><img src=\"https://sakurazaka46.com/files/14/260709_JReSakura_KV0715.jpeg\" alt=\"\" width=\"1414\" height=\"2000\" /><br /><br />【実施期間】<br />2026年7月20日(月・祝)～11月30日(月)<br /><br />【実施内容】<br />■ デジタルスタンプラリー 実施エリア<br />新潟エリア/長野エリア/庄内エリア<br /><a href=\"https://bm-tnt-stamprally.o2o2o-cp.com/jre-sakratabi-2026/\">https://bm-tnt-stamprally.o2o2o-cp.com/jre-sakratabi-2026/<br /><br /></a>■ エリア限定音声コンテンツ<br />実施エリア 長野駅／佐渡島／新潟駅／飯山駅／酒田駅／鶴岡駅<br />第1弾：2026年7月20日(月・祝)～9月30日(水)<br />第2弾：2026年10月2日(金)～11月30日(月)<br /><br />■ YouTube「櫻坂チャンネル」にて動画も公開予定 <a href=\"https://www.youtube.com/@sakurazakachannel\">https://www.youtube.com/@sakurazakachannel</a>"
+    },
+    {
       "category": "goods",
       "code": "G00222",
       "title": "「Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?-」静岡公演・兵庫公演・広島公演 オフィシャルグッズ会場販売のお知らせ",
@@ -290,5 +300,5 @@
       "content": "7月1日(水)12:00『～Dance Practice Requests!～』応募対象となるMUSIC LISTを公開し、応募がスタートいたしました。<br /><br />2023年以降に発表した櫻坂46の楽曲で、かつ&ldquo;ダンスパフォーマンス&rdquo;に注目してほしいフォーメーション楽曲をセレクト！そこからファンの皆様のリクエストを募り、&ldquo;Dance Practice&rdquo;として後日公開いたします。<br />たくさんのご応募、お待ちしております！<br /><br /><a href=\"https://sakurazaka46.com/s/s46/page/RequestDP_2026\"><span>「～Dance Practice Requests!～」SPECIAL SITEはコチラ</span></a><br /><br />【応募期間】2026年7月1日(水)12:00～8月16日(日)23:59<br /><br />※FC会員限定で、1アカウントにつき2曲までご応募いただけます。<br />※ランキング形式での発表ではございません。<br />※既に卒業しているメンバーの参加はございません。"
     }
   ],
-  "count": "24"
+  "count": "25"
 }
