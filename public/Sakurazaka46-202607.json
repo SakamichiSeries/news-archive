@@ -2,6 +2,24 @@
   "news": [
     {
       "category": "media",
+      "code": "M02144",
+      "title": "7月15日(水)21:30頃～「櫻坂チャンネル」にて「JR東日本×櫻坂46『櫻坂46と、鉄道で旅しよう。』コラボ記念生配信！」を配信！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02144",
+      "pubdate": "2026/07/15 14:05:00",
+      "tags": [
+        "47",
+        "54",
+        "66",
+        "67",
+        "70",
+        "75"
+      ],
+      "thumbnail": null,
+      "content": "<span>7月15日(水)21:30頃～「櫻坂チャンネル」にて「JR東日本&times;櫻坂46『櫻坂46と、鉄道で旅しよう。』コラボ記念生配信！」を配信いたします。<br />大園玲・藤吉夏鈴・向井純葉・村井優・浅井恋乃未・松本和子が出演いたします。<br /></span><br /><a href=\"https://youtube.com/live/XwQgwNN66es\">櫻坂チャンネル『【7月15日(水)21:30～】JR東日本&times;櫻坂46「櫻坂46と、鉄道で旅しよう。』コラボ記念生配信！<span>」はコチラ</span></a><br />※開始時間は状況により前後する可能性がございます<br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/XwQgwNN66es?si=cb5S8DjUp3MZVVNI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M02140",
       "title": "JR東日本「櫻坂46と、鉄道で旅しよう。」の開催が決定！",
       "caption": "",
@@ -300,5 +318,5 @@
       "content": "7月1日(水)12:00『～Dance Practice Requests!～』応募対象となるMUSIC LISTを公開し、応募がスタートいたしました。<br /><br />2023年以降に発表した櫻坂46の楽曲で、かつ&ldquo;ダンスパフォーマンス&rdquo;に注目してほしいフォーメーション楽曲をセレクト！そこからファンの皆様のリクエストを募り、&ldquo;Dance Practice&rdquo;として後日公開いたします。<br />たくさんのご応募、お待ちしております！<br /><br /><a href=\"https://sakurazaka46.com/s/s46/page/RequestDP_2026\"><span>「～Dance Practice Requests!～」SPECIAL SITEはコチラ</span></a><br /><br />【応募期間】2026年7月1日(水)12:00～8月16日(日)23:59<br /><br />※FC会員限定で、1アカウントにつき2曲までご応募いただけます。<br />※ランキング形式での発表ではございません。<br />※既に卒業しているメンバーの参加はございません。"
     }
   ],
-  "count": "25"
+  "count": "26"
 }
