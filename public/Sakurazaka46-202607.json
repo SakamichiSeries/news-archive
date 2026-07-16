@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02145",
+      "title": "7月16日(木)19:00～テレビ朝日「林修の今知りたいでしょ！」に勝又春が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02145",
+      "pubdate": "2026/07/16 14:42:37",
+      "tags": [
+        "72"
+      ],
+      "thumbnail": null,
+      "content": "7月16日(木)19:00～テレビ朝日「林修の今知りたいでしょ！」に勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/imadesho/\">テレビ朝日「林修の今知りたいでしょ！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "goods",
       "code": "G00223",
       "title": "櫻坂46 CAFE 2026 オリジナルグッズラインナップ公開！＆福岡開催決定！",
@@ -328,5 +341,5 @@
       "content": "7月1日(水)12:00『～Dance Practice Requests!～』応募対象となるMUSIC LISTを公開し、応募がスタートいたしました。<br /><br />2023年以降に発表した櫻坂46の楽曲で、かつ&ldquo;ダンスパフォーマンス&rdquo;に注目してほしいフォーメーション楽曲をセレクト！そこからファンの皆様のリクエストを募り、&ldquo;Dance Practice&rdquo;として後日公開いたします。<br />たくさんのご応募、お待ちしております！<br /><br /><a href=\"https://sakurazaka46.com/s/s46/page/RequestDP_2026\"><span>「～Dance Practice Requests!～」SPECIAL SITEはコチラ</span></a><br /><br />【応募期間】2026年7月1日(水)12:00～8月16日(日)23:59<br /><br />※FC会員限定で、1アカウントにつき2曲までご応募いただけます。<br />※ランキング形式での発表ではございません。<br />※既に卒業しているメンバーの参加はございません。"
     }
   ],
-  "count": "27"
+  "count": "28"
 }
