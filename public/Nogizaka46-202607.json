@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "web",
+      "code": "102110",
+      "title": "「乃木坂配信中」にて「【全ツ連動第5弾】金川紗耶が再びグッズ売り場に潜入してみた！【三度目の正直】」を公開！",
+      "caption": "",
+      "link": "https://www.nogizaka46.com/s/n46/news/detail/102110",
+      "pubdate": "2026/07/17 22:00:00",
+      "thumbnail": null,
+      "content": "公式YouTubeチャンネル「乃木坂配信中」にて<br />・【全ツ連動第5弾】金川紗耶が再びグッズ売り場に潜入してみた！【三度目の正直】<br />を公開いたしました！<br /><br />「真夏の全国ツアー2026」連動企画の第5弾として、金川紗耶が\"再び\"北海道公演のグッズ売り場に潜入してきました！<br />三度目の正直で潜入はうまくいくのか！？<br /><br />ぜひご覧ください♪<br /><br />動画はこちら！<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Qk5zESoMWr4?si=JkrbcY6CvoKbTRkk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe><br /><a href=\"https://youtu.be/Qk5zESoMWr4\" target=\"_blank\">https://youtu.be/Qk5zESoMWr4</a><br /><br />チャンネル登録もよろしくお願いします！<br /><a href=\"https://www.youtube.com/c/nogizakahaishinchu\" target=\"_blank\">https://www.youtube.com/c/nogizakahaishinchu</a>"
+    },
+    {
       "category": "release",
       "code": "102109",
       "title": "42ndシングルのアンダー楽曲「フォルテシモ」のMusic Video公開！",
@@ -625,5 +635,5 @@
       "content": "江崎グリコ株式会社「カフェオーレ」の記念日を盛り上げる、8月1日カフェオーレの日 応援サポーターに、五百城茉央と奥田いろはが就任しました！<br /><br /><img src=\"https://www.nogizaka46.com/files/46/news/102049_4305_10.jpg\" alt=\"\" width=\"1280\" height=\"640\" /><br /><br />2026年7月1日(水)より、「朝はやっぱりカフェオーレ 教えて！朝のひとくち大調査」キャンペーンを実施します。<br /><br />■「朝はやっぱりカフェオーレ 教えて！朝のひとくち大調査」キャンペーンサイト<br /><a href=\"https://go.glico.com/k22xs\" target=\"_blank\">https://go.glico.com/k22xs</a><br /><br /><br />さらに、2026年8月1日(土)には「カフェオーレの日」限定のキャンペーンも実施します。<br /><br />詳しくは8月1日(土)の「カフェオーレ」公式Xアカウントからのポストをご確認ください！<br /><a href=\"https://x.com/glico_cafeore\" target=\"_blank\">https://x.com/glico_cafeore</a><br /><br />皆様、お楽しみに！<br /><br /><br />▼五百城茉央・奥田いろはによるフォークデュオユニット ≪カフェオーレ≫<br />バラエティー番組『新・乃木坂スター誕生！』で結成し、同期である一ノ瀬美空により「カフェオーレ」と命名されたユニット。<br />乃木坂46の35thシングル「チャンスは平等」Type-Dには、「サルビアの花を覚えているかい？」が収録されており、日本武道館で開催されたライブでも披露。"
     }
   ],
-  "count": "54"
+  "count": "55"
 }
