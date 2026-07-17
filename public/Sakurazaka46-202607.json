@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00656",
+      "title": "「MUSIC EXPO LIVE 2026 in TAIPEI」に櫻坂46の出演が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00656",
+      "pubdate": "2026/07/17 00:00:00",
+      "thumbnail": null,
+      "content": "10月24日(土)・25日(日)TAIPEI ARENAにて開催される「MUSIC EXPO LIVE 2026 in TAIPEI」に櫻坂46の出演が決定いたしました。<br />櫻坂46は10月25日(日)に出演いたします。詳細はURLをご覧ください。<br /><br />&lt;公演概要&gt;<br />MUSIC EXPO LIVE 2026 in TAIPEI<br />【日時】10月24日(土)・25日(日)<br />【会場】TAIPEI ARENA<br /><br /><a href=\"https://x.com/musicexpolive\">「MUSIC EXPO LIVE」公式Xはコチラ</a><br /><br /><img src=\"https://sakurazaka46.com/files/14/S__48136219.jpg\" alt=\"\" width=\"1831\" height=\"2289\" />"
+    },
+    {
       "category": "media",
       "code": "M02145",
       "title": "7月16日(木)19:00～テレビ朝日「林修の今知りたいでしょ！」に勝又春が出演！",
@@ -341,5 +351,5 @@
       "content": "7月1日(水)12:00『～Dance Practice Requests!～』応募対象となるMUSIC LISTを公開し、応募がスタートいたしました。<br /><br />2023年以降に発表した櫻坂46の楽曲で、かつ&ldquo;ダンスパフォーマンス&rdquo;に注目してほしいフォーメーション楽曲をセレクト！そこからファンの皆様のリクエストを募り、&ldquo;Dance Practice&rdquo;として後日公開いたします。<br />たくさんのご応募、お待ちしております！<br /><br /><a href=\"https://sakurazaka46.com/s/s46/page/RequestDP_2026\"><span>「～Dance Practice Requests!～」SPECIAL SITEはコチラ</span></a><br /><br />【応募期間】2026年7月1日(水)12:00～8月16日(日)23:59<br /><br />※FC会員限定で、1アカウントにつき2曲までご応募いただけます。<br />※ランキング形式での発表ではございません。<br />※既に卒業しているメンバーの参加はございません。"
     }
   ],
-  "count": "28"
+  "count": "29"
 }
