@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02156",
+      "title": "8月11日(火・祝)～全国のローソン店舗で「櫻坂46 日向坂46キャンペーン」がスタート！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02156",
+      "pubdate": "2026/07/31 11:00:00",
+      "thumbnail": null,
+      "content": "8月11日(火・祝)～全国のローソン店舗 (一部店舗・ナチュラルローソン・ローソンストア100・Ｌミニマートは除く)で、「櫻坂46 日向坂46キャンペーン」がスタートいたします。<br /><br />詳細はキャンペーンサイトをご確認ください。<br /><a href=\"https://www.lawson.co.jp/lab/campaign/sakurahinata/\">キャンペーンサイトはコチラ<br /><br /><img src=\"https://sakurazaka46.com/files/14/20260811_sakurahinata_f.jpg\" alt=\"\" width=\"800\" height=\"800\" /></a>"
+    },
+    {
       "category": "event",
       "code": "E00663",
       "title": "Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?- セキスイハイムスーパーアリーナ宮城公演 駐車券・シャトルバス券発売決定！",
@@ -656,5 +666,5 @@
       "content": "7月1日(水)12:00『～Dance Practice Requests!～』応募対象となるMUSIC LISTを公開し、応募がスタートいたしました。<br /><br />2023年以降に発表した櫻坂46の楽曲で、かつ&ldquo;ダンスパフォーマンス&rdquo;に注目してほしいフォーメーション楽曲をセレクト！そこからファンの皆様のリクエストを募り、&ldquo;Dance Practice&rdquo;として後日公開いたします。<br />たくさんのご応募、お待ちしております！<br /><br /><a href=\"https://sakurazaka46.com/s/s46/page/RequestDP_2026\"><span>「～Dance Practice Requests!～」SPECIAL SITEはコチラ</span></a><br /><br />【応募期間】2026年7月1日(水)12:00～8月16日(日)23:59<br /><br />※FC会員限定で、1アカウントにつき2曲までご応募いただけます。<br />※ランキング形式での発表ではございません。<br />※既に卒業しているメンバーの参加はございません。"
     }
   ],
-  "count": "57"
+  "count": "58"
 }
