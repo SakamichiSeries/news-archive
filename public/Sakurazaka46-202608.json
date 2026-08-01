@@ -1,4 +1,15 @@
 {
-  "news": [],
-  "count": "0"
+  "news": [
+    {
+      "category": "release",
+      "code": "R00608",
+      "title": "『HUNTER×HUNTER』×『Unhappy birthday構文』櫻坂46 のコラボMVがジャンプチャンネルにて 8月2日（日）23時55分より公開決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00608",
+      "pubdate": "2026/08/01 18:00:00",
+      "thumbnail": null,
+      "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    }
+  ],
+  "count": "1"
 }
