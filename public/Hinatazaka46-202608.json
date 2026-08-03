@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100291",
+      "title": "令和8年熊本地震に関する支援について",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100291",
+      "pubdate": "2026/08/03 19:00:00",
+      "thumbnail": null,
+      "content": "2026年7月28日に発生した熊本地震により、犠牲となられた皆様に深く哀悼の意を表すると共に、被災された方、そのご家族・関係者の皆様に心よりお見舞い申し上げます。<br /><br />微力ではありますが、今後開催を予定しております下記の会場などでの募金活動を実施させて頂きます。<br /><br /> ・2026年8月5日(水) 大阪：Zepp Osaka Bayside<br />・2026年8月6日(木) 愛知：Zepp Nagoya<br />・2026年8月15日(土) 愛知：Zepp Nagoya<br />・2026年8月16日(日) 大阪：Zepp Osaka Bayside<br />・2026年8月17日(月) 東京：Zepp Haneda（TOKYO）<br />・2026年8月18日(火) 東京：Zepp Haneda（TOKYO）<br />・2026年8月23日(日) 東京：Zepp Haneda（TOKYO）<br />・2026年9月5日(土) 宮崎：ひなた宮崎県総合運動公園/ひなたサンマリンスタジアム宮崎<br />・2026年9月6日(日) 宮崎：ひなた宮崎県総合運動公園/ひなたサンマリンスタジアム宮崎<br /><br />皆様からお預かり致しました募金は令和８年熊本地震災害義援金として全額、日本赤十字社に寄付致します。<br /><br />被災地の皆様のご無事と一日も早い復興を心よりお祈りするとともに、今後も復興のお力になれる活動を続けていきたいと考えております。<br /><br />日向坂46メンバー・スタッフ一同"
+    },
+    {
       "category": "goods",
       "code": "G00230",
       "title": "日向坂46「ひなたフェス2026」オフィシャルグッズ 通信販売受付開始のお知らせ",
@@ -34,5 +44,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "3"
+  "count": "4"
 }

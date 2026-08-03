@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100090",
+      "title": "令和8年熊本地震に関する支援について",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100090",
+      "pubdate": "2026/08/03 19:00:00",
+      "thumbnail": null,
+      "content": "2026年7月28日に発生した熊本地震により、犠牲となられた皆様に深く哀悼の意を表すると共に、被災された方、そのご家族・関係者の皆様に心よりお見舞い申し上げます。 <br /><br />微力ではありますが、今後開催を予定しております下記の会場などでの募金活動を実施させて頂きます。 <br /><br />・2026年8月8日（土）広島：広島グリーンアリーナ<br />・2026年8月9日（日）広島：広島グリーンアリーナ<br />・2026年8月15日（土）千葉：LaLa arena TOKYO-BAY<br />・2026年8月16日（日）千葉：LaLa arena TOKYO-BAY<br />・2026年8月22日（土）宮城：セキスイハイムスーパーアリーナ<br />・2026年8月23日（日）宮城：セキスイハイムスーパーアリーナ<br />・2026年8月29日（土）香川：あなぶきアリーナ香川<br />・2026年8月30日（日）香川：あなぶきアリーナ香川<br /><br />皆様からお預かり致しました募金は令和８年熊本地震災害義援金として全額、日本赤十字社に寄付致します。<br /><br />被災地の皆様のご無事と一日も早い復興を心よりお祈りするとともに、今後も復興のお力になれる活動を続けていきたいと考えております。<br /><br /> 櫻坂46メンバー・スタッフ一同"
+    },
+    {
       "category": "release",
       "code": "R00609",
       "title": "映像商品『5th YEAR ANNIVERSARY LIVE at MUFG STADIUM』 CDショップチェーン別先着特典絵柄決定!",
@@ -31,5 +41,5 @@
       "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "3"
+  "count": "4"
 }
