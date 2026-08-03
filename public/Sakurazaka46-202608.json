@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00227",
+      "title": "櫻坂46 CAFE 2026 中期コラボメニュー公開！＆広島公演、千葉公演にてキッチンカーの展開が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/G00227",
+      "pubdate": "2026/08/03 17:00:00",
+      "thumbnail": null,
+      "content": "「櫻坂46 CAFE 2026」の中期コラボメニューを公開いたしました。<br />櫻坂46 Sakurazaka46 ARENA TOUR 2026 -What&rsquo;s lonesome?- の開催を記念して<br /> 新宿・愛知・大阪・原宿・福岡にて「櫻坂46 CAFE 2026」を開催中です。<br /><br /><br /><img src=\"https://sakurazaka46.com/files/14/_%E6%AB%BB%E5%9D%82%E3%82%AB%E3%83%95%E3%82%A72026%E3%80%80%E4%B8%AD%E6%9C%9F%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC.jpg\" alt=\"\" width=\"1785\" height=\"2526\" /><br /> <br /> ご予約のお客様には予約特典として、中期ノベルティ「ドアタグ（全31種）」をランダムで1枚お渡しいたします・<br /><br /><br />開催に関する詳細はこちら&darr;<br /><a href=\"https://spacetimes.co.jp/sakurazaka46_cafe2026/\">https://spacetimes.co.jp/sakurazaka46_cafe2026/<br /></a><div id=\"gtx-trans\" style=\"position: absolute; left: -62px; top: 2695px;\"><div class=\"gtx-trans-icon\"></div></div>"
+    },
+    {
       "category": "release",
       "code": "R00608",
       "title": "『HUNTER×HUNTER』×『Unhappy birthday構文』櫻坂46 のコラボMVがジャンプチャンネルにて 8月2日（日）23時55分より公開決定！",
@@ -11,5 +21,5 @@
       "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "1"
+  "count": "2"
 }
