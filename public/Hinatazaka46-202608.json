@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00873",
+      "title": "日向坂46「三期生 LIVE」メンバーフラッグの掲出に関しまして",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00873",
+      "pubdate": "2026/08/05 15:29:50",
+      "thumbnail": null,
+      "content": "本日8月5日(水)開催の、日向坂46「三期生 LIVE」Zepp Osaka Bayside公演にてメンバーフラッグの掲出を予定しておりましたが、配送時のトラブルにより掲出ができない状況となりました。<br /><br />楽しみにしてくださっていたお客様におかれましては、ご期待に添えず誠に申し訳ございません。<br /><br />メンバーフラッグは、8月15日(土)開催の Zepp Nagoya公演に準備が間に合うよう現在準備を進めております。<br />(メンバーフラッグは、当日のチケットをお持ちでないお客様でもお写真等、お撮り頂ける場所に掲出致します)<br /><br />何卒ご理解いただきますようお願い申し上げますとともに、本日の公演を最後までお楽しみいただけますと幸いです。"
+    },
+    {
+      "category": "event",
       "code": "E00872",
       "title": "「ひなたフェス2026」宮崎交通とのコラボレーションと臨時便の詳細決定！",
       "caption": "",
@@ -108,5 +118,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
