@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00871",
+      "title": "日向坂46「三期生 LIVE」全公演チケット完売につき、LIVEの生配信実施が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00871",
+      "pubdate": "2026/08/05 12:00:00",
+      "thumbnail": null,
+      "content": "日向坂46 「三期生 LIVE」の全公演チケット完売を受け、LIVEの生配信実施が決定いたしました！<br /><br />【日時】<br />8月23日(日) 開場(配信開始) 16:30 / 開演(ライブ開始) 17:30　<br />※リピート配信：8月26日(水) 開場(配信開始) 19:00 / 開演(ライブ開始) 20:00<br /><br />【料金】<br />ファンクラブ限定視聴チケット(山口陽世・専用アングル：ぱるカメ付き)：4,600円(税込)　※Stagecrowdのみ<br />一般視聴チケット：3,500円(税込)<br /><br />【配信メディア】※予定<br />Stagecrowd<br />楽天チケット&times;Rakuten TV<br />ABEMA<br />Lemino <br />Hulu<br />U-NEXT<br /><br />配信視聴チケットの詳細案内及び販売開始は、8月16日(日)12:00～となります。"
+    },
+    {
       "category": "media",
       "code": "M02764",
       "title": "8月7日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に竹内希来里が出演！",
@@ -88,5 +98,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "8"
+  "count": "9"
 }
