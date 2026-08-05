@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00872",
+      "title": "「ひなたフェス2026」宮崎交通とのコラボレーションと臨時便の詳細決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00872",
+      "pubdate": "2026/08/05 15:00:00",
+      "thumbnail": null,
+      "content": "「ひなたフェス2026」の開催を記念して、宮崎交通とのコラボレーション企画の実施が決定いたしました。<br />フェス開催日には、宮崎駅・宮崎空港と会場を結ぶ臨時バスを運行いたします。<br /><br />また、ひなたフェス2026仕様の記念乗車券の販売や、コラボラッピングバスの運行、メンバーによる車内アナウンスなど、宮崎交通ならではの特別企画も実施予定です。<br /><br />運行情報やコラボレーション企画の詳細は、宮崎交通公式ページをご確認ください。<br /><br />▼詳細はこちら<br /><a href=\"https://www.miyakoh.co.jp/hinata-fes2026.html\">https://www.miyakoh.co.jp/hinata-fes2026.html<br /></a>"
+    },
+    {
+      "category": "event",
       "code": "E00871",
       "title": "日向坂46「三期生 LIVE」全公演チケット完売につき、LIVEの生配信実施が決定！",
       "caption": "",
@@ -98,5 +108,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "9"
+  "count": "10"
 }
