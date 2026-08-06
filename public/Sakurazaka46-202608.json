@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00665",
+      "title": "櫻坂46「6th YEAR ANNIVERSARY LIVE」公演詳細決定！ ",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00665",
+      "pubdate": "2026/08/06 12:00:00",
+      "thumbnail": null,
+      "content": "櫻坂46「6th YEAR ANNIVERSARY LIVE」の公演詳細が決定いたしました！<br />ファンクラブ抽選先行・Leminoスペシャルシート先行・Lemino櫻坂46パック先行が、9/6(日)12:00より受付開始となります。<br />先行受付の詳細は、9月5日(土)にお知らせいたします。<br />お楽しみに！<br /><br />&lt;公演情報&gt;<br />櫻坂46「6th YEAR ANNIVERSARY LIVE」<br /><br />【出演】<br />櫻坂46<br />※出演者は予告なく変更となる場合がございます。あらかじめご了承ください。<br /><br />【日程】<br />2026年11月14日(土)　開場15:30/開演17:30<br />2026年11月15日(日)　開場15:30/開演17:30<br /><br />【会場】<br />ZOZOマリンスタジアム<br /><br />【料金】<br />Leminoスペシャルシート：18,000円（税込）<br />全席指定：12,000円(税込)<br />親子・女性エリア：12,000円(税込)"
+    },
+    {
       "category": "media",
       "code": "M02157",
       "title": "「櫻坂チャンネル」にて「【我が子】愛するこっちゃんとお買い物・食事・ラジオ収録♡【コリラックマ】」を公開！",
@@ -64,5 +74,5 @@
       "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "6"
+  "count": "7"
 }
