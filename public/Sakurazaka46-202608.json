@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02158",
+      "title": "8月10日(月)8:00～TBS「ラヴィット！」に中嶋優月がVTR出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02158",
+      "pubdate": "2026/08/09 12:31:02",
+      "tags": [
+        "64"
+      ],
+      "thumbnail": null,
+      "content": "8月10日(月)8:00～TBS「ラヴィット！」に中嶋優月がVTR出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00667",
       "title": "Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?- 千葉公演、 公式チケット・トレードが8/7(金) 18:00よりスタート！",
@@ -94,5 +107,5 @@
       "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "9"
+  "count": "10"
 }
