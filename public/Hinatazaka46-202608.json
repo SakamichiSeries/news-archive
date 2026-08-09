@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00566",
+      "title": "18thシングル表題曲「イチャイチャ虫」のフォーメーションを公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00566",
+      "pubdate": "2026/08/10 02:00:00",
+      "thumbnail": null,
+      "content": "「日向坂で会いましょう」にて発表された、<br /><span>日向坂46&nbsp;</span>18thシングル表題曲「イチャイチャ虫」のフォーメーションを公式サイトでも公開いたしました！<br />是非チェックしてみてください！<br /><br /><a href=\"https://www.hinatazaka46.com/s/official/diary/formation/list\">フォーメーションページはコチラ</a>"
+    },
+    {
       "category": "media",
       "code": "M02766",
       "title": "本日8月9日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」に金村美玖が出演！",
@@ -215,5 +225,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "20"
+  "count": "21"
 }
