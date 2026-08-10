@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00878",
+      "title": "「18th Single ひなた坂46 LIVE」開催決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00878",
+      "pubdate": "2026/08/10 18:00:00",
+      "thumbnail": null,
+      "content": "日向坂46 「18th Single ひなた坂46 LIVE」の開催が決定いたしました！<br /><br />ファンクラブ抽選先行・Leminoスペシャルシート先行・Lemino日向坂46パック先行が、8月20日(木)22:00より受付開始となります。<br />先行受付の詳細は、8月19日(水)にお知らせいたします。<br />お楽しみに！<br /><br />&lt;公演情報&gt;<br />日向坂46「18th Single ひなた坂46 LIVE」<br /><br />【出演】<br />日向坂46 18th Single ひなた坂46 MEMBER：<br />石塚瑶季、大田美月、高井俐香、竹内希来里、蔵盛妃那乃、坂井新奈、<br />清水理央、下田衣珠季、鶴崎仁香、平尾帆夏、宮地すみれ、渡辺莉奈<br /><br />※出演者は予告なく変更となる場合がございます。あらかじめご了承ください。<br /><br />【日程】<br />2026年10月6日(火) 開場17:00/開演18:30<br />2026年10月7日(水) 開場17:00/開演18:30<br /><br />【会場】<br />LaLa arena TOKYO-BAY<br /><br />【料金】<br />Leminoスペシャルシート：15,800円(税込)<br />全席指定：9,800円(税込)<br />親子・女性エリア：9,800円(税込)"
+    },
+    {
+      "category": "event",
       "code": "E00879",
       "title": "「三期生 LIVE」8/17・8/18 東京公演の公式チケット・トレードが本日18:00よりスタート！",
       "caption": "",
@@ -245,5 +255,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "23"
+  "count": "24"
 }
