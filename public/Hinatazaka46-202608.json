@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "release",
+      "code": "R00567",
+      "title": "18thシングル『イチャイチャ虫』のアーティスト写真公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00567",
+      "pubdate": "2026/08/10 10:00:00",
+      "thumbnail": null,
+      "content": "2026年9月30日(水)発売となる18thシングル『イチャイチャ虫』のアーティスト写真を公開いたしました！<br />是非ご覧ください！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20Release/18th%20%E3%82%A4%E3%83%81%E3%83%A3%E3%82%A4%E3%83%81%E3%83%A3%E8%99%AB/Hinatazaka46_18thSG_AP_RGB_JPG.jpg\" alt=\"\" width=\"1000\" height=\"667\" /><br /><br /><strong><a href=\"https://www.hinatazaka46.com/s/official/page/18th_single\">■18thシングル『イチャイチャ虫』特設サイトはこちら<br /></a><a href=\"https://www.hinatazaka46.com/s/official/diary/formation/list\">■フォーメーションページはこちら</a></strong><br /><strong><a href=\"https://hinatazaka46.lnk.to/20260930_Ichaichamushi_PKG\">■各CDショップのオンラインサイトはこちら</a></strong>"
+    },
+    {
+      "category": "release",
       "code": "R00566",
       "title": "18thシングル表題曲「イチャイチャ虫」のフォーメーションを公開！",
       "caption": "",
@@ -225,5 +235,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "21"
+  "count": "22"
 }
