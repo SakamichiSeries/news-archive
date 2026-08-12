@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02767",
+      "title": "大野愛実が、日本マクドナルド『トクニナルド』キャンペーン新TVCMに出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02767",
+      "pubdate": "2026/08/13 08:00:00",
+      "tags": [
+        "38"
+      ],
+      "thumbnail": null,
+      "content": "明日8月14日(金)～放映開始の、日本マクドナルド『トクニナルド』キャンペーン新TVCMに大野愛実の出演が決定いたしました！<br /><br />新キャラクター「Ms. トクニナルド」として登場し、8月17日(月)～8月28日(金)までの12日間限定で実施の炭酸ドリンク S・Mサイズを対象としたキャンペーンをご紹介します。<br />是非ご覧ください！<br /><br />■タイトル<br />トクニナルド「Ms.トクニナルド登場」篇（15秒）<br /><br />■放映開始日<br />8月14日(金)<br /><br />■各公式SNS<br />日本マクドナルド公式X：<a href=\"https://x.com/McDonaldsJapan\">https://x.com/McDonaldsJapan</a><br />日本マクドナルド公式TikTok：<a href=\"https://www.tiktok.com/@mcdonaldsjapan\">https://www.tiktok.com/@mcdonaldsjapan</a><br />日本マクドナルド公式Instagram：<a href=\"https://www.instagram.com/mcdonaldsjapan/\">https://www.instagram.com/mcdonaldsjapan/<br /></a>"
+    },
+    {
       "category": "event",
       "code": "E00877",
       "title": "「ひなたフェス2026」NTTドコモとのコラボキャンペーン実施決定！",
@@ -295,5 +308,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "28"
+  "count": "29"
 }
