@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02769",
+      "title": "8月14日(金)25:45～テレビ朝日「ラブ!!Jリーグ」に坂井新奈が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02769",
+      "pubdate": "2026/08/13 20:00:00",
+      "tags": [
+        "41"
+      ],
+      "thumbnail": null,
+      "content": "8月14日(金)25:45～テレビ朝日「ラブ!!Jリーグ」に坂井新奈が出演いたします。<br /><span>ぜひご覧ください。</span><br /><br /><a href=\"https://www.tv-asahi.co.jp/chant-j/\" target=\"_blank\">テレビ朝日「ラブ!!Jリーグ」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00569",
       "title": "※8/13(木)更新※「三期生LIVE」会場限定！CD/Blu-ray/DVD購入・予約特典が決定！",
@@ -318,5 +331,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "30"
+  "count": "31"
 }
