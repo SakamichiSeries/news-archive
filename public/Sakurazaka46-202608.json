@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00670",
+      "title": "櫻坂46『Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?-』の生配信が決定！8月22日(土)12:00より、配信視聴チケットの販売スタート！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00670",
+      "pubdate": "2026/08/17 12:33:42",
+      "thumbnail": null,
+      "content": "櫻坂46『Sakurazaka46 ARENA TOUR 2026 -What&rsquo;s lonesome?-』の生配信が決定いたしました。<br />8月22日(土)12:00より、詳細案内及び配信視聴チケットの販売をスタートいたします。<br /><br />【日時】<br />①8月29日（土）開場(配信開始) 16：30 ／ 開演(ライブ開始) 17：30　<br />②8月30日（日）開場(配信開始) 16：00 ／ 開演(ライブ開始) 17：00<br /><br />※リピート配信<br />①9月14日（月）開場(配信開始) 19：00 ／ 開演(ライブ開始) 20：00<br />②9月15日（火）開場(配信開始) 19：00 ／ 開演(ライブ開始) 20：00<br /><br />【料金】<br />4,600円(税込)<br /><br />【配信メディア】※予定<br />Stagecrowd<br />楽天チケット&times;Rakuten TV<br />ABEMA<br />Lemino <br />Hulu<br />U-NEXT<br /><br /><br />配信視聴チケットの詳細案内及び販売開始は8月22日(土)12:00より開始となります。"
+    },
+    {
+      "category": "event",
       "code": "E00669",
       "title": "Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?- 宮城公演、 公式チケット・トレードが本日18:00よりスタート！",
       "caption": "",
@@ -194,5 +204,5 @@
       "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "18"
+  "count": "19"
 }
