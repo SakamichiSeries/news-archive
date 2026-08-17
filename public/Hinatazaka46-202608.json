@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02768",
+      "title": "大野愛実が、日本マクドナルド『トクニナルド』WEB CM「たんさんおトクなる♪」篇に出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02768",
+      "pubdate": "2026/08/17 10:00:00",
+      "tags": [
+        "38"
+      ],
+      "thumbnail": null,
+      "content": "本日8月17日(月)～配信開始の、日本マクドナルド「トクニナルド」WEB CM「たんさんおトクなる♪」篇に大野愛実が出演しております。<br />ぜひご覧ください！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/%2304.jpg\" alt=\"\" width=\"1920\" height=\"1080\" /><br /><br />■タイトル<br />トクニナルド「たんさんおトクなる♪」篇<br /><br />■各公式SNS<br />日本マクドナルド公式X：<a href=\"https://x.com/McDonaldsJapan\">https://x.com/McDonaldsJapan</a><br />日本マクドナルド公式TikTok：<a href=\"https://www.tiktok.com/@mcdonaldsjapan\">https://www.tiktok.com/@mcdonaldsjapan</a><br />日本マクドナルド公式Instagram：<a href=\"https://www.instagram.com/mcdonaldsjapan/\">https://www.instagram.com/mcdonaldsjapan/</a>"
+    },
+    {
       "category": "other",
       "code": "O100293",
       "title": "【日向坂46メッセージ】「今までありがとう！山口陽世卒業キャンペーン」の実施が決定！",
@@ -394,5 +407,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "37"
+  "count": "38"
 }
