@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02772",
+      "title": "8月18日(火)23:06～テレビ東京「世の中お金で見てみよう ～火曜ヨルの学べる経済～」に宮地すみれが出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02772",
+      "pubdate": "2026/08/17 22:30:00",
+      "tags": [
+        "34"
+      ],
+      "thumbnail": null,
+      "content": "8月18日(火)23:06～テレビ東京「世の中お金で見てみよう ～火曜ヨルの学べる経済～」に宮地すみれが出演いたします。<br />ぜひご覧ください！<br /><br /><a href=\"https://www.tv-tokyo.co.jp/life_money/\">テレビ東京「世の中お金で見てみよう～火曜ヨルの学べる経済～」オフィシャルサイトはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02771",
+      "title": "8月18日(火)19:40～NHK Eテレ「理科チューバーズ」に宮地すみれが出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02771",
+      "pubdate": "2026/08/17 22:30:00",
+      "tags": [
+        "34"
+      ],
+      "thumbnail": null,
+      "content": "8月18日(火)19:40～NHK Eテレ「理科チューバーズ」」に宮地すみれが出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.nhk.jp/p/hamatta/ts/KNY2YKWLG9/episode/te/K77M3MPKRK/\" target=\"_blank\">NHK Eテレ「理科チューバーズ」詳細はこちら</a>"
+    },
+    {
       "category": "release",
       "code": "R00570",
       "title": "18thシングル『イチャイチャ虫』ジャケット写真を公開！",
@@ -427,5 +453,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "40"
+  "count": "42"
 }
