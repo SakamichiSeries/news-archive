@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "E00672",
+      "title": "櫻坂46CAFE 2026 宮城公演&香川公演にてキッチンカーの展開が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00672",
+      "pubdate": "2026/08/18 17:00:00",
+      "thumbnail": null,
+      "content": "「Sakurazaka46 ARENA TOUR 2026 -What&rsquo;s lonesome?-」の開催を記念してドリンク・チュロス・オリジナルグッズを販売するキッチンカーがライブに合わせて登場！<br /><br /><br />宮城公演：セキスイハイムスーパーアリーナ<br />◼︎8月22日（土）　10:00～終演後30分程度 ※開場16:00/開演17:30<br />◼︎8月23日（日）　10:00～終演後30分程度 ※開場16:00/開演17:30<br />※終演後販売は列が途切れ次第、終了いたします。<br /><br /><br />香川公演：あなぶきアリーナ香川<br />◼︎8月29日(土) 　10:00～終演後30分程度 ※開場16:00/開演17:30<br />◼︎8月30日(日) 　10:00～終演後30分程度 ※開場16:00/開演17:30<br />※終演後販売は列が途切れ次第、終了いたします。<br /><br /><br />〈お会計方法〉<br />クレジットカード・QUICPay・PayPay・d払い・auPAY・楽天ペイ<br />※現金・交通系ICはご利用いただけません。<br />※キッチンカーはご予約なしでご利用頂けます。<br /><br /><img src=\"https://sakurazaka46.com/files/14/fhsdufge8s7hfeh89efs9hefs898hfse.jpg\" alt=\"\" width=\"1785\" height=\"2526\" /><br /><br /><img src=\"https://sakurazaka46.com/files/14/ujvhuhs9fhse89hfes89hfesh8e.jpg\" alt=\"\" width=\"1785\" height=\"2526\" />"
+    },
+    {
       "category": "media",
       "code": "M02161",
       "title": "「櫻坂チャンネル」にて「【櫻旅】小田倉麗奈・山川宇衣と、鉄道で旅しよう。【長野編】」を公開！",
@@ -228,5 +238,5 @@
       "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "21"
+  "count": "22"
 }
