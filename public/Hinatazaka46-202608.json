@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00883",
+      "title": " 2026年11月28日(土) 開催の『GIFT ～Girls Idol Festival Tokyo～』に日向坂46が出演決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00883",
+      "pubdate": "2026/08/18 12:00:00",
+      "thumbnail": null,
+      "content": "2026年11月28日(土) に開催される、テレビ朝日主催『GIFT ～Girls Idol Festival Tokyo～』に日向坂46の出演が決定いたしました！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/_%5B28%E6%97%A5%5D%E6%97%A5%E5%90%91%E5%9D%8246.png\" alt=\"\" width=\"2600\" height=\"2600\" /><br /><br />■公演名<br />GIFT 〜Girls Idol Festival Tokyo〜<br /><br />■会場<br />SGCホール有明 ※DAY-1、DAY-2、DAY-3<br />TOYOTA ARENA TOKYO ※DAY-2、DAY-3のみ<br /><br />■開催日時<br />［DAY-1］ 2026年11月27日(金) 開場17:00／開演18:00 ※予定<br />［DAY-2］ 2026年11月28日(土) 開場11:30／開演13:00 ※予定<br />［DAY-3］ 2026年11月29日(日) 開場11:30／開演13:00 ※予定<br /><br />※日向坂46は［DAY-2］11月28日(土) に出演いたします。<br /><br />■チケット情報<br />［DAY-1] アリーナスタンディング、スタンド指定席<br />［DAY-2] 1DAY共通チケット ※SGCホール有明、TOYOTA ARENA TOKYOの両会場周遊可能なチケット<br />［DAY-3] 1DAY共通チケット ※SGCホール有明、TOYOTA ARENA TOKYOの両会場周遊可能なチケット<br />　各券種 12,000円(税込)<br /><br />◆受付スケジュール：<br />［最速先行］ 8月18日(火)12:00～9月1日(火)23:59　※抽選受付<br />［２次先行］ 9月5日(土)12:00～9月15日(火)23:59　※抽選受付<br />［３次先行］ 9月19日(土)12:00～9月23日(水)23:59　※先着受付<br />［一般発売］ 10月3日(土)10:00～　※先着受付<br /><br />◆受付URL：<br /><a href=\"https://ticket.tv-asahi.co.jp/ex/project/gift\">https://ticket.tv-asahi.co.jp/ex/project/gift<br /><br /></a>■主催<br />テレビ朝日<a href=\"https://ticket.tv-asahi.co.jp/ex/project/gift\"></a><br /><br />▼その他詳細は公式HPをご覧ください。<br /><a href=\"https://gift-idol.jp\">https://gift-idol.jp</a>"
+    },
+    {
       "category": "media",
       "code": "M02772",
       "title": "8月18日(火)23:06～テレビ東京「世の中お金で見てみよう ～火曜ヨルの学べる経済～」に宮地すみれが出演！",
@@ -453,5 +463,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "42"
+  "count": "43"
 }
