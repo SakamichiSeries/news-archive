@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00884",
+      "title": "「ひなたフェス 2026」スペシャルライブの宮崎コーナーに出演されるダンスチームが決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00884",
+      "pubdate": "2026/08/19 18:00:00",
+      "thumbnail": null,
+      "content": "「ひなたフェス 2026」スペシャルライブの宮崎コーナーに出演されるダンスチームが決定！<br /><br />\"まつりえれこっちゃみやざき2026\"のダンスコンテストにてえれこっちゃ大賞を受賞されたタケウチダンススクールCalmJG'sさんと、一般部門金賞のTEAM白華さんに決定いたしました！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/S__62275605.jpg\" alt=\"\" width=\"3361\" height=\"1020\" /><br /><br />是非、会場にてお楽しみください。"
+    },
+    {
       "category": "media",
       "code": "M02775",
       "title": "8月21日(金)21:00～ABEMA「カンニング竹山のイチバン研究所」に森本茉莉、竹内希来里が出演！",
@@ -512,5 +522,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "47"
+  "count": "48"
 }
