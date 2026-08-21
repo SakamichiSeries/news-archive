@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02163",
+      "title": "「MAQUIA」10月号（8月21日(金)発売）に守屋麗奈が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02163",
+      "pubdate": "2026/08/21 13:50:47",
+      "tags": [
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "<span>「MAQUIA」10月号（8月21日(金)発売）に守屋麗奈が登場いたします。<br />ぜひチェックしてください。</span><br /><br /><a href=\"https://maquia.hpplus.jp/\">「MAQUIA」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02162",
       "title": "「KATE」限定コレクション「We are PINK CATS.」のイメージモデルに山﨑天が就任！",
       "caption": "",
@@ -298,5 +311,5 @@
       "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "28"
+  "count": "29"
 }
