@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02162",
+      "title": "「KATE」限定コレクション「We are PINK CATS.」のイメージモデルに山﨑天が就任！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02162",
+      "pubdate": "2026/08/21 10:00:00",
+      "thumbnail": null,
+      "content": "メイクアップブランド「KATE」限定コレクション「We are PINK CATS.」のイメージモデルに渡辺直美さんと山﨑天が就任いたしました。<br /><br /><img src=\"https://sakurazaka46.com/files/14/_KATE_PINKCATS_%E6%A8%AA.jpeg\" alt=\"\" width=\"5000\" height=\"3534\" /><br /><br />また、発売を記念して9月1日(火)18:00〜Shibuya Sakura Stage BLOOM GATE ZONE Aにて、体験イベント「PINK CATS 1DAY POPUP EVENT」も開催されます。<br /><br />詳しくは特設サイトをご覧ください。<br /><a href=\"https://www.nomorerules.net/special/we_are_pink_cats/\">「We are PINK CATS.」特設サイトはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100094",
       "title": "【櫻坂46メッセージ】「6 QUESTキャンペーン」実施中！QUEST 5スタート！",
@@ -288,5 +298,5 @@
       "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "27"
+  "count": "28"
 }
