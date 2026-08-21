@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00232",
+      "title": "日向坂46 meets BEAMS 「ビームス 宮崎」にてPOP-UP STOREの開催が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/G00232",
+      "pubdate": "2026/08/21 12:00:00",
+      "thumbnail": null,
+      "content": "2024年に続き、日向坂46とビームスのコラボレーションアイテムの発売に合わせ、「ビームス 宮崎」にて『日向坂46 meets ビームス at ビームス 宮崎』と題したPOP-UP STOREを、8月28日(金)〜9月7日(月)の期間限定で開催いたします。<br /><br />店内ではコラボアイテムの販売はもちろん、メンバーのメインビジュアルやここでしか見られないアザーカットの展示、さらにフェスを全力で楽しむためのセレクトグッズもラインナップします。<br />詳しくは<a href=\"https://www.beams.co.jp/news/4957/\">BEAMS公式サイト</a>をご確認ください。<br /><br />※BEAMS公式オンラインショップ予約販売受付は既に終了しております。ご了承ください。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/HINATAZAKA_main_260723.jpg\" alt=\"\" width=\"1455\" height=\"1080\" /><br /><br />日向坂46 meets ビームス at ビームス 宮崎<br />【場所】ビームス 宮崎<br />【期間】8月28日(金)～9月7(月)<br />【営業時間】10:00～20:00"
+    },
+    {
       "category": "release",
       "code": "R00572",
       "title": "18thシングル『イチャイチャ虫』商品収録内容決定！",
@@ -582,5 +592,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "54"
+  "count": "55"
 }
