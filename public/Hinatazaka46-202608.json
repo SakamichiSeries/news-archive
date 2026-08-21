@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02781",
+      "title": "8月26日(水)19:00〜MRT宮崎放送「わけもん‼ ひなたフェス2026直前！1時間SP　〜宮崎と日向坂46が創る二度目の夏への軌跡〜」が放送決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02781",
+      "pubdate": "2026/08/21 17:30:00",
+      "thumbnail": null,
+      "content": "8月26日(水)19:00〜MRT宮崎放送「わけもん‼ ひなたフェス2026直前！1時間SP　〜宮崎と日向坂46が創る二度目の夏への軌跡〜」が放送決定！<br /><br />●番組内容<br />・山下葉留花＆片山紗希が県北でひなたフェス成功祈願！お約束のぶりっ子も！？<br />・ひなたフェス「宮崎の舞台裏」2度目の成功に向け奔走する宮崎の関係者を徹底取材！公共交通機関が史上最大規模でサポート＆おもてなしに燃える宮崎で1番小さな村＆大忙しのたくあんメーカー！？<br />・メンバー直伝！ライブだけじゃない！「ひなたフェス見どころ講座」<br />・五期生の4人（大田美月・佐藤優羽・鶴崎仁香・松尾桜）からオリジナルメッセージ<br />・「日向坂ニュース」のこれまでの名場面も登場！<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://mrt.jp/television/wakemon/\" target=\"_blank\">MRT宮崎放送「わけもん！！」公式サイト</a>"
+    },
+    {
       "category": "release",
       "code": "R00574",
       "title": "「三期生LIVE」「山口陽世 卒業セレモニー」会場限定！ CD/Blu-ray/DVD購入特典が決定！",
@@ -602,5 +612,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "56"
+  "count": "57"
 }
