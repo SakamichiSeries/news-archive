@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100296",
+      "title": "「日向坂ちゃんねる」にて「【森本プレゼンツ】やりたいこと詰め合わせ！真夏の三期生旅【君との思い出刻むよ】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100296",
+      "pubdate": "2026/08/22 21:01:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【森本プレゼンツ】やりたいこと詰め合わせ！真夏の三期生旅【君との思い出刻むよ】」を公開いたしました！<br /><br />森本茉莉が全員の希望を募って、旅の内容・スケジュールを作成！<br />やりたいことを詰め合わせた三期生旅が実現しました！<br /><br />三期生の自然体な姿をぜひご覧ください！<br /><br /><a href=\"https://youtu.be/UQO3Yd5Gkac\">https://youtu.be/UQO3Yd5Gkac<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/UQO3Yd5Gkac\" title=\"【森本プレゼンツ】やりたいこと詰め合わせ！真夏の三期生旅【君との思い出刻むよ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02782",
       "title": "小坂菜緒がナビゲーターを務めるJ-WAVE「SONY SONPO QUEST FOR THE FUTURE」の公開収録が決定！さらに、ゲストに正源司陽子・藤嶌果歩も登場！",
@@ -669,5 +679,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "61"
+  "count": "62"
 }
