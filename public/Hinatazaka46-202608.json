@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02783",
+      "title": "本日8月24日(月)9:00〜「有吉ぃぃeeeee！」YouTubeチャンネル 24時間桃鉄配信に、小坂菜緒が生出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02783",
+      "pubdate": "2026/08/24 08:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "本日8月24日(月)9:00〜「有吉ぃぃeeeee！」YouTubeチャンネル 24時間桃鉄配信に、小坂菜緒が生出演いたします。<br /><br />ぜひご覧ください！<br /><a href=\"https://m.youtube.com/watch?v=_FMzOUdzWCw&ra=m\">「有吉ぃぃeeeee！」24時間桃鉄 生配信ページはコチラ</a>"
+    },
+    {
       "category": "goods",
       "code": "G00233",
       "title": "「三期生 LIVE」追加グッズ 通信販売受付開始！",
@@ -689,5 +702,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "63"
+  "count": "64"
 }
