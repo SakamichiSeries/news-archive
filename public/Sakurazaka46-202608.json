@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02164",
+      "title": "8月24日(月)～放送の震災時交通規制ラジオCMに山川宇衣が出演",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02164",
+      "pubdate": "2026/08/24 19:15:18",
+      "tags": [
+        "77"
+      ],
+      "thumbnail": null,
+      "content": "8月24日(月)～放送の震災時交通規制ラジオCMに山川宇衣が出演しております。<br /><br />詳細はURLをご覧ください<br /><a href=\"https://www.keishicho.metro.tokyo.lg.jp/kurashi/saigai/shinsai_kisei/index.html\">https://www.keishicho.metro.tokyo.lg.jp/kurashi/saigai/shinsai_kisei/index.html<br /></a>"
+    },
+    {
       "category": "event",
       "code": "E00676",
       "title": "Overseas sales of viewing tickets for \"Sakurazaka46 ARENA TOUR 2026 -What's lonesome?-\" start at 12:00 on August 22 (Sat)!",
@@ -341,5 +354,5 @@
       "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "32"
+  "count": "33"
 }
