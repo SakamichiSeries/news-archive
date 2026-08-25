@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00231",
+      "title": "「櫻坂46 CAFE 2026」後期コラボメニューを公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/G00231",
+      "pubdate": "2026/08/25 17:00:00",
+      "thumbnail": null,
+      "content": "「櫻坂46 CAFE 2026」の後期コラボメニューを公開いたしました。<br />櫻坂46 Sakurazaka46 ARENA TOUR 2026 -What&rsquo;s lonesome?- の開催を記念して<br /> 新宿・愛知・大阪・原宿・福岡にて「櫻坂46 CAFE 2026」を開催中です。<br /><br /><img src=\"https://sakurazaka46.com/files/14/0824_skr_cafe_foodMenuA4_kouki.jpg\" alt=\"\" width=\"1785\" height=\"2526\" /><br /> <br /> 予約特典のノベルティとして後期は『ナプキン風カード（全31種）』をランダムで1枚お渡しいたします。<br /><br />開催に関する詳細はこちら&darr;<br /><a href=\"https://spacetimes.co.jp/sakurazaka46_cafe2026/\">https://spacetimes.co.jp/sakurazaka46_cafe2026/<br /></a><div id=\"gtx-trans\" style=\"position: absolute; left: -42px; top: 96.1111px;\"><div class=\"gtx-trans-icon\"></div></div>"
+    },
+    {
       "category": "media",
       "code": "M02164",
       "title": "8月24日(月)～放送の震災時交通規制ラジオCMに山川宇衣が出演",
@@ -354,5 +364,5 @@
       "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "33"
+  "count": "34"
 }
