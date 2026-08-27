@@ -1,6 +1,25 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00677",
+      "title": "「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」に田村保乃・藤吉夏鈴・守屋麗奈・山﨑天・的野美青・山下瞳月・浅井恋乃未の出演が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00677",
+      "pubdate": "2026/08/27 14:54:38",
+      "tags": [
+        "46",
+        "47",
+        "51",
+        "58",
+        "65",
+        "69",
+        "70"
+      ],
+      "thumbnail": null,
+      "content": "9月19日(土)開催の「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」に田村保乃・藤吉夏鈴・守屋麗奈・山﨑天・的野美青・山下瞳月・浅井恋乃未の出演が決定いたしました。<br /><br />開催日時：9月19日(土) 開場12:00／開演14:00／終演21:00（予定）<br />会場：横浜アリーナ<br /><br /><a href=\"https://tgc.girlswalker.com/26aw/\">「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "media",
       "code": "M02165",
       "title": "「櫻坂チャンネル」にて「【村山プランニング】みゅーづのプライベート金沢旅行！完全2人旅！」を公開！",
@@ -378,5 +397,5 @@
       "content": "【JUMP MV】シリーズ第57曲目として、<a href=\"https://www.youtube.com/@jumpchannel \">YouTubeジャンプチャンネル</a>にて、<br />『HUNTER&times;HUNTER』（冨樫義博 ）&times;『Unhappy birthday構文』櫻坂46の公開が決定しました。<br /><a href=\"https://www.youtube.com/@jumpchannel \">ジャンプチャンネル</a>にて8月2日（日）23時55分よりプレミア公開予定です。<br /><br />・8月2日（日）23時55分<br />■JUMP MV /『HUNTER&times;HUNTER』&times;『Unhappy birthday構文』| 櫻坂46 <br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/38cwvZTFo3o?si=DisSv8yS-KbAPUY4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "35"
+  "count": "36"
 }
