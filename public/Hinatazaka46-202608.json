@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00891",
+      "title": "「ひなたフェス 2026」トイレを綺麗に楽しく使っていただくために。",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00891",
+      "pubdate": "2026/08/27 19:00:00",
+      "thumbnail": null,
+      "content": "開催が近づいて来ました「ひなたフェス 2026」におきまして、今回も会場全体のトイレ監修を名誉トイレ診断士・トイレクリーンマイスターである、サトミツこと佐藤満春さんに依頼いたしました。<br />１日中を楽しみ尽くすフェスにおいて、誰もがお世話になるトイレを、気持ちよく、そして楽しく使っていただくために、サトミツさんご指導のもと取り組んでまいります。<br />トイレを皆で綺麗に使っていくための掃除の方法はもちろん、トイレ各所に、メンバーからのメッセージや、サトミツさんによるトイレに関する雑学や格言が掲出してあったり、トイレに関すること、メンバーに関すること、その他いろいろなクイズ企画などもご用意して、トイレさえも楽しい時間となるように準備しています。<br /><br />昨日、現地調査、現地スタッフとの打ち合わせを実施したのを受け、サトミツさんがブログをアップしました。そちらもぜひご一読ください。<br /><br />サトミツさんのブログはこちら<br /><a href=\"https://www.hinata-fes2026.com/diary/\">https://www.hinata-fes2026.com/diary/</a>"
+    },
+    {
       "category": "goods",
       "code": "G00235",
       "title": "日向坂46「ひなたフェス2026」オフィシャルグッズ 会場販売のお知らせ",
@@ -815,5 +825,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "74"
+  "count": "75"
 }
