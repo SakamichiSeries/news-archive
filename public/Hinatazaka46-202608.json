@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00888",
+      "title": "清水理央 9月5日(土)、6日(日) 「ひなたフェス2026」スペシャルLIVE出演に関するお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00888",
+      "pubdate": "2026/08/27 17:00:00",
+      "thumbnail": null,
+      "content": "9月5日(土)、6日(日) に開催の「ひなたフェス2026」に関しまして、清水理央が先日右肩を負傷しました為、スペシャルLIVEでの出演楽曲を制限させて頂くことと致しました。<br />スペシャルパレードへの参加については変更の予定はございません。<br /><br />皆さまのご理解を賜わります様、宜しくお願い申し上げます。<br /><br />Seed & Flower合同会社"
+    },
+    {
+      "category": "event",
       "code": "E00889",
       "title": "「ひなたフェス対策本部」にてブログを更新！",
       "caption": "",
@@ -785,5 +795,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "71"
+  "count": "72"
 }
