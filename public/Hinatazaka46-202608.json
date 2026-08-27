@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100297",
+      "title": "山口陽世のプロフィールページとブログのクローズに関しまして",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100297",
+      "pubdate": "2026/08/27 12:00:00",
+      "thumbnail": null,
+      "content": "いつも日向坂46を応援していただき、ありがとうございます。<br /><br />山口陽世のプロフィールページとブログを2026年9月30日(水)12:00にクローズさせていただくこととなりました。<br /><br />9月30日(水)12:00までは以下のURLよりご覧いただけます。<br /><a href=\"https://www.hinatazaka46.com/s/official/artist/24\">https://www.hinatazaka46.com/s/official/artist/24</a><br /><br />今後とも日向坂46をどうぞよろしくお願いいたします。<br /><br />Seed & Flower合同会社"
+    },
+    {
       "category": "media",
       "code": "M02785",
       "title": "「B.L.T.」2026年10月号（8月28日(金)発売）の表紙・巻頭に小坂菜緒が登場！",
@@ -765,5 +775,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "69"
+  "count": "70"
 }
