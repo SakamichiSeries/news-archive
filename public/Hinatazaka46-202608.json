@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00897",
+      "title": "『よしもとおひさま化計画チャンネル』公開収録時間決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00897",
+      "pubdate": "2026/08/28 19:00:00",
+      "thumbnail": null,
+      "content": "9月5日(土)・6日(日)に開催される「ひなたフェス 2026」の両日にひなたモール（ひなた木の花ドーム）で実施される、吉本興業所属のおひさま芸人によるYouTubeチャンネル『よしもとおひさま化計画チャンネル』の公開収録の実施時間が決定いたしました！<br /><br />公開収録には、いちねんさん、おとうふ・山中さん、ピュート・ポイントさんが出演予定です。<br />公開収録の模様は、後日YouTubeチャンネル『よしもとおひさま化計画チャンネル』にて公開予定です。<br /><br />■場所<br />ひなた宮崎県総合運動公園　ひなた木の花ドーム<br /><br />■公開収録実施時間<br />2026年9月5日(土)・9月6日(日)　各日12:00～13:00<br /><br />■注意事項<br /> ・公開収録の様子を撮影するため、ご観覧のお客様が収録映像に映り込む場合がございます。あらかじめご了承ください。<br />・公開収録中のステージや出演者の写真・動画撮影、録音は一切禁止とさせていただきます。"
+    },
+    {
       "category": "media",
       "code": "M02791",
       "title": "金村美玖 2nd写真集のタイトルが「機微」に決定！表紙4種も解禁！",
@@ -924,5 +934,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "84"
+  "count": "85"
 }
