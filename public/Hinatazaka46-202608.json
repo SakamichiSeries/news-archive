@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02787",
+      "title": "8月30日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」に平尾帆夏が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02787",
+      "pubdate": "2026/08/28 09:00:00",
+      "tags": [
+        "31"
+      ],
+      "thumbnail": null,
+      "content": "8月30日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」に平尾帆夏が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\" target=\"_blank\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02786",
+      "title": "8月29日(土)12:00～放送、TBS「王様のブランチ」午後の部に正源司陽子が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02786",
+      "pubdate": "2026/08/28 09:00:00",
+      "tags": [
+        "35"
+      ],
+      "thumbnail": null,
+      "content": "8月29日(土)12:00～放送、TBS『王様のブランチ』午後の部「語りたいほどマンガ好き」コーナーに正源司陽子がVTR出演いたします！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/brunch/\" target=\"_blank\">TBS「王様のブランチ」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00892",
       "title": "「ひなたフェス2026」場外駐車券の販売が8月28日(金)18:00より再開！",
@@ -835,5 +861,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "76"
+  "count": "78"
 }
