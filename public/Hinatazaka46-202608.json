@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00893",
+      "title": "「ひなたフェス2026」、「日向坂で会いましょう」エリアの詳細が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00893",
+      "pubdate": "2026/08/28 12:01:00",
+      "thumbnail": null,
+      "content": "「ひなたフェス 2026」、第2陸上競技場と冷房完備の「ひなた武道館」にて「日向坂で会いましょう」エリアが登場します！ここでは「日向坂で会いましょう」でメンバーが考案したオリジナルコンテンツが実現！各コンテンツの詳細は特設サイトをご確認下さい。<br /><br />＜第2陸上競技場＞（ひなたエキスポ）<br />①大田美月 presents おひさま褒め褒めストラックアウト<br />②小坂菜緒 presents プレッシャーつむつむ<br />③髙橋未来虹 presents 各軍団等身大フォトパネル<br /><br />＜ひなた武道館＞<br />④平尾帆夏・佐藤優羽 presents 「日向坂で会いましょう」番組セット<br />⑤正源司陽子・竹内希来里・片山紗希 presents ひなあい博物館<br /><br />※①②は整理券を発行いたしますので、お持ちの方のみご参加いただけます。チャレンジは無料です。<br />※武道館へのご入場に関しまして、時間ごとの整理券を発行いたします。整理券をお持ちでない場合、入場できない場合がありますので、ご注意ください。<br /><br />「日向坂で会いましょう」エリアの詳細はこちら<br /><a href=\"https://www.hinata-fes2026.com/lp/hinaai/\">https://www.hinata-fes2026.com/lp/hinaai/</a>"
+    },
+    {
       "category": "release",
       "code": "R00576",
       "title": "18thシングル『イチャイチャ虫』　＠Loppi・HMV限定先着特典　生写真のタイプ別参加メンバーが決定！",
@@ -871,5 +881,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "79"
+  "count": "80"
 }
