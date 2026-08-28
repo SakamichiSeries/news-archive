@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00894",
+      "title": "日向坂46メンバーと宮崎県内26市町村がタイアップした板木（ばんぎ）を、「ひなたフェス2026」会場内に設置！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00894",
+      "pubdate": "2026/08/28 15:00:00",
+      "thumbnail": null,
+      "content": "この度、日向坂46メンバーと宮崎県内26市町村がタイアップした板木（ばんぎ）26枚を、宮崎県の協力・監修のもと共同制作し、ひなたフェス2026の会場内に設置する事が決定いたしました！<br /><br />宮崎県高千穂町荒立神社に、心を込めて力強く七回打てば七つの願いが叶うと伝わる「七福徳寿板木」（しちふくとくじゅばんぎ）というものがあり、その「七福徳寿板木」に込められた七つの願いのいずれかが、荒立神社にてお清めをしていただいた、今回設置する26枚の板木ごとに一つずつ、込められています。<br /><br />なおこちらの板木は、使用用途が見いだせていなかった県産のけやきを使用しており、ひなたフェス2026におけるSDGsの取組の一つともなっております。<br /><br />ぜひ皆様、心を込めて七回、力強く打って御祈願ください！<br /><br />設置場所などの詳細は特設サイトをご確認ください。<br /><a href=\"https://www.hinata-fes2026.com/lp/bangi/\">https://www.hinata-fes2026.com/lp/bangi/</a>"
+    },
+    {
+      "category": "event",
       "code": "E00893",
       "title": "「ひなたフェス2026」、「日向坂で会いましょう」エリアの詳細が決定！",
       "caption": "",
@@ -881,5 +891,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "80"
+  "count": "81"
 }
