@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100299",
+      "title": "「日向坂ちゃんねる」にて「【大迫力】恐竜の骨格標本や化石、動物の剥製まで！小坂菜緒が西日本最大級の総合博物館に行ってみた！【真夏の自由研究】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100299",
+      "pubdate": "2026/08/29 21:01:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【大迫力】恐竜の骨格標本や化石、動物の剥製まで！小坂菜緒が西日本最大級の総合博物館に行ってみた！【真夏の自由研究】」を公開いたしました！<br /><br />小坂菜緒が、北九州にある西日本最大級の総合博物館「いのちのたび博物館」に行ってきました！<br /><br />恐竜の骨格標本や化石、動物の剥製まで！その迫力に大興奮！<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/zxH2McSLZqI\">https://youtu.be/zxH2McSLZqI<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/zxH2McSLZqI\" title=\"【大迫力】恐竜の骨格標本や化石、動物の剥製まで！小坂菜緒が西日本最大級の総合博物館に行ってみた！【真夏の自由研究】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "event",
       "code": "E00895",
       "title": "「ひなたフェス2026」の開催にあわせ、JR日向市駅（日向坂46駅）での「出発式」や、駅構内放送、車内放送等の実施が決定！",
@@ -974,5 +984,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "89"
+  "count": "90"
 }
