@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00898",
+      "title": "9月5日(土)開催の「ひなたフェス 2026」ライブ会場から、一部YouTubeでの生中継決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00898",
+      "pubdate": "2026/08/29 11:00:00",
+      "thumbnail": null,
+      "content": "9月5日(土)に開催される「ひなたフェス2026」のライブの一部を、当日18:00ごろから日向坂46公式YouTubeチャンネルにて生中継することが決定いたしました！<br /><br />会場にお越しいただく皆さまはもちろん、会場に来られない皆さまも、ぜひこの機会に日向坂46のライブをお楽しみください！<br /><br />なお、9月6日(日)公演はYouTubeでの生中継はございませんので、あらかじめご了承ください。<br /><br />▼日向坂46 OFFICIAL YouTube CHANNEL<br /><a href=\"https://www.youtube.com/@46officialyoutubechannel99\">https://www.youtube.com/@46officialyoutubechannel99</a><br /><br />ぜひお楽しみに！<br /><br />※生中継の対象は9月5日(土)公演のライブの一部となります。<br />※9月6日(日)公演のYouTube生中継はございません。"
+    },
+    {
+      "category": "event",
       "code": "E00899",
       "title": "「ひなたフェス対策本部」にてブログを更新！",
       "caption": "",
@@ -944,5 +954,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "86"
+  "count": "87"
 }
