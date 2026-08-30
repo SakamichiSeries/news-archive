@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00575",
+      "title": "9月1日(火)0:00～18hシングル『イチャイチャ虫』のMUSIC VIDEO公開と先行配信が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00575",
+      "pubdate": "2026/08/30 18:00:00",
+      "thumbnail": null,
+      "content": "9月1日(火)0:00～18thシングル『イチャイチャ虫』のMUSIC VIDEOの公開とストリーミング＆ダウンロード先行配信することが決定しました！<br />日向坂46 Official YouTubeチャンネルにてMUSIC VIDEOのプレミア公開ページもオープンいたしました。<br />お楽しみに！<br /><br /><span>■日向坂46『イチャイチャ虫』MUSIC VIDEO -9月1日(火)0:00公開-</span><br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />■日向坂46『イチャイチャ虫』各種ストリーミング＆ダウンロードは<a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\">コチラ</a><br />※配信のリンク先は9月1日(火)0:00から有効となります"
+    },
+    {
       "category": "other",
       "code": "O100299",
       "title": "「日向坂ちゃんねる」にて「【大迫力】恐竜の骨格標本や化石、動物の剥製まで！小坂菜緒が西日本最大級の総合博物館に行ってみた！【真夏の自由研究】」を公開！",
@@ -984,5 +994,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "90"
+  "count": "91"
 }
