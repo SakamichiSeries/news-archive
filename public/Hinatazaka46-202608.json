@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00901",
+      "title": "「ひなたフェス 2026」開催に向けて",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00901",
+      "pubdate": "2026/08/30 21:30:00",
+      "thumbnail": null,
+      "content": "1週間後に迫りました「ひなたフェス 2026」ですが、現在、ライブのリハーサルは順調に進み、フェス当日までにお知らせしたい魅力的なコンテンツもまだまだ準備しています。<br /><br />ですが、現在、宮崎はフェスの準備期間を含めて、連日雨の予報となっています。<br />ここから、全国からご来場予定の皆さまはもちろん、メンバー、スタッフの安全を優先に、各コンテンツの検証を重ね、<br />さらに地元各所との話し合いをいっそう密にしながら、最新情報を収集し、随時その状況をお知らせしていきます。<br /><br />引き続き、公式サイト・ニュース、および「ひなたフェス 2026」特設サイトの「対策本部ブログ」をご確認ください。"
+    },
+    {
       "category": "release",
       "code": "R00575",
       "title": "9月1日(火)0:00～18thシングル『イチャイチャ虫』のMUSIC VIDEO公開と先行配信が決定！",
@@ -994,5 +1004,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "91"
+  "count": "92"
 }
