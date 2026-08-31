@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00903",
+      "title": "「ひなたフェス2026」開催を記念して、宮崎県庁本館にて全国のおひさまを歓迎するライトアップの実施が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00903",
+      "pubdate": "2026/08/31 14:00:00",
+      "thumbnail": null,
+      "content": "宮崎県では、いよいよ今週9⽉5⽇(⼟)・6⽇(⽇)に開催が迫った「ひなたフェス2026」に向け、全国から訪れる「おひさま」の皆さまを歓迎するため、県庁本館の特別ライトアップの実施が決定いたしました！<br /><br />また、県庁前楠並⽊通りには特製の歓迎バナーも掲出されますので、昼のバナー散策から夜のライトアップまで、宮崎県庁周辺の歓迎ムードをぜひお楽しみください。<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/Image.jpg\" alt=\"\" width=\"1024\" height=\"768\" /><br /><br />■宮崎県庁本館のライトアップについて<br /><br />【期間】<br />2026年8⽉31⽇(⽉)～2026年9⽉7⽇(⽉)<br /><br />【点灯時間】<br />⽇没後から午後10時まで<br /><br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/IMG_7852.jpg\" alt=\"\" width=\"5000\" height=\"3750\" /><br /><br />■県庁前楠並⽊通りでの歓迎バナー掲出について<br /><br />【期間】<br />2026年8⽉31⽇(⽉)～2026年9⽉7⽇(⽉)"
+    },
+    {
       "category": "media",
       "code": "M02789",
       "title": "9月2日(水)23:10～朝日放送テレビ「これ余談なんですけど・・・」に石塚瑶季が出演！",
@@ -1030,5 +1040,5 @@
       "content": "「日向坂ちゃんねる」にて「【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️【サラバ　サラバ】」を公開いたしました！<br /><br />日向坂46三期生による「サラバ　サラバ」のコール動画！<br /><br />コールを覚えて、日向坂46「三期生LIVE」を思いっきり楽しみましょう♪<br /><br /><a href=\"https://youtu.be/1z9h7tz6Vkg\">https://youtu.be/1z9h7tz6Vkg<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/1z9h7tz6Vkg\" title=\"【コール動画】3・2・1 Goー! 三期生と過ごす最高の夏がはじまるぞー‼☀️?【サラバ　サラバ】\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
     }
   ],
-  "count": "94"
+  "count": "95"
 }
