@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02796",
+      "title": "本日9月1日(火)24:31〜MBS「ライバルたちがめっちゃ褒めてくる」に片山紗希、金村美玖、小坂菜緒、鶴崎仁香、平尾帆夏、渡辺莉奈が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02796",
+      "pubdate": "2026/09/01 14:30:00",
+      "tags": [
+        "12",
+        "14",
+        "31",
+        "36",
+        "39",
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "本日9月1日(火)24:31〜MBS「ライバルたちがめっちゃ褒めてくる」に片山紗希、金村美玖、小坂菜緒、鶴崎仁香、平尾帆夏、渡辺莉奈が出演いたします。<br />ぜひご覧ください。<br /><br /><div><a href=\"https://www.mbs.jp/pgm_guide/1784646003.shtml\">MBS「ライバルたちがめっちゃ褒めてくる」番組ページはこちら</a></div>"
+    },
+    {
       "category": "release",
       "code": "R00580",
       "title": "18thシングル『イチャイチャ虫』のソロアーティスト写真を更新！",
@@ -48,5 +66,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "4"
+  "count": "5"
 }
