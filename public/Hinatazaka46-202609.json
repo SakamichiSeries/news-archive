@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00907",
+      "title": "「ひなたフェス対策本部」にてブログを更新！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00907",
+      "pubdate": "2026/09/02 20:02:16",
+      "thumbnail": null,
+      "content": "「ひなたフェス対策本部」にてブログを更新いたしました！<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://www.hinata-fes2026.com/diary/\">「ひなたフェス対策本部」はこちら</a>"
+    },
+    {
+      "category": "event",
       "code": "E00906",
       "title": "「ひなたフェス2026」開催中止のお知らせ",
       "caption": "",
@@ -130,5 +140,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "11"
+  "count": "12"
 }
