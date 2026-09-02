@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00906",
+      "title": "「ひなたフェス2026」開催中止のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00906",
+      "pubdate": "2026/09/02 17:00:00",
+      "thumbnail": null,
+      "content": "2026年9月5日(土)、6日(日)に開催を予定していました「ひなたフェス2026」ですが、本日現在の天候予報を踏まえまして、「中止」とさせていただきます。<br /><br />天候が回復することも期待される中ではありますが、全国各地より多くの方々が様々な方法で宮崎までお越しいただくということも考慮し、本日の判断となりました。<br />明日以降の会場施行の計画、予測される交通の混乱なども検証し、ご来場いただくお客さま、出演者、スタッフ、関係するすべての皆さまの安全を最優先に考え、結論に至ったものです。<br /><br />各種料金の払い戻しをはじめ、開催中止に伴いご案内すべきことは、<br />明日のお昼以降、順次お知らせをさせていただきます。<br /><br />楽しみにしていただいた皆さんには申し訳ありませんが、何卒、ご理解をいただけますようお願いいたします。"
+    },
+    {
+      "category": "event",
       "code": "E00905",
       "title": "「ひなたフェス2026」開催可否に関するお知らせ",
       "caption": "",
@@ -120,5 +130,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
