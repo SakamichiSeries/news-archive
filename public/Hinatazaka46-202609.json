@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00905",
+      "title": "「ひなたフェス2026」開催可否に関するお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00905",
+      "pubdate": "2026/09/02 15:31:33",
+      "thumbnail": null,
+      "content": "「ひなたフェス2026」の開催につきまして、現在発表されている天候予報を踏まえ、慎重に検討を進めております。<br /><br />予定どおり開催したいという思いがある一方で、ご来場いただく皆さま・出演者・スタッフをはじめ、関係するすべての皆さまの安全を最優先に判断する必要があると考えております。<br /><br />そのため、開催日までの天候状況や会場の状況、安全面なども含めて総合的に検討したうえで、開催可否を判断いたします。<br /><br />開催可否につきましては、本日17:00を目途に、日向坂46公式サイトにてご案内いたします。<br /><br />今後のご案内をお待ちくださいますよう、お願いいたします。"
+    },
+    {
+      "category": "event",
       "code": "E00904",
       "title": "「ひなたフェス 2026」にドコモブースの設置が決定！",
       "caption": "",
@@ -110,5 +120,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "9"
+  "count": "10"
 }
