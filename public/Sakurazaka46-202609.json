@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02168",
+      "title": "「SNIDEL BEAUTY『透明感メイクレシピ』」に守屋麗奈が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02168",
+      "pubdate": "2026/09/03 10:00:00",
+      "tags": [
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "9月3日(木)10:00～「SNIDEL BEAUTY」にて公開の「透明感メイクレシピ」企画に守屋麗奈がモデルとして登場しております。<br />ぜひチェックしてください。<br /><br /><img src=\"https://sakurazaka46.com/files/14/fieahf9es9fesj9efsj09fej.jpeg\" alt=\"\" width=\"2400\" height=\"1338\" /><br /><br />「SNIDEL BEAUTY」公式Instagram<br /><a href=\"https://www.instagram.com/snidelbeauty\">https://www.instagram.com/snidelbeauty</a><br /><br />「SNIDEL BEAUTY」公式X<br /><a href=\"https://twitter.com/snidel_beauty\">https://twitter.com/snidel_beauty<br /></a>"
+    },
+    {
       "category": "event",
       "code": "E00679",
       "title": " 9月26日(土)開催の「Rakuten GirlsAward 2026 AUTUMN/WINTER」に田村保乃、藤吉夏鈴、守屋麗奈、山﨑天、的野美青、山下瞳月、浅井恋乃未の出演が決定！",
@@ -30,5 +43,5 @@
       "content": "9月8日(火)19:00より、櫻坂46 OFFICIAL YouTube CHANNELにて、LIVE Blu-ray & DVD『5th YEAR ANNIVERSARY LIVE at MUFG STADIUM&nbsp;発売記念リリースパーティー』の生配信が決定いたしました！<br /><br />今回も遠山大輔(グランジ)さんにご出演いただき、最新映像作品を熱く語ります！<br />ぜひご覧ください！<br />※メンバーの出演はございません。<span><br /></span>"
     }
   ],
-  "count": "2"
+  "count": "3"
 }
