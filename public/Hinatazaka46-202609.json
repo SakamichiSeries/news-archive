@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100300",
+      "title": "9月6日(日)20:00～ 日向坂46 緊急生配信決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100300",
+      "pubdate": "2026/09/04 20:00:00",
+      "thumbnail": null,
+      "content": "9月6日(日)20:00より、日向坂46 OFFICIAL YouTube CHANNELにて、メンバーによる緊急生配信が決定いたしました。<br /><br />2026年9月5日(土)、6日(日)に開催を予定していた「ひなたフェス2026」は中止となりましたが、楽しみにしてくださっていた皆さまと、少しでも同じ時間を過ごしたいという思いから、生配信をお届けします。<br /><br />ぜひYouTubeのコメント欄からご参加ください！<br /><br />9月6日(日)20:00、日向坂46 OFFICIAL YouTube CHANNELでお会いしましょう！<br /><br />■ご視聴はこちら<br /><a href=\"https://youtube.com/live/OAM2ulVoa4Y\">https://youtube.com/live/OAM2ulVoa4Y</a><br /><img src=\"https://cdn.hinatazaka46.com/files/14/260904_hinata-fes_yt_01.jpg\" alt=\"\" width=\"1280\" height=\"720\" />"
+    },
+    {
       "category": "event",
       "code": "E00910",
       "title": "日向坂46 「ひなたフェス2026」　各種チケット払い戻しのご案内",
@@ -170,5 +180,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "15"
+  "count": "16"
 }
