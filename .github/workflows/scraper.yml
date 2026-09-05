@@ -96,4 +96,4 @@ jobs:
           echo "Waiting 180 seconds..."
           sleep 180
           echo "Triggering next run..."
-          gh workflow run scraper.yml --repo SakamichiSeries/news-archive
+          gh workflow run scraper.yml --repo SakamichiSeries/news-archive || date
