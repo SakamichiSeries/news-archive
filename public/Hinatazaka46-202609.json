@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02798",
+      "title": "本日9月6日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」に正源司陽子が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02798",
+      "pubdate": "2026/09/06 09:01:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "本日9月6日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」に正源司陽子が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-tokyo.co.jp/ariyoshieeeee/\" target=\"_blank\">テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない? 」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02797",
+      "title": "本日9月6日(日)15:20～ テレビ朝日「路線バスで寄り道の旅」に正源司陽子が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02797",
+      "pubdate": "2026/09/06 09:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "本日9月6日(日)15:20～ テレビ朝日「路線バスで寄り道の旅」に正源司陽子が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/rosenbus/\">テレビ朝日「路線バスで寄り道の旅」番組サイトはコチラ</a>"
+    },
+    {
+      "category": "event",
+      "code": "E00912",
+      "title": "「ひなたフェス2026」アンケート（実施：宮崎大学土屋有研究室）へのご協力をお願いします",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00912",
+      "pubdate": "2026/09/06 09:00:00",
+      "thumbnail": null,
+      "content": "9月5日（土）、6日（日）に開催を予定していた日向坂46「ひなたフェス2026」の開催を楽しみに準備をされていた皆さまに、アンケートへのご協力のお願いです。<br /><br />宮崎大学土屋有研究室が今回の「ひなたフェス2026」について、宮崎県・九州における地域活性化への効果、地域との関わり等についてのアンケート調査を実施しています。<br /><br />本調査は、「ひなたフェス2026」への参加を予定されていたすべての方を対象としています。中止の発表後も予定どおり宮崎を訪れた方はもちろん、予定を変更して宮崎を訪れなかった方にも、ぜひご回答いただきたいアンケートです。<br /><br />また、宮崎県内にお住まいの方や、「ひなたフェス2026」に関連した企画・サービス等を利用された方も対象となります。<br /><br />いただいた回答は、個人が特定されない形で統計的に処理したうえで、「ひなたフェス2026」の経済効果や宮崎県への影響に関する報告書、学会発表、学術論文、広報資料等に活用させていただく場合がございます。<br /><br />ご協力のほど、何卒よろしくお願いいたします。<br /><br />宮崎大学土屋有研究室による「ひなたフェス2026」アンケートはコチラ<br /><a href=\"https://questant.jp/q/hf26\">https://questant.jp/q/hf26</a>"
+    },
+    {
       "category": "audition",
       "code": "A00006",
       "title": "「青葉坂46 オーディションセミナー」開催決定！",
@@ -190,5 +226,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "17"
+  "count": "20"
 }
