@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00913",
+      "title": "「ひなたフェス 2026」ツアー（JTB）分の払戻しご案内",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00913",
+      "pubdate": "2026/09/07 10:00:00",
+      "thumbnail": null,
+      "content": "開催中止となりました「ひなたフェス 2026」の、ライブチケット付きツアー（JTB）各種セットの払戻しに関する詳細をお知らせいたします。以下をご確認のうえ、払戻し手続きをお願いいたします<br /><br /><hr /><br />&lt;対象公演&gt;<br />日向坂46「ひなたフェス 2026」<br /><br />【日程】<br />2026年9月5日(土) 開場 14:30／開演 16:30<br />2026年9月6日(日) 開場 14:30／開演 16:30<br /><br />【会場】<br />ひなた宮崎県総合運動公園<br />ひなたサンマリンスタジアム宮崎<br /><br /><hr /><br />【ライブチケット付きツアー（JTB）各種対象】<br /><br />■クレジットカードでツアー代金をお支払いの方<br />　&rArr;ご購入された皆さまへ、メールが配信されます。お客様による手続きは不要です。<br />　　近日中にメールが届きますので、そちらをご確認ください。<br /><br />■コンビニでツアー代金をお支払いの方<br />&rArr;返金口座をご入力頂くシステムのURLを、ご購入された皆さまへツアーデスクよりメールでお知らせいたします。そちらをご確認のうえ、指示に従って返金口座の登録をお願いいたします。<br /><br />＜JTBでの払戻しに関するお問い合わせ＞<br />株式会社JTBビジネストランスフォーム「ひなたフェス 2026」JTBツアーデスク<br /><a href=\"mailto:hinata-fes2026miyazaki@jbx.jtb.jp\">hinata-fes2026miyazaki@jbx.jtb.jp</a><br />092-720-2231（平日10:00〜17:00)<br /><br />＜公演に関するお問い合わせ＞<br />キョードー西日本　0570-09-2424（平日・土曜11:00～15:00）<br />ライブエグザム　<a href=\"https://www.liveexsam.co.jp/contact_sakamichi/\">https://www.liveexsam.co.jp/contact_sakamichi/</a>"
+    },
+    {
+      "category": "event",
       "code": "E00911",
       "title": "「18th Single ひなた坂46 LIVE」オフィシャル先行が9/7(月)12:00よりスタート！",
       "caption": "",
@@ -236,5 +246,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "21"
+  "count": "22"
 }
