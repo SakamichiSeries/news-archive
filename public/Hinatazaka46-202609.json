@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00581",
+      "title": "18thシングル『イチャイチャ虫』収録曲『風にキンモクセイ』MUSIC VIDEO公開&先行配信が9月10日(木)0:00～に決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00581",
+      "pubdate": "2026/09/07 20:00:00",
+      "thumbnail": null,
+      "content": "18thシングル『イチャイチャ虫』収録、<span>ひなた坂46メンバーによる楽曲</span>『風にキンモクセイ』のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開決定いたしました！<br /><br />Music Videoの公開と同時に、各音楽配信サイトにてストリーミング＆ダウンロードもスタートいたします！<br /><br />公開は9月10日(木)0:00～となります。<br />是非お楽しみに！"
+    },
+    {
       "category": "media",
       "code": "M02799",
       "title": "金村美玖 2nd写真集「機微」の書店限定特典が決定！",
@@ -256,5 +266,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "23"
+  "count": "24"
 }
