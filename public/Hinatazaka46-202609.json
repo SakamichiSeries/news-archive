@@ -1,6 +1,45 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02802",
+      "title": "本日9月9日(水)発売「anan」No.2511に藤嶌果歩が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02802",
+      "pubdate": "2026/09/09 09:00:00",
+      "tags": [
+        "33"
+      ],
+      "thumbnail": null,
+      "content": "本日9月9日(水)発売「anan」No.2511に、藤嶌果歩が登場しております！<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://magazineworld.jp/anan/anan-2211/\">「anan」オフィシャルサイトはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02801",
+      "title": "本日9月9日(水)24:15～ テレビ朝日「AI大作戦」に平尾帆夏が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02801",
+      "pubdate": "2026/09/09 09:00:00",
+      "tags": [
+        "31"
+      ],
+      "thumbnail": null,
+      "content": "本日9月9日(水)24:15～ テレビ朝日「AI大作戦」に平尾帆夏が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ai_daisakusen/\">テレビ朝日「AI大作戦」の番組ページはこちら</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02800",
+      "title": "本日9月9日(水)19:00～ テレビ朝日「サンドの世界笑撃映像社」に平尾帆夏が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02800",
+      "pubdate": "2026/09/09 09:00:00",
+      "tags": [
+        "31"
+      ],
+      "thumbnail": null,
+      "content": "本日9月9日(水)19:00～ テレビ朝日「サンドの世界笑撃映像社」に平尾帆夏が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/shogekieizosha/\">テレビ朝日「サンドの世界笑撃映像社！」の番組ページはこちら</a>"
+    },
+    {
       "category": "event",
       "code": "E00915",
       "title": "「森本茉莉 卒業セレモニー」の実施が決定！",
@@ -306,5 +345,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "28"
+  "count": "31"
 }
