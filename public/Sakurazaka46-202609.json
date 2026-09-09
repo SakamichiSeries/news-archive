@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02170",
+      "title": " 「anan」No.2511（9月9日(水)発売）に山下瞳月が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02170",
+      "pubdate": "2026/09/09 12:20:10",
+      "tags": [
+        "69"
+      ],
+      "thumbnail": null,
+      "content": "「anan」No.2511（9月9日(水)発売）に山下瞳月が登場しております。<br />ぜひチェックしてください。<br /><br /><a href=\"https://ananweb.jp/\">「anan」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "shakehands",
       "code": "S00225",
       "title": "16th Single『愛MUST BE』発売記念 オンラインミート＆グリート（個別トーク会）開催決定！",
@@ -118,5 +131,5 @@
       "content": "9月8日(火)19:00より、櫻坂46 OFFICIAL YouTube CHANNELにて、LIVE Blu-ray & DVD『5th YEAR ANNIVERSARY LIVE at MUFG STADIUM&nbsp;発売記念リリースパーティー』の生配信が決定いたしました！<br /><br />今回も遠山大輔(グランジ)さんにご出演いただき、最新映像作品を熱く語ります！<br />ぜひご覧ください！<br />※メンバーの出演はございません。<span><br /></span>"
     }
   ],
-  "count": "10"
+  "count": "11"
 }
