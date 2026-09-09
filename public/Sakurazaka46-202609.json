@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00682",
+      "title": "「松田里奈 卒業セレモニー」の実施が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00682",
+      "pubdate": "2026/09/09 22:00:00",
+      "thumbnail": null,
+      "content": "年内の活動をもってグループからの卒業を発表した松田里奈ですが、「6th YEAR ANNIVERSARY LIVE」の2日目、11月15日(日)にて、「松田里奈 卒業セレモニー」を実施することが決定いたしました。<br /><br />「6th YEAR ANNIVERSARY LIVE」のチケットは、ファンクラブ抽選先行・Leminoスペシャルシート先行・Lemino櫻坂46パック先行が9月20日(日)23:59まで受付中です。<br /><br />▼チケットのお申し込みはこちら<br /><a href=\"https://sakurazaka46.com/s/s46/page/6th_anniversary\">https://sakurazaka46.com/s/s46/page/6th_anniversary<br /></a>"
+    },
+    {
       "category": "other",
       "code": "O100096",
       "title": "松田里奈 卒業のお知らせ",
@@ -162,5 +172,5 @@
       "content": "9月8日(火)19:00より、櫻坂46 OFFICIAL YouTube CHANNELにて、LIVE Blu-ray & DVD『5th YEAR ANNIVERSARY LIVE at MUFG STADIUM&nbsp;発売記念リリースパーティー』の生配信が決定いたしました！<br /><br />今回も遠山大輔(グランジ)さんにご出演いただき、最新映像作品を熱く語ります！<br />ぜひご覧ください！<br />※メンバーの出演はございません。<span><br /></span>"
     }
   ],
-  "count": "13"
+  "count": "14"
 }
