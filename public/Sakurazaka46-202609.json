@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100096",
+      "title": "松田里奈 卒業のお知らせ",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/O100096",
+      "pubdate": "2026/09/09 22:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "<span>松田里奈ですが、先ほど本人のブログにて発表させていただいた通り、年内の活動をもって櫻坂46から卒業することになりました。</span><br /><span>具体的な卒業時期等に関しましては、決まり次第ご報告させていただきます。</span><br /><span>&nbsp;</span><br /><span>今後とも、松田里奈、櫻坂46の応援のほど宜しくお願い致します。</span><br /><span>&nbsp;</span><br /><span>Seed & Flower合同会社</span>"
+    },
+    {
       "category": "media",
       "code": "M02169",
       "title": "9月11日(金)20:00頃～「櫻坂チャンネル」にて「『櫻坂けん玉部』腕前披露の生配信！」が決定！",
@@ -149,5 +162,5 @@
       "content": "9月8日(火)19:00より、櫻坂46 OFFICIAL YouTube CHANNELにて、LIVE Blu-ray & DVD『5th YEAR ANNIVERSARY LIVE at MUFG STADIUM&nbsp;発売記念リリースパーティー』の生配信が決定いたしました！<br /><br />今回も遠山大輔(グランジ)さんにご出演いただき、最新映像作品を熱く語ります！<br />ぜひご覧ください！<br />※メンバーの出演はございません。<span><br /></span>"
     }
   ],
-  "count": "12"
+  "count": "13"
 }
