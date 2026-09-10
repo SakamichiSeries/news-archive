@@ -2,6 +2,23 @@
   "news": [
     {
       "category": "media",
+      "code": "M02805",
+      "title": "文化放送『日向坂46の「ひ」』の特別番組 『「イチャイチャ虫」発売記念！ 日向坂46の「ひ」超拡大SPECIAL!!』 の放送が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02805",
+      "pubdate": "2026/09/10 12:00:00",
+      "tags": [
+        "12",
+        "21",
+        "23",
+        "29",
+        "42"
+      ],
+      "thumbnail": null,
+      "content": "日向坂46 18th single「イチャイチャ虫」の発売を記念した2時間15分の特別番組、文化放送『「イチャイチャ虫」発売記念！日向坂46の「ひ」超拡大SPECIAL!!』の放送が決定いたしました！<br /><br />上村ひなの・金村美玖・森本茉莉・正源司陽子・佐藤優羽が出演いたします。<br /><br />どうぞお楽しみに！<br /><br /><br />【特別番組概要】<br /> ■番組名：『「イチャイチャ虫」発売記念！日向坂46の「ひ」超拡大SPECIAL!!』<br /><br /> ■放送日時： 2026年9月18日(金) 19:00～21:15"
+    },
+    {
+      "category": "media",
       "code": "M02803",
       "title": "9月11日(金)19:30～ NHK「沼にハマってきいてみた」特別企画に、金村美玖・上村ひなのが出演！",
       "caption": "",
@@ -389,5 +406,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "35"
+  "count": "36"
 }
