@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02803",
+      "title": "9月11日(金)19:30～ NHK「沼にハマってきいてみた」特別企画に、金村美玖・上村ひなのが出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02803",
+      "pubdate": "2026/09/10 09:00:00",
+      "tags": [
+        "12",
+        "21"
+      ],
+      "thumbnail": null,
+      "content": "9月11日(金)19:30～ NHK「沼にハマってきいてみた」の特別企画 「逸材発掘!ご当地ハマったさん・宮崎編」が、「てげオシ！」として放送決定！<a href=\"https://www.web.nhk/tv/pl/series-tep-WL1316RPPR/ep/H8RL43FNC7\"><br /></a><div>金村美玖・上村ひなのが登場いたします。ぜひご覧ください！<br /><a href=\"https://www.web.nhk/tv/pl/series-tep-WL1316RPPR/ep/H8RL43FNC7\"><br />NHK宮崎「てげオシ！」公式ホームページはコチラ</a></div>"
+    },
+    {
       "category": "release",
       "code": "R00584",
       "title": "18thシングル『イチャイチャ虫』収録曲『風にキンモクセイ』MUSIC VIDEO公開&先行配信スタート！",
@@ -375,5 +389,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "34"
+  "count": "35"
 }
