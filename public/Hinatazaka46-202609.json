@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M02806",
+      "title": "NHK総合「民謡魂ふるさとの唄」に、日向坂46のレギュラー出演が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02806",
+      "pubdate": "2026/09/10 14:00:00",
+      "tags": [
+        "29",
+        "38"
+      ],
+      "thumbnail": null,
+      "content": "ふるさとの魅力を民謡の名曲とともにお届けする民謡エンターテインメント番組、NHK総合「民謡魂ふるさとの唄」の番組内のコーナー「一郷（ごう）一会」にて、日向坂46のレギュラー出演が決定いたしました！<br /><br />初回は、正源司陽子・大野愛実が出演いたします。どうぞお楽しみに！<br /><br />【番組概要】<br /><br />■番組名<br />NHK総合「民謡魂ふるさとの唄」 <br /><br />■放送日時<br />9月22日(火・祝)14:15～14:59<br />※NHK ONEで同時・見逃し配信予定 <br /><br />▼番組公式ページはこちら<br /><a href=\"https://www.web.nhk/tv/an/minyo-damashii/pl/series-tep-E521RLNL97 \">https://www.web.nhk/tv/an/minyo-damashii/pl/series-tep-E521RLNL97<br /></a>"
+    },
+    {
+      "category": "media",
       "code": "M02805",
       "title": "文化放送『日向坂46の「ひ」』の特別番組 『「イチャイチャ虫」発売記念！ 日向坂46の「ひ」超拡大SPECIAL!!』 の放送が決定！",
       "caption": "",
@@ -406,5 +420,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "36"
+  "count": "37"
 }
