@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100302",
+      "title": "おひさま勉強会と「ひなたフェス2026」コラボ商品販売のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100302",
+      "pubdate": "2026/09/14 12:00:00",
+      "thumbnail": null,
+      "content": "「ひなたフェス2026」の会場でも販売予定だった、コラボお土産商品が宮崎県内を中心に各所で販売されています。<br />商品は全部で7種類！宮崎のお菓子とグループがコラボし、全商品を並べると全メンバーのイラストが揃う仕様になっています。<br /><br />【インターネット販売（やお九州）】<br /><a href=\"https://store.shopping.yahoo.co.jp/yao800/a4d2a4caa4.html\">https://store.shopping.yahoo.co.jp/yao800/a4d2a4caa4.html</a><br /><br />【販売場所】<br />＜宮崎県内＞<br />・宮崎ブーゲンビリア空港<br />・ANA FESTA 宮崎ロビー店（宮崎ブーゲンビリア空港）<br />・宮崎銘品蔵（宮崎駅）<br />・フェニックス・シーガイア・オーシャンリゾートデパートメント<br />・宮崎観光ホテル インショップ<br />・ANA ホリデイ・イン リゾート 宮崎 ショップ ざぶ～ん<br />・青島屋<br />・若草HUTTE & co-ba MIYAZAKI<br />・三ッ和荘（鵜戸神宮） ※一部商品のみ取り扱い<br />・まちの駅とみたか物産館（日向市）<br />・春夏秋冬いっつもや（美郷町）※一部商品のみ取り扱い<br /><br />＜宮崎県外＞<br />9/10販売開始<br />・博多銘品蔵 博多口店(JR博多駅内)<br /><br />9/12～14に販売開始<br />・Hakata銘品蔵店（JR博多駅内）<br />・博多銘品蔵 博多新幹線店<br />・九州銘品蔵 福岡空港店<br />・小倉銘品蔵店（JR小倉駅内）<br />・熊本銘品蔵店（JRくまもとシティ内）<br />・大分銘品蔵店（アミュプラザおおいた内）<br />・長崎銘品蔵店（アミュプラザ長崎内）<br /><br />準備ができ次第販売開始<br />・新宿みやざき館KONNE<br />・みやざき館KONNE（大阪）<br /><br />※各店舗で在庫数に限りがあるため、販売店によっては売り切れとなる場合がございます。"
+    },
+    {
       "category": "media",
       "code": "M02804",
       "title": "「EX大衆」10月号（9月15日(火)発売）の表紙・巻頭に金村美玖が登場！中面には佐藤優羽、 森本茉莉×石塚瑶季、竹内希来里×平尾帆夏の特集記事も！",
@@ -468,5 +478,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "41"
+  "count": "42"
 }
