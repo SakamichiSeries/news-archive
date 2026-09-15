@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02808",
+      "title": "9月16日(水)24:21～ テレビ朝日「AI大作戦」に平尾帆夏が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02808",
+      "pubdate": "2026/09/15 17:00:00",
+      "tags": [
+        "31"
+      ],
+      "thumbnail": null,
+      "content": "9月16日(水)24:21～  テレビ朝日「AI大作戦」に平尾帆夏が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ai_daisakusen/\">テレビ朝日「AI大作戦」の番組ページはこちら</a>"
+    },
+    {
       "category": "release",
       "code": "R00587",
       "title": "2026年9月30日(水)18thシングル『イチャイチャ虫』CDショップチェーン別先着特典絵柄決定!!",
@@ -498,5 +511,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "44"
+  "count": "45"
 }
