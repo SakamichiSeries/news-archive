@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00683",
+      "title": "櫻坂46「15th Single BACKS LIVE!!」 祝花・プレゼントに関しまして",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00683",
+      "pubdate": "2026/09/16 16:00:00",
+      "thumbnail": null,
+      "content": "９月29日(火)・30日(水)櫻坂46「15th Single BACKS LIVE!!」<br />TOYOTA ARENA TOKYO公演の祝花・プレゼントに関しまして、お知らせいたします。<br /><br />■祝花<br />お祝いのスタンド花などは、会場スペースの都合により、大変申し訳ありませんが受け取ることが出来ません。祝花は、大小に関わらず送らないようにお願いいたします。<br />会場に届いたものに関しましては、受け取らずに生花店にお持ち帰りいただきます。<br /><br />■プレゼント・応援幕について<br />メンバーへのお手紙・プレゼント・応援幕の持ち込みは禁止とさせていただきます。会場にお持ちいただいても、お預かりすることは出来ません。<br /><br />以上、予めご了承下さい。"
+    },
+    {
       "category": "other",
       "code": "O100097",
       "title": "田村保乃 卒業のお知らせ",
@@ -262,5 +272,5 @@
       "content": "9月8日(火)19:00より、櫻坂46 OFFICIAL YouTube CHANNELにて、LIVE Blu-ray & DVD『5th YEAR ANNIVERSARY LIVE at MUFG STADIUM&nbsp;発売記念リリースパーティー』の生配信が決定いたしました！<br /><br />今回も遠山大輔(グランジ)さんにご出演いただき、最新映像作品を熱く語ります！<br />ぜひご覧ください！<br />※メンバーの出演はございません。<span><br /></span>"
     }
   ],
-  "count": "22"
+  "count": "23"
 }
