@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02816",
+      "title": "10月10日(土)に竹内希来里が出演する『日向坂46竹内希来里の地元できらる』の公開収録が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02816",
+      "pubdate": "2026/09/19 20:00:00",
+      "tags": [
+        "30"
+      ],
+      "thumbnail": null,
+      "content": "10月10日(土)に竹内希来里が出演する『日向坂46竹内希来里の地元できらる』の公開収録が決定いたしました。<br />どうぞお楽しみに！<br /><br />▼詳細はこちら<br /><a href=\"https://www.tss-tv.co.jp/nishimuracamp/gourmetfes2026/\">https://www.tss-tv.co.jp/nishimuracamp/gourmetfes2026/<br /></a><br />▼番組公式Xはこちら<br /><a href=\"https://x.com/tss_jimokira\">https://x.com/tss_jimokira</a>"
+    },
+    {
       "category": "release",
       "code": "R00589",
       "title": "18thシングル『イチャイチャ虫』TYPE-A～C収録 特典映像『17th Single ひなた坂46 LIVE ~Director’s Cut Collections~』ダイジェスト公開！",
@@ -568,5 +581,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "50"
+  "count": "51"
 }
