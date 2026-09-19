@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100304",
+      "title": "「日向坂ちゃんねる」にて「【◯◯から始まるリズムに合わせて】日向坂46オリジナルリズム4ゲームやってみた！【平成リバイバル】」を公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100304",
+      "pubdate": "2026/09/19 21:01:00",
+      "thumbnail": null,
+      "content": "「日向坂ちゃんねる」にて「【◯◯から始まるリズムに合わせて】日向坂46オリジナルリズム4ゲームやってみた！【平成リバイバル】」を公開いたしました！<br /><br />楽屋シリーズ第5弾！<br />平成に流行った「リズム4ゲーム」で遊んでみました！<br /><br />4拍子のリズムに大苦戦！？<br />日向坂46オリジナルルールも♪<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtu.be/l5tDRT3_hb8\">https://youtu.be/l5tDRT3_hb8<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/l5tDRT3_hb8\" title=\"\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02816",
       "title": "10月10日(土)に竹内希来里が出演する『日向坂46竹内希来里の地元できらる』の公開収録が決定！",
@@ -581,5 +591,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "51"
+  "count": "52"
 }
