@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00685",
+      "title": "「ROCK IN JAPAN FESTIVAL 2026」9月21日(月・祝)公演の台風接近に伴う開催中止のお知らせ",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00685",
+      "pubdate": "2026/09/20 11:00:44",
+      "thumbnail": null,
+      "content": "櫻坂46が出演予定でした<span>「ROCK IN JAPAN FESTIVAL 2026」9</span>月21日(月・祝)公演が台風接近に伴い、開催の中止が発表されました。<br />詳しくはURLをご確認ください。<br /><br /><a href=\"https://rijfes.jp/\">「ROCK IN JAPAN FESTIVAL」公式ホームページはコチラ</a><br /><div id=\"gtx-trans\" style=\"position: absolute; left: -43px; top: 102.889px;\"><div class=\"gtx-trans-icon\"></div></div>"
+    },
+    {
       "category": "goods",
       "code": "G00233",
       "title": "櫻坂46「15th Single BACKS LIVE!!」オフィシャルグッズ 会場販売のお知らせ",
@@ -315,5 +325,5 @@
       "content": "9月8日(火)19:00より、櫻坂46 OFFICIAL YouTube CHANNELにて、LIVE Blu-ray & DVD『5th YEAR ANNIVERSARY LIVE at MUFG STADIUM&nbsp;発売記念リリースパーティー』の生配信が決定いたしました！<br /><br />今回も遠山大輔(グランジ)さんにご出演いただき、最新映像作品を熱く語ります！<br />ぜひご覧ください！<br />※メンバーの出演はございません。<span><br /></span>"
     }
   ],
-  "count": "27"
+  "count": "28"
 }
