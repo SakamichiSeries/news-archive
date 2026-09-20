@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02812",
+      "title": "9月23日(水)23:17～朝日放送テレビ「これ余談なんですけど・・・」に平尾帆夏が出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02812",
+      "pubdate": "2026/09/20 09:00:00",
+      "tags": [
+        "31"
+      ],
+      "thumbnail": null,
+      "content": "9月23日(水)23:17～朝日放送テレビ「これ余談なんですけど・・・」に平尾帆夏が出演いたします！<br />ぜひご覧ください。<br /><br /><a href=\"https://www.asahi.co.jp/yodan/\">朝日放送テレビ「これ余談なんですけど・・・」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100304",
       "title": "「日向坂ちゃんねる」にて「【◯◯から始まるリズムに合わせて】日向坂46オリジナルリズム4ゲームやってみた！【平成リバイバル】」を公開！",
@@ -591,5 +604,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "52"
+  "count": "53"
 }
