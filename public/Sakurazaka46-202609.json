@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02176",
+      "title": "「櫻坂チャンネル」にて「【完走】全国ツアー千秋楽！香川公演の櫻坂46に密着！【裏側】」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02176",
+      "pubdate": "2026/09/22 22:00:00",
+      "tags": [
+        "kanji"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【完走】全国ツアー千秋楽！香川公演の櫻坂46に密着！【裏側】」を公開いたしました。<br />ぜひご覧ください。<br /><div><br /><a href=\"https://youtu.be/brypAmxXNoI\">櫻坂チャンネル「【完走】全国ツアー千秋楽！香川公演の櫻坂46に密着！【裏側】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/brypAmxXNoI?si=sTw0kJkS7ixZxR9O\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>"
+    },
+    {
       "category": "event",
       "code": "E00687",
       "title": "櫻坂46「15th Single BACKS LIVE!!」の生配信が決定！9月22日(火)12:00より、配信視聴チケットの販売スタート！",
@@ -365,5 +378,5 @@
       "content": "9月8日(火)19:00より、櫻坂46 OFFICIAL YouTube CHANNELにて、LIVE Blu-ray & DVD『5th YEAR ANNIVERSARY LIVE at MUFG STADIUM&nbsp;発売記念リリースパーティー』の生配信が決定いたしました！<br /><br />今回も遠山大輔(グランジ)さんにご出演いただき、最新映像作品を熱く語ります！<br />ぜひご覧ください！<br />※メンバーの出演はございません。<span><br /></span>"
     }
   ],
-  "count": "32"
+  "count": "33"
 }
