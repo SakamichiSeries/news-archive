@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02813",
+      "title": "「アップトゥボーイ」vol.367（9月24日(木)発売）の表紙・巻頭に大野愛実、中面に平岡海月が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02813",
+      "pubdate": "2026/09/22 09:00:00",
+      "tags": [
+        "32",
+        "38"
+      ],
+      "thumbnail": null,
+      "content": "「アップトゥボーイ」vol.367（9月24日(木)発売）の表紙・巻頭に正源司陽子、中面に片山紗希が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://x.com/wani_UTB\" target=\"_blank\">「アップトゥボーイ」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02811",
+      "title": "「週刊少年マガジン」43号（9月24日(木)発売）の表紙・巻頭に小坂菜緒が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02811",
+      "pubdate": "2026/09/22 09:00:00",
+      "tags": [
+        "14"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年マガジン」43号（9月24日(木)発売）の表紙・巻頭に小坂菜緒が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://shonenmagazine.com/\" target=\"_blank\">「週刊少年マガジン」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00590",
       "title": "18thシングル『イチャイチャ虫』発売記念・各CDショップチェーンにてコラボレーション展開決定！",
@@ -627,5 +654,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "55"
+  "count": "57"
 }
