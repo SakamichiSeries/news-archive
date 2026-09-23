@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "other",
+      "code": "O100307",
+      "title": "9/26(土)22:00〜「日向坂ちゃんねる」にて「キャプにん生誕記念！～夜ふかししようぜ～髙橋未来虹の人生をゲームで振り返る!?生配信」が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/O100307",
+      "pubdate": "2026/09/23 21:00:00",
+      "thumbnail": null,
+      "content": "9/26(土)22:00より、YouTubeチャンネル「日向坂ちゃんねる」にて「キャプにん生誕記念！～夜ふかししようぜ～髙橋未来虹の人生をゲームで振り返る!?生配信」が決定いたしました！<br /><br />9/27(日)は、日向坂46キャプテン・髙橋未来虹23歳の誕生日。<br /><br />キャプにんの生誕を記念して、ゲームとトークで夜ふかし生配信！<br />一緒にキャプにんをお祝いしましょう！<br /><br />ぜひご覧ください！<br /><br /><a href=\"https://youtube.com/live/gdNMV9Qgjmo\">https://youtube.com/live/gdNMV9Qgjmo<br /></a><iframe width=\"320\" height=\"180\" src=\"https://www.youtube.com/embed/gdNMV9Qgjmo\" title=\"【9/26(土)22:00〜】キャプにん生誕記念！～夜ふかししようぜ～髙橋未来虹の人生をゲームで振り返る!?生配信\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02813",
       "title": "「アップトゥボーイ」vol.367（9月24日(木)発売）の表紙・巻頭に大野愛実、中面に平岡海月が登場！",
@@ -654,5 +664,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "57"
+  "count": "58"
 }
