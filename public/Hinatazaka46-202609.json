@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02817",
+      "title": "「ViVi」11・12月合併号（本日9月24日(木)発売）に藤嶌果歩が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02817",
+      "pubdate": "2026/09/24 12:00:00",
+      "tags": [
+        "33"
+      ],
+      "thumbnail": null,
+      "content": "ViVi」11・12月合併号（本日9月24日(木)発売）に藤嶌果歩が登場しております！<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://www.vivi.tv/\">「ViVi」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "other",
       "code": "O100307",
       "title": "9/26(土)22:00〜「日向坂ちゃんねる」にて「キャプにん生誕記念！～夜ふかししようぜ～髙橋未来虹の人生をゲームで振り返る!?生配信」が決定！",
@@ -664,5 +677,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "58"
+  "count": "59"
 }
