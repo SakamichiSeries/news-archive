@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00591",
+      "title": "18thシングル『イチャイチャ虫』TYPE-D収録 特典映像『Behind the scenes of 17th Single ひなた坂46 LIVE』予告編公開！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00591",
+      "pubdate": "2026/09/24 18:00:00",
+      "thumbnail": null,
+      "content": "9月30日(水)発売となる18thシングル『イチャイチャ虫』TYPE-D収録特典映像『<span lang=\"EN-US\">Behind the scenes of 17th Single </span><span>ひなた坂<span lang=\"EN-US\">46 LIVE</span></span>』の予告編を、日向坂46 OFFICIAL YouTube CHANNELにて公開しました。<br />ぜひご覧ください！<br /><br />■日向坂46 18thシングル『イチャイチャ虫』TYPE-D収録特典映像『<span lang=\"EN-US\">Behind the scenes of 17th Single </span><span>ひなた坂<span lang=\"EN-US\">46 LIVE</span></span>』予告編<br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/-dd5CYaSrmo\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
       "category": "media",
       "code": "M02817",
       "title": "「ViVi」11・12月合併号（本日9月24日(木)発売）に藤嶌果歩が登場！",
@@ -677,5 +687,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "59"
+  "count": "60"
 }
