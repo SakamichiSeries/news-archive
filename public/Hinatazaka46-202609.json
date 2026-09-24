@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00593",
+      "title": "坂道選抜が歌唱！青葉坂46オーディションのテーマソング「Audition」が9月26日(土)にリリース決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00593",
+      "pubdate": "2026/09/24 20:30:00",
+      "thumbnail": null,
+      "content": "青葉坂46オーディションのテーマソングとして、乃木坂46、櫻坂46、日向坂46のメンバー計15名からなる坂道選抜が歌う楽曲「Audition」のリリースが9月26日(土)に決定いたしました！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/AOB_Audition_Jacket_0908.jpg\" width=\"1000\" height=\"1000\" /><br /><br />坂道選抜は、乃木坂46から遠藤さくら、賀喜遥香、池田瑛紗、一ノ瀬美空、井上和が、櫻坂46から森田ひかる、山﨑天、谷口愛季、的野美青、山下瞳月が、日向坂46から小坂菜緒、上村ひなの、正源司陽子、藤嶌果歩、大野愛実が参加し、センターは井上和が務めます。<br /><br />「Audition」は9月26日(土)0時に各音楽配信サイトにて配信がスタートするほか、Music Videoが青葉坂46オフィシャルYouTubeチャンネルにて同時に公開されます。<br /><br />ぜひ楽しみにお待ちください！<br /><br />青葉坂46オーディションは、10月8日(木)23時59分まで応募受付中です。<br />皆さまからのご応募をお待ちしております。<br /><br />■坂道選抜（乃木坂46&times;櫻坂46&times;日向坂46）「Audition」<br />Music Video<br />Streaming & Download<br />9月26日(土)0時に配信スタート<br /><br />■青葉坂46オーディションサイト：<br /><a href=\"https://aobazaka46.com/audition\">https://aobazaka46.com/audition</a>"
+    },
+    {
       "category": "event",
       "code": "E00919",
       "title": "日向坂46「18th Single ひなた坂46 LIVE」公演入場に関する注意事項",
@@ -707,5 +717,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "62"
+  "count": "63"
 }
