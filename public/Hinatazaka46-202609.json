@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02815",
+      "title": "「B.L.T.」2026年11月号（9月28日(月)発売）の表紙・巻頭に大野愛実、中面に鶴崎仁香が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02815",
+      "pubdate": "2026/09/26 09:00:00",
+      "tags": [
+        "38",
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "「B.L.T.」2026年11月号（9月28日(月)発売）の表紙・巻頭に大野愛実、中面に鶴崎仁香が登場いたします！<br />ぜひチェックしてください。<br /><br /><a href=\"https://bltweb.jp/\" target=\"_blank\">「B.L.T.」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00595",
       "title": "『Audition』リリース記念・LINE MUSICプレゼントキャンペーン実施決定！",
@@ -757,5 +771,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "67"
+  "count": "68"
 }
