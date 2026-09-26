@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02179",
+      "title": "9月27日(日)22:15〜テレビ朝日「アメトーーク！」に中嶋優月が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02179",
+      "pubdate": "2026/09/26 12:51:16",
+      "tags": [
+        "64"
+      ],
+      "thumbnail": null,
+      "content": "9月27日(日)22:15〜テレビ朝日「アメトーーク！」に中嶋優月が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/ametalk/\">テレビ朝日「アメトーーク！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00625",
       "title": "『Audition』リリース記念・LINE MUSICプレゼントキャンペーン実施決定！",
@@ -512,5 +525,5 @@
       "content": "9月8日(火)19:00より、櫻坂46 OFFICIAL YouTube CHANNELにて、LIVE Blu-ray & DVD『5th YEAR ANNIVERSARY LIVE at MUFG STADIUM&nbsp;発売記念リリースパーティー』の生配信が決定いたしました！<br /><br />今回も遠山大輔(グランジ)さんにご出演いただき、最新映像作品を熱く語ります！<br />ぜひご覧ください！<br />※メンバーの出演はございません。<span><br /></span>"
     }
   ],
-  "count": "45"
+  "count": "46"
 }
