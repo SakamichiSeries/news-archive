@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00597",
+      "title": "18thシングル『イチャイチャ虫』収録曲『それでもいつか』MUSIC VIDEO公開&先行配信スタート！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/R00597",
+      "pubdate": "2026/09/28 00:00:00",
+      "thumbnail": null,
+      "content": "<span>18thシングル『イチャイチャ虫』収録、</span><span>五期生メンバーによる楽曲</span><span>『それでもいつか』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Soredemoitsuka\"><strong>■『それでもいつか』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『それでもいつか』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/uVgPrRdq4QU\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
+    },
+    {
       "category": "media",
       "code": "M02818",
       "title": "本日9月27日(日)10:00～放送、文化放送「ますだおかだ岡田圭右とアンタッチャブル柴田英嗣のおかしば」に上村ひなの・大野愛実が生出演！",
@@ -785,5 +795,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "69"
+  "count": "70"
 }
