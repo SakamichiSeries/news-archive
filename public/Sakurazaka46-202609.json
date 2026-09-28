@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "release",
+      "code": "R00626",
+      "title": "16th Single『愛MUST BE』TYPE-D収録、特典映像『マネージャーのスマホに眠るメンバーの秘蔵動画集 2023-2026』の予告編公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/R00626",
+      "pubdate": "2026/09/28 17:00:00",
+      "thumbnail": null,
+      "content": "<span>10月14日(水)発売、16th Single『愛MUST BE』<span>の初回仕様限定盤</span>TYPE-Dに収録される特典映像『マネージャーのスマホに眠るメンバーの秘蔵動画集 2023-2026』の予告編<span>を櫻坂46 OFFICIAL YouTubeチャンネルにて公開しました！是非チェックしてください！</span></span><br /><br /><span>■<span>櫻坂<span lang=\"EN-US\">46『マネージャーのスマホに眠るメンバーの秘蔵動画集 2023-2026』予告編</span></span><br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/YwfEGDnAQ8M\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
+    },
+    {
       "category": "event",
       "code": "E00688",
       "title": "櫻坂46「15th Single BACKS LIVE!!」、機材席開放のお知らせ。",
@@ -548,5 +558,5 @@
       "content": "9月8日(火)19:00より、櫻坂46 OFFICIAL YouTube CHANNELにて、LIVE Blu-ray & DVD『5th YEAR ANNIVERSARY LIVE at MUFG STADIUM&nbsp;発売記念リリースパーティー』の生配信が決定いたしました！<br /><br />今回も遠山大輔(グランジ)さんにご出演いただき、最新映像作品を熱く語ります！<br />ぜひご覧ください！<br />※メンバーの出演はございません。<span><br /></span>"
     }
   ],
-  "count": "48"
+  "count": "49"
 }
