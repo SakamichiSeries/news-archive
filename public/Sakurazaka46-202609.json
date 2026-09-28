@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02181",
+      "title": "「櫻坂チャンネル」にて「【増本卒業企画】きらまりラスト旅！神戸を満喫！【神戸】」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02181",
+      "pubdate": "2026/09/28 22:00:00",
+      "tags": [
+        "56",
+        "57"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【増本卒業企画】きらまりラスト旅！神戸を満喫！【神戸】」を公開いたしました。<br />ぜひご覧ください。<br /><div><br /><a href=\"https://youtu.be/gb6uPi7ePg8\">櫻坂チャンネル「【増本卒業企画】きらまりラスト旅！神戸を満喫！【神戸】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/gb6uPi7ePg8?si=4cELhCLLLVemuY-l\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>"
+    },
+    {
       "category": "release",
       "code": "R00627",
       "title": "16th Single『愛MUST BE』 CD購入者スペシャル応募抽選企画決定！",
@@ -568,5 +582,5 @@
       "content": "9月8日(火)19:00より、櫻坂46 OFFICIAL YouTube CHANNELにて、LIVE Blu-ray & DVD『5th YEAR ANNIVERSARY LIVE at MUFG STADIUM&nbsp;発売記念リリースパーティー』の生配信が決定いたしました！<br /><br />今回も遠山大輔(グランジ)さんにご出演いただき、最新映像作品を熱く語ります！<br />ぜひご覧ください！<br />※メンバーの出演はございません。<span><br /></span>"
     }
   ],
-  "count": "50"
+  "count": "51"
 }
