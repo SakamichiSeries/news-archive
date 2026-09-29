@@ -1,6 +1,29 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02821",
+      "title": "「NAKED meets 二条城 2026」の音声ガイドナビゲーターに、正源司陽子が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02821",
+      "pubdate": "2026/09/29 10:00:00",
+      "thumbnail": null,
+      "content": "世界遺産・元離宮二条城にて、2026年10月23日(金)から12月5日(土)まで開催される体験型アート展「NAKED meets 二条城 2026」の音声ガイドナビゲーターに、正源司陽子が決定しました！<br />どうぞお楽しみに！<br /><br />【音声ガイド概要】<br /><br />■ナビゲーター<br />正源司陽子<br /><br />■実施期間<br />2026年10月23日(金)～12月5日(土)<br /><br />■実施場所<br />「NAKED meets 二条城 2026」会場内<br /><span>(</span><span>京都市中京区二条通堀川西入二条城町541）</span><br /><br />■利用方法<br />Spotifyをはじめ、各種音声配信サービスにてお聴きいただけます。<br /><br />■料金<br />無料<br /><br />▼公式サイトはこちら<br /><a href=\"https://event.naked.works/nijojo/autumn/ja/\">NAKED meets 二条城 2026</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02820",
+      "title": "9月30日(水)9:50～放送、テレビ新広島「ひろしま満天ママ‼︎」に、竹内希来里がVTR出演！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02820",
+      "pubdate": "2026/09/29 09:00:00",
+      "tags": [
+        "30"
+      ],
+      "thumbnail": null,
+      "content": "<p><span lang=\"EN-US\">9月30日(水)9:50～放送、テレビ新広島「ひろしま満天ママ‼︎」に竹内希来里が谷口愛季さん、向井純葉さんとVTR出演いたします。<br />ぜひご覧ください。</span></p><p><a href=\"https://www.tss-tv.co.jp/mama/\">テレビ新広島「ひろしま満天ママ‼︎」オフィシャルサイトはこちら</a></p><p></p><p><span><a href=\"https://hicbc.com/radio/nagaoka_scramble/\"><span><span><br /><br /><br /></span></span></a></span></p>"
+    },
+    {
       "category": "goods",
       "code": "G00238",
       "title": "日向坂46「18th Single ひなた坂46 LIVE」オフィシャルグッズ 会場販売のお知らせ",
@@ -828,5 +851,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "73"
+  "count": "75"
 }
