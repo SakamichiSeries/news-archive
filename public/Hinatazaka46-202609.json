@@ -1,6 +1,52 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02824",
+      "title": "「BUBKA」11月号（本日9月30(水)発売）の表紙・巻頭に松尾桜が、中面には上村ひなの、髙橋未来虹、森本茉莉、山下葉留花、下田衣珠季が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02824",
+      "pubdate": "2026/09/30 09:00:00",
+      "tags": [
+        "21",
+        "22",
+        "23",
+        "35",
+        "43",
+        "46"
+      ],
+      "thumbnail": null,
+      "content": "「BUBKA」11月号（本日9月30(水)発売）の表紙・巻頭に松尾桜が、中面には上村ひなの、髙橋未来虹、森本茉莉、山下葉留花、下田衣珠季が登場いたします。<br />ぜひチェックしてみてください。<br /><br /><a href=\"https://x.com/BUBKA_henshuubu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\" target=\"_blank\">「BUBKA」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02823",
+      "title": "「Top Yell NEO 2026 AUTUMN」（本日9月30日(水)発売）の表紙・巻頭に清水理央、中面に小西夏菜実、宮地すみれが登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02823",
+      "pubdate": "2026/09/30 09:00:00",
+      "tags": [
+        "27",
+        "28",
+        "34"
+      ],
+      "thumbnail": null,
+      "content": "「Top Yell NEO 2026 AUTUMN」（本日9月30日(水)発売）の表紙・巻頭に清水理央、中面に小西夏菜実、宮地すみれが登場！<br /><br />ぜひチェックしてみてください。<br /><br /><a href=\"https://x.com/TopYell\" target=\"_blank\">「TopYellNEO」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02822",
+      "title": "「週刊少年サンデー」44号（本日9月30日(水)発売）の表紙・巻頭に正源司陽子が登場！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/M02822",
+      "pubdate": "2026/09/30 09:00:00",
+      "tags": [
+        "29"
+      ],
+      "thumbnail": null,
+      "content": "「週刊少年サンデー」44号（本日9月30日(水)発売）の表紙・巻頭に正源司陽子が登場いたします！<br />ぜひチェックしてみてください。<br /><br /><a href=\"http://websunday.net/\">「週刊少年サンデー」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "release",
       "code": "R00598",
       "title": "18thシングル『イチャイチャ虫 (Special Edition)』の配信がスタート！また、『イントロ』『クリスマスカウントダウン』のフォーメーションも公開！",
@@ -891,5 +937,5 @@
       "content": "<span>18thシングル『iイチャイチャ虫』</span>のMUSIC VIDEOを日向坂46 Official YouTubeチャンネルにて公開致しました！<br />また、<span>各音楽配信サイトにてストリーミング＆ダウンロードもスタート！</span><br /><br /><a href=\"https://hinatazaka46.lnk.to/Ityaityamushi\"><strong>■『イチャイチャ虫』各種<span>ストリーミング＆ダウンロード</span></strong><strong>はコチラ</strong></a><br /><br />是非ご覧ください！<br /><br />■日向坂46『イチャイチャ虫』MUSIC VIDEO<br /><iframe width=\"352\" height=\"198\" src=\"//www.youtube.com/embed/mgFUz_c4ToM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /><br />"
     }
   ],
-  "count": "79"
+  "count": "82"
 }
