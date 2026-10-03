@@ -1,6 +1,21 @@
 {
   "news": [
     {
+      "category": "event",
+      "code": "E00923",
+      "title": "宮崎市で開催される「ひなたメドレータウンオープニングフェスタ」に清水理央・平尾帆夏・鶴崎仁香の出演が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/E00923",
+      "pubdate": "2026/10/03 12:00:00",
+      "tags": [
+        "28",
+        "31",
+        "45"
+      ],
+      "thumbnail": null,
+      "content": "10月10日(土)に宮崎市のひなたメドレータウンで開催される「ひなたメドレータウンオープニングフェスタ」に清水理央・平尾帆夏・鶴崎仁香の出演が決定いたしました！<br /><br />イベントステージでのトークショーのほか、MRT宮崎放送のテレビ・ラジオ特番にも登場予定ですのでお楽しみに！<br /><br />【イベント概要】<br />宮崎駅北側の再開発エリア「ひなたメドレータウン」が、MRT宮崎放送新社屋の完成でいよいよグランドオープン。メドレータウンを構成する各施設が融合し、オープンを祝う様々な催しが行われます。<br /><br />【開催場所】<br />ひなたメドレータウン一帯<br /><br />【出演時間】<br />●ステージイベント：12:00〜12:55<br />●MRTテレビ特別番組：14:00頃〜15:00頃<br />●MRTラジオ特別番組：13:40頃〜13:55頃<br /><br />▼イベントの公式HPはこちら<br /><a href=\"https://mrt.jp/event/hinata_medleytown/\">https://mrt.jp/event/hinata_medleytown/<br /></a>"
+    },
+    {
       "category": "media",
       "code": "M02831",
       "title": "「blt graph.」vol.116（本日10月2日(金)発売）に小西夏菜実が登場！",
@@ -66,5 +81,5 @@
       "content": "Webメディアに金村美玖&times;渡辺莉奈・正源司陽子&times;宮地すみれが登場！<br />撮り下ろし写真とインタビューが掲載されています。<br />ぜひご覧ください。<br /><br />■楽天推し楽<span>&nbsp;(金村美玖&times;渡辺莉奈)<br /><a href=\"https://fan.books.rakuten.co.jp/articles/e6mmpgevafd4ojvq5e0xhazh\">インタビューページはコチラ<br /><br /></a>■ダヴィンチWEB (正源司陽子&times;宮地すみれ)<br /><a href=\"https://ddnavi.com/article/1444216/a/\">インタビューページはコチラ<br /></a><br />■モデルプレス(正源司陽子&times;宮地すみれ)<br /><a href=\"https://mdpr.jp/interview/4851694\">正源司陽子インタビューページ①はコチラ<br /></a><a href=\"https://mdpr.jp/interview/4851707\">正源司陽子インタビューページ②はコチラ</a><br /><br /><a href=\"https://mdpr.jp/interview/4851508\">宮地すみれインタビューページ①はコチラ</a><br /><a href=\"https://mdpr.jp/interview/4851896\">宮地すみれインタビューページ②はコチラ<br /><br /></a>■エンカウント(金村美玖&times;渡辺莉奈)<br /><a href=\"https://encount.press/archives/1073659/\">金村美玖&times;渡辺莉奈インタビューページはコチラ<br /></a><a href=\"https://encount.press/archives/1073696/\">金村美玖インタビューページはこちら</a><br /></span>"
     }
   ],
-  "count": "5"
+  "count": "6"
 }
