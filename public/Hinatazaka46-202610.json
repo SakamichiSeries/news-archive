@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00239",
+      "title": "日向坂46「18th Single ひなた坂46 LIVE」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャの出店が決定！",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/G00239",
+      "pubdate": "2026/10/05 20:00:00",
+      "thumbnail": null,
+      "content": "10月6日(火)、7日(水)にLaLa arena TOKYO-BAYにて開催する「18th Single ひなた坂46 LIVE」にて、UNI'S ON AIRコラボレーションアイテムが当たるガチャガチャの出店が決定しました！<br />たくさん遊んでイベントで思い切り盛り上がりましょう！！<br /><br /><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/_18th%E3%81%B2%E3%81%AA%E3%81%9F%E5%9D%82%E3%83%A9%E3%82%A4%E3%83%96%E3%82%AC%E3%83%81%E3%83%A3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC.jpg\" alt=\"\" width=\"3508\" height=\"4967\" /><br /><br />【当日販売時間】<br />会場：LaLa arena TOKYO-BAY<br />■10月6日(火) 12:00～18:30　※開場17:00/開演18:30<br />■10月7日(水) 12:00～18:30　※開場17:00/開演18:30<br /><br />※景品がなくなり次第終了となります。<br />※終演後販売はございません。あらかじめご了承ください。<br /><br />"
+    },
+    {
       "category": "other",
       "code": "O100306",
       "title": "【日向坂46メッセージ】「18th Single ひなた坂46 LIVE」の開催を記念し、無料グループを公開！",
@@ -154,5 +164,5 @@
       "content": "Webメディアに金村美玖&times;渡辺莉奈・正源司陽子&times;宮地すみれが登場！<br />撮り下ろし写真とインタビューが掲載されています。<br />ぜひご覧ください。<br /><br />■楽天推し楽<span>&nbsp;(金村美玖&times;渡辺莉奈)<br /><a href=\"https://fan.books.rakuten.co.jp/articles/e6mmpgevafd4ojvq5e0xhazh\">インタビューページはコチラ<br /><br /></a>■ダヴィンチWEB (正源司陽子&times;宮地すみれ)<br /><a href=\"https://ddnavi.com/article/1444216/a/\">インタビューページはコチラ<br /></a><br />■モデルプレス(正源司陽子&times;宮地すみれ)<br /><a href=\"https://mdpr.jp/interview/4851694\">正源司陽子インタビューページ①はコチラ<br /></a><a href=\"https://mdpr.jp/interview/4851707\">正源司陽子インタビューページ②はコチラ</a><br /><br /><a href=\"https://mdpr.jp/interview/4851508\">宮地すみれインタビューページ①はコチラ</a><br /><a href=\"https://mdpr.jp/interview/4851896\">宮地すみれインタビューページ②はコチラ<br /><br /></a>■エンカウント(金村美玖&times;渡辺莉奈)<br /><a href=\"https://encount.press/archives/1073659/\">金村美玖&times;渡辺莉奈インタビューページはコチラ<br /></a><a href=\"https://encount.press/archives/1073696/\">金村美玖インタビューページはこちら</a><br /></span>"
     }
   ],
-  "count": "13"
+  "count": "14"
 }
