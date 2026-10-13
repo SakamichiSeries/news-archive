@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00240",
+      "title": "日向坂46 生写真3種　通信販売受付開始のお知らせ",
+      "caption": "",
+      "link": "https://www.hinatazaka46.com/s/official/news/detail/G00240",
+      "pubdate": "2026/10/13 18:00:00",
+      "thumbnail": null,
+      "content": "10月13日(火)18:00～日向坂46 OFFICIAL GOODS STOREにて生写真3種のご注文受付を開始いたします。<br /> <br />【「ひなたフェス2026」浴衣】【「ひなたフェス2026」水色衣装】【「ひなたフェス2026」期別衣装】を新発売！<br />この機会にぜひお買い求めください。<br /><br /><div style=\"text-align: center;\"><span style=\"color: #ff0000;\">【日向坂46 OFFICIAL GOODS STORE】</span></div><div style=\"text-align: center;\"><a href=\"https://store.plusmember.jp/hinatazaka46/\">https://store.plusmember.jp/hinatazaka46/</a></div><div style=\"text-align: center;\"><span style=\"color: #ff0000;\">10月13日(火)18:00～ 日向坂46 OFFICIAL GOODS STOREにて受付開始!!!<br /><br /></span></div><div style=\"text-align: center;\"><img src=\"https://cdn.hinatazaka46.com/files/14/H46%20NEWS/_hinatazaka46_10%E6%9C%88%E7%94%9F%E5%86%99%E7%9C%9F_20261008_FIX.jpg\" alt=\"\" width=\"2554\" height=\"3669\" /></div><br />なお、以下イベントでの会場販売も予定しております。そちらもぜひご利用ください。<br />11月3日(火・祝) 　18thシングル『イチャイチャ虫』発売記念「リアルミート＆グリート」<br /><br />※OFFICIAL GOODS STOREの注意事項をよくご確認の上、ご利用ください。<br />※受付開始時刻など、事情により変更になる場合もございます。予めご了承ください。<br />※各商品表示スペック・サイズ等をお確かめの上、ご購入ください。<br />※画像と実際の商品は色合い等、若干異なる場合がございますのでご了承ください。<br />※ご注文後の変更、キャンセルは一切お受けできません。<br />※ご注文いただいた日時によってお届け時期が異なる場合がございます。<br />※決済方法により、別途、決済手数料が発生する場合がございます。ご購入の際にご確認ください。<br />※別々にいただいたご注文は、一つにまとめて出荷(同梱出荷)することはできません。<br />※営利目的でのグッズ・生写真の購入はご遠慮ください。そのような事実が発覚した場合、今後のグッズ等の販売及びイベントの参加をお断りさせていただく場合がございます。"
+    },
+    {
       "category": "other",
       "code": "O100309",
       "title": "「日向坂ちゃんねる」にて「【自由律俳句】秋だから 俳句詠みたい 気分なの。」を公開！",
@@ -220,5 +230,5 @@
       "content": "Webメディアに金村美玖&times;渡辺莉奈・正源司陽子&times;宮地すみれが登場！<br />撮り下ろし写真とインタビューが掲載されています。<br />ぜひご覧ください。<br /><br />■楽天推し楽<span>&nbsp;(金村美玖&times;渡辺莉奈)<br /><a href=\"https://fan.books.rakuten.co.jp/articles/e6mmpgevafd4ojvq5e0xhazh\">インタビューページはコチラ<br /><br /></a>■ダヴィンチWEB (正源司陽子&times;宮地すみれ)<br /><a href=\"https://ddnavi.com/article/1444216/a/\">インタビューページはコチラ<br /></a><br />■モデルプレス(正源司陽子&times;宮地すみれ)<br /><a href=\"https://mdpr.jp/interview/4851694\">正源司陽子インタビューページ①はコチラ<br /></a><a href=\"https://mdpr.jp/interview/4851707\">正源司陽子インタビューページ②はコチラ</a><br /><br /><a href=\"https://mdpr.jp/interview/4851508\">宮地すみれインタビューページ①はコチラ</a><br /><a href=\"https://mdpr.jp/interview/4851896\">宮地すみれインタビューページ②はコチラ<br /><br /></a>■エンカウント(金村美玖&times;渡辺莉奈)<br /><a href=\"https://encount.press/archives/1073659/\">金村美玖&times;渡辺莉奈インタビューページはコチラ<br /></a><a href=\"https://encount.press/archives/1073696/\">金村美玖インタビューページはこちら</a><br /></span>"
     }
   ],
-  "count": "19"
+  "count": "20"
 }
