@@ -107,6 +107,42 @@ def send_telegram_message(msg, channel_id, bot_token, parse_mode=None):
     return message_ids[0] if message_ids else None
 
 
+def _split_text(text, max_length):
+    chunks = []
+    while len(text) > max_length:
+        split_at = text.rfind("\n", 0, max_length + 1)
+        if split_at <= 0:
+            split_at = max_length
+        else:
+            split_at += 1
+        chunks.append(text[:split_at])
+        text = text[split_at:]
+    if text or not chunks:
+        chunks.append(text)
+    return chunks
+
+
+def send_detailed_message(title, text, link, channel_id, bot_token):
+    escaped_title = html.escape(title)
+    escaped_link = html.escape(link, quote=True)
+    max_text_length = max(1, 3000 - len(title) - len(link) - 32)
+    text_parts = _split_text(text, max_text_length)
+    message_ids = []
+
+    for index, text_part in enumerate(text_parts, start=1):
+        part_label = f"{index}/{len(text_parts)}\n" if len(text_parts) > 1 else ""
+        msg = (
+            f"{escaped_title}\n"
+            f"<blockquote expandable>{part_label}{html.escape(text_part)}\n"
+            f'<a href="{escaped_link}">{escaped_link}</a></blockquote>'
+        )
+        message_id = _send_part(msg, channel_id, bot_token, parse_mode="HTML")
+        if message_id:
+            message_ids.append(message_id)
+
+    return message_ids[0] if message_ids else None
+
+
 def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usernames):
     try:
         print(f"{y}{m:02d}")
@@ -183,8 +219,9 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                     if group == "Nogizaka46":
                         link = f"https://sp.nogizaka46.com/p/news/{entry['code']}"
                     
-                    msg = f"{entry['title']}\n{text}\n{link}"
-                    message_id = send_telegram_message(msg, channel_id, bot_token)
+                    message_id = send_detailed_message(
+                        entry["title"], text, link, channel_id, bot_token
+                    )
             
                     # 3. Send ALL images in batches of 10
                     if images:
