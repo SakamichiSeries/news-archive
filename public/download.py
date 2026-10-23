@@ -264,7 +264,7 @@ channel_usernames = {
     "Sakurazaka46": "Sakurazaka46_News",
 }
 
-for group in ["Nogizaka46", "Keyakizaka46", "Hinatazaka46", "Sakurazaka46"]:
+for group in ["Nogizaka46", "Sakurazaka46", "Hinatazaka46", "Keyakizaka46"]:
     match group:
         case "Nogizaka46":
             start = 2012
