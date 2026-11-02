@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02221",
+      "title": "11月7日(土)『WIND AND SEA FUKUOKA』のオープンを記念したVISUALモデルとして的野美青が起用！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02221",
+      "pubdate": "2026/11/02 20:00:00",
+      "tags": [
+        "65"
+      ],
+      "thumbnail": null,
+      "content": "11月7日(土)『WIND AND SEA FUKUOKA』のオープンを記念したVISUALモデルとして的野美青が起用されます。<br />詳細は<a href=\"https://x.com/windandsea_wear\">「WIND AND SEA」公式X</a>をご確認ください。<br /><br /><img src=\"https://sakurazaka46.com/files/14/jfsdhufeshsefh89hef9efs.jpg\" alt=\"\" width=\"2161\" height=\"2701\" /><br /><br />【店舗詳細】<br />店舗名称：WIND AND SEA FUKUOKA<br />所在地：福岡県福岡市中央区赤坂1-2-1 シャンボール赤坂105<br />営業時間：11:00-19:00 定休日無し"
+    },
+    {
       "category": "goods",
       "code": "G00240",
       "title": "櫻坂46「6th YEAR ANNIVERSARY LIVE」ファンクラブ会員限定Tシャツ 会場受取受付開始のお知らせ",
@@ -67,5 +80,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "6"
+  "count": "7"
 }
