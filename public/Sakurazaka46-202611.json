@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02222",
+      "title": "『キスが苦い -Dance Practice-』公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02222",
+      "pubdate": "2026/11/03 21:00:00",
+      "thumbnail": null,
+      "content": "<span>『キスが苦い』のダンスプラクティス動画を</span><span>櫻坂46 OFFICIAL YouTube CHANNELにて公開しました！<br />是非ご覧ください！<br /><br />■櫻坂46『キスが苦い -Dance Practice-』</span><span><br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/k_3YTGgZJp0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
+    },
+    {
+      "category": "media",
       "code": "M02221",
       "title": "11月7日(土)『WIND AND SEA FUKUOKA』のオープンを記念したVISUALモデルとして的野美青が起用！",
       "caption": "",
@@ -80,5 +90,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "7"
+  "count": "8"
 }
