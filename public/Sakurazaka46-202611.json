@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "event",
+      "code": "E00695",
+      "title": "櫻坂46「SAKURAZAKA46 Live，AEON CARD with YOU！Vol.6」公演決定！ ",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/E00695",
+      "pubdate": "2026/11/05 12:00:00",
+      "thumbnail": null,
+      "content": "イオンカード(櫻坂 46)・イオン銀行キャッシュ+デビット会員の方のための<br />限定ライブ、「SAKURAZAKA46 Live，AEON CARD with YOU！Vol.6」の開催が決定いたしました！<br />1次先行が、11/27(金)12:00より受付開始となります。<br />先行受付の詳細は、後日お知らせいたします。<br />お楽しみに！<br />※チケットの一般発売はありません。お申し込みは、イオンカード(櫻坂46)、イオン銀行キャッシュ+デビット会員の方のみが可能となります<br /><br />&lt;公演情報&gt;<br />櫻坂46「SAKURAZAKA46 Live，AEON CARD with YOU！Vol.6」<br /><br />【出演】<br />櫻坂46<br />※出演者は予告なく変更となる場合がございます。あらかじめご了承ください。<br /><br />【日程】<br />2026年12月26日(土)　開場18:00/開演19:00<br /><br />【会場】<br />Kanadevia Hall<br /><br />【チケット受付スケジュール】<br />イオンカード一次先行(抽選)：11月27日（金）12:00～12月2日（水）23:59<br /><div id=\"gtx-trans\" style=\"position: absolute; left: -13px; top: -11px;\"><div class=\"gtx-trans-icon\"></div></div>"
+    },
+    {
+      "category": "event",
       "code": "T00010",
       "title": "Sakurazaka46 \"6th YEAR ANNIVERSARY LIVE\" and \"Rina Matsuda Graduation Ceremony\" (November 15 only) will stream live internationally! Tickets go on sale at 12:00 JST today, November 4 (Wed)!",
       "caption": "",
@@ -134,5 +144,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "12"
+  "count": "13"
 }
