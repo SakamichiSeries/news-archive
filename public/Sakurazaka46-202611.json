@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02225",
+      "title": "11月6日(金)25:50～テレビ朝日「全力！アオハル応援団」に山田桃実が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02225",
+      "pubdate": "2026/11/05 19:12:27",
+      "tags": [
+        "78"
+      ],
+      "thumbnail": null,
+      "content": "11月6日(金)25:50～テレビ朝日「全力！アオハル応援団」に山田桃実が出演いたします。<br />ぜひご覧ください。<br /><br /><div><a href=\"https://www.tv-asahi.co.jp/aoharu-ouendan/\">テレビ朝日「全力！アオハル応援団」公式ホームページはコチラ</a></div>"
+    },
+    {
       "category": "event",
       "code": "E00699",
       "title": "11月25日(水)「ファジアーノ岡山」vs「清水エスパルス」戦に山田桃実が登場！",
@@ -157,5 +170,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "14"
+  "count": "15"
 }
