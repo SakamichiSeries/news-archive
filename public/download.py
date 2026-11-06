@@ -261,8 +261,8 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
                             summary_msg = f'<a href="{tg_link}">{entry["title"]}</a>\n#{group}'
                             send_telegram_message(summary_msg, summary_channel_id, bot_token, parse_mode="HTML")
 
-        with open(filename, "w", encoding="utf-8") as f:
-            json.dump(temp, f, ensure_ascii=False, indent=2)
+            with open(filename, "w", encoding="utf-8") as f:
+                json.dump(temp, f, ensure_ascii=False, indent=2)
 
     except Exception as e:
         print(e)
