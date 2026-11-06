@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00243",
+      "title": "ZOZOマリンスタジアム×櫻坂46「6th YEAR ANNIVERSARY LIVE」コラボドリンク販売決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/G00243",
+      "pubdate": "2026/11/06 17:00:00",
+      "thumbnail": null,
+      "content": "11/14（土）、15（日）開催の「6th YEAR ANNIVERSARY LIVE」にあわせ、ZOZOマリンスタジアムにて限定ドリンクを販売いたします。<br /><br />ご購入いただいた方には、限定ステッカーをプレゼント。<br />さくらシロップのやさしい甘さに、ジンジャエールのさわやかな炭酸がマッチ。レモンとミントが香る、見たい目も華やかなノンアルコールドリンクです。<br />ライブとともに、ここでしか味わえない限定ドリンクをぜひお楽しみください。<br /><br /><img src=\"https://sakurazaka46.com/files/14/icjs8je89efjs89jfes89je9sef8.jpg\" alt=\"\" width=\"1920\" height=\"1080\" /><br /><br />販売店舗詳細は下記をご覧ください。<br /><br /><img src=\"https://sakurazaka46.com/files/14/messageImage_1793943653283.jpg\" alt=\"\" width=\"1579\" height=\"730\" />"
+    },
+    {
       "category": "event",
       "code": "E00701",
       "title": "Important Information Regarding Entry to Sakurazaka46 “6th YEAR ANNIVERSARY LIVE” at ZOZO Marine Stadium on November 14–15",
@@ -190,5 +200,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "17"
+  "count": "18"
 }
