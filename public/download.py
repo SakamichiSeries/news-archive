@@ -149,8 +149,8 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
 
         with sync_playwright() as p:
             context = p.chromium.launch_persistent_context(
-                user_data_dir="./nogizaka_browser_profile",
-                headless=False
+                user_data_dir="./tmp/nogizaka_browser_profile",
+                headless=True
             )
 
             page = context.new_page()
