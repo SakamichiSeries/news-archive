@@ -172,17 +172,22 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
             page.goto(url, wait_until="domcontentloaded")
 
             # Fetch through the browser session
-            temp = page.evaluate("""
-            async (url) => {
-                const response = await fetch(url);
+            response = context.request.get(
+                url,
+                headers={
+                    "Referer": "https://www.nogizaka46.com/",
+                    "User-Agent": "Mozilla/5.0"
+                },
+                timeout=30000
+            )
 
-                if (!response.ok) {
-                    throw new Error(`HTTP ${response.status}`);
-                }
+            print("Status:", response.status)
+            print("Content-Type:", response.headers.get("content-type"))
+            print("Response:", response.text()[:500])
 
-                return await response.json();
-            }
-            """, url)
+            response.raise_for_status()
+
+            temp = response.json()
             for entry in temp["news"]:
                 match group:
                     case "Nogizaka46":
