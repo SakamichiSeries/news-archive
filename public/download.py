@@ -145,6 +145,16 @@ def send_detailed_message(title, text, link, channel_id, bot_token):
 
 def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usernames):
     try:
+        from playwright.sync_api import sync_playwright
+
+        with sync_playwright() as p:
+            context = p.chromium.launch_persistent_context(
+                user_data_dir="./nogizaka_browser_profile",
+                headless=False
+            )
+
+            page = context.new_page()
+
         print(f"{y}{m:02d}")
         match group:
             case "Nogizaka46":
@@ -158,7 +168,21 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
         url = f"http://mobile-ssl.com/s/{code}/api/json/news?dy={y}{m:02d}"
 
         filename = f"{group}-{y}{m:02d}.json"
-        temp = requests.get(url).json()
+        # Navigate using the real browser
+        page.goto(url, wait_until="domcontentloaded")
+
+        # Fetch through the browser session
+        temp = page.evaluate("""
+        async (url) => {
+            const response = await fetch(url);
+
+            if (!response.ok) {
+                throw new Error(`HTTP ${response.status}`);
+            }
+
+            return await response.json();
+        }
+        """, url)
         for entry in temp["news"]:
             match group:
                 case "Nogizaka46":
