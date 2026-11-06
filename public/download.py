@@ -155,111 +155,111 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
 
             page = context.new_page()
 
-        print(f"{y}{m:02d}")
-        match group:
-            case "Nogizaka46":
-                code = f"n46"
-            case "Keyakizaka46":
-                code = f"k46o"
-            case "Hinatazaka46":
-                code = f"official"
-            case "Sakurazaka46":
-                code = f"s46"
-        url = f"http://mobile-ssl.com/s/{code}/api/json/news?dy={y}{m:02d}"
-
-        filename = f"{group}-{y}{m:02d}.json"
-        # Navigate using the real browser
-        page.goto(url, wait_until="domcontentloaded")
-
-        # Fetch through the browser session
-        temp = page.evaluate("""
-        async (url) => {
-            const response = await fetch(url);
-
-            if (!response.ok) {
-                throw new Error(`HTTP ${response.status}`);
-            }
-
-            return await response.json();
-        }
-        """, url)
-        for entry in temp["news"]:
+            print(f"{y}{m:02d}")
             match group:
                 case "Nogizaka46":
-                    entry["link"] = (
-                        f"https://www.nogizaka46.com/s/n46/news/detail/{entry['code']}"
-                    )
+                    code = f"n46"
                 case "Keyakizaka46":
-                    entry["link"] = (
-                        f"https://www.keyakizaka46.com/s/k46o/news/detail/{entry['code']}"
-                    )
+                    code = f"k46o"
                 case "Hinatazaka46":
-                    entry["link"] = (
-                        f"https://www.hinatazaka46.com/s/official/news/detail/{entry['code']}"
-                    )
+                    code = f"official"
                 case "Sakurazaka46":
-                    entry["link"] = (
-                        f"https://sakurazaka46.com/s/s46/news/detail/{entry['code']}"
-                    )
+                    code = f"s46"
+            url = f"http://mobile-ssl.com/s/{code}/api/json/news?dy={y}{m:02d}"
 
-            entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
-            if "tags" in entry:
-                entry["tags"] = sorted(entry["tags"], key=sort_key)
+            filename = f"{group}-{y}{m:02d}.json"
+            # Navigate using the real browser
+            page.goto(url, wait_until="domcontentloaded")
 
-        is_current = y == current_y and m == current_m
-        if is_current:
-            old_data = {}
-            if os.path.exists(filename):
-                with open(filename, "r", encoding="utf-8") as f:
-                    old_data = json.load(f)
-            old_codes = {entry["code"] for entry in old_data.get("news", [])}
-            new_entries = [
-                entry for entry in temp["news"] if entry["code"] not in old_codes
-            ][::-1]
+            # Fetch through the browser session
+            temp = page.evaluate("""
+            async (url) => {
+                const response = await fetch(url);
 
-            channel_id = channels.get(group)
-            summary_channel_id = channels.get("summary")
-            username = channel_usernames.get(group)
-            if channel_id and new_entries:
-                for entry in new_entries:
-                    content = entry["content"]
-                    
-                    # 1. Extract ALL images
-                    images = re.findall(r'<img[^>]+src=["\']([^"\']+)["\'][^>]*>', content)
-                    # Removed: images = images[:9]
-            
-                    def replace_img_tag(match):
-                        src = re.search(r'src=["\'](.*?)["\']', match.group(0))
-                        return src.group(1) if src else ''
-            
-                    # 2. Text Cleaning
-                    text = re.sub(r'<img[^>]*>', replace_img_tag, content)
-                    text = re.sub(r"<br\s*\/?>\s*", "\n", text)
-                    text = re.sub(r"<[^>]+>", "", text)
-                    text = html.unescape(text)
-                    text = re.sub(r"\n\s*\n", "\n", text).strip()
-                    
-                    link = entry["link"]
-                    if group == "Nogizaka46":
-                        link = f"https://sp.nogizaka46.com/p/news/{entry['code']}"
-                    
-                    message_id = send_detailed_message(
-                        entry["title"], text, link, channel_id, bot_token
-                    )
-            
-                    # 3. Send ALL images in batches of 10
-                    if images:
-                        # Telegram's sendMediaGroup limit is 10 images per message
-                        for i in range(0, len(images), 10):
-                            image_batch = images[i : i + 10]
-                            print(image_batch)
-                            send_media_group(channel_id, bot_token, image_batch)
-            
-                    # 4. Summary logic
-                    if message_id and summary_channel_id and username:
-                        tg_link = f"https://t.me/{username}/{message_id}"
-                        summary_msg = f'<a href="{tg_link}">{entry["title"]}</a>\n#{group}'
-                        send_telegram_message(summary_msg, summary_channel_id, bot_token, parse_mode="HTML")
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+
+                return await response.json();
+            }
+            """, url)
+            for entry in temp["news"]:
+                match group:
+                    case "Nogizaka46":
+                        entry["link"] = (
+                            f"https://www.nogizaka46.com/s/n46/news/detail/{entry['code']}"
+                        )
+                    case "Keyakizaka46":
+                        entry["link"] = (
+                            f"https://www.keyakizaka46.com/s/k46o/news/detail/{entry['code']}"
+                        )
+                    case "Hinatazaka46":
+                        entry["link"] = (
+                            f"https://www.hinatazaka46.com/s/official/news/detail/{entry['code']}"
+                        )
+                    case "Sakurazaka46":
+                        entry["link"] = (
+                            f"https://sakurazaka46.com/s/s46/news/detail/{entry['code']}"
+                        )
+
+                entry["content"] = re.sub(r"\?ima=\d{4}", "", entry["content"])
+                if "tags" in entry:
+                    entry["tags"] = sorted(entry["tags"], key=sort_key)
+
+            is_current = y == current_y and m == current_m
+            if is_current:
+                old_data = {}
+                if os.path.exists(filename):
+                    with open(filename, "r", encoding="utf-8") as f:
+                        old_data = json.load(f)
+                old_codes = {entry["code"] for entry in old_data.get("news", [])}
+                new_entries = [
+                    entry for entry in temp["news"] if entry["code"] not in old_codes
+                ][::-1]
+
+                channel_id = channels.get(group)
+                summary_channel_id = channels.get("summary")
+                username = channel_usernames.get(group)
+                if channel_id and new_entries:
+                    for entry in new_entries:
+                        content = entry["content"]
+                        
+                        # 1. Extract ALL images
+                        images = re.findall(r'<img[^>]+src=["\']([^"\']+)["\'][^>]*>', content)
+                        # Removed: images = images[:9]
+                
+                        def replace_img_tag(match):
+                            src = re.search(r'src=["\'](.*?)["\']', match.group(0))
+                            return src.group(1) if src else ''
+                
+                        # 2. Text Cleaning
+                        text = re.sub(r'<img[^>]*>', replace_img_tag, content)
+                        text = re.sub(r"<br\s*\/?>\s*", "\n", text)
+                        text = re.sub(r"<[^>]+>", "", text)
+                        text = html.unescape(text)
+                        text = re.sub(r"\n\s*\n", "\n", text).strip()
+                        
+                        link = entry["link"]
+                        if group == "Nogizaka46":
+                            link = f"https://sp.nogizaka46.com/p/news/{entry['code']}"
+                        
+                        message_id = send_detailed_message(
+                            entry["title"], text, link, channel_id, bot_token
+                        )
+                
+                        # 3. Send ALL images in batches of 10
+                        if images:
+                            # Telegram's sendMediaGroup limit is 10 images per message
+                            for i in range(0, len(images), 10):
+                                image_batch = images[i : i + 10]
+                                print(image_batch)
+                                send_media_group(channel_id, bot_token, image_batch)
+                
+                        # 4. Summary logic
+                        if message_id and summary_channel_id and username:
+                            tg_link = f"https://t.me/{username}/{message_id}"
+                            summary_msg = f'<a href="{tg_link}">{entry["title"]}</a>\n#{group}'
+                            send_telegram_message(summary_msg, summary_channel_id, bot_token, parse_mode="HTML")
 
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(temp, f, ensure_ascii=False, indent=2)
