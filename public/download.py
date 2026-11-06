@@ -183,9 +183,11 @@ def scrape(y, m, group, current_y, current_m, bot_token, channels, channel_usern
 
             print("Status:", response.status)
             print("Content-Type:", response.headers.get("content-type"))
-            print("Response:", response.text()[:500])
 
-            response.raise_for_status()
+            if not response.ok:
+                raise RuntimeError(
+                    f"HTTP {response.status}: {response.text()[:500]}"
+                )
 
             temp = response.json()
             for entry in temp["news"]:
