@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02226",
+      "title": "11月9日(月)23:45～テレビ朝日「くりぃむナンタラ」に大園玲が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02226",
+      "pubdate": "2026/11/08 17:00:00",
+      "tags": [
+        "54"
+      ],
+      "thumbnail": null,
+      "content": "11月9日(月)23:45～テレビ朝日「くりぃむナンタラ」に大園玲が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/nantara/\">テレビ朝日「くりぃむナンタラ」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02224",
       "title": "11月8日(日)22:00～テレビ東京「有吉ぃぃeeeee!〜そうだ!今からお前んチでゲームしない?」に田村保乃が出演！",
       "caption": "",
@@ -223,5 +236,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "20"
+  "count": "21"
 }
