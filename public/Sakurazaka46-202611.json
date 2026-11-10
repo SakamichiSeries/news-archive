@@ -1,6 +1,16 @@
 {
   "news": [
     {
+      "category": "goods",
+      "code": "G00244",
+      "title": "「6th YEAR ANNIVERSARY LIVE」にてガチャガチャ＆クレーンゲームの出店が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/G00244",
+      "pubdate": "2026/11/10 15:00:00",
+      "thumbnail": null,
+      "content": "11月14日(土)、15日(日)にZOZOマリンスタジアムにて開催される櫻坂46「6th YEAR ANNIVERSARY LIVE」にてUNI'S ON AIRコラボレーションアイテムが当たるガチャガチャ＆クレーンゲームの出店が決定いたしました。<br />限定アイテムを手に入れて、イベントをより一層お楽しみください。<br /><br />【販売時間・場所】<br />会場：ZOZOマリンスタジアム<br /><br />■11月14日(土)　10:00 ～ 終演後30分程度　※開場15:30/開演17:30<br />■11月15日(日)　10:00 ～ 終演後30分程度　※開場15:00/開演17:00<br />※終演後販売は列が途切れ次第、終了いたします。<br /><br /><img src=\"https://sakurazaka46.com/files/14/ifj8efjs89jefs89jsef89jsef9sef8ef8s9esf.jpg\" alt=\"\" width=\"3508\" height=\"4967\" />"
+    },
+    {
       "category": "media",
       "code": "M02226",
       "title": "11月9日(月)23:45～テレビ朝日「くりぃむナンタラ」に大園玲が出演！",
@@ -236,5 +246,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "21"
+  "count": "22"
 }
