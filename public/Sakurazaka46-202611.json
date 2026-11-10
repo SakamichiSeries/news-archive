@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02227",
+      "title": "11月11日(水)19:00～テレビ朝日「くりぃむクイズ ミラクル9」2時間SPに勝又春が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02227",
+      "pubdate": "2026/11/10 19:30:00",
+      "tags": [
+        "72"
+      ],
+      "thumbnail": null,
+      "content": "<span>11月11日(水)19:00～テレビ朝日「くりぃむクイズ ミラクル9」2時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/miracle9/\" target=\"_blank\">テレビ朝日「くりぃむクイズ ミラクル9」公式ホームページはコチラ</a><br /><br /></span>"
+    },
+    {
       "category": "release",
       "code": "R00639",
       "title": "「6th YEAR ANNIVERSARY LIVE」 会場限定！CD/Blu-ray/DVD購入特典が決定！",
@@ -276,5 +289,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "25"
+  "count": "26"
 }
