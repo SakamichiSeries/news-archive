@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02232",
+      "title": "『Addiction -Dance Practice-』公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02232",
+      "pubdate": "2026/11/10 21:00:00",
+      "thumbnail": null,
+      "content": "<span>『<span>Addiction</span>』のダンスプラクティス動画を</span><span>櫻坂46 OFFICIAL YouTube CHANNELにて公開しました！<br />是非ご覧ください！<br /><br />■櫻坂46『<span>Addiction</span> -Dance Practice-』</span><span><br /><iframe width=\"560\" height=\"315\" src=\"//www.youtube.com/embed/dSdKtR6U-EA\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span>"
+    },
+    {
+      "category": "media",
       "code": "M02227",
       "title": "11月11日(水)19:00～テレビ朝日「くりぃむクイズ ミラクル9」2時間SPに勝又春が出演！",
       "caption": "",
@@ -289,5 +299,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "26"
+  "count": "27"
 }
