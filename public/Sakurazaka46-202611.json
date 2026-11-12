@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02235",
+      "title": "「櫻坂チャンネル」にて「【全集中】二期生でご褒美&罰ゲームを賭けて気配斬り！」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02235",
+      "pubdate": "2026/11/12 21:00:00",
+      "tags": [
+        "46",
+        "47",
+        "48",
+        "50",
+        "51",
+        "53",
+        "54",
+        "55",
+        "56",
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【全集中】二期生でご褒美&罰ゲームを賭けて気配斬り！」を公開いたしました。<br />ぜひご覧ください。<br /><div><br /><a href=\"https://youtu.be/NQFEIitaaX8\">櫻坂チャンネル「【全集中】二期生でご褒美&罰ゲームを賭けて気配斬り！」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/NQFEIitaaX8?si=bQv4BlA7Pdf8OFNF\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>"
+    },
+    {
       "category": "event",
       "code": "E00703",
       "title": "櫻坂46「6th YEAR ANNIVERSARY LIVE!!」、機材席開放につき、本日18時より販売開始。",
@@ -342,5 +364,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "31"
+  "count": "32"
 }
