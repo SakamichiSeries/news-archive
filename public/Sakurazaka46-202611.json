@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02233",
+      "title": "11月14日(土)20:54～TBS「いくらかわかる金？」に小島凪紗が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02233",
+      "pubdate": "2026/11/13 17:00:00",
+      "tags": [
+        "62"
+      ],
+      "thumbnail": null,
+      "content": "11月14日(土)20:54～TBS「いくらかわかる金？」に小島凪紗が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/wakarukane_tbs/\">TBS「いくらかわかる金？」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02235",
       "title": "「櫻坂チャンネル」にて「【全集中】二期生でご褒美&罰ゲームを賭けて気配斬り！」を公開！",
       "caption": "",
@@ -364,5 +377,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "32"
+  "count": "33"
 }
