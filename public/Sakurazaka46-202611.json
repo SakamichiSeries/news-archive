@@ -1,6 +1,23 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02234",
+      "title": "11月16日(日)19:00～フジテレビ「ネプリーグ」に大園玲、松田里奈、小島凪紗、谷口愛季、山川宇衣が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02234",
+      "pubdate": "2026/11/15 15:00:00",
+      "tags": [
+        "48",
+        "54",
+        "62",
+        "63",
+        "77"
+      ],
+      "thumbnail": null,
+      "content": "11月16日(日)19:00～フジテレビ「ネプリーグ」に大園玲、松田里奈、小島凪紗、谷口愛季、山川宇衣が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.fujitv.co.jp/nepleague/\">フジテレビ「ネプリーグ」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00704",
       "title": "「Sakurazaka46 Asia Tour 2027」の続報を解禁！",
@@ -430,5 +447,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "38"
+  "count": "39"
 }
