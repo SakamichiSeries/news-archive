@@ -2,6 +2,20 @@
   "news": [
     {
       "category": "media",
+      "code": "M02237",
+      "title": "11月16日(月)21:45〜NHK-FM「ミュージックライン」に小田倉麗奈、向井純葉が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02237",
+      "pubdate": "2026/11/15 16:00:00",
+      "tags": [
+        "61",
+        "66"
+      ],
+      "thumbnail": null,
+      "content": "<span>11月16日(月)21:45〜NHK-FM「ミュージックライン」に小田倉麗奈、向井純葉が出演いたします。</span><br />ぜひお聴きください！<br /><br /><a href=\"https://www.nhk.jp/p/ml/rs/Z9WGYY3GP5/episode/re/TFNYKCTVLS/\">NHK-FM「ミュージックライン」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02234",
       "title": "11月16日(日)19:00～フジテレビ「ネプリーグ」に大園玲、松田里奈、小島凪紗、谷口愛季、山川宇衣が出演！",
       "caption": "",
@@ -447,5 +461,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "39"
+  "count": "40"
 }
