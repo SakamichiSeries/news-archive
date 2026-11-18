@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02238",
+      "title": "11月19日(木)8:00～TBS「ラヴィット！」に松田里奈が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02238",
+      "pubdate": "2026/11/18 17:00:00",
+      "tags": [
+        "48"
+      ],
+      "thumbnail": null,
+      "content": "11月19日(木)8:00～TBS「ラヴィット！」に松田里奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00707",
       "title": "櫻坂46 「田村保乃 卒業コンサート」開催決定！ファンクラブ抽選先行・Leminoスペシャルシート・Lemino櫻坂46パック先行受付が、11/19(木)12:00よりスタート！",
@@ -521,5 +534,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "46"
+  "count": "47"
 }
