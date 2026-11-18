@@ -2,6 +2,26 @@
   "news": [
     {
       "category": "media",
+      "code": "M02240",
+      "title": "「櫻坂チャンネル」にて「【夢叶う】学校貸切って隠れ鬼ごっこ！制服で爆走！」を公開！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02240",
+      "pubdate": "2026/11/18 21:00:00",
+      "tags": [
+        "59",
+        "60",
+        "62",
+        "66",
+        "67",
+        "71",
+        "74",
+        "78"
+      ],
+      "thumbnail": null,
+      "content": "「櫻坂チャンネル」にて「【夢叶う】学校貸切って隠れ鬼ごっこ！制服で爆走！」を公開いたしました。<br />ぜひご覧ください。<br /><div><br /><a href=\"https://youtu.be/2eU8J8TDjiM\">櫻坂チャンネル「【夢叶う】学校貸切って隠れ鬼ごっこ！制服で爆走！」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/2eU8J8TDjiM?si=xEjo5-z-bFjizW3C\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>"
+    },
+    {
+      "category": "media",
       "code": "M02238",
       "title": "11月19日(木)8:00～TBS「ラヴィット！」に松田里奈が出演！",
       "caption": "",
@@ -534,5 +554,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "47"
+  "count": "48"
 }
