@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02228",
+      "title": "「東京カレンダー」1月号（11月20日(金)発売）に藤吉夏鈴が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02228",
+      "pubdate": "2026/11/19 13:00:00",
+      "tags": [
+        "47"
+      ],
+      "thumbnail": null,
+      "content": "「東京カレンダー」1月号（11月20日(金)発売）に藤吉夏鈴が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://tokyo-calendar.jp\">「東京カレンダー」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02240",
       "title": "「櫻坂チャンネル」にて「【夢叶う】学校貸切って隠れ鬼ごっこ！制服で爆走！」を公開！",
       "caption": "",
@@ -554,5 +567,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "48"
+  "count": "49"
 }
