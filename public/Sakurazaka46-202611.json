@@ -2,6 +2,16 @@
   "news": [
     {
       "category": "media",
+      "code": "M02244",
+      "title": "櫻坂46の「The growing up train」が「第68回　輝く！日本レコード大賞」の企画賞を受賞！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02244",
+      "pubdate": "2026/11/21 00:00:00",
+      "thumbnail": null,
+      "content": "<span>櫻坂46の「The growing up train」が、「第68回　輝く！日本レコード大賞」の企画賞を受賞いたしました。</span><br /><span>いつも櫻坂46を応援いただき、ありがとうございます。</span><br /><br /><span>ぜひご注目ください！</span><br /><br /><span>■「第68回　輝く！日本レコード大賞」</span><br /><span>2026年12月30日(水)よる5時30分からTBS系にて生放送</span><br /><a href=\"https://www.tbs.co.jp/recordaward/\" target=\"_blank\">https://www.tbs.co.jp/recordaward/</a>"
+    },
+    {
+      "category": "media",
       "code": "M02228",
       "title": "「東京カレンダー」1月号（11月20日(金)発売）に藤吉夏鈴が登場！",
       "caption": "",
@@ -567,5 +577,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "49"
+  "count": "50"
 }
