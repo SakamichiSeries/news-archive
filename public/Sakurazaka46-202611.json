@@ -2,6 +2,23 @@
   "news": [
     {
       "category": "media",
+      "code": "M02248",
+      "title": "11月24日(火)20:00〜「櫻坂チャンネル」にて「食材持ち寄り目指せ至高の鍋！予算1人3000円で鍋パ！」生配信が決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02248",
+      "pubdate": "2026/11/23 20:00:00",
+      "tags": [
+        "54",
+        "55",
+        "58",
+        "70",
+        "71"
+      ],
+      "thumbnail": null,
+      "content": "11月24日(火)20:00〜「櫻坂チャンネル」にて「食材持ち寄り目指せ至高の鍋！予算1人3000円で鍋パ！」の生配信が決定いたしました。<br />ぜひご覧ください。<br /><br /><a href=\"https://youtube.com/live/DjODNfYIUmw\">櫻坂チャンネル「【11月24日(火)20:00〜】食材持ち寄り目指せ至高の鍋！予算1人3000円で鍋パ！【生配信】」はコチラ</a><br /><br /><iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/DjODNfYIUmw?si=RX6az9gnwgaMQ-xR\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>"
+    },
+    {
+      "category": "media",
       "code": "M02231",
       "title": "「MARQUEE」Vol.164（11月24日(火)発売）の表紙・巻頭に浅井恋乃未が、裏表紙に目黒陽色が登場！",
       "caption": "",
@@ -604,5 +621,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "52"
+  "count": "53"
 }
