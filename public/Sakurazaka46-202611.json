@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02245",
+      "title": "11月25(水)19:00～CBCテレビ「太田×石井のデララバ」に稲熊ひなが出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02245",
+      "pubdate": "2026/11/24 17:00:00",
+      "tags": [
+        "71"
+      ],
+      "thumbnail": null,
+      "content": "<span>11月25(水)19:00～CBCテレビ「太田&times;石井のデララバ」に稲熊ひなが出演いたします。<br />ぜひご覧ください。</span><br /><br /><a href=\"https://hicbc.com/tv/dela-lover/program/\">CBCテレビ「太田&times;石井のデララバ」公式ホームページはコチラ</a><div id=\"gtx-trans\" style=\"position: absolute; left: 112px; top: 36.2222px;\"><div class=\"gtx-trans-icon\"></div></div>"
+    },
+    {
+      "category": "media",
       "code": "M02248",
       "title": "11月24日(火)20:00〜「櫻坂チャンネル」にて「食材持ち寄り目指せ至高の鍋！予算1人3000円で鍋パ！」生配信が決定！",
       "caption": "",
@@ -621,5 +634,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "53"
+  "count": "54"
 }
