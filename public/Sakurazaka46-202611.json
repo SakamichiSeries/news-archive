@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02246",
+      "title": "11月26日(木)20:54～TBS「ゴールデンラヴィット！」に守屋麗奈が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02246",
+      "pubdate": "2026/11/25 17:00:00",
+      "tags": [
+        "58"
+      ],
+      "thumbnail": null,
+      "content": "11月26日(木)20:54～TBS「ゴールデンラヴィット！」に守屋麗奈が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tbs.co.jp/loveit/\">TBS「ラヴィット！」公式ホームページはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02245",
       "title": "11月25(水)19:00～CBCテレビ「太田×石井のデララバ」に稲熊ひなが出演！",
       "caption": "",
@@ -634,5 +647,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "54"
+  "count": "55"
 }
