@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02249",
+      "title": "「SCHOOL OF LOCK! 応援部」12月特別コーチを勝又春が担当！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02249",
+      "pubdate": "2026/11/25 18:34:31",
+      "tags": [
+        "72"
+      ],
+      "thumbnail": null,
+      "content": "毎週(金)22:00〜放送のTOKYO FM「SCHOOL OF LOCK! FRIDAY」の受験生を全力で応援する「SCHOOL OF LOCK! 応援部」12月特別コーチを12月4日(金)放送回より勝又春が担当いたします。<br />ぜひお聴きください。<br /><br /><a href=\"https://www.tfm.co.jp/lock/2026/jyuken/\">「SCHOOL OF LOCK! 応援部」</a>では受験生からのメッセージも募集中です。"
+    },
+    {
+      "category": "media",
       "code": "M02246",
       "title": "11月26日(木)20:54～TBS「ゴールデンラヴィット！」に守屋麗奈が出演！",
       "caption": "",
@@ -647,5 +660,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "55"
+  "count": "56"
 }
