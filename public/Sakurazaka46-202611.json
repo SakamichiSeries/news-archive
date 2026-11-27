@@ -1,6 +1,26 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02242",
+      "title": "12月25日(金)16:30～テレビ朝日系「MUSIC STATION SUPER LIVE 2026」に出演決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02242",
+      "pubdate": "2026/11/27 22:00:00",
+      "thumbnail": null,
+      "content": "<span>12月25日(金)16:30～テレビ朝日系「MUSIC STATION SUPER LIVE 2026」に出演が決定しました！</span><br /><span>是非ご覧ください！</span><br /><br /><a href=\"https://www.tv-asahi.co.jp/music/\">テレビ朝日系「MUSIC STATION」公式HPはコチラ</a>"
+    },
+    {
+      "category": "media",
+      "code": "M02241",
+      "title": "12月9日(水)18:30～フジテレビ系「2026FNS 歌謡祭 第2夜」に出演決定！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02241",
+      "pubdate": "2026/11/27 22:00:00",
+      "thumbnail": null,
+      "content": "<span>12月9日(水)18:30～フジテレビ系「2026FNS 歌謡祭 第2夜」に出演が決定しました！</span><br /><span>是非ご覧ください！</span><br /><br /><a href=\"https://www.fujitv.co.jp/FNS/\">フジテレビ系「2025FNS 歌謡祭」公式HPはコチラ</a>"
+    },
+    {
       "category": "event",
       "code": "E00709",
       "title": "櫻坂46「16th Single BACKS LIVE!!」、一般発売が11/29(日)12:00よりスタート！",
@@ -720,5 +740,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "61"
+  "count": "63"
 }
