@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "category": "media",
+      "code": "M02230",
+      "title": "「B.L.T.」1月号（11月28日(土)発売）に勝又春と目黒陽色が登場！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02230",
+      "pubdate": "2026/11/27 12:00:00",
+      "tags": [
+        "72",
+        "76"
+      ],
+      "thumbnail": null,
+      "content": "「B.L.T.」1月号（11月28日(土)発売）に勝又春と目黒陽色が登場いたします。<br />ぜひチェックしてください。<br /><br /><a href=\"https://bltweb.jp/\">「B.L.T.」公式ホームページはコチラ</a>"
+    },
+    {
       "category": "goods",
       "code": "G00249",
       "title": "櫻坂46 16thシングル『愛MUST BE』発売記念「リアルミート＆グリート・東京会場」オフィシャルグッズ 会場販売のお知らせ",
@@ -696,5 +710,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "59"
+  "count": "60"
 }
