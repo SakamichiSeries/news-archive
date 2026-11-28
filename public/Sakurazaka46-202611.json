@@ -2,6 +2,19 @@
   "news": [
     {
       "category": "media",
+      "code": "M02250",
+      "title": "11月29日(日)24:00～放送のTOKYO FM「澤本・権八のすぐにおわりますから。」に山﨑天が出演！",
+      "caption": "",
+      "link": "https://sakurazaka46.com/s/s46/news/detail/M02250",
+      "pubdate": "2026/11/28 18:00:00",
+      "tags": [
+        "51"
+      ],
+      "thumbnail": null,
+      "content": "11月29日(日)24:00～放送のTOKYO FM「澤本・権八のすぐにおわりますから。」に山﨑天が出演いたします。<br />ぜひお聴きください。<br /><br /><a href=\"https://x.com/suguowa\">TOKYO FM「澤本・権八のすぐにおわりますから。」公式Xはコチラ</a>"
+    },
+    {
+      "category": "media",
       "code": "M02242",
       "title": "12月25日(金)16:30～テレビ朝日系「MUSIC STATION SUPER LIVE 2026」に出演決定！",
       "caption": "",
@@ -740,5 +753,5 @@
       "content": "11月2日(月)19:00～テレビ朝日「クイズプレゼンバラエティー Qさま!!」3時間SPに勝又春が出演いたします。<br />ぜひご覧ください。<br /><br /><a href=\"https://www.tv-asahi.co.jp/qsama/\">テレビ朝日「クイズプレゼンバラエティー Qさま!!」公式ホームページはコチラ</a>"
     }
   ],
-  "count": "63"
+  "count": "64"
 }
